@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Pounds of food rescued: track total weight of food diverted from landfills. Example - a successful city-wide launch could aim to rescue 100,000 pounds of food in its first year</li><li>Meals provided: calculated from food rescued. Based on USDA, estimate of 1.2 pounds per meal, rescuing 100,000 pounds of food would equate to over 83,000 meals provided to the community</li><li>Environmental impact: Diverting 100K pounds of food from a landfill would prevent about 37 metric tons of CO2 equivalent emissions, comparable to taking 8 cars off the road for a year</li><li>Increase efficienty for charities: reduce the time charity staff spend on outreach and logistics, allowing them to focus on serving</li></ul>]]></potential_impact>
+        <problem_statement>Restaurants and grocery stores discard tons of edible food daily due to surplus, while local shelters and food pantries struggle with food insecurity. The primary barrier is the lack of a quick and efficient communication channel to connect a food surplus with a nearby need.</problem_statement>
+        <project_name>MealBridge</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Simple, fast, and mobile-first application built on ServiceNow that connects food donors and recipients.</p>
+<ul><li>Now Mobile / Service Portal - restaurant manager uses a super simple mobile interface to create a &#34;Food Available&#34; post in under 30 seconds. Charities would receive push notification on their phones and could &#34;claim&#34; a donation with a single tap</li><li>Workflow Studio Flow Designer - when a donation is posted, flow would trigger, using geolocation data to identify the cloest available charities and send them notifications in a prioritized order. It would also handle the &#34;claiming&#34; logic to ensure only one charity responds</li><li>App Engine Studio: Can be used to quickly build necessary custom tables for Donors (restaurants), Recipients (charities), and Donations.</li><li>Platform Analytics: dashboard to provide real-time tracking of key metrics (pounds of food saved, meals provided, etc.) for program managers and community stakeholders.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Mapping Service Integration - API like Google Maps to handle geolocation, calculate distance between donors and charities, and provide directions for pickup</li><li>Notification Services - real-time alerts, integrating with a push notification service (for mobile) and SMS gateway (like Twilio) would be far more effective than relying solely on email</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Chicken and Egg problem: platform value depends on critical mass of both restaurants willing to post donations and charities ready to pick them up. Onboarding and engaging both sides of the marketplace simultaneously would be the biggest initial hurdle</li><li>Logistics of transporation: app connects supply with demand, but doesn&#39;t solve physical transportation. Smaller charities may lack volunteer drivers or vehicles needed to pick up donations on short notice, which could lead to failed pickups</li><li>Food Safety and liability concerns: although laws protect food donors, businesses can be hesitant to donate prepared foods due to perceived liability risks. The platform would need to build trust and provide clear information on Good Samaritan laws to overcome this</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 05:17:02</sys_created_on>
+        <sys_id>b1305f7dc3903210e89b341d05013130</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MealBridge</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b1305f7dc3903210e89b341d05013130</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 05:17:05</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
