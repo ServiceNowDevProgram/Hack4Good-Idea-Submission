@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><span> I would see potential impact on, dealing with ,</span></p>
+<p><span><br />• <strong>Privacy &amp; Trust</strong>: We’re dealing with people’s health data, so we have to earn and keep their trust. That means encrypted communication, clear consent forms, and transparent policies about how data is used.</span></p>
+<p><span><br />• <strong>Getting Supplies to the Right Place in Time</strong>: While LifeLine can quickly match a donor to a recipient, items like insulin or blood products still need to stay cold and arrive fast. Building partnerships with reliable couriers or local volunteers is key.</span></p>
+<p><span><br />• <strong>Fairness and Accountability: </strong>To prevent misuse or hoarding, LifeLine will include verification check like validating recipient credentials, tracking claim histories, and requiring approvals for certain supplies. This keeps the system fair and focused on those who need it most.</span></p>]]></potential_impact>
+        <problem_statement>Hospitals, pharmacies, and clinics often discard usable medical supplies (bandages, unopened medicine near expiry, spare medical equipment) due to storage limits or regulations, while rural clinics and free health camps face acute shortages.&#13;
+The barrier is the lack of a secure, compliant communication channel to match surplus supplies or free appointment slots with nearby facilities or patients in need.</problem_statement>
+        <project_name>Lifeline - your Second lifeline</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><span>I see the Now Mobile, Flow Designer, App Engine studio, or platform GRC and platform Analytics </span></p>
+<p><span> Now Mobile :  Authorized staff quickly post “Medical Supply Available” or “Free Appointment Slot” listings.<br />• Workflow Studio / Flow Designer: Automatically matches supplies/slots to the nearest eligible clinic or registered patients and manages a claiming process.<br />• App Engine Studio: Custom tables for Donors, Recipients, Supplies, Requests, and Claims to ensure traceability.<br />• GRC (Governance, Risk, and Compliance): Enforces HIPAA/GDPR compliance for patient data and audit readiness.<br />• Platform Analytics: Tracks supplies diverted from waste, patients served, treatment hours delivered for health authorities and NGOs.</span></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><span>To make this work seamlessly for busy healthcare workers, we’ve kept the technology simple but powerful:<br />1. EHR/EMR Integration: By connecting with existing hospital and clinic record systems (using HL7/FHIR APIs), LifeLine can verify patient eligibility in seconds and automatically update medical records, so no extra paperwork for doctors or nurses.<br />2. Secure Messaging &amp; Notifications: The platform uses encrypted push notifications and SMS alerts that meet HIPAA privacy standards, so a clinic gets a ping on their phone as soon as something they need becomes available.<br />3. Mapping Service Integration: Built-in mapping tools, like Google Maps, help prioritize matches by distance, which is especially important for items that spoil quickly, such as vaccines. It also makes it easier for volunteers or delivery teams to know exactly where to go.</span></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><span>We know that even the best technology has to work in the real world:<br />• Privacy &amp; Trust: We’re dealing with people’s health data, so we have to earn and keep their trust. That means encrypted communication, clear consent forms, and transparent policies about how data is used.<br />• Getting Supplies to the Right Place in Time: While LifeLine can quickly match a donor to a recipient, items like insulin or blood products still need to stay cold and arrive fast. Building partnerships with reliable couriers or local volunteers is key.<br />• Fairness and Accountability: To prevent misuse or hoarding, LifeLine will include verification checks like validating recipient credentials, tracking claim histories, and requiring approvals for certain supplies. This keeps the system fair and focused on those who need it most.</span></p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 21:49:43</sys_created_on>
+        <sys_id>1cf1ffd6831872106705c710feaad38b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lifeline - your Second lifeline</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1cf1ffd6831872106705c710feaad38b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 21:49:44</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
