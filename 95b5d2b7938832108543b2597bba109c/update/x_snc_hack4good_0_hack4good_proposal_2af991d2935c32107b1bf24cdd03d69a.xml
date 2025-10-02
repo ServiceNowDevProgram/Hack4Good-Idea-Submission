@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Early detection of burnout</strong> or stress trends among employees.</li><li><strong>Improved productivity</strong> by addressing issues before they escalate.</li><li><strong>Increased retention</strong> as employees feel supported.</li><li><strong>Measurable insights</strong> via dashboards and reports, enabling managers to take targeted actions.</li><li><strong>Scalable solution</strong> that can be adapted across teams or organizations.</li></ul>]]></potential_impact>
+        <problem_statement>Organizations often struggle to systematically monitor employee wellness, stress levels, and engagement. Without real-time insights, it’s hard to detect burnout or disengagement early, which can lead to reduced productivity, higher absenteeism, and increased employee turnover.</problem_statement>
+        <project_name>Employee Wellness Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>HR Service Delivery</strong> – Case management, employee engagement.</li><li><strong>Surveys</strong> – Collect feedback efficiently.</li><li><strong>Service Portal</strong> – User-friendly interface for employees.</li><li><strong>Dashboards &amp; Reporting</strong> – Visualize trends and insights.</li><li><strong>Notifications</strong> – Alerts or reminders for follow-ups.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Secure handling of <strong>anonymous data</strong>.</li><li>Access to <strong>HR Service Delivery module</strong>.</li><li>Optional: integration with <strong>existing HR or wellness tools</strong>.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>data privacy and anonymity</strong> while providing useful insights.</li><li>Encouraging <strong>employee adoption and engagement</strong> with surveys.</li><li>Balancing <strong>actionable alerts</strong> with avoiding alert fatigue for managers.</li><li>Designing <strong>scalable dashboards</strong> for large organizations.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 10:14:01</sys_created_on>
+        <sys_id>2af991d2935c32107b1bf24cdd03d69a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee Wellness Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_2af991d2935c32107b1bf24cdd03d69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 10:14:05</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
