@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<h2>&#x1f31f;Potential Impact of FormUXTimer</h2>
+<h3>1. <strong>Improved User Experience (UX)</strong></h3>
+<p>By tracking how long users spend on forms, organizations can identify which forms are confusing, overly complex, or time-consuming. This enables targeted UX improvements such as simplifying layouts, reducing mandatory fields, or improving help text.</p>
+<h3>2. <strong>Data-Driven Design Decisions</strong></h3>
+<p>Instead of relying on anecdotal feedback, teams can use actual time-spent metrics to prioritize form redesigns. For example, if users consistently spend 5× longer on one form compared to others, it becomes a clear candidate for optimization.</p>
+<h3>3. <strong>Enhanced Training and Onboarding</strong></h3>
+<p>Tracking time spent by new users vs. experienced users can highlight gaps in training. If new users take significantly longer, it may indicate a need for better onboarding materials or guided walkthroughs.</p>
+<h3>4. <strong>Operational Efficiency</strong></h3>
+<p>Reducing time spent on forms directly improves productivity. For high-volume processes like incident creation or request fulfillment, even small time savings per form can lead to significant efficiency gains across the organization.</p>
+<h3>5. <strong>Behavioral Insights</strong></h3>
+<p>Understanding how users interact with forms (e.g., hesitations, delays) can inform broader process improvements. It can also help identify friction points in workflows that aren&#39;t visible through standard audit logs.</p>
+<h3>6. <strong>Custom Reporting and Dashboards</strong></h3>
+<p>The logged data can be visualized in dashboards to show average time spent per form, per user role, or per department — enabling leadership to make informed decisions about process optimization.</p>
+<h3>7. <strong>Scalability Across Modules</strong></h3>
+<p>The solution can be extended to catalog items, change requests, HR cases, and custom apps — making it a reusable UX analytics tool across the entire ServiceNow platform.</p>]]></potential_impact>
+        <problem_statement>In ServiceNow, understanding how users interact with forms is critical for improving user experience (UX), optimizing workflows, and identifying bottlenecks. However, ServiceNow does not provide built-in tracking for how long a user spends on a form before submitting it.&#13;
+This lack of visibility makes it difficult to:&#13;
+&#13;
+Identify forms that are too complex or confusing&#13;
+Measure the effectiveness of training or onboarding&#13;
+Detect potential delays in data entry or decision-making&#13;
+Gather behavioral insights for UX research&#13;
+&#13;
+Without this data, UX improvements are often based on assumptions rather than real usage patterns.</problem_statement>
+        <project_name>FormUXTimer – Track Time Spent on ServiceNow Forms</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><h2>&#x1f9e9; ServiceNow Products &amp; Capabilities Used</h2>
+<h3>1. <strong>Platform Core (Now Platform)</strong></h3>
+<ul><li><strong>Business Rules</strong>: Used to create a <strong>Display Business Rule</strong> that sets the form start time using <code>GlideDateTime</code> and passes it to the client via <code>g_scratchpad</code>.</li><li><strong>Script Includes</strong>: Server-side logic to calculate time spent and optionally store it in a custom table.</li><li><strong>GlideAjax</strong>: Enables communication between client-side scripts and server-side Script Includes.</li></ul>
+<hr />
+<h3>2. <strong>Client-Side Scripting</strong></h3>
+<ul><li><strong>Client Scripts (onLoad &amp; onSubmit)</strong>: Used to capture form load and submission events, and trigger the time tracking logic.</li><li><strong>g_scratchpad</strong>: Passes server-side data (form start time) to the client efficiently.</li></ul>
+<hr />
+<h3>3. <strong>Custom Tables &amp; Fields</strong></h3>
+<ul><li><strong>Custom Table (<code>u_form_time_log</code>)</strong>: Stores time spent data for reporting and analysis.</li><li><strong>Custom Fields (optional)</strong>: You may add fields like <code>u_time_spent</code> to specific tables if you want to store time directly on the record.</li></ul>
+<hr />
+<h3>4. <strong>Security &amp; Access Control</strong></h3>
+<ul><li><strong>ACLs (Access Control Rules)</strong>: Ensure that only authorized users can view or modify the time tracking data.</li></ul>
+<hr />
+<h3>5. <strong>Reporting &amp; Dashboards (Optional)</strong></h3>
+<ul><li>Use <strong>Performance Analytics</strong>, <strong>Reports</strong>, or <strong>Dashboards</strong> to visualize:
+<ul><li>Average time spent per form</li><li>Time spent by user role or department</li><li>UX bottlenecks across processes</li></ul>
+</li></ul>
+<hr />
+<h3>6. <strong>Scoped Applications (Optional Enhancement)</strong></h3>
+<ul><li>You can package this solution as a <strong>Scoped App</strong> for portability, versioning, and reuse across environments.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><h2>&#x1f527; Technical Dependencies</h2>
+<h3>1. <strong>Display Business Rule</strong></h3>
+<ul><li>Required to set the form start time using <code>GlideDateTime</code>.</li><li>Must be configured on the target table (e.g., <code>incident</code>, <code>change_request</code>).</li><li>Uses <code>g_scratchpad</code> to pass data to the client.</li></ul>
+<h3>2. <strong>Client Scripts</strong></h3>
+<ul><li><strong>onLoad Client Script</strong>: Initializes the timer using <code>g_scratchpad</code>.</li><li><strong>onSubmit Client Script</strong>: Captures the end time and triggers GlideAjax to calculate time spent.</li></ul>
+<h3>3. <strong>GlideAjax</strong></h3>
+<ul><li>Enables communication between client-side scripts and server-side Script Includes.</li><li>Requires a properly scoped and accessible Script Include.</li></ul>
+<h3>4. <strong>Script Include</strong></h3>
+<ul><li>Contains logic to calculate time spent using <code>GlideDateTime</code>.</li><li>Must be accessible from all application scopes if used across multiple modules.</li></ul>
+<h3>5. <strong>Custom Table (Optional but Recommended)</strong></h3>
+<ul><li><code>u_form_time_log</code> to store:
+<ul><li>User ID</li><li>Table name</li><li>Record ID</li><li>Time spent</li><li>Timestamp</li></ul>
+</li><li>Requires table creation and field configuration.</li></ul>
+<h3>6. <strong>Access Control Rules (ACLs)</strong></h3>
+<ul><li>To secure access to the custom table and ensure only authorized users can view or modify time tracking data.</li></ul>
+<h3>7. <strong>System Properties (Optional)</strong></h3>
+<ul><li>You may define properties to enable/disable tracking globally or per table.</li><li>Useful for managing performance and scope.</li></ul>
+<h3>8. <strong>Reporting &amp; Dashboards (Optional)</strong></h3>
+<ul><li>If you plan to visualize the data, you’ll need:
+<ul><li>Report definitions</li><li>Performance Analytics widgets or dashboards</li></ul>
+</li></ul>
+<hr />
+<h3>✅ Optional Enhancements (Dependencies if Implemented)</h3>
+<ul><li><strong>Scoped Application</strong>: If packaged as a reusable app.</li><li><strong>Notifications or Flow Designer</strong>: To trigger alerts based on time thresholds.</li><li><strong>UI Actions or Formatter</strong>: To display time spent directly on the form.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><h2>⚠️ Challenges in Implementing FormUXTimer</h2>
+<h3>1. <strong>Client-Side Time Accuracy</strong></h3>
+<ul><li>JavaScript <code>Date()</code> on the client side can vary slightly based on the user&#39;s device clock.</li><li>If precise timing is critical, relying solely on client-side time may introduce inconsistencies.</li></ul>
+<h3>2. <strong>Cross-Timezone Handling</strong></h3>
+<ul><li>Users in different time zones may submit forms at different local times.</li><li>Comparing client-side time (<code>Date()</code>) with server-side <code>GlideDateTime</code> requires careful handling to avoid mismatches.</li></ul>
+<h3>3. <strong>Form Reloads or Navigations</strong></h3>
+<ul><li>If a user reloads the form or navigates away and returns, the timer resets.</li><li>You may need to persist the start time in a hidden field or session variable to maintain accuracy.</li></ul>
+<h3>4. <strong>Performance Overhead</strong></h3>
+<ul><li>Adding GlideAjax calls on every form submission could slightly impact performance, especially in high-volume environments.</li><li>Logging every form interaction may require data retention policies and cleanup mechanisms.</li></ul>
+<h3>5. <strong>Security and Access Control</strong></h3>
+<ul><li>The custom table (<code>u_form_time_log</code>) must be protected with ACLs to prevent unauthorized access or data leakage.</li><li>GlideAjax must be scoped properly to avoid exposing sensitive logic.</li></ul>
+<h3>6. <strong>Scalability Across Tables</strong></h3>
+<ul><li>Implementing this across multiple tables (e.g., Incident, Change, Request) requires reusable scripts or scoped app packaging.</li><li>Field names and form structures may vary, requiring conditional logic.</li></ul>
+<h3>7. <strong>User Privacy and Consent</strong></h3>
+<ul><li>Tracking user behavior may raise privacy concerns.</li><li>You may need to inform users or obtain consent depending on organizational policies or regulations (e.g., GDPR).</li></ul>
+<h3>8. <strong>Reporting Complexity</strong></h3>
+<ul><li>Raw time data needs to be processed and visualized meaningfully.</li><li>Building dashboards or reports that provide actionable insights may require additional configuration.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 18:13:38</sys_created_on>
+        <sys_id>8248dc36c3d832104e08bd43e401315b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FormUXTimer – Track Time Spent on ServiceNow Forms</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8248dc36c3d832104e08bd43e401315b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 18:13:41</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
