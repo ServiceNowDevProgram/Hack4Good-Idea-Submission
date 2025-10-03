@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Food gets to be redistributed to everyone.</p>
+<p>Food waste gets to be reduced.</p>
+<p>Better accountability and reporting of tons of food.</p>
+<p>Better community support</p>
+<p>Reduction in malnutrition</p>
+<p>Reduction in disease, hospitalization and health outcomes.</p>]]></potential_impact>
+        <problem_statement>Hunger and Malnutrition is a global problem. Th United Nations UN Sustainable Development Goals SDG 2 is based on that premise. Sustainable Development Goal (SDG) 2, also known as "Zero Hunger," aims to end hunger, achieve food security, improve nutrition, and promote sustainable agriculture by 2030.&#13;
+&#13;
+Food4All seek to pair Soap kitchens and foodbanks with Local and Neighbood foodchains, restaurants, and to ensure no person is left without a meal a day while food end up in waste.</problem_statement>
+        <project_name>Food4All</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>CRM suite: Customer Service and Field Service Mgt</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical resources to understand the setup and need for realtime data and reporting since time will be required to ensure food gets from source to destination.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Manpower needs - Technical skill</p>
+<p>Financial needs - capacity to setup</p>
+<p>Ability to network with government, and other civic society organizations.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 17:35:32</sys_created_on>
+        <sys_id>5b4e803683d03210ba4ec1e6feaad310</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Food4All</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5b4e803683d03210ba4ec1e6feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 17:35:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
