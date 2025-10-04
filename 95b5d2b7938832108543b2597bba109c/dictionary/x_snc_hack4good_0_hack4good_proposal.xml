@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="update_synch=true" db_object_id="e81c7b989310f2108543b2597bba10eb" extends="sys_metadata" label="Hack4Good Proposal" max_length="40" name="x_snc_hack4good_0_hack4good_proposal" type="collection">
-        <element choice="1" label="Focus area" max_length="40" name="focus_area" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Cause and Cure" sequence="10" value="cure"/>
-                <element inactive_on_update="false" label="Disaster and Community Support" sequence="20" value="disaster"/>
-                <element inactive_on_update="false" label="Education and Youth Services" sequence="30" value="education"/>
-                <element inactive_on_update="false" label="Sustainability and Decarbonization" sequence="40" value="sustainability"/>
-                <element inactive_on_update="false" label="Other" sequence="900" value="other"/>
-            </choice>
-        </element>
-        <element label="Notes" max_length="4000" name="notes" type="journal_input"/>
-        <element choice="1" label="Participation" max_length="40" name="participation" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
-                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
-            </choice>
-        </element>
-        <element label="Potential impact" max_length="8000" name="potential_impact" type="html"/>
-        <element label="Problem statement" max_length="4000" name="problem_statement" type="string"/>
-        <element display="true" label="Project name" mandatory="true" max_length="160" name="project_name" type="string"/>
-        <element label="Solution proposal" max_length="10000" name="solution_proposal" type="html"/>
         <element choice="1" default="submitted" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Submitted" sequence="10" value="submitted"/>
             </choice>
         </element>
+        <element label="Potential impact" max_length="8000" name="potential_impact" type="html"/>
+        <element label="Solution proposal" max_length="10000" name="solution_proposal" type="html"/>
+        <element choice="1" label="Participation" max_length="40" name="participation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="20" value="no"/>
+                <element inactive_on_update="false" label="Yes" sequence="10" value="yes"/>
+            </choice>
+        </element>
+        <element display="true" label="Project name" mandatory="true" max_length="160" name="project_name" type="string"/>
+        <element label="Notes" max_length="4000" name="notes" type="journal_input"/>
+        <element choice="1" label="Focus area" max_length="40" name="focus_area" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Education and Youth Services" sequence="30" value="education"/>
+                <element inactive_on_update="false" label="Sustainability and Decarbonization" sequence="40" value="sustainability"/>
+                <element inactive_on_update="false" label="Other" sequence="900" value="other"/>
+                <element inactive_on_update="false" label="Cause and Cure" sequence="10" value="cure"/>
+                <element inactive_on_update="false" label="Disaster and Community Support" sequence="20" value="disaster"/>
+            </choice>
+        </element>
+        <element label="Problem statement" max_length="4000" name="problem_statement" type="string"/>
     </element>
 </database>

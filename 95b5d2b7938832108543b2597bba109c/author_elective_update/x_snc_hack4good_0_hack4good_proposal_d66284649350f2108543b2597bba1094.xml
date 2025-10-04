@@ -69,7 +69,7 @@
         <update_guid_history>023670050b1072109e4d6bc689de6fce:571331551,9943907d8b5cf2102e7a25d0d5659fec:-2013509805,023670050b1072109e4d6bc689de6fce:571331551,e3a4f441f710721075bfb2ce7aad04d8:-290347444,f3920c647550f2108bf3c8fb18663c42:1013554261,1f92c864f950f210a89d13001f7a20ab:2003416427</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Test new table">2b66d1f1931436108543b2597bba1057</sys_audit_delete>
+        <sys_audit_delete display_value="">2b66d1f1931436108543b2597bba1057</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 20:03:49</sys_created_on>

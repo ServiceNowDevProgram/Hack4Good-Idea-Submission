@@ -69,7 +69,7 @@
         <update_guid_history>9da63045d31072102e4a79cf6bf64eab:335713860,d543907d535cf210ad7823e29fc298e8:-1344276912,9da63045d31072102e4a79cf6bf64eab:335713860,a26638058c107210db0b3d32ade2fea8:-254280909,4884bc01e71072104ae4994eaceebf6d:335713860,53ff49b06e1c36103b0955bb7c737a3d:-1266996354,cbff49b0db1c36103448e1d87b480fbc:-1486655084</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="2222">6b66d1f1931436108543b2597bba1051</sys_audit_delete>
+        <sys_audit_delete display_value="">6b66d1f1931436108543b2597bba1051</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 20:03:49</sys_created_on>
