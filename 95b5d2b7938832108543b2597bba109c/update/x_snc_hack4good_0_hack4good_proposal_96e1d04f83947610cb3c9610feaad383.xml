@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Implementing a smart parking solution like <strong>ParkNow – Smart Parking Manager</strong> can create measurable improvements for both employees and organizations:</p>
+<ul><li><strong>Time Savings</strong>: Employees no longer waste time searching for available spots, reducing daily parking delays by up to 10–15 minutes per person.</li><li><strong>Reduced Conflicts</strong>: Clear slot assignments and an issue-reporting mechanism minimize disputes when slots are misused.</li><li><strong>Improved Resource Utilization</strong>: Real-time visibility into empty and occupied slots ensures optimal use of limited parking spaces.</li><li><strong>Employee Satisfaction</strong>: Simplified parking reduces frustration, leading to higher morale and a better workplace experience.</li><li><strong>Ease of Management</strong>: The administration team gains a centralized platform to allocate, monitor, and resolve parking-related requests efficiently, reducing manual overhead.</li><li><strong>Scalability</strong>: The system can adapt as organizations grow, ensuring consistent parking efficiency without adding administrative burden.</li></ul>
+<p>Overall, the solution streamlines parking, reduces operational inefficiencies, and directly contributes to better employee experience, easier management, and improved organizational productivity.</p>]]></potential_impact>
+        <problem_statement>In many organizations, employees often struggle with parking due to the lack of a proper system. Parking slots are either not fixed, forcing employees to search for a spot every day, or when slots are allocated, others may mistakenly use them. This leads to confusion, wasted time, and frustration.&#13;
+&#13;
+Additionally, there is no centralized way to manage parking-related issues, request changes, or view available slots. Without proper tracking and assignment, the parking process becomes inefficient and unorganized.&#13;
+&#13;
+A smart, centralized solution is needed to ensure employees have clear visibility of their parking slots, can report issues easily, and can request changes or check availability when required.</problem_statement>
+        <project_name>ParkNow – Smart Parking Manager</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ParkNow – Smart Parking Manager makes parking simple and stress-free for employees while giving management an easy way to organize and track parking slots.</p>
+<p><strong>Service Catalog &amp; Record Producers:</strong><br />Employees can easily request parking slots, request changes, or report parking issues through intuitive catalog items. Record producers create records in custom tables to track reservations, slot changes, and reported issues, while triggering automated workflows.</p>
+<p><strong>Custom Tables:</strong><br />Employee Table: Stores employee and vehicle details.<br />Parking Slot Table: Maintains parking slot information and availability.<br />Reservation &amp; Issue Tables: Track reservations and manage reported problems efficiently.</p>
+<p><strong>Flow Designer / Workflow Automation:</strong><br />Automates the assignment of requests to the relevant management team. Sends notifications to employees and administrators regarding slot updates, approvals, and issue resolutions.</p>
+<p><strong>Mobile &amp; Portal Integration:</strong><br />Employees can submit requests, view assigned slots, and report issues directly from the ServiceNow mobile app or portal. Real-time updates ensure easy access and convenience.</p>
+<p><strong>Reporting &amp; Dashboards:</strong><br />Dashboards and reports track slot occupancy, request volume, and issue resolution times. Helps management optimize parking allocation and make data-driven decisions.</p>
+<p>Overall, this solution streamlines parking, reduces conflicts, improves resource utilization, and enhances both employee satisfaction and administrative efficiency.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>User Roles &amp; Permissions</strong><br />Proper roles and access controls must be in place to ensure employees, managers, and admins have the right level of access.</p>
+<p><strong>Mobile &amp; Portal Access</strong><br />Service Portal or ServiceNow Mobile App must be enabled to allow employees to access parking features on mobile devices.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>1. Ensuring data consistency and avoiding conflicts so that no two employees are assigned the same parking slot at the same time.<br />2. Maintaining performance and responsiveness so requests, approvals, and issue resolutions happen in real-time without delays.<br />3. Ensuring notifications are accurate and timely to avoid confusion or missed updates.<br />4. Providing an intuitive user experience on both portal and mobile platforms for easy request submission and issue reporting.<br />5. Implementing proper access control and permissions to ensure employees, managers, and admins have the appropriate level of access.<br />6. Ensuring scalability to handle an increasing number of employees, vehicles, and parking slots as the organization grows.<br /><br /></p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 12:44:26</sys_created_on>
+        <sys_id>96e1d04f83947610cb3c9610feaad383</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ParkNow – Smart Parking Manager</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_96e1d04f83947610cb3c9610feaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 12:44:29</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

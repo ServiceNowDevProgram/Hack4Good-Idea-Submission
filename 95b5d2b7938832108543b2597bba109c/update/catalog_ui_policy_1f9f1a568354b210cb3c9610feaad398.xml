@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_ui_policy">
+    <catalog_ui_policy action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <catalog_conditions>IO:4f9f1a568354b210cb3c9610feaad352=yes^EQ</catalog_conditions>
+        <catalog_item/>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <published_ref/>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Ask for email address</short_description>
+        <sys_class_name>catalog_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 14:40:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f9f1a568354b210cb3c9610feaad398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask for email address</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>catalog_ui_policy_1f9f1a568354b210cb3c9610feaad398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 14:40:32</sys_updated_on>
+        <table/>
+        <ui_type>0</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_ui_policy>
+</record_update>
