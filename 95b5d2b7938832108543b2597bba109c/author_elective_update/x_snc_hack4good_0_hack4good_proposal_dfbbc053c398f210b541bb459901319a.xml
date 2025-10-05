@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="DELETE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Integrated Corporate Travel Management for an organization to manage/track corporate domestic/international travels for its employees easily without the need of multiple separate applications for various phases of the travel requests raised by the employees.</p>]]></potential_impact>
+        <problem_statement>All big Organizations require plan/manage their employees' domestic/international corporate travels and typically they use different separate applications to raise travel requests, track the requests, request for VISAs and book the tickets etc.&#13;
+Organizations can use their ServiceNow platform to have an application where an employee can raise travel request, which goes for approvals and post necessary approvals travel team can manage/track the request in ServiceNow. The travel team can be redirected to VISA portal for applying for VISA (if required) and to the approved travel booking sites for booking travel tickets/hotels and all.&#13;
+&#13;
+Management can have reports on quarterly/half-yearly/yearly basis to have sufficient budget allocated on travel expenses.</problem_statement>
+        <project_name>Integrated Corporate Travel Management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>NA</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 06:32:21</sys_created_on>
+        <sys_id>dfbbc053c398f210b541bb459901319a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Integrated Corporate Travel Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dfbbc053c398f210b541bb459901319a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 06:32:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</application>
+        <file_path/>
+        <instance_id>a102782fdbbd7190199b172913961953</instance_id>
+        <instance_name>dev187585</instance_name>
+        <name>x_snc_hack4good_0_hack4good_proposal_dfbbc053c398f210b541bb459901319a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_hack4good_0_hack4good_proposal"&gt;&lt;x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE"&gt;&lt;focus_area&gt;cure&lt;/focus_area&gt;&lt;notes/&gt;&lt;participation&gt;yes&lt;/participation&gt;&lt;potential_impact&gt;&lt;![CDATA[&lt;p&gt;Integrated Corporate Travel Management for an organization to manage/track corporate domestic/international travels for its employees easily without the need of multiple separate applications for various phases of the travel requests raised by the employees.&lt;/p&gt;]]&gt;&lt;/potential_impact&gt;&lt;problem_statement&gt;All big Organizations require plan/manage their employees' domestic/international corporate travels and typically they use different separate applications to raise travel requests, track the requests, request for VISAs and book the tickets etc.&amp;#13;
+Organizations can use their ServiceNow platform to have an application where an employee can raise travel request, which goes for approvals and post necessary approvals travel team can manage/track the request in ServiceNow. The travel team can be redirected to VISA portal for applying for VISA (if required) and to the approved travel booking sites for booking travel tickets/hotels and all.&amp;#13;
+&amp;#13;
+Management can have reports on quarterly/half-yearly/yearly basis to have sufficient budget allocated on travel expenses.&lt;/problem_statement&gt;&lt;project_name&gt;Integrated Corporate Travel Management&lt;/project_name&gt;&lt;solution_proposal&gt;&lt;![CDATA[&lt;h2&gt;&lt;strong&gt;How do you envision the ideal solution to this  problem?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Which ServiceNow products or capabilities would be used?&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;NA&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="border-top: 3px solid #bbb;" /&gt;
+&lt;h3&gt;Are there any technical dependencies for the proposed solution?&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;NA&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr style="border-top: 3px solid #bbb;" /&gt;
+&lt;h3&gt;What challenges would you foresee in implementing this idea?&lt;/h3&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;NA&lt;/p&gt;]]&gt;&lt;/solution_proposal&gt;&lt;state&gt;submitted&lt;/state&gt;&lt;sys_class_name&gt;x_snc_hack4good_0_hack4good_proposal&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-10-05 06:32:21&lt;/sys_created_on&gt;&lt;sys_id&gt;dfbbc053c398f210b541bb459901319a&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Integrated Corporate Travel Management&lt;/sys_name&gt;&lt;sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0"&gt;95b5d2b7938832108543b2597bba109c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hack4Good Idea Submission"&gt;95b5d2b7938832108543b2597bba109c&lt;/sys_scope&gt;&lt;sys_update_name&gt;x_snc_hack4good_0_hack4good_proposal_dfbbc053c398f210b541bb459901319a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-10-05 06:32:22&lt;/sys_updated_on&gt;&lt;/x_snc_hack4good_0_hack4good_proposal&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2060926271</payload_hash>
+        <record_name>Integrated Corporate Travel Management</record_name>
+        <reverted_from/>
+        <source>cd7a22aac3143210b541bb459901310f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 06:32:22</sys_created_on>
+        <sys_id>a1ac4017c398f210b541bb459901318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199b312418f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 06:32:22</sys_updated_on>
+        <type>Hack4Good Proposal</type>
+        <update_guid>69ac40172b98f21023096e501afd228e</update_guid>
+        <update_guid_history>69ac40172b98f21023096e501afd228e:-2060926271,a9ac4017bf98f210809ee37dd9004373:-1765081617</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Integrated Corporate Travel Management">149fc01bc398f210b541bb45990131f8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 06:45:06</sys_created_on>
+        <sys_db_object display_value="" name="x_snc_hack4good_0_hack4good_proposal">x_snc_hack4good_0_hack4good_proposal</sys_db_object>
+        <sys_id>66ebf53acfde40dc93fb0e8376509e10</sys_id>
+        <sys_metadata>dfbbc053c398f210b541bb459901319a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Integrated Corporate Travel Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_scope_delete display_value="">334a287b8ea544f8b449128c5698f440</sys_scope_delete>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dfbbc053c398f210b541bb459901319a</sys_update_name>
+        <sys_update_version display_value="x_snc_hack4good_0_hack4good_proposal_dfbbc053c398f210b541bb459901319a">a1ac4017c398f210b541bb459901318f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 06:45:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
