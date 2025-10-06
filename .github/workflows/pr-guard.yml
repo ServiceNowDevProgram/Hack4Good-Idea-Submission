@@ -1,0 +1,62 @@
+name: PR guard
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  pull-requests: read
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check author role
+        id: role
+        run: |
+          echo "association=${{ github.event.pull_request.author_association }}" >> $GITHUB_OUTPUT
+
+      - name: List changed files
+        id: files
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo, number } = {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              number: context.payload.pull_request.number
+            };
+            const files = await github.paginate(
+              github.rest.pulls.listFiles, { owner, repo, pull_number: number }
+            );
+            return { files: files.map(f => f.filename) };
+
+      - name: Validate paths for external contributors
+        if: ${{ !contains('OWNER,MEMBER,COLLABORATOR', steps.role.outputs.association) }}
+        run: |
+          ALLOWED_GLOB='**/update/x_snc_hack4good_0_hack4good_proposal_*.xml'
+          echo "Author is external (${{ steps.role.outputs.association }}). Enforcing path restrictions."
+          echo "Allowed pattern: $ALLOWED_GLOB"
+          FAIL=0
+          while IFS= read -r file; do
+            # bash glob match
+            case "$file" in
+             # ✅ Allowed proposal XMLs
+              **/update/x_snc_hack4good_0_hack4good_proposal_*.xml) : ;;
+              
+              # ❌ Forbidden sensitive files
+              README.md|.idea_attribution.json|package.json|package-lock.json|.github/workflows/*)
+                echo "::error file=$file::File cannot be modified by external contributors"
+                FAIL=1
+                ;;
+
+              # ❌ Everything else also forbidden
+              *)
+                echo "::error file=$file::Path not allowed for external contributors"
+                FAIL=1
+                ;;
+            esac
+          done < <(node -e 'const d=process.env.FILES; JSON.parse(d).forEach(f=>console.log(f));' \
+                   <<<"$(jq -c '.files' <<< '${{ steps.files.outputs.result }}')")
+          exit $FAIL
