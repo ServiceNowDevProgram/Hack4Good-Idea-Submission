@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This ACT SOS helps your <span>neighbors send SOS messages even without phone or internet. This project intention is to saves lives by finding people who need help faster and ensures elderly and disabled people are not forgotten. With this project, brings neighbors together to share safe homes, power, or supplies. Also, we can builds trust and readiness in the community before the next disaster.</span> </p>]]></potential_impact>
+        <problem_statement>Whenever there is  a big storm, flood, or tornado hits, the first thing to fail is usually the phone and internet network.&#13;
+People can’t call for help or tell others if they are in danger. Elderly people, families with small children, or patients who need oxygen often get trapped because no one knows they need help.  Current apps stop working without internet, leaving neighbors and rescue teams in the dark. My project Act SOS tries to reach out next possible First mile communication gap</problem_statement>
+        <project_name>ACT SOS </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><span>This is a simple mobile first tool which lets neighbors send short SOS alerts using Bluetooth or a local phone-to-phone link if the internet is down. Groups homes into local safety circles so they can check on each other.<br />again it , uses AI to highlight urgent needs, like medical or flood emergencies, so rescuers know who to help first. Shows safe places nearby like shelters or homes with power or clean water. even it works offline during the disaster and later uploads all the data to ServiceNow so local agencies can follow up.</span></p>
+<p><span>We will use CSM Module , Field Services Module for dispatch, Now Assist/Ai agents to read SOS messages and rank it by urgency, integration hub for connecting SMS </span></p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, We have dependency on Bluetooth or  any Network mesh so point to point connection can be established without internet to talk </p>
+<p>We need a dependency on simple Map to locate the help needed location. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data privacy will be challenging one, Apps should work in many languages , initiation like walk in bluetooth similar to &#34;Ring&#34; feature to be enabled. People may resist to share the or sign up this kind of emergency plan due to their own sentiments.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 19:18:52</sys_created_on>
+        <sys_id>c63b454c832c72106705c710feaad33c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ACT SOS </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c63b454c832c72106705c710feaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 19:18:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
