@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Outcome:</strong></p>
+<p>No manual data entry; higher accuracy in matching documents to records.</p>
+<p>The AI agent “thinks and acts” like a compliance reviewer.</p>
+<p>Faster human decisions; reduced fatigue from reading lengthy docs.</p>]]></potential_impact>
+        <problem_statement>Right now, for banking sector, KYC process request has to be uploaded manually and signed by the customer by going to bank physically or any agent is working on it. We want to utilize this process automatically.&#13;
+&#13;
+Organizations across banking, insurance, and fintech face growing challenges in managing Know Your Customer (KYC) verification processes. These processes are often manual, time-consuming, and error-prone, involving repetitive data validation, document reviews, and compliance checks.</problem_statement>
+        <project_name>Smart e-KYC Document Ingestion &amp; Classification (GenAI Vision)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Idea:</strong></p>
+<p><br />Use ServiceNow’s Document Intelligence or integrate with GenAI models (like Azure/OpenAI Vision or Google DocAI) to automatically:</p>
+<p>Read uploaded KYC docs (PAN, Aadhaar, passport, etc.)</p>
+<p>Extract key entities — name, DOB, address, ID number</p>
+<p>Validate against form data automatically</p>
+<p>When a human reviewer opens a KYC record, GenAI provides a summary panel like:</p>
+<p>“KYC documents verified. Name and address match CRM record. Aadhaar valid until 2028. No red flags detected.”</p>
+<p> </p>
+<p><strong>ServiceNow products or capabilities:</strong></p>
+<p>Create a Flow Designer or Action that triggers on KYC submission<br />Use Document Intelligence API or custom GenAI model for extraction<br />Configure an Agent Action Orchestrator Flow<br />Extend the Now Assist Panel on the KYC form view<br />Use a prompt template to summarize and recommend approval</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>We should have Virtual Agent, Document Intelligence, Agentic AI, NowAssist</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>plugins should be activated.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 15:13:59</sys_created_on>
+        <sys_id>356c084083203210148d9470ceaad388</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Smart e-KYC Document Ingestion &amp; Classification (GenAI Vision)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_356c084083203210148d9470ceaad388</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 15:14:04</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

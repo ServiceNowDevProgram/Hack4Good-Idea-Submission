@@ -56,7 +56,7 @@
         <reverted_from/>
         <source>7c73d87d935cf2108543b2597bba106d</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 15:11:11</sys_created_on>
         <sys_id>b873d87d935cf2108543b2597bba10f8</sys_id>
@@ -69,7 +69,7 @@
         <update_guid_history>e65e88e90454b2104a2109fce287c797:-1966381441,c543907dd05cf2109a966df4cc15b3c4:523484659,e65e88e90454b2104a2109fce287c797:-1966381441,525e88e99554b2100afeea90695da8cb:1997151763</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="dgfdgfdg">1f66d1f1931436108543b2597bba103f</sys_audit_delete>
+        <sys_audit_delete display_value="">1f66d1f1931436108543b2597bba103f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 20:03:49</sys_created_on>

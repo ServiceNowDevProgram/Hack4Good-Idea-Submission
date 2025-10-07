@@ -19,7 +19,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Application File" name="sys_metadata">b9072112bc002300aadb875973a34b5e</super_class>
+        <super_class display_value="Application File" name="sys_metadata">de6f0330d00322105590fd9a5a77e794</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:17:47</sys_created_on>

@@ -47,7 +47,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Laszlo Balla">a26cf49847d6a210e52659db416d439a</owner>
+        <owner display_value="">a26cf49847d6a210e52659db416d439a</owner>
         <picture/>
         <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=12da163393c832108543b2597bba107d&amp;sysparm_preview=true", "summary");</preview>
@@ -90,7 +90,6 @@
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
-        <turn_off_nowassist_conversation>false</turn_off_nowassist_conversation>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
