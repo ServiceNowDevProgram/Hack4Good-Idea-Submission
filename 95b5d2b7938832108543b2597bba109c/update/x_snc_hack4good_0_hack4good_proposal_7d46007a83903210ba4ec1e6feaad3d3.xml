@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Reduction in amount/ton of clothing and textile waste ending up in landfill.</li><li>Improvement reporting and  in accountability on the volume of clothing collected and distributed out to consituents.</li><li>Improved compassion and civic engagement of donor and receipents alike.</li><li>Sense of ownership and belonging for all stakeholders involved in making this come to live.</li></ul>]]></potential_impact>
+        <problem_statement>Sustain Wear is a clothing redistribution initiative. &#13;
+It solves for textile waste to ensure they dont end up in landfill, the ocean, or our natural habitat.</problem_statement>
+        <project_name>Sustain Wear</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>CRM suite: Customer Service Management  and Field service management</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Ability to engage with governments and civil society groups to get clothing donations and redristibution centers set up.</li><li> Announcements and campaign to ensure the public are sensitized and receptive towards initiative cause.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Resources man and material, to recieve the clothing and then sort and distribute is to those in need.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 17:03:40</sys_created_on>
+        <sys_id>7d46007a83903210ba4ec1e6feaad3d3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sustain Wear</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7d46007a83903210ba4ec1e6feaad3d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 17:03:44</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

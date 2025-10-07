@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Quantifiable Reduction in Carbon Emissions:</strong> Real-time tracking of energy use, travel, and business activities enables actionable reductions.</li><li><strong>Employee Engagement:</strong> Staff actively participate in sustainability initiatives, logging activities and seeing their personal impact.</li><li><strong>Data-Driven Decision Making:</strong> Dashboards and reports highlight high-impact areas, helping management prioritize initiatives.</li><li><strong>Actionable Environmental Measures:</strong> Organizations can <strong>take effective measures</strong> such as planting trees, supporting green initiatives, or adopting eco-friendly practices to <strong>offset carbon footprints</strong>.</li><li><strong>Corporate Transparency &amp; Compliance:</strong> Enables organizations to <strong>monitor and report their environmental impact</strong>, supporting sustainability goals and ensuring accountability to regulations and stakeholders.</li></ul>]]></potential_impact>
+        <problem_statement>Organizations struggle to measure, monitor, and reduce their carbon emissions due to fragmented data, manual reporting, and lack of real-time insights. Without a structured system, sustainability initiatives often fall short, and employees remain disengaged in eco-friendly practices.</problem_statement>
+        <project_name>Carbon Footprint Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Employee center Portal:</strong> Employee-friendly interface for logging activities.</li><li><strong>Dashboards &amp; Reporting:</strong> Visualize trends and departmental performance.</li><li><strong>Flow Designer:</strong> Automate carbon calculations, notifications, and reminders.</li><li><strong>Service Catalog:</strong> Structured forms for data entry.</li><li><strong>Notifications &amp; Alerts:</strong> Encourage timely logging and highlight high-impact actions.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Reliable <strong>carbon footprint calculation formulas</strong> based on activity type.</li><li>Optional integration with <strong>corporate travel, energy, or facilities systems</strong>.</li><li>Configurable data models to support different industries and organization sizes.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>accurate and consistent data capture</strong> from employees.</li><li>Maintaining <strong>employee engagement</strong> over time.</li><li>Designing <strong>scalable dashboards</strong> for large organizations with multiple departments.</li><li>Aligning calculations with <strong>industry-standard carbon reporting methods</strong>.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 11:55:52</sys_created_on>
+        <sys_id>9c16b1d693dc32107b1bf24cdd03d609</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Carbon Footprint Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9c16b1d693dc32107b1bf24cdd03d609</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 11:55:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

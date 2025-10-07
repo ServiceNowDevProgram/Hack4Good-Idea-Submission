@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A comprehensive digital platform that serves as a centralized hub for disability resources, connecting individuals with disabilities, their families, service providers, and community organizations. The platform would provide personalized resource recommendations, coordinate care across multiple providers, and facilitate peer-to-peer support networks.</p>]]></potential_impact>
+        <problem_statement>People with disabilities and their families face significant challenges navigating the complex landscape of resources, services, and support systems. Information about accessibility features, adaptive equipment, support services, and disability benefits is scattered across multiple agencies, websites, and organizations. &#13;
+&#13;
+This fragmentation leads to:&#13;
+1. Delayed access to critical resources and services&#13;
+2. Duplicated efforts and wasted time searching for appropriate support&#13;
+3. Inadequate coordination between healthcare providers, social services, and community organizations&#13;
+4. Limited visibility into available accommodations and accessibility features in public spaces&#13;
+5. Difficulty connecting with peer support networks and mentorship opportunities&#13;
+&#13;
+This results in reduced quality of life, increased isolation, and barriers to full participation in education, employment, and community activities for people with disabilities.</problem_statement>
+        <project_name>EqualAccess - Disability Resource Coordination Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Service Portal/Now Mobile</strong> - Accessible, disability-friendly interface following WCAG guidelines for resource discovery and service requests</p>
+<p><strong>Case Management</strong> - Track resource requests and coordinate services across multiple providers and agencies</p>
+<p><strong>Knowledge Management</strong> - Comprehensive repository of disability resources, rights information, and accessibility guides</p>
+<p><strong>Flow Designer</strong> - Automated workflows to match users with appropriate resources based on specific disability types and needs</p>
+<p><strong>Now Assist/GenAI</strong> - AI-powered recommendations for resources, accommodations, and support services</p>
+<p><strong>Platform Analytics</strong> - Dashboard tracking service utilization, resource gaps, and outcome measurements</p>
+<p><strong>IntegrationHub</strong> - Connect with government benefit systems, healthcare providers, and community service databases</p>
+<p><strong>Survey Platform</strong> - Gather feedback on accessibility and service quality to improve resource coordination</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Integration with government disability services and benefits systems..</li><li>Compliance with the local administration regarding the data usage</li><li>APIs for real-time accessibility information (building access, transportation, etc.)</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Integrating it with the goverment services and benefits systems</li><li>Getting realtime APIs to track resources to the needful</li><li>Keeping it in Compliance with the local administration data security and privacy rules</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 16:07:21</sys_created_on>
+        <sys_id>44b4890793983e10cfccfcb6dd03d610</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EqualAccess - Disability Resource Coordination Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_44b4890793983e10cfccfcb6dd03d610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 16:07:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

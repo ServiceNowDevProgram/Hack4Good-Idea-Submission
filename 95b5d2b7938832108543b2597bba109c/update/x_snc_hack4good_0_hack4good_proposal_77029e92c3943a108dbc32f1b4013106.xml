@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>A technology platform would allow researchers to collect continuous, ground-level environmental data at scale, leading to more accurate insights and earlier detection of ecosystem changes.</p>
+<p>By enabling public participation, the solution democratizes science, creates community ownership of environmental issues, and builds a richer, more diverse dataset for research.</p>]]></potential_impact>
+        <problem_statement>Researchers studying environmental change often lack continuous, up-to-date field data across wide geographic areas, making it difficult to monitor ecosystems effectively.&#13;
+&#13;
+Current environmental monitoring relies heavily on costly equipment, satellite imagery, or limited field visits, which creates data gaps.&#13;
+&#13;
+Public interest in contributing to environmental science is high, but there are few structured, scalable ways to harness citizen participation.&#13;
+&#13;
+Communities often see environmental changes firsthand, but there is no simple way to share those observations in a way that directly supports scientific research. This results in missed opportunities for collaboration between the public and researchers.</problem_statement>
+        <project_name>EcoTrackr</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service Catalog/Record Producer</p>
+<p>Service Portal </p>
+<p>App Engine</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Possibly an external repository in which to store the photos contributed by the community</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Possibly weeding out spam or invalid photo submissions. Perhaps AI will be able to help with that.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>nia.mccash</sys_created_by>
+        <sys_created_on>2025-10-02 13:50:42</sys_created_on>
+        <sys_id>77029e92c3943a108dbc32f1b4013106</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EcoTrackr</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_77029e92c3943a108dbc32f1b4013106</sys_update_name>
+        <sys_updated_by>nia.mccash</sys_updated_by>
+        <sys_updated_on>2025-10-02 13:50:44</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

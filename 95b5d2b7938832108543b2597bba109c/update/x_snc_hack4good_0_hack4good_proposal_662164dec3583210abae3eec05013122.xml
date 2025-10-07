@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Empower Underserved Communities:</strong> By removing one of the most stressful and significant barriers. Language to accessing essential information and services. (As a child of an immigrant parent with english as a second language, I witnessed first hand how diffucult this made day to day life.)</p>
+<p><strong>Improve Access</strong>: Ensure ESL individuals can understand crucial documents and community information, leading to better outcomes in areas like healthcare and civic engagement.</p>]]></potential_impact>
+        <problem_statement>People with English as a Second Language (ESL) often face significant difficulties navigating essential community services, local information, and simple documents (like mail or forms) when they are not offered in their native language. This lack of access can create barriers to healthcare, education, civic participation, and general quality of life. The core issue is the absence of a simple, centralized platform to connect an ESL individual directly with a volunteer who speaks their native language and can provide assistance with understanding or communication.</problem_statement>
+        <project_name>Multilingual Community Support</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a mobile-friendly portal where an ESL individual can quickly submit a request for help, specifying their native language and preferred method of communication. The platform would then automatically match the requester with an available, language-qualified volunteer for personalized assistance. The solution would leverage the following ServiceNow capabilities:</p>
+<p><strong>Service Portal / Now Mobile</strong>:</p>
+<ul><li>To provide an accessible, multi-lingual interface for ESL individuals to submit their requests from any device.</li></ul>
+<p><strong>Service Catalog / Record Producer/Catalog Item</strong>:</p>
+<ul><li>Select their native language.</li><li>Describe their request (e.g., help understanding a mail, finding a local service).</li><li>Select their communication preference (email, text, phone call, or video call).</li></ul>
+<p><strong>Custom Tables (To store and manage data for):</strong></p>
+<ul><li>Requester Profiles: ESL individuals seeking help.</li><li>Volunteer Profiles: Individuals with specific language skills and availability.</li></ul>
+<p><strong>Workflow Studio / Flow Designer: </strong></p>
+<ul><li>Trigger an immediate alert to qualified, available volunteers based on the requested language.</li><li>Flow so a volunteer can accept the request, and the requester is notified.</li></ul>
+<p><strong>Platform Analytics:</strong></p>
+<ul><li>Languages supported and the demand for each.</li><li>Requests resolved vs. open.</li><li>Volunteer engagement and hours contributed.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li><strong>SMS Service:</strong> To allow alerting both requesters and volunteers based on the text/phone call preference.</li><li><strong>Video Conferencing Integration (e.g., Zoom/Google Meet): </strong>To generate and share a secure meeting link if the requester selects a video call preference.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li><strong>Volunteer Coverage</strong>: It will be challenging to ensure there are enought volunteers for less common languages and for high-demand times.</li><li><strong>Communication Complexity</strong>: Integrating and maintaining access/SOPs for all four preferred communication channels (email, text, phone, video) can be a large logistical task.</li><li><strong>Data Management</strong>: Maintaing records of active volunteers and their current availability is necessary for matching. </li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 05:42:18</sys_created_on>
+        <sys_id>662164dec3583210abae3eec05013122</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Multilingual Community Support</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_662164dec3583210abae3eec05013122</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 05:42:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Increase triage process to victims of disaster to get care and support needed.<br />Faster time to placement.<br />More community engagement and integration.<br />Sense of purpose, belonging and improved health outcomes.</p>]]></potential_impact>
+        <problem_statement>HomesteadNow is a social initiative that connects people who suffer natural disasters - floods, fire, earthquake etc with community members who are able to provide home.</problem_statement>
+        <project_name>HomesteadNow</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p>ServiceNow customer service management and its suite of applications will provide a centralized location to handle inquiry, issues and complaints promptly to resolution.<br />Surveys and assessments will be utilized to capture sentiment and feedback.</p>
+<p>Different case types can be uncovered from reports and performance analytics, as well as the need to deploy the Conversational chat to meet constituents 24/7.</p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p> </p>
+<p>CRM: Customer Service Management and Global business service suite</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>Case, CSM VA conversations, CSM portal will all be used to provide a single pane of glass to resolve constituents issues</p>
+<p>Collaboration amongst stakeholders; governmant, organizations and civil society groups.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>Need to maintain the data privacy laws and safeguards.</p>
+<p>Resources both manpower and material</p>
+<p>Need for prestine and representative data.</p>
+<p>Processes that are mapped to the CSM capabilites and case types based on customer feedback.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 20:59:45</sys_created_on>
+        <sys_id>110ff4b683d43210ba4ec1e6feaad35a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>HomesteadNow</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_110ff4b683d43210ba4ec1e6feaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 21:57:32</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

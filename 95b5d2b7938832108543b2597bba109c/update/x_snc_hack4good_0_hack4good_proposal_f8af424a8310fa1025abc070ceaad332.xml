@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li style="line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Centralized, easy-to-use service portal for health resources</li><li style="line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Faster access to critical care information</li><li style="line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Reduced health disparities in underserved communities</li></ul>]]></potential_impact>
+        <problem_statement>Many underserved communities lack a simple way to find local healthcare, vaccination sites, or mental health resources. Information is scattered and difficult to navigate.</problem_statement>
+        <project_name>Community Health Resource Navigator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>UI Builder (for community portal).</li><li>CSM (for inquiries)</li><li>CMDB (to maintain directory of facilities/providers).</li><li>Now Assist (AI chatbot to answer questions).</li><li>Workspace (for support teams).</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>·  Integration with public health APIs (vaccination, hospital availability)</p>
+<p>·  Geolocation/mapping services</p>
+<p>·  Mobile-first design for accessibility</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Authentication security challenges to access public health APIs.</li><li>Geolocation services response times.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-01 18:59:09</sys_created_on>
+        <sys_id>f8af424a8310fa1025abc070ceaad332</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Health Resource Navigator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f8af424a8310fa1025abc070ceaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-01 18:59:10</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

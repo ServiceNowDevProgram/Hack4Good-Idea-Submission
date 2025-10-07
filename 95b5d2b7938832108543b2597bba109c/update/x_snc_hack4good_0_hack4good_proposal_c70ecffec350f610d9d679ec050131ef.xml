@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Quantifiable Improvement in Critical Thinking: </strong>A measurable increase in a student&#39;s ability to identify misinformation (e.g., test scores).</li><li><strong>Scalable Training:</strong> The platform can be deployed rapidly across districts or national educational bodies.</li><li><strong>Reduced Digital Risk:</strong> Prepare the next generation to be responsible and informed digital citizens, reducing vulnerability to online exploitation.</li></ul>]]></potential_impact>
+        <problem_statement>Youth and students are increasingly exposed to unverified information and deepfakes online, but schools lack scalable, engaging tools to teach critical digital literacy skills. This leads to poor academic research skills, increased social polarization, and vulnerability to online scams, posing a long-term risk to civic health.</problem_statement>
+        <project_name>Info-Guardian: Digital Literacy &amp; Misinformation Training</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution would use a <strong>Learning Management System (LMS)</strong> structure built on the ServiceNow Platform.</p>
+<p>It would incorporate:</p>
+<ul><li><strong>App Engine Studio &amp; UI Builder:</strong> To create a gamified, mobile-first learning experience with interactive modules (quizzes, simulations).</li><li><strong>HR Service Delivery (Learning):</strong> To manage course enrollment, track progress, and issue verifiable digital certificates upon completion.</li><li><strong>Now Assist (GenAI):</strong> To provide a secure, sandbox environment where students can test and analyze suspicious headlines or content without real-world risk.</li><li><strong>Performance Analytics:</strong> To provide educators with dashboards to track the most common types of misinformation encountered and student comprehension rates.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-04 07:38:20</sys_created_on>
+        <sys_id>c70ecffec350f610d9d679ec050131ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Info-Guardian: Digital Literacy &amp; Misinformation Training</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c70ecffec350f610d9d679ec050131ef</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-04 07:38:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

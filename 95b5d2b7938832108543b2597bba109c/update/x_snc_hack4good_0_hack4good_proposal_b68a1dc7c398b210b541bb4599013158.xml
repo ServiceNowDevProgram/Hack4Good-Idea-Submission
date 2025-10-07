@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This way an organization can easily plan/manage/track the CSR activities along with clear visibility from top level management and it can plan for the CSR budgets accordingly.</p>]]></potential_impact>
+        <problem_statement>Every big MNC invests in corporate social responsibility initiative to help the communities around. Many of those do not have proper tools to plan/manage/track each CSR activity and to engage people in participating in those activities.&#13;
+Organizations can use their ServiceNow platform to have an application where HR/CSR department will broadcast any upcoming CSR activities with links to register and then people will register for themselves and the lifecycle of the respective CSR activities will follow till the activities are completed along with having pictures/videos uploaded in the system.&#13;
+&#13;
+Management can have reports on quarterly/half-yearly/yearly basis to have a close eye on this initiative.</problem_statement>
+        <project_name>Corporate Social Responsibility Management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Now Mobile/Service catalog – for interested employees to register, receive activity details, and confirm completion.</p>
+</li><li>
+<p>Workspace – for CSR/HR team to coordinate and track activities in real time.</p>
+</li><li>
+<p>Knowledge Management – to store knowledge guides, policies, best practices.</p>
+</li><li>
+<p>Notifications (Push/SMS) – to notify employees throughout every CSR activity&#39;s lifecycle.</p>
+</li><li>Platform Analytics – to report on the CSR activities along with employees engagement.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>NA</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 17:52:37</sys_created_on>
+        <sys_id>b68a1dc7c398b210b541bb4599013158</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Corporate Social Responsibility Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b68a1dc7c398b210b541bb4599013158</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 17:52:38</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

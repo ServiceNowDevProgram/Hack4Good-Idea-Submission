@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto; margin-block: 0px 8.5px; color: rgb(21, 25, 32); font-family: Lato, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);"><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">This solution will allow citizens to report instances of carbon emissions near them.</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">This will allow General public to give their views/ideas on decarbonization.</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">This will allow citizens to organize movements for awareness.</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">This will hold the concerned people/authorities responsible for their actions.</li></ol>]]></potential_impact>
+        <problem_statement>Carbon emissions is a major growing problem in developing countries today. Citizens still do not have a proper application to report and get information on this.</problem_statement>
+        <project_name>Report Carbon Emissions</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto; margin-block: 0px 8.5px; color: rgb(21, 25, 32); font-family: Lato, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);"><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">Now Mobile</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">Platform Analytics</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">Workspace</li><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">Knowledge</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto; margin-block: 0px 8.5px; color: rgb(21, 25, 32); font-family: Lato, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);"><li style="box-sizing: border-box; scrollbar-color: rgb(93, 92, 111) rgb(246, 246, 248); scrollbar-width: auto;">Emails/Push notifications</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-02 16:34:57</sys_created_on>
+        <sys_id>ba893ade53d0b2104834d2a0a0490e08</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Report Carbon Emissions</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ba893ade53d0b2104834d2a0a0490e08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-02 16:34:58</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

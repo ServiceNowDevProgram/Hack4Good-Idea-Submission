@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Rapid Recovery:</strong> Eliminates months or years of waiting for property owners to prove ownership, dramatically speeding up the entire community recovery process.</p>
+<p><strong>Protects Property Rights:</strong> Ensures that vulnerable populations, who may not have backups of their physical deeds, can instantly access their legal documents.</p>
+<p><strong>Streamlined Government:</strong> Reduces the administrative burden on post-disaster government agencies, allowing them to focus on active aid instead of paper reconstruction.</p>]]></potential_impact>
+        <problem_statement>When a major disaster (flood, earthquake, wildfire) destroys physical government offices, all critical records like property deeds, land titles, and building permits are lost. Without these papers, citizens cannot prove ownership, get insurance payments, or secure permits to rebuild, leading to recovery delays that can last years.</problem_statement>
+        <project_name>Digital Deed: Disaster-Proof Property Records</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A highly secure, centralized digital vault built on the ServiceNow Platform to manage and verify critical property records:</p>
+<ul><li><strong>Secure Records Management (Custom Tables/CMDB):</strong> Used as the backbone for storing encrypted, versioned, and disaster-proof digital copies of property deeds, maps, and official permits.</li><li><strong>Customer Service Management (CSM) Portal:</strong> A secure, mobile-friendly portal where citizens can access and instantly download their verified property documents after a disaster.</li><li><strong>Case Management &amp; Workflow:</strong> Automates the verification process for insurance claims and government rebuilding applications, linking the claim directly to the secured property record.</li><li><strong>Public Sector Digital Services (PSDS):</strong> Provides the necessary governance layer to ensure records are legally auditable and meet compliance standards.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-06 18:43:24</sys_created_on>
+        <sys_id>c3eb336fc314fa10d9d679ec0501315c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Digital Deed: Disaster-Proof Property Records</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c3eb336fc314fa10d9d679ec0501315c</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-06 18:43:25</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

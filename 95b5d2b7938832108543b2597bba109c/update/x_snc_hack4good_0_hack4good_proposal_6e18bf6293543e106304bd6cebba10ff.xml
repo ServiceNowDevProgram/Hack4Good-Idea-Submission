@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Today, everything is about technology and quick access—from small items to major needs, we humans increasingly rely on technology. An app like this could be a great help, especially for users living in the countryside or remote villages where access to NHS services or doctors may be limited.</strong></p>
+<p><strong>This app can bridge that gap by providing quick access to certified First Aiders, helping address immediate first aid needs efficiently.</strong></p>]]></potential_impact>
+        <problem_statement>Sometimes, medical emergencies may not be severe enough to require a visit to a GP, MHS, or a nearby doctor, but still need immediate attention—like when kids are playing and need quick first aid treatment.**&#13;
+&#13;
+**In such cases, instead of going to a GP or doctor, having access to a certified First Aider—easily searchable through an app—could help resolve the issue more efficiently.</problem_statement>
+        <project_name>First Aid Near Me</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Health and Life Sciences</p>
+<p>CSM </p>
+<p>AI</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 15:52:41</sys_created_on>
+        <sys_id>6e18bf6293543e106304bd6cebba10ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>First Aid Near Me</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6e18bf6293543e106304bd6cebba10ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 15:52:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

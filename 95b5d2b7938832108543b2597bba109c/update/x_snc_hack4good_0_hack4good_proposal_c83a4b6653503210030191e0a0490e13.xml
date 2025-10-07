@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Technology can be used to intelligently route people to the safest location, but also take the family situation into consideration to ensure that families who have challenges are prioritized to certain nearby locations. It ensures that families who are not able to travel far, are prioritized to nearby locations that have enough space over families who are capable of travelling longer distances.</p>]]></potential_impact>
+        <problem_statement>The world faces an increased amount of flooding worldwide. A technical solution is needed to quickly locate save evacutation points, to ensure that that people and families can find a save place to stay.</problem_statement>
+        <project_name>SafeLocatorNow - Locate a safe spot quickly and safely during natural disaster occurances.</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServicePortal: The families should be able to submit information about themselves and their capabilities and location. They should be able to mark if they have any challenges that prevents them from travelling over a certain distance.</p>
+<p>Dynamic Translation: Supporting multiple languages to ensure that everyone can understand what is being communicated.</p>
+<p>Workspace: For agents to monitor the shelters capability, and route families between shelters.</p>
+<p>Dashboards: Show statistics on the shelters capacity, and other relavant live information.</p>
+<p>Notifications: Push out updates to families in case information needs to be communicated from the agent to the families.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>A set of ServiceNow instances that are spread across multiple regions to ensure that the solution is live even if there are disasters occuring in a region.</p>
+<p>Stable internet, and possibly backup solutions for continous connectivity such as satelite links. </p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring internet connectivity during natural disasters.</p>
+<p>Language barriers. The messages and communication needs to be tested thoroughly, as miscomunnication and misunderstandings can be fatal in this scenario</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 12:52:32</sys_created_on>
+        <sys_id>c83a4b6653503210030191e0a0490e13</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeLocatorNow - Locate a safe spot quickly and safely during natural disaster occurances.</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c83a4b6653503210030191e0a0490e13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 12:52:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

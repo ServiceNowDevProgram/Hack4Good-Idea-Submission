@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This solution would provide a reliable single channel for intake and work triage, resource and asset tracking, and workforce routing and automation.</p>
+<p>This would reduce the effort and swivel-chairing responders must spend to co-ordinate work, allowing them to support bigger cohorts. It optimises the civil cost of rebuilding by reducing wastage and providing an auditable solution to track activity. There are other items, but below are some example measures:</p>
+<ul><li>Shorter rebuild timelines through improved allocation of work and routing, as well as material stockpile and burn down tracking to enable timely resupply</li><li>Optimised material usage and tracking of where it provided benefits</li></ul>]]></potential_impact>
+        <problem_statement>Following a disaster, rebuild works and available resources and materials are identified and gathered by disparate organisations through differing channels - particularly outside of the US, where FEMA-style organisations are less pervasive. &#13;
+&#13;
+This presents logistical challenges, fragmented support and intake, a lack of transparency, and inefficiencies for the work volunteers, first responders, and skilled labourers need to execute in the recovery process.&#13;
+&#13;
+All of these processes are things ServiceNow can solve, including through a forward-deployed portable on-prem deployment which can be contained in a recovery kit and deployed on mesh networks if internet backhaul is unavailable.</problem_statement>
+        <project_name>Rebuild Now - Post-disaster infrastructure and work management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>This solution should use:</p>
+<ul><li>Field Service Management in line with a CSM Service Organisation delivery model</li><li>CSM (or PSDS) for work intake and triage</li><li>EAM for materials and asset tracking</li><li>IntegrationHub for any relevant integrations</li><li>Service Bridge-like solution for syncing on-prem deployments placed in offline areas back to cloud hosting when network is available</li><li>Mobile app for work and intake purposes</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Key items are:</p>
+<ul><li>mesh-based networks being deployed for connectivity, even without backhaul internet</li><li>mobile phones for app usage</li><li>identification of a standard small form factor server or set of servers that can be deployed in rough weather conditions supporting ServiceNow (see Daniel Hoffman from ServiceNow in Canberra Australia who has done a lightweight implementation that can be deployed in vehicles</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Functionality like replicating mapping off-net, and marking areas as limited mobility or otherwise constrained for effective workforce management and routing</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 13:28:16</sys_created_on>
+        <sys_id>1d91536a3314b6100b8226323d5c7b0c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Rebuild Now - Post-disaster infrastructure and work management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1d91536a3314b6100b8226323d5c7b0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 13:28:18</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

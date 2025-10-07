@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Digital Teams Connect Management, being the digital communicator, will help teams to meet/communicate with just having one more store app or plugins installed in ServiceNow platform itself, minimizing more licensing costs  for having any separate communicator from another vendor. </p>]]></potential_impact>
+        <problem_statement>Modern organizations has already evolved now to use digital communicators like Zoom or Microsoft teams for having internal connects/meetings among employees where earlier they used to use IP based phones as communicator. &#13;
+ServiceNow can have this similar digital communicator developed as a new store application/plugin in ServiceNow as well through which we can communicate among team members by scheduling meetings and joining there. &#13;
+It can also have additional features like recording the meeting and storing in ServiceNow (or in any on premise storage system) so that if someone can't join a meeting can revisit the recordings later.&#13;
+&#13;
+This way organization using ServiceNow will not require any separate communicator rather just having one more store app or plugins installed in ServiceNow platform itself minimizing more licensing costs.</problem_statement>
+        <project_name>Digital Teams Connect Management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Now Mobile and Workspace – for employees to schedule meetings and join meetings or having chats.</p>
+<p>Integration/Integration hub– to integrate with Microsoft outlook as calendar invite, and with internal storage system to store the recorded meetings.</p>
+<p>Notifications (Push/SMS) – to notify participants when a meeting is scheduled along with meeting details.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>NA</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 13:12:37</sys_created_on>
+        <sys_id>1462659fc3503610b541bb4599013166</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Digital Teams Connect Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1462659fc3503610b541bb4599013166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 13:12:38</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

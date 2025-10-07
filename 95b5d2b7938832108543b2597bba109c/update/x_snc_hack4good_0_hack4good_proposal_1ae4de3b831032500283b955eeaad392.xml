@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Onboarding a legacy application to ServiceNow can have a transformative impact across multiple dimensions of the organization.</p>
+<ol><li>Enhanced Automation &amp; Efficiency</li><li>Centralized Platform for Operations</li><li>Cost Optimization</li><li>Scalability &amp; Future-readiness</li><li>Data-Driven Decision Making</li></ol>
+<p> </p>]]></potential_impact>
+        <problem_statement>n the organization, multiple teams continue to rely on legacy applications and tools to manage their day-to-day operations. These systems pose several challenges:&#13;
+&#13;
+ - High Dependency on Manual Processes: Legacy tools often lack modern automation capabilities, leading to inefficiencies and increased chances of human error.&#13;
+ - Technology Maintenance Overhead: Maintaining outdated systems demands significant effort in terms of infrastructure, upgrades, and support, diverting resources from strategic initiatives.&#13;
+ - Resource Constraints: Specialized skills are required to manage and troubleshoot legacy systems, which can be scarce and costly.&#13;
+ - Limited Integration and Scalability: These applications often operate in silos, making it difficult to integrate with newer platforms or scale with evolving business needs.&#13;
+ - Outdated User Experience: Legacy tools typically offer poor usability, which can impact productivity and user satisfaction.&#13;
+&#13;
+These challenges collectively hinder agility, innovation, and cost-effectiveness, making a strong case for transitioning to a modern, AI-enabled platform like ServiceNow.</problem_statement>
+        <project_name>ServiceNow Onboarding Legacy Application</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The challenges posed by legacy applications, the ideal solution involves a comprehensive onboarding to the ServiceNow platform, leveraging its modern, cloud-native, AI-powered capabilities.</p>
+<p><strong>ServiceNow Platform</strong></p>
+<ul><li>becomes the central hub for all operational workflows, replacing fragmented legacy systems.</li><li>Enables <strong>cross-functional collaboration</strong> and <strong>data consistency</strong> across departments.</li></ul>
+<p><strong>Process Automation with Flow Designer</strong></p>
+<ul><li>Use <strong>Flow Designer</strong> to automate repetitive tasks and workflows without writing code.</li><li>Reduces manual effort, improves accuracy, and accelerates service delivery.</li></ul>
+<p><strong>Predictive Intelligence</strong></p>
+<ul><li>Utilize <strong>Predictive Intelligence</strong> to automate ticket categorization, routing, and resolution.</li><li>Improves response times and reduces workload on support teams.</li></ul>
+<p><strong>Self-Service Portals and Virtual Agents </strong></p>
+<ul><li>Deploy <strong>Service Portal</strong> and <strong>Virtual Agent</strong> to empower users with self-service capabilities.</li><li>Enhances user experience and reduces dependency on support staff.</li></ul>
+<p><strong>Performance Analytics &amp; Reporting</strong></p>
+<ul><li>Implement <strong>Performance Analytics</strong> to monitor KPIs, identify bottlenecks, and drive continuous improvement.</li><li>Enables data-driven decision-making and strategic planning.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Understanding the full potential of ServiceNow and leveraging the max capability is something that needs to taken care. </p>
+<p>To fully address the challenges of legacy systems, the ideal solution involves a strategic and well-supported transition to the ServiceNow platform, ensuring both technological and organizational readiness.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Challenges could be</p>
+<ul><li>Change Resistance </li><li>Skill Gaps &amp; Training Needs</li><li>Data Migration Complexity</li><li> Customization vs. OOB Usage</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>a.pandey</sys_created_by>
+        <sys_created_on>2025-10-07 06:06:16</sys_created_on>
+        <sys_id>1ae4de3b831032500283b955eeaad392</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ServiceNow Onboarding Legacy Application</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1ae4de3b831032500283b955eeaad392</sys_update_name>
+        <sys_updated_by>a.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-07 06:06:17</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

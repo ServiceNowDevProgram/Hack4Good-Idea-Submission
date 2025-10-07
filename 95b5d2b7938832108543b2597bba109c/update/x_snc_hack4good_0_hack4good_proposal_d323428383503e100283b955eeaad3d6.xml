@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>There could be significant impact this App can bring to individuals&#39; life by working for a social cause, as urbanization peaks, the challenge to find a suitable place for animals is rising high</p>
+<ol><li><strong>Social Impact: </strong></li></ol>
+<ul><li><strong>Encourages pet adoption</strong> over buying, reducing the number of abandoned animals.</li><li>Helps <strong>families and individuals find emotional support companions</strong>, improving mental health </li><li>Builds <strong>community awareness</strong> about responsible pet ownership.</li></ul>
+<p>    2. <strong>Economic Impact:</strong></p>
+<ul><li>Creates <strong>new business opportunities</strong> in pet care, products, and digital services.</li><li>Reduces costs for animal shelters through automation and digital processing.</li><li>Opens <strong>collaboration channels</strong> with pet supply brands, insurance, and healthcare providers.</li></ul>
+<p><strong>    </strong>3. <strong>Technological Impact</strong></p>
+<ul><li>Promotes <strong>AI for empathy and social good</strong>, showcasing how data and human emotion can merge meaningfully</li><li>Encourages <strong>integration with IoT devices</strong> (like smart collars) for continuous pet health monitoring.</li><li>Facilitates <strong>data sharing</strong> between shelters, vets, and owners securely through cloud infrastructure.</li></ul>]]></potential_impact>
+        <problem_statement>Open your heart and give yourself a chance to feel a hurricane of emotions with this four-pawed friend. AI-powered pet adoption and matching platform designed to connect individuals and families with their ideal pets from shelters, breeders, or foster homes.</problem_statement>
+        <project_name>Find your Paw Friend - Pet Complete Your Family</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><span style="text-decoration: underline;">Service Portal : Unified Platform Experience for Web/Mobile User:</span></p>
+<p>A mobile app &#43; web portal where users, shelters, and vets can connect on one trusted platform. </p>
+<p><span style="text-decoration: underline;">App Engine: Integration: </span></p>
+<p>Automated &amp; Integrated flow for tracking nearby shelters, foster homes, or registered breeders for availbility.</p>
+<p><span style="text-decoration: underline;">Chatbot</span></p>
+<p><span>C</span>hatbot for guidance on adoption procedures, pet care, and FAQs.</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>This requires skilled resources to maintain, automate &amp; enhance the process.  Assistance with the adoption process by integrating the system with shelters and breeders. <br /><br /><br /></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Awareness, logistics, and Inventory. Investment in Technology to make better use of AI capabilities</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>a.pandey</sys_created_by>
+        <sys_created_on>2025-10-04 21:11:04</sys_created_on>
+        <sys_id>d323428383503e100283b955eeaad3d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Find your Paw Friend - Pet Complete Your Family</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d323428383503e100283b955eeaad3d6</sys_update_name>
+        <sys_updated_by>a.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-04 21:11:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

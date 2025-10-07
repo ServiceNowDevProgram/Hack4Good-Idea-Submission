@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Enhanced Survivor Safety:</strong> Provides a secure digital environment for managing vulnerable information, drastically reducing the risk of data leaks that could endanger survivors.</p>
+<p><strong>Faster Intervention:</strong> Measure the reduction in time from initial contact to placement in secure housing or therapy.</p>
+<p><strong>Improved Coordination:</strong> Unifies data across disparate agencies (NGOs, police, hospitals), allowing teams to collaborate securely and efficiently on complex operations.</p>]]></potential_impact>
+        <problem_statement>Nonprofits and law enforcement agencies working to combat human trafficking struggle with fragmented and insecure information. Survivor identities and sensitive details are often tracked in unsecured spreadsheets or email, jeopardizing confidentiality, safety, and coordinated rescue efforts. There is no unified, safe system to share real-time intelligence and coordinate multi-agency operations (police, social workers, medical teams).</problem_statement>
+        <project_name>Secure Path: Anti-Human Trafficking Case Coordination</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A highly secure, encrypted, and permission-based case management system designed for multi-agency, sensitive operations:</p>
+<ul><li><strong>Case Management (CSM or Custom App):</strong> The core engine for creating, tracking, and prioritizing highly sensitive survivor and investigation cases.</li><li><strong>Advanced Access Control &amp; Encryption:</strong> Crucially, it leverages ServiceNow&#39;s strict security rules to ensure only specific, authorized personnel (e.g., a lawyer, but not a police officer) can view certain pieces of data (e.g., a survivor&#39;s specific location). Data must be encrypted at rest and in transit.</li><li><strong>Flow Designer &amp; Service Bridge:</strong> Orchestrates complex response workflows, such as automatically alerting a secure shelter or a trauma specialist when a new survivor is registered. Service Bridge can be used to connect authorized nonprofits securely.</li><li><strong>Knowledge Management:</strong> Stores secure, vetted protocols and resources for survivor recovery (e.g., safe housing lists, trauma therapy contacts).</li></ul>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-05 08:58:48</sys_created_on>
+        <sys_id>439c6c5bc3507a10d9d679ec0501315a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Secure Path: Anti-Human Trafficking Case Coordination</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_439c6c5bc3507a10d9d679ec0501315a</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-05 08:58:52</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

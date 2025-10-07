@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduction in carbon footprint due to food waste.</p>
+<p>Improved goodwill and brand image.</p>
+<p>Increase civil engagement and participation.</p>
+<p>Retention of skilled workforce.</p>]]></potential_impact>
+        <problem_statement>Seeks to solve the hunger and malnutrition problem. By connecting local grocery, food chain, restaurant etc. with foodbanks and soup kitchen. Thus no food goes to waste. This is in meeting with the UN SDG2 - Zero Hunger.</problem_statement>
+        <project_name>Food4ALL</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong style="box-sizing: border-box; font-weight: bold; color: rgb(113, 113, 113); font-family: SourceSansPro, Helvetica, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);">How do you envision the ideal solution to this  problem? </strong></p>
+<p><span style="box-sizing: border-box; color: rgb(113, 113, 113); font-family: SourceSansPro, Helvetica, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);">Utilizing the Customer Service Case and Knowledge to ensure the food gets the right location at the right time.</span></p>
+<p><span style="box-sizing: border-box; color: rgb(113, 113, 113); font-family: SourceSansPro, Helvetica, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);">ServiceNow customer service management and its suite of applications will provide a centralized location to handle inquiry and complaints promptly. Surveys and assessments will be utilized to capture sentiment and feedback.<br />Different case types can be uncovered from reports and performance analytics, and Issue Auto Resolution IAR as well as the need to deploy the Conversational chat to meet constituents 24/7.</span></p>
+<p><span style="box-sizing: border-box; color: rgb(113, 113, 113); font-family: SourceSansPro, Helvetica, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);">Field Service Management Dispatch will provide a command center to get the right pickup tasks to the drivers to ensure none of the food gets left behind to waste.</span></p>
+<p> </p>
+<p> </p>
+<p>CRM Suite: Customer Service Management and Field Service Management</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Customer service management and Customer service management with Field Service Management to connect cases with work order etc.</p>
+<p>Manpower and Material resource constraints. - Ensure that groups are trained on the skilled on the solution and capabilities being deployed.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Stakeholder collaboration,</p>
+<p>Stakeholder technical literacy</p>
+<p><br />Robust and representative Data, Privacy concerns</p>
+<p>Manpower and Material resource constraints.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 22:28:12</sys_created_on>
+        <sys_id>d062817a83d43210ba4ec1e6feaad324</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Food4ALL</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d062817a83d43210ba4ec1e6feaad324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 22:28:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

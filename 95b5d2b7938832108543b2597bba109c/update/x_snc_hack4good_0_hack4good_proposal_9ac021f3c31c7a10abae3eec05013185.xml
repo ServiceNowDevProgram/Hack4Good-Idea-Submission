@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>Prevent kids from missing out on the proven cognitive, social, and emotional benefits of learning music, which are crucial for academic success and healthy development. </p>]]></potential_impact>
+        <problem_statement>Access to musical lessons and instruments is often expensive, creating a significant financial barrier for children and teens in lower-income neighborhoods.</problem_statement>
+        <project_name>Band Together</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Band Together the ServiceNow app to manage and scale a free community music program specifically for children and teens. It will provide workflows for scheduling, logistics, and inventory control.<br /><br /></p>
+<ol><li>Lesson and Event Management: Portal for parents/guardians to easily browse lessons filtered by age group, skill level, instrument, and location.</li><li>Instrument Loaner Program: Loaner Check-In/Check-Out system ensures every registered child or teen has an instrument (such as a guitar, ukulele, or keyboard) for the duration of the group lesson.</li><li>Voluteneer Tracking: Tracking musicians and instructments that they are able to teach. Lesson availability and skill level. </li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Service Portal/Employee Center</li><li>Walk-Up Experience </li><li>Flow Designer</li><li>Asset Management</li><li>Catalog Items</li><li>Custom Tables</li><li>Record Prodcuers</li><li>Performance Analytics</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Efficient and streamlined Check-in/Check-Out processes</li><li>Background checks for adult volunteers</li><li>Reminder system for lessons to students</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 02:11:52</sys_created_on>
+        <sys_id>9ac021f3c31c7a10abae3eec05013185</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Band Together</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9ac021f3c31c7a10abae3eec05013185</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 02:11:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

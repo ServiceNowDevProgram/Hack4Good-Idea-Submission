@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Create a unified application for coordinating youth volunteers during natural disasters.<br />The platform would:</p>
+<ol><li>Allow volunteers to register their availability, skills (e.g., first aid, rescue, logistics, tech support), and location.</li><li>
+<p>Provide a real-time dashboard for coordinators to assign tasks like distributing food, helping shelters, or relaying emergency updates.</p>
+</li><li>
+<p>Enable push notifications/SMS alerts for urgent tasks even when internet access is weak.</p>
+</li><li>
+<p>Maintain a knowledge base of disaster-response guidelines (first aid, emergency numbers, safe shelters, etc.) accessible offline.</p>
+</li><li>
+<p>Track and reward volunteer contributions (hours, impact) for community recognition.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Problem statement: During natural disasters such as cyclones, floods, and wildfires, many local youth volunteers are willing to help. However, coordination is often chaotic: &#13;
+ 1. Lack of a centralized platform to match urgent needs with available volunteers.&#13;
+ 2. Communication breakdowns due to power/infrastructure failures.&#13;
+ 3. No structured way to track volunteer skills, availability, or assignments. &#13;
+ 4. This leads to wasted time, duplicated efforts, and reduced impact during critical moments.</problem_statement>
+        <project_name>Disaster Response Youth Volunteer Coordination</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Now Mobile – for volunteers to register, receive tasks, and confirm completion.</p>
+</li><li>
+<p>Workspace – for coordinators to assign and track tasks in real time.</p>
+</li><li>
+<p>Platform Analytics – to monitor volunteer engagement, completed tasks, and response times.</p>
+</li><li>
+<p>Knowledge Management – to store offline-accessible guides and best practices.</p>
+</li><li>
+<p>Notifications (Push/SMS) – to reach volunteers quickly when internet may be unstable.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with SMS/Email gateways for low-connectivity communication.</p>
+</li><li>
+<p>Geo-location API to match volunteers with nearby tasks.</p>
+</li><li>
+<p>Offline data sync capability for mobile users.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring accessibility in disaster-affected areas with limited network coverage.</p>
+</li><li>
+<p>Training youth volunteers and coordinators to use the platform effectively.</p>
+</li><li>
+<p>Securing sensitive volunteer and location data while enabling rapid response.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 01:15:37</sys_created_on>
+        <sys_id>3fbfac2ac39c3a10e4deb132b40131fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Disaster Response Youth Volunteer Coordination</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_3fbfac2ac39c3a10e4deb132b40131fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 01:15:39</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

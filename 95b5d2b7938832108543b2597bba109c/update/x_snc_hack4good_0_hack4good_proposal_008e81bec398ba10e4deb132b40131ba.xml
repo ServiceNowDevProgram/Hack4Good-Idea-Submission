@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A unified digital platform to plan, manage, and execute public health check camps seamlessly, enabling real-time coordination among medical professionals, patients, pharmacies, and insurance companies.</p>]]></potential_impact>
+        <problem_statement>Public health check camps are essential for early disease detection, preventive care, and community wellness. However, organizing such camps is often inefficient due to:&#13;
+&#13;
+1. Lack of a centralized platform to coordinate medical professionals, volunteers, and supporting organizations.&#13;
+2. Communication gaps between doctors, pharmacies, and insurance providers.&#13;
+3. Difficulty tracking patient registrations, test results, prescriptions, and follow-ups.&#13;
+4. Limited visibility into resource availability (medicines, diagnostic kits, staff).&#13;
+5. This leads to long wait times, duplicated tests, and reduced effectiveness of health outreach efforts.</problem_statement>
+        <project_name>Public Health Check Camp Coordination</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Now Mobile – For public to register for health camps, receive schedules, and access results.</p>
+</li><li>
+<p>Workspace – For camp coordinators and doctors to assign consultations, track patient flow, and monitor resources.</p>
+</li><li>
+<p>Platform Analytics – To analyze participation, common diagnoses, medicine usage, and insurance claims.</p>
+</li><li>
+<p>Knowledge Management – To share health awareness guides, preventive care tips, and emergency contact details.</p>
+</li><li>
+<p>IntegrationHub – To connect with pharmacy systems, diagnostic labs, and insurance claim portals.</p>
+</li><li>
+<p>Notifications (Push/SMS/Email) – To send appointment reminders, prescription availability alerts, and claim updates.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with EMR systems for patient records.</p>
+</li><li>
+<p>APIs for pharmacy inventory and insurance claim processing.</p>
+</li><li>
+<p>Offline data sync for rural or low-connectivity areas.</p>
+</li><li>
+<p>Geo-location API to guide citizens to the nearest health camp.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring data privacy and HIPAA compliance for sensitive medical information.</p>
+</li><li>
+<p>Training volunteers, camp coordinators, and doctors to adopt the platform.</p>
+</li><li>
+<p>Managing real-time integration with third-party systems (labs, pharmacies, insurers).</p>
+</li><li>
+<p>Handling large-scale registrations and avoiding bottlenecks at the camp.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 22:09:25</sys_created_on>
+        <sys_id>008e81bec398ba10e4deb132b40131ba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Public Health Check Camp Coordination</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_008e81bec398ba10e4deb132b40131ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 22:09:27</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
