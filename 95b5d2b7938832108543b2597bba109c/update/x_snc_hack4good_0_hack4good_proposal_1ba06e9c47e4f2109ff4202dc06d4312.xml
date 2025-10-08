@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Using ServiceNow we could transform wig donation from a manual process into a faster, seamless automated process. We could transform how wigs donations are identified, collected, processed and redistributed. With things like user profiles, images and location based matching ServiceNow would be able to:</p>
+<ol><li>Streamline the donation process: Former patients and salons could easily list avaliable wigs, where they are located, and include pictures of the wigs.</li><li>Recipients could quickly be matches based on their preferences for color, length and cap type</li><li>Additional functionality could include tasks for cleaning partner coordination, pickup and drop-offs, etc.</li><li>It would provide privacy and dignity for vulnerable patients using secure communications</li><li>Reporting and dashboards would provide transparency that shows where each wig goes and the impact it makes.</li></ol>]]></potential_impact>
+        <problem_statement>Cancer patients often face the loss of their hair and, with it, a sense of normalcy. While wigs can help restore confidence, their high cost creates an unnecessary barrier for many. At the same time, wigs that could still make someone feel beautiful are often left unused after treatment.&#13;
+This project would connect these two realities — giving donated wigs a second life and ensuring that no one misses out on the dignity and joy of feeling like themselves again.</problem_statement>
+        <project_name>Lend Me Your Locks</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>paige</sys_created_by>
+        <sys_created_on>2025-10-08 20:09:49</sys_created_on>
+        <sys_id>1ba06e9c47e4f2109ff4202dc06d4312</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lend Me Your Locks</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1ba06e9c47e4f2109ff4202dc06d4312</sys_update_name>
+        <sys_updated_by>paige</sys_updated_by>
+        <sys_updated_on>2025-10-08 20:09:51</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
