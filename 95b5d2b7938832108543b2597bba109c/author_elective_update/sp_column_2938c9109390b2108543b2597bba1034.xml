@@ -47,7 +47,7 @@
         <update_guid_history>3a166f9cf59cb210d36c34f18889a886:718483832,2d38c910d090b21019ae5205964e0035:-2121846248</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="1">9b16af9c939cb2108543b2597bba10de</sys_audit_delete>
+        <sys_audit_delete display_value="">9b16af9c939cb2108543b2597bba10de</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 14:40:42</sys_created_on>

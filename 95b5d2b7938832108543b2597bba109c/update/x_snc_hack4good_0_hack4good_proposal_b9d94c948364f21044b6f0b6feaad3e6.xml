@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Measurable Impact of AMR Guardian:</strong></p>
+<p><strong>Lives Saved:</strong> Reduce AMR-related deaths by 15-20% in participating regions through early detection of resistant strains and faster treatment adjustments, potentially preventing thousands of deaths annually.</p>
+<p><strong>Cost Savings:</strong> Generate $50-100M in annual healthcare cost savings through reduced hospital stays, optimized antibiotic procurement, and prevention of resistance spread across participating healthcare systems.</p>
+<p><strong>Surveillance Speed:</strong> Accelerate outbreak detection from weeks to days, with 90% of facilities reporting resistance cases within 24 hours, enabling rapid containment responses.</p>
+<p><strong>Clinical Outcomes:</strong> Achieve 30% reduction in inappropriate broad-spectrum antibiotic use through AI-powered stewardship recommendations and real-time resistance pattern monitoring.</p>
+<p><strong>Global Reach:</strong> Support 50&#43; countries in coordinating AMR response efforts, with 100,000&#43; healthcare workers accessing evidence-based treatment guidelines annually.</p>
+<p><strong>Data-Driven Policy:</strong> Enable governments to make informed resource allocation decisions backed by real-time surveillance data, tracking 1M&#43; resistance cases globally to identify trends and intervention opportunities.</p>]]></potential_impact>
+        <problem_statement>Antimicrobial resistance (AMR) is projected to cause 39.1 million deaths cumulatively from 2025 to 2050, representing one of the most critical global health threats. The supporting links are: https://www.unep.org/topics/chemicals-and-pollution-action/chemicals-management/pollution-and-health/antimicrobial and https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance. Healthcare facilities, governments, and NGOs struggle with:&#13;
+Fragmented AMR Data Collection: Hospitals, laboratories, and clinics operate in silos, making it difficult to track resistance patterns across regions&#13;
+Delayed Response to Outbreaks: Manual reporting processes delay identification of emerging resistant strains&#13;
+Inadequate Antibiotic Stewardship: Lack of real-time monitoring leads to inappropriate antibiotic prescribing&#13;
+Poor Surveillance Coordination: Multiple stakeholders (WHO, CDC, local health authorities) struggle to coordinate monitoring efforts&#13;
+Limited Resource Allocation: Inability to predict and allocate resources (specialized drugs, expertise) where needed most&#13;
+Knowledge Gap: Healthcare workers in resource-limited settings lack access to current AMR trends and treatment guidelines</problem_statement>
+        <project_name>AMR-Guardian: AI-Powered Antimicrobial Resistance Awareness &amp; Monitoring Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><h2 style="line-height: 1.2; margin-top: 15.95pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Customer Service Management (CSM)</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.4pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Central intake portal for AMR case reporting</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0.05pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 2.085; margin-top: 0pt; margin-right: 191.55pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Multi-channel case creation (web portal, mobile app, API integration) </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Knowledge base for treatment guidelines and AMR protocols</span></p>
+<p style="line-height: 2.085; margin-top: 0.7pt; margin-right: 232.9pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Automated case routing based on pathogen type and severity  </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">SLA tracking for response times</span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Self-service portal for healthcare workers to report resistance cases</span></p>
+<h2 style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Health &amp; Life Sciences Service Management</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.4pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Healthcare-specific workflows and compliance</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 2.085; margin-top: 0pt; margin-right: 368.7pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">HIPAA-compliant data handling </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Patient privacy protection</span></p>
+<p style="line-height: 2.145; margin-top: 0pt; margin-right: 310.55pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Clinical trial tracking for new antimicrobials </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Regulatory compliance management</span></p>
+<p style="line-height: 1.315; margin-top: 0pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Healthcare provider credentialing</span></p>
+<h2 style="line-height: 1.2; margin-top: 0.05pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Performance Analytics</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.35pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Real-time AMR trend analysis and predictive modeling</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 2.085; margin-top: 0pt; margin-right: 119.95pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Interactive dashboards showing resistance trends by region, pathogen, and antibiotic </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Predictive analytics for outbreak forecasting</span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;">     </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Benchmarking across healthcare facilities</span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">    Custom KPIs: resistance rates, antibiotic usage, treatment outcomes </span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">    Time-series analysis for pattern detection</span></p>
+<h2 style="line-height: 1.2; margin-top: 9.85pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Integration Hub</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.35pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Connect laboratory systems, EHRs, and WHO databases</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">       Pre-built connectors for HL7/FHIR integration</span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><br /></span></p>
+<p style="line-height: 2.085; margin-top: 3.1pt; margin-right: 178.95pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">REST/SOAP API integration with laboratory information systems (LIS) </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Real-time data synchronization with WHO TrACSS system</span></p>
+<p style="line-height: 2.085; margin-top: 0.75pt; margin-right: 191.55pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Integration with antimicrobial susceptibility testing (AST) equipment </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Connection to pharmacy management systems</span></p>
+<p style="line-height: 2.085; margin-top: 0.75pt; margin-right: 191.55pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Now Platform App Engine</span></strong></p>
+<p style="line-height: 1.2; margin-top: 11.4pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Custom applications for specialized AMR workflows</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Low-code/no-code development</span></p>
+<p style="line-height: 2.085; margin-top: 10.95pt; margin-right: 191.55pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Custom data models for pathogen taxonomy, antibiotic classifications </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Workflow automation for antibiotic stewardship reviews</span></p>
+<p style="line-height: 1.2; margin-top: 0.75pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Business rules for automated alerts</span></p>
+<p style="line-height: 1.2; margin-top: 10.2pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Mobile app development for field surveillance</span></p>
+<p> </p>
+<h2 style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Mobile Studio</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.35pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Field surveillance and rural healthcare worker access</span></p>
+<p><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">     Offline-capable mobile data collection   </span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">    GPS-enabled case reporting</span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">    Push notifications for urgent alerts </span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">   Barcode scanning for drug tracking</span></p>
+<h2 style="line-height: 1.2; margin-top: 7.95pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Emergency Response Management</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.35pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Coordinate response to AMR outbreaks</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0.05pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 2.12; margin-top: 0.05pt; margin-right: 353.9pt; margin-bottom: 0pt; padding-left: 36.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Incident command structure setup Resource mobilization and tracking Multi-agency coordination</span></p>
+<p style="line-height: 2.145; margin-top: 0pt; margin-right: 340.15pt; margin-bottom: 0pt; padding-left: 36.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Communication hub for stakeholders Crisis timeline management</span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"><br /></span></p>
+<h2 style="line-height: 1.2; margin-top: 3.2pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Field Service Management</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 12.9pt; margin-bottom: 0pt; padding-left: 8.6px;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Dispatch infection control teams and mobile laboratories</span></p>
+<h3 style="line-height: 1.2; margin-left: 6.45pt; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></h3>
+<p style="line-height: 2.085; margin-top: 0pt; margin-right: 274.2pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Work order management for outbreak investigations </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Technician dispatch and scheduling</span></p>
+<p style="line-height: 1.2; margin-top: 0.7pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Mobile access for field teams</span></p>
+<p style="line-height: 2.085; margin-top: 10.2pt; margin-right: 374.55pt; margin-bottom: 0pt; padding-left: 20.6px;"><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Equipment and supply tracking </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Route optimization</span></p>
+<h2 style="line-height: 1.2; margin-top: 9.85pt; margin-bottom: 0pt;"><strong><span style="font-size: 13.5pt; text-wrap-mode: wrap;">ServiceNow Service Portal &amp; UI Builder</span></strong></h2>
+<p style="line-height: 1.2; margin-top: 11.4pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">: Public-facing portal and customized interfaces</span></p>
+<p><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Capabilities</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif; font-weight: 400;">:</span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Branded portal for different stakeholder groups </span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Responsive design for all devices</span></p>
+<p><span style="font-size: 10pt; font-family: &#39;Times New Roman&#39;, serif;"> </span><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Multilingual support (critical for global deployment) </span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Accessibility compliance (WCAG)</span></p>
+<p><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Custom widgets for data visualization</span></p>
+<p> </p>
+<p><strong><span style="font-size: 13.5pt; font-family: &#39;Times New Roman&#39;, serif;">ServiceNow AI &amp; Machine Learning</span></strong></p>
+<p><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Use Case:</span></strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;"> Intelligent AMR prediction, detection, and decision support</span></p>
+<p><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">  Capabilities:</span></strong></p>
+<ul><li style="line-height: 1.2;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Predictive Outbreak Detection</span></strong></li></ul>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">              ML models to forecast resistance outbreaks 2-4 weeks in advance</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">              Real-time anomaly detection identifying unusual resistance clusters</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">             Risk scoring algorithms predicting outbreak probability by facility/region</span></p>
+<ul><li style="line-height: 1.2;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Smart Antibiotic Recommendations</span></strong></li></ul>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">              AI-powered clinical decision support based on local resistance patterns</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">             Treatment efficacy prediction using patient history and infection type</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">             Alternative therapy recommendations when first-line antibiotics show resistance</span></p>
+<ul><li style="line-height: 1.2;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Natural Language Processing (NLP)</span></strong></li></ul>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">               Automated data extraction from unstructured lab reports and clinical notes</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">               Multi-language translation of AMR reports (20&#43; languages)</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">               Voice-to-text conversion for field surveillance workers</span></p>
+<ul><li style="line-height: 1.2;"><strong><span style="font-size: 12pt; font-family: &#39;Times New Roman&#39;, serif;">Computer Vision &amp; Image Recognition</span></strong></li></ul>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">                Automated pathogen identification from microscopy images</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">               Bacterial colony counting and measurement from culture plates</span></p>
+<p><span style="font-size: 12pt; text-wrap-mode: wrap;">               Quality control assessment of laboratory samples</span></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p class="whitespace-normal break-words"><strong>Platform Requirements:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7"><li class="whitespace-normal break-words">ServiceNow Orlando release or later for advanced analytics capabilities</li><li class="whitespace-normal break-words">Health &amp; Life Sciences plugin, Performance Analytics, IntegrationHub subscription, Mobile Studio license, and Emergency Response Management plugin</li></ul>
+<p class="whitespace-normal break-words"><strong>Integration Requirements:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7"><li class="whitespace-normal break-words">Laboratory Information Systems (LIS) with HL7 v2.x/FHIR R4 compatibility and REST API endpoints</li><li class="whitespace-normal break-words">Electronic Health Records (EHR) integration via FHIR API (Epic/Cerner/Allscripts connectors)</li><li class="whitespace-normal break-words">WHO TrACSS System API for standardized global reporting</li><li class="whitespace-normal break-words">Laboratory equipment integration (VITEK, MicroScan, BD Phoenix) for automated susceptibility testing</li></ul>
+<p class="whitespace-normal break-words"><strong>Infrastructure:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7"><li class="whitespace-normal break-words">ServiceNow cloud instance with multi-region deployment, AES-256 encryption, and CDN for global access</li><li class="whitespace-normal break-words">HIPAA and GDPR compliance configuration with role-based access control and audit logging</li></ul>
+<p class="whitespace-normal break-words"><strong>AI/ML Dependencies:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7"><li class="whitespace-normal break-words">Machine learning frameworks for predictive analytics and outbreak forecasting</li><li class="whitespace-normal break-words">NLP engines for unstructured data extraction and multi-language translation</li><li class="whitespace-normal break-words">Computer vision models for pathogen image recognition</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p class="whitespace-normal break-words"><strong>Data Privacy &amp; Security:</strong> Handling sensitive patient information across borders with varying regulations (HIPAA, GDPR). Mitigation: Data anonymization, region-specific instances, role-based access controls.</p>
+<p class="whitespace-normal break-words"><strong>Data Standardization:</strong> Different countries use different coding systems and terminologies. Mitigation: Adopt WHONET format, implement SNOMED CT/LOINC mappings, use dropdown options instead of free text.</p>
+<p class="whitespace-normal break-words"><strong>Low Digital Literacy:</strong> Healthcare workers in resource-limited settings may lack technical skills. Mitigation: Intuitive UI design, voice-to-text reporting, multilingual support, video tutorials, train-the-trainer programs.</p>
+<p class="whitespace-normal break-words"><strong>Connectivity Issues:</strong> Unreliable internet in remote/rural areas. Mitigation: Offline-first mobile apps, SMS-based reporting fallback, local data caching, low-bandwidth optimization.</p>
+<p class="whitespace-normal break-words"><strong>Integration Complexity:</strong> Diverse legacy healthcare systems. Mitigation: Pre-built connectors, HL7/FHIR adapters, comprehensive API documentation, manual upload alternatives.</p>
+<p class="whitespace-normal break-words"><strong>Stakeholder Coordination:</strong> Aligning hospitals, governments, WHO, and NGOs with different priorities. Mitigation: Governance committee, customized dashboards, clear data-sharing agreements, regular steering meetings.</p>
+<p class="whitespace-normal break-words"><strong>Funding Sustainability:</strong> Long-term platform maintenance. Mitigation: Phased implementation, multi-year grants (WHO, Gates Foundation), public-private partnerships, tiered pricing model.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 09:22:20</sys_created_on>
+        <sys_id>b9d94c948364f21044b6f0b6feaad3e6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AMR-Guardian: AI-Powered Antimicrobial Resistance Awareness &amp; Monitoring Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b9d94c948364f21044b6f0b6feaad3e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 09:22:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
