@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution will impact globally, and we can move forward on making this world a better place for all.</p>]]></potential_impact>
+        <problem_statement>Every day, we see people struggling through poverty, sleeping on roads, in urgent need of help/medical aid/food. The solution is to build an organized platform where we can have all the details related to them which can be filled by anyone, and adequate help can be provided in very less time.</problem_statement>
+        <project_name>Helpscape Foundation</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow platform would be the main source of truth for this problem where through ServiceNow Portal and catalog item, users (which can be any person) can upload details about a person in need who they see on the streets/any place. These details would then be transferred to a table and then there would be automation tasks based on the urgency of the situations handled through flows/other ways of automation within ServiceNow. Different NGOs can collaborate on this as well, such, that these situations get transferred to everyone and we all can come together to help them.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>A slight challenge could be to educate people about how to use the ServiceNow portal and also to reach NGOs who would be willing to help and collaborate.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 07:48:07</sys_created_on>
+        <sys_id>9ef7bfc483a03210086cb5a6feaad381</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Helpscape Foundation</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9ef7bfc483a03210086cb5a6feaad381</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 07:48:11</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
