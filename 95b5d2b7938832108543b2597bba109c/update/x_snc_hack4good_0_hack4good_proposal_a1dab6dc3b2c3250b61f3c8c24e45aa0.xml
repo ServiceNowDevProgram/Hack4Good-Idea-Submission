@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul style="list-style-type: disc;"><li><strong>50% faster skill acquisition</strong> through personalized learning paths</li><li><strong>3x increase in course completion rates</strong> via mentor support and gamification</li><li><strong>Direct job placement tracking</strong> - measure real-world outcomes</li><li><strong>Scalable model</strong> - can be deployed across multiple communities and organizations</li><li><strong>Data-driven insights</strong> - identify which skills and teaching methods work best</li></ul>]]></potential_impact>
+        <problem_statement>Underserved communities face significant barriers in accessing quality skill development programs. Traditional training programs often fail to:&#13;
+&#13;
+- Identify individual learning styles and pace requirements&#13;
+- Match learners with appropriate mentors and resources&#13;
+- Track progress and provide personalized feedback&#13;
+- Connect learners with real-world opportunities post-training&#13;
+&#13;
+This creates a cycle where those who need upskilling the most have the least access to effective, personalized learning pathways.</problem_statement>
+        <project_name>SkillSync - AI-Powered Skill Gap Bridge for Underserved Communities</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul style="list-style-type: disc;"><li><strong>Now Assist for CSM</strong> - AI-powered skill assessment and personalized learning path recommendations</li><li><strong>App Engine Studio</strong> - Custom tables for learners, mentors, skills, courses, and opportunities</li><li><strong>Flow Designer</strong> - Automated matching algorithms, progress tracking, and milestone notifications</li><li><strong>Virtual Agent</strong> - 24/7 learning support and guidance</li><li><strong>Performance Analytics</strong> - Track learning outcomes, mentor effectiveness, and program impact</li><li><strong>Integration Hub</strong> - Connect with LinkedIn Learning, Coursera, Khan Academy, and job boards</li><li><strong>Mobile App Builder</strong> - Accessible learning on any device</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul style="list-style-type: disc;"><li>Integration with learning platforms (LinkedIn Learning, Coursera, Udemy)</li><li>Job board APIs (Indeed, LinkedIn Jobs)</li><li>Video conferencing for mentor sessions (Zoom/Teams)</li><li>Optional: AI/ML models for advanced skill gap analysis</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul style="list-style-type: disc;"><li>Recruiting and retaining quality mentors</li><li>Ensuring consistent internet access for learners</li><li>Language barriers and content localization</li><li>Measuring long-term impact beyond platform metrics</li><li>Building trust in underserved communities</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 21:49:17</sys_created_on>
+        <sys_id>a1dab6dc3b2c3250b61f3c8c24e45aa0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillSync - AI-Powered Skill Gap Bridge for Underserved Communities</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a1dab6dc3b2c3250b61f3c8c24e45aa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 21:49:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
