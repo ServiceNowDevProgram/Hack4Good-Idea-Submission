@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>It provides consistent layout and tone across projects using predefined templates.<br />GenAI rewrites technical updates in plain language suitable for business and testing audiences.<br />Automation saves time, reducing release documentation preparation from hours to minutes.<br />All releases automatically documented and linked to change records, improving audit readiness</p>]]></potential_impact>
+        <problem_statement>Developers or release managers spend significant time writing and formatting release notes.&#13;
+Some changes may be missed when compiled manually from multiple update sets or change tickets.&#13;
+Each team writes release notes differently, leading to lack of standardization.&#13;
+Technical jargon often confuses business users and testers.</problem_statement>
+        <project_name>Auto-Generated Release Notes using GenAI</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Document Intelligence / Flow Designer<br />Now Assist for Dev / Now Assist for Platform<br />Change Management / Agile Development (SCRUM)<br />Update Sets / Source Control Integration<br />Now Assist – Generate Content API</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>nowassist plugin</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Nowassist cost involved</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 17:04:57</sys_created_on>
+        <sys_id>42f2cba083203210148d9470ceaad362</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Auto-Generated Release Notes using GenAI</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_42f2cba083203210148d9470ceaad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 17:04:59</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
