@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p><strong>Disaster Resilience:</strong> Measure the reduction in loss of historical assets following a declared natural disaster due to timely pre-positioning and recovery.</p>
+<p><strong>Combating Illicit Trade:</strong> Provides a single, verified database for law enforcement to confirm the authenticity and status of potentially stolen artifacts.</p>
+<p><strong>Community Empowerment:</strong> Gives local communities a direct tool to protect and contribute to the official record of their own history.</p>]]></potential_impact>
+        <problem_statement>Global cultural heritage (historical sites, ancient artifacts, unique documents) is vulnerable to decay, theft, and total loss during natural disasters or conflicts. Data about these assets is fragmented across old, unsecured spreadsheets or regional databases, making coordinated protection, monitoring, and recovery almost impossible.</problem_statement>
+        <project_name>Heritage Guard: Digital History Protector</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A highly secure, centralized digital inventory and coordination platform for cultural assets:</p>
+<ul><li><strong>Configuration Management Database (CMDB):</strong> The core engine. Every artifact and historical site is cataloged as a Configuration Item (CI) with photos, location (GPS), condition, and provenance (history of ownership).</li><li><strong>Citizen Mobile Reporting:</strong> A simple app allows authorized local historians or community members to report a <strong>site at risk</strong> (e.g., &#34;Flood damage to the old bridge,&#34; &#34;Vandalism at the monument&#34;), complete with photos and real-time location.</li><li><strong>Flow Designer &amp; Workspace:</strong> If a disaster is imminent, the system automatically creates Emergency Protection Tasks (e.g., &#34;Deploy sandbags,&#34; &#34;Move vulnerable archives to the vault&#34;) and assigns them to the nearest available conservation team.</li><li><strong>IntegrationHub:</strong> Used to connect with international bodies (like UNESCO) and customs databases to help track stolen artifacts.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>High-Capacity Storage and CMDB:</strong> The core function requires a substantial and highly secure database (CMDB or equivalent custom tables) to store high-resolution images, 3D scans, and large documents (like historical treaties or architectural blueprints).</li><li><strong>Geolocation Services:</strong> The mobile reporting and emergency coordination features require integration with Geolocation/Mapping APIs (like Google Maps or similar services) to accurately tag artifact locations and calculate optimal routes for conservation teams.</li><li><strong>Advanced ACLs:</strong> Because cultural assets are often national treasures, the platform depends on complex Access Control Lists (ACLs) to ensure only authorized personnel (e.g., a museum curator) can edit a record, while international partners (e.g., UNESCO) might only have read-only access.</li><li><strong>Mobile Interface:</strong> The success of the &#34;Citizen Watch&#34; and emergency tasking requires a highly stable, offline-capable version of Now Mobile for use by field agents and citizens in disaster zones where connectivity is often lost.</li><li><strong>IntegrationHub for External Databases:</strong> Secure connection via IntegrationHub is required to link the platform with police/Interpol databases for tracking stolen artifacts and customs databases for legal verification.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Storing millions of records, each potentially including multiple high-resolution archival photos and 3D digital scans, will create massive data storage and performance requirements.</p>
+<p>Many conservators, historians, and local authorities who need to use the platform are not accustomed to enterprise software.</p>
+<p>Cultural assets often have disputed ownership, especially artifacts moved during colonialism or conflict. Storing this information in a centralized international platform could create political and legal liabilities.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-09 11:17:39</sys_created_on>
+        <sys_id>8db1b568c3683250d9d679ec05013100</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Heritage Guard: Digital History Protector</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8db1b568c3683250d9d679ec05013100</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-09 11:17:41</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
