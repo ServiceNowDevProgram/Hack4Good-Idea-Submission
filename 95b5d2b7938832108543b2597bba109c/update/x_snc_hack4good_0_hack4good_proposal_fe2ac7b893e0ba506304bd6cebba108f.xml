@@ -8,33 +8,36 @@
 <p>Technology can help bring all this talent together in one place, making it easier to organize and run events with local or lesser-known contributors.</p>]]></potential_impact>
         <problem_statement>Sometimes, it’s not possible for everyone to bring in a popular star, MC, host, or someone who can drive the event and run the show with a full setup.&#13;
 &#13;
-This idea is more about bringing hidden or local talent together — creating a platform for them to shine, even with limited resources.</problem_statement>
+This idea is more about bringing hidden or local talent together — creating a platform for them to shine, even with limited resources..</problem_statement>
         <project_name>Hidden Talent</project_name>
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
-<p></p><p>FSM</p>
+<p> </p>
+<p>FSM</p>
 <p>AI</p>
 <p> </p>
 <hr style="border-top: 3px solid #bbb;" />
 <h3>Are there any technical dependencies for the proposed solution?</h3>
-<p></p><p>I don&#39;t think so. The only point is that this must be available offline as well, so people can view and book the local talent without needing the internet.</p>
+<p> </p>
+<p>I don&#39;t think so. The only point is that this must be available offline as well, so people can view and book the local talent without needing the internet.</p>
 <p> </p>
 <hr style="border-top: 3px solid #bbb;" />
 <h3>What challenges would you foresee in implementing this idea?</h3>
-<p></p><p>User Data (privacy)</p>]]></solution_proposal>
+<p> </p>
+<p>User Data (privacy)</p>]]></solution_proposal>
         <state>submitted</state>
         <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-10 12:25:52</sys_created_on>
         <sys_id>fe2ac7b893e0ba506304bd6cebba108f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Hidden Talent</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
         <sys_update_name>x_snc_hack4good_0_hack4good_proposal_fe2ac7b893e0ba506304bd6cebba108f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-10 12:25:54</sys_updated_on>
+        <sys_updated_on>2025-10-10 13:14:45</sys_updated_on>
     </x_snc_hack4good_0_hack4good_proposal>
 </record_update>
