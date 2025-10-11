@@ -12,7 +12,7 @@ Typically, ServiceNow Hack4Good is a hackathon where developers, partners, and c
 
 This project is a new **Hack4Good Ideation Portal**. The records you contribute will be ideas and app suggestions that will fuel future Hack4Good initiatives. You'll learn how to contribute records to a ServiceNow repo, and your contributions will directly support future social impact projects.
 
-Want to see what ideas have been submitted? Scroll down to see Seubmitted idea, or visit `https://YOUR-INSTANCE.service-now.com/h4g?id=h4g_submitted_ideas` (replace `YOUR-INSTANCE` with your ServiceNow instance subdomain) in your own instance after importing this repository.
+Want to see what ideas have been submitted? Scroll down to see submitted idea, or visit `https://YOUR-INSTANCE.service-now.com/h4g?id=h4g_submitted_ideas` (replace `YOUR-INSTANCE` with your ServiceNow instance subdomain) in your own instance after importing this repository.
 
 > [!IMPORTANT]
 > 🔔🔔🔔<br>
@@ -158,5 +158,6 @@ _Updated automatically on merge to `main`._
 | [Local Volunteer Opportunities](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_41bc31f1c3d03210d7b8bd0ed40131fb.xml) | 🆘 Disaster and Community Support | <a href="https://github.com/brenduh"><img src="https://avatars.githubusercontent.com/u/10159664?v=4&s=40" width="20" height="20" alt="@brenduh"/> @brenduh</a> | 2025-09-30 |
 | [Good4Me](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_a056e83553107610db6151a0a0490ec2.xml) | 🧪 Cause and Cure | <a href="https://github.com/earlduque"><img src="https://avatars.githubusercontent.com/u/31702109?v=4&s=40" width="20" height="20" alt="@earlduque"/> @earlduque</a> | 2025-09-30 |
 <!-- ideas:end -->
+
 
 
