@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>98% Bike Uptime. Automatically track and report the tons of CO2 avoided when citizens choose the e-bike over a car. this initiative will reduce the carbon foot print and feul efficieny and consumptions. </p>]]></potential_impact>
+        <problem_statement>E-bikes are growing in number in most of metro politan cities. As there are various intiative on sustainability, every cities are promoting this E-Bikes for shirt travels, which are cost effective and efficency. but E-bikes are down too often due to dead batteries or needed repairs, frustrating riders and limiting their ability to replace car trips. We need to maximize bike availability and prove the carbon savings.</problem_statement>
+        <project_name>BikeFlow Zero</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p> IoT/OT Management, Field Service Management (FSM), ESG Management, Use IoT sensors on bikes to instantly create automated maintenance workflows. Technicians are dispatched to repair or swap low batteries immediately. All usage data automatically feeds into ESG reporting for decarbonization credit</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, there are techncial dependancy on Maintining this E-bikes. IOT chip malfunctioning and network connectivty are major drawbacks and highly dependent on technlogy</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Labor, Investment are very costly and  Battery changing options, theft for Ebikes are challenges i see in implementing this Idea</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-11 19:45:33</sys_created_on>
+        <sys_id>1728799d8328ba106705c710feaad37d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BikeFlow Zero</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1728799d8328ba106705c710feaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-11 19:45:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
