@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A ServiceNow portal could automate request routing, track assistance delivery, and provide analytics to optimize healthcare outreach, ensuring help reaches those who need it most.</p>]]></potential_impact>
+        <problem_statement>Individuals in need of medical aid often face difficulty navigating support channels, leading to delays or missed help.</problem_statement>
+        <project_name>Healthcare Assistance Request Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution would be a ServiceNow app where users can submit requests for medical aid (e.g., appointments, medication, transportation). The system would automatically assign requests to the right department or volunteer, send status updates, and generate dashboards for administrators to monitor trends and resource usage. Integration with notifications (email/SMS) would keep users informed and reduce missed appointments.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 00:30:15</sys_created_on>
+        <sys_id>57354839c3203210f215df0d05013143</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Healthcare Assistance Request Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_57354839c3203210f215df0d05013143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 00:30:18</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
