@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>ProjectAny aims to provide a flexible, platform-agnostic idea submission and collaboration portal for nonprofits and civic organizations to propose, track, and develop social-impact projects.</p>
+<p>The proposal includes templates for idea submission, lightweight matching of volunteers and mentors, and integration points for ServiceNow workflows to manage approvals and project milestones.</p>]]></potential_impact>
+        <problem_statement>Organizations and volunteers lack a lightweight, centralized place to create, discover, and collaborate on civic-tech proposals; current tools are fragmented and hard to track.</problem_statement>
+        <project_name>ProjectAny — Flexible Idea Submission & Collaboration Portal</project_name>
+        <solution_proposal><![CDATA[<h3>What is the proposed solution?</h3>
+<p>ProjectAny will provide a ServiceNow-based submission form for ideas, an automated review pipeline, and a simple matching service to connect proposals with volunteers and mentors.</p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<ul><li>Service Portal for submission UI</li><li>Flow Designer for automations</li><li>IntegrationHub for external integrations</li></ul>
+<h3>Potential integration points</h3>
+<p>External volunteer directories, GitHub repositories for code, and cloud storage for artifacts.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>contributor</sys_created_by>
+        <sys_created_on>2025-10-13 15:30:00</sys_created_on>
+        <sys_id>abcdef1234567890abcdef1234567890</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ProjectAny — Flexible Idea Submission &amp; Collaboration Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_abcdef1234567890abcdef1234567890</sys_update_name>
+        <sys_updated_by>contributor</sys_updated_by>
+        <sys_updated_on>2025-10-13 15:30:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
