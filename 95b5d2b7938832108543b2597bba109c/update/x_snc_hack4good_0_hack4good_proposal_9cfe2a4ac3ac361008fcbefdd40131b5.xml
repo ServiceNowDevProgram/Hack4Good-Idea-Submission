@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The TreasuryConnect solution will transform how organizations manage liquidity, track bank instructions, and process payments by integrating ServiceNow workflow automation with ERP and banking APIs.<br />Its measurable impact will be seen across efficiency, accuracy, transparency, and cost reduction.</p>
+<ol><li>Operational Efficiency</li><li>Cashflow Accuracy &amp; Decision-Making </li><li>Compliance &amp; Risk Reduction</li><li>Cost Optimization</li><li>Stakeholder Trust &amp; Transparency</li></ol>]]></potential_impact>
+        <problem_statement>Treasury departments often experience delays or mismatches in bank instructions due to fragmented communication.</problem_statement>
+        <project_name>TreasuryConnect – Real-Time Cashflow &amp; Bank Instruction Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution for TreasuryConnect will be a unified ServiceNow workflow platform that connects Treasury, Finance, and Banking operations in real time. The goal is to automate cashflow visibility, bank instruction processing, and payment approvals while eliminating delays caused by manual reconciliation, paper-based processes, and fragmented ERP integrations.</p>
+<p>Through ServiceNow’s App Engine, we can design a custom Treasury Management Portal that automates the following:</p>
+<p>Payment Instruction Workflows – Digital approval routing using <em>Flow Designer</em> and <em>Service Catalog Requests</em> for fund transfers, FX purchases, and supplier settlements.</p>
+<p>Cashflow Monitoring Dashboard – Using <em>Performance Analytics</em> and <em>Reporting</em> to visualize inflows, outflows, and bank balances in real time.</p>
+<p>ERP &amp; Bank Integration Layer – Leveraging <em>IntegrationHub</em> and <em>Spokes</em> (such as REST, SAP, Oracle, or Microsoft Dynamics spokes) to connect ServiceNow with existing ERP and banking systems.</p>
+<p>ServiceNow Capabilities Used</p>
+<p>App Engine Studio – to design and deploy TreasuryConnect as a custom application.</p>
+<p>Flow Designer &amp; IntegrationHub – for workflow automation and ERP/bank system integrations.</p>
+<p>Performance Analytics – for real-time cashflow dashboards and reporting.</p>
+<p>GRC – for compliance, approval traceability, and audit readiness.</p>
+<p>Virtual Agent – for quick cashflow and payment updates through chat.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The key technical dependencies revolve around integration, security, and data alignment between ServiceNow, ERP systems, and banks. Once established, these connections will enable TreasuryConnect to deliver accurate, automated, and auditable treasury operations. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The main challenges will center around integration complexity, data security, and organizational adoption. However, with a phased rollout, stakeholder collaboration, and the flexible capabilities of ServiceNow (IntegrationHub, Flow Designer, and Performance Analytics), these challenges can be effectively managed.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 14:23:01</sys_created_on>
+        <sys_id>9cfe2a4ac3ac361008fcbefdd40131b5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TreasuryConnect – Real-Time Cashflow &amp; Bank Instruction Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9cfe2a4ac3ac361008fcbefdd40131b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 14:23:04</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
