@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>EduFund Tracker will be a ServiceNow-based platform designed to bring transparency, automation, and accountability into the management of educational funds and materials procurement.</p>
+<p>It will automate the entire lifecycle of fund requests, approval, disbursement, and reporting, ensuring every Naira or Dollar spent on education is tracked and justified.</p>
+<p>Service Catalog &amp; Workflow Automation</p>
+<p>-Schools or departments can submit funding or material requests through a standardized Service Catalog form.</p>
+<p>-Approval workflows (via Flow Designer) automatically route requests to finance officers or auditors.</p>
+<p>IntegrationHub</p>
+<p>-Connects with ERP/Accounting systems (e.g., SAP, Oracle, QuickBooks) to synchronize budgets, track payments, and reconcile transactions.</p>
+<p>-Performance Analytics &amp; Reporting</p>
+<p>-Real-time dashboards show fund utilization, pending requests, and project spending vs. budget.</p>
+<p>GRC (Governance, Risk, and Compliance)</p>
+<p>-Ensures financial compliance, creates an audit trail of approvals, and monitors policy adherence.</p>
+<p>Document Management</p>
+<p>-Attach invoices, receipts, or delivery confirmations to every transaction record.</p>]]></potential_impact>
+        <problem_statement>Many schools and educational programs face delays and inefficiencies in accessing funds or tracking expenditures for learning materials, infrastructure, or scholarships. Manual financial tracking and approval workflows often result in lost records, delayed payments, and poor accountability.&#13;
+This lack of transparency reduces trust between fund providers, administrators, and students.</problem_statement>
+        <project_name>EduFund Tracker — Enhancing Transparency and Accountability in Educational Funding</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>Reduces delays in fund disbursement for educational projects.</li><li>Enhances accountability and transparency in fund management.</li><li>Builds trust among donors, government agencies, and educational institutions.</li><li>Strengthens compliance and simplifies audit reviews.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p><strong>Governance, Risk, and Compliance (GRC):</strong><br />GRC will be essential to maintain transparency and ensure compliance with internal control policies, donor agreements, and audit standards.</p>
+</li><li>
+<p><strong>Document and Attachment Handling:</strong><br />EduFund Tracker will depend on ServiceNow’s document management and record-keeping features to securely store and retrieve invoices, payment receipts, and project documents.</p>
+</li><li>
+<p><strong>Authentication and Security Protocols:</strong><br />Secure access will be enforced through <strong>Single Sign-On (SSO)</strong> and <strong>role-based access control (RBAC)</strong> to ensure only authorized users can approve, view, or modify financial records.</p>
+</li><li>
+<p><strong>Reporting and Dashboard Infrastructure:</strong><br />Performance Analytics and custom reports will provide stakeholders (schools, donors, auditors) with real-time insights into disbursement progress and fund utilization efficiency.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Integration and Data Synchronization:</strong><br />Connecting ServiceNow with multiple financial or educational systems could face challenges due to differing data formats or incomplete APIs, which may require custom connectors.</p>
+<p><strong>Data Accuracy and Record Integrity:</strong><br />The reliability of reports depends on the accuracy of data coming from source systems. Poor record-keeping or manual entries at the school level could impact reporting quality.</p>
+<p><strong>User Adoption and Training:</strong><br />Educators, administrators, and finance officers may initially resist transitioning from traditional methods. Comprehensive onboarding and user support will be needed to drive adoption.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 15:38:50</sys_created_on>
+        <sys_id>eb956966c320321008fcbefdd40131fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EduFund Tracker — Enhancing Transparency and Accountability in Educational Funding</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_eb956966c320321008fcbefdd40131fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 15:38:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
