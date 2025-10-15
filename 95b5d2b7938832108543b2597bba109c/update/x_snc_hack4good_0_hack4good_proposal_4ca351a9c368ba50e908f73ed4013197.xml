@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>RememberMe offers seniors and their loved ones a shared memory space - simple, warm, and deeply personal.</p>
+<p>Seniors can answer one friendly question each day, like “What’s a meal that reminds you of home?”</p>
+<p>Family members can add photos, greetings, or small voice messages.</p>
+<p>The app builds a “Memory Timeline” that can be replayed anytime - at home, during therapy, or just to smile.</p>
+<p>Caregivers can view memories (with permission) to provide more personalized support.</p>
+<p>Impact:</p>
+<p>Encourages gentle mental exercise and daily engagement.</p>
+<p>Strengthens inter-generational connection.</p>
+<p>Turns caregiving from obligation into storytelling and shared joy.</p>]]></potential_impact>
+        <problem_statement>For seniors - especially those experiencing early memory decline - moments, stories, and faces can start to blur.&#13;
+&#13;
+Families want to help, but often don’t know how to preserve memories together in a way that feels natural, personal, and uplifting.&#13;
+Most digital tools are too technical or detached from real emotional connection.&#13;
+&#13;
+There’s a need for a gentle, familiar way to capture daily memories and keep family bonds strong.</problem_statement>
+        <project_name>RememberMe - Memory Journal for Seniors &amp; Families</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio - for journaling forms and family access management.</p>
+<p>Flow Designer - to send daily prompts or reminders to seniors and relatives, and to support any internal logic.</p>
+<p>Now Experience UI Builder - to create a simple, accessible interface with large buttons and easy media upload.</p>
+<p>IntegrationHub - for email or instant messaging notifications and secure sharing links.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Accessibility support: large text, voice input, high-contrast themes.</p>
+<p>Optional offline access for limited connectivity environments.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Designing an interface simple enough for seniors to use independently.</p>
+<p>Managing permissions across multiple family members.</p>
+<p>Ensuring secure and private sharing of sensitive content.</p>
+<p>Encouraging consistent daily participation without overwhelming users.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>ivan.betev</sys_created_by>
+        <sys_created_on>2025-10-12 11:34:29</sys_created_on>
+        <sys_id>4ca351a9c368ba50e908f73ed4013197</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RememberMe - Memory Journal for Seniors &amp; Families</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4ca351a9c368ba50e908f73ed4013197</sys_update_name>
+        <sys_updated_by>ivan.betev</sys_updated_by>
+        <sys_updated_on>2025-10-12 11:34:31</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>“Wanna Go? Let Me Know!” would connect outgoing tenants, incoming tenants, and landlords in a simple, privacy-respecting way.</p>
+<ul><li>Tenants can anonymously signal their intent to move out (e.g., “leaving in 2 months”).</li><li>Interested families can subscribe to neighborhood alerts.</li><li>Landlords can plan listings earlier and reduce vacancy periods.</li><li>Local governments can use anonymized data to forecast housing demand.</li></ul>
+<p>Impact:</p>
+<ul><li>Reduces housing search stress.</li><li>Increases rental transparency.</li><li>Builds a more cooperative rental ecosystem.</li></ul>]]></potential_impact>
+        <problem_statement>In many European countries, rental laws require tenants to give a three-month notice before leaving a property. However, there’s no transparent way for other renters or families to know which flats will soon be available.&#13;
+&#13;
+As a result:&#13;
+&#13;
+* Families (especially with multiple kids) struggle to plan moves in advance.&#13;
+* Apartments remain empty between contracts.&#13;
+* Communities experience unnecessary stress and time pressure when relocating.&#13;
+&#13;
+There’s a clear gap between people planning to leave and those searching for housing - a gap that technology can bridge.</problem_statement>
+        <project_name>Wanna Go? Let Me Know! - Smart Housing Transition Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>App Engine Studio - to build the main app where tenants can register move-out plans and families can subscribe to regions.</li><li>Flow Designer - to automate notifications when an apartment is flagged for release.</li><li>Now Experience UI Builder - to create a clean, map-based interface showing upcoming availability.</li><li>IntegrationHub - to integrate with external platforms, alerts or connect with housing authority APIs.</li><li>Performance Analytics - to generate insights for community housing patterns.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with GIS or mapping APIs (Google Maps, OpenStreetMap) for regional visualization.</li><li>Optional integration with real estate or city housing databases.</li><li>Secure user authentication to protect identity and data.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Protecting tenant privacy while enabling useful insights.</li><li>Motivating users to share move-out information early.</li><li>Standardizing integration with various property listing systems.</li><li>Ensuring compliance with regional housing and data protection laws (e.g., GDPR).</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>ivan.betev</sys_created_by>
+        <sys_created_on>2025-10-11 13:33:40</sys_created_on>
+        <sys_id>dcd3e051c3ec3a50e908f73ed4013160</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Wanna Go? Let Me Know! - Smart Housing Transition Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dcd3e051c3ec3a50e908f73ed4013160</sys_update_name>
+        <sys_updated_by>ivan.betev</sys_updated_by>
+        <sys_updated_on>2025-10-11 13:33:42</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p><strong>Increased Trust and Funding:</strong> Demonstrate verifiable delivery, increasing donor confidence and future funding levels.</p>
+<p><strong>Reduced Waste:</strong> Minimize the loss of essential goods due to expiration, spoilage, or misallocation.</p>
+<p><strong>Optimized Logistics:</strong> Identify and eliminate systemic bottlenecks (e.g., a slow customs checkpoint) that delay life-saving aid.</p>]]></potential_impact>
+        <problem_statement>Millions in humanitarian aid (food, medicine, supplies) never reach the people who need it. Donated goods often get stuck in warehouses, expire, or are lost due to a lack of digital tracking between the large international donors and the small, local distribution points. This breakdown destroys trust and reduces the effectiveness of all global aid efforts.</problem_statement>
+        <project_name>AidFlow Ledger: Transparent Resource Allocation</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A digital platform designed to create a verifiable, end-to-end &#34;passport&#34; for every major donated asset from its source (Donor) to its destination (Recipient):</p>
+<ul><li><strong>Asset Management (ITAM/Custom):</strong> Every significant donation (e.g., a pallet of rice, a box of vaccines) is tagged as a digital Configuration Item (CI) with a unique QR code.</li><li><strong>Service Catalog/Request Management:</strong> Local aid centers request specific items (e.g., &#34;Need 100 units of Baby Formula&#34;) via a secure catalog, preventing overstocking and ensuring needs match supply.</li><li><strong>Flow Designer &amp; Now Mobile:</strong> The mobile app provides a simple, scanner-based workflow. When an item is moved (from port, to warehouse, to village), the scan updates the CI record, creating an auditable, real-time tracking trail.</li><li><strong>Performance Analytics (PA):</strong> Gives international donors and the public transparent metrics on <em>when</em> and <em>where</em> aid was actually delivered.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-10 16:47:26</sys_created_on>
+        <sys_id>d3084c45c3e43210d9d679ec050131dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AidFlow Ledger: Transparent Resource Allocation</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d3084c45c3e43210d9d679ec050131dc</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-10 16:47:28</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

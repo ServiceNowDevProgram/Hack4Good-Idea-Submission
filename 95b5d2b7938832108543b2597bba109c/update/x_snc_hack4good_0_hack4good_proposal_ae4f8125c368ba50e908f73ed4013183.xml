@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>PrepperNet builds a voluntary, anonymized map of community preparedness resources.</p>
+<p>Citizens can register their preparedness assets (e.g., “I have a generator,” “I can host 2 people,” “I have medical training”) with privacy controls.</p>
+<p>Authorities can request aggregated, anonymous insights (e.g., “20 shelters in the local area”).</p>
+<p>In emergencies, verified organizations can reach out securely to nearby volunteers or shelter owners.</p>
+<p>Impact:<br />Creates a real-time community resilience network without compromising privacy — empowering local cooperation instead of isolated survivalism.</p>]]></potential_impact>
+        <problem_statement>In many regions, individuals prepare for disasters by building shelters, storing supplies, or owning backup power sources — but this information stays private. During real emergencies, this lack of transparency means potential life-saving resources remain unused.&#13;
+&#13;
+At the same time, most communities have no clear local resilience overview:&#13;
+Where are safe shelters nearby?&#13;
+Who has access to generators or medical kits?&#13;
+How can we coordinate help before chaos hits?&#13;
+&#13;
+There’s no unified, privacy-respecting system to map or connect community preparedness assets.</problem_statement>
+        <project_name>PrepperNet – Community Resilience &amp; Shelter Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio – to create registration and asset management interfaces.</p>
+<p>Flow Designer – for automated emergency notifications or data anonymization.</p>
+<p>Now Experience UI Builder – for the “Resilience Map” dashboard.</p>
+<p>IntegrationHub – to integrate with public safety or GIS APIs.</p>
+<p>Performance Analytics – to visualize preparedness coverage across regions.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Mapping API (e.g., Google Map) for location clustering.</p>
+<p>Optional integration with municipal emergency management systems.</p>
+<p>Secure identity and role-based access control to manage data visibility.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Privacy and data sensitivity around personal shelters and resources.</p>
+<p>Verification of users claiming to have certain assets or capabilities.</p>
+<p>Balancing anonymity with usefulness in real emergencies.</p>
+<p>Building community trust to encourage participation.</p>
+<p>Making the information available offline in case of a power outage and internet shutdown.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>ivan.betev</sys_created_by>
+        <sys_created_on>2025-10-12 11:14:28</sys_created_on>
+        <sys_id>ae4f8125c368ba50e908f73ed4013183</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PrepperNet – Community Resilience &amp; Shelter Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ae4f8125c368ba50e908f73ed4013183</sys_update_name>
+        <sys_updated_by>ivan.betev</sys_updated_by>
+        <sys_updated_on>2025-10-12 11:14:29</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

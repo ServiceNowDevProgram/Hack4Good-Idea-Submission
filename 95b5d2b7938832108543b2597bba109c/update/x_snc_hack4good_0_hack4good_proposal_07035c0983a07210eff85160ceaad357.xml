@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A real-time, automated matching platform could save lives by reducing the time it takes for hospitals to find and contact nearby compatible donors. </p>
+<p>By building BloodLink on ServiceNow:</p>
+<ul><li>Hospitals can find donors in <strong>minutes</strong> instead of hours.</li><li><strong>Automatic emails</strong> can be sent to available donors instantly.</li><li><strong>Faster responses</strong> help save lives during emergencies.</li><li><strong>Real-time tracking</strong> helps hospitals and blood banks stay coordinated.</li><li>The system can show how many donations were made and how quickly requests were fulfilled.</li></ul>]]></potential_impact>
+        <problem_statement>During emergencies, hospitals struggle to find blood donors quickly. Blood banks often don't have rare blood types. Potential donors don't know when they're urgently needed.</problem_statement>
+        <project_name>BloodLink — Emergency Blood Donation Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Using <strong>ServiceNow’s ,</strong> we can create:</p>
+<ol><li>A simple <strong>form for hospitals</strong> to submit blood requests (using a <strong>ServiceNow catalog item</strong>).</li><li>A <strong>Donor list</strong> (ServiceNow table) that stores donor names, contact info, blood type, and availability.</li><li>A <strong>Flow Designer</strong> workflow that: </li></ol>
+<ul><li>Starts automatically when a new request is submitted.</li><li>Finds all donors with the same blood type.</li><li>Sends them <strong>email or mobile notifications</strong> asking if they can donate.</li><li>A <strong>Yes/No response button</strong> on the notification that updates their status.</li></ul>
+<p>      4.A <strong>dashboard</strong> that shows:</p>
+<ul><li>Open requests</li><li>Donors who accepted</li><li>Time taken to find a match</li><li>All of this can be built with <strong>forms, lists, notifications, and Flow Designer</strong></li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Core ServiceNow platform features only :</p>
+<ul><li>A list of registered donors with contact information.</li><li>Email configured in ServiceNow.</li><li>Donors and hospitals must have access to the ServiceNow platform or portal.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Keeping donor information up-to-date (availability, contact).</li><li>Getting enough donors to register on the platform.</li><li>Ensuring quick responses to emails.</li><li>Maintaining data privacy for donor information.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 18:24:29</sys_created_on>
+        <sys_id>07035c0983a07210eff85160ceaad357</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BloodLink — Emergency Blood Donation Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_07035c0983a07210eff85160ceaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 18:24:32</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

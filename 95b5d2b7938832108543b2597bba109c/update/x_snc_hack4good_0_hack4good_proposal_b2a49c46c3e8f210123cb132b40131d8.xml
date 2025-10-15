@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>A platform to connect citizens and businesses with verified local artisans (electricians, plumbers, tailors, etc.), integrating trust verification, scheduling, and payment tracking.</p>
+<h4><span style="text-decoration: underline;"><strong>Impact</strong></span></h4>
+<ul><li>Empower local tradespeople with verified profiles and repeat clients.</li><li>Improve customer confidence and reduce fraud.</li><li>Create thousands of new micro-enterprise jobs.</li></ul>]]></potential_impact>
+        <problem_statement>Trustworthy artisans are hard to find; service quality is inconsistent and mostly word-of-mouth.</problem_statement>
+        <project_name>ArtisanLink – Verified Tradesperson Marketplace &amp; Job Scheduler</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>This solution will use the products listed and not limited to the following;</p>
+<ul><li><strong>Service Portal</strong> for artisan onboarding, reviews, and scheduling.</li><li><strong>Field Service Management</strong> for booking and dispatch workflows.</li><li><strong>Flow Designer</strong> automates appointment notifications and follow-ups.</li><li><strong>Performance Analytics</strong> tracks service delivery and feedback.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>For payments we&#39;d have to implement IntegrationHub with payment systems (Paystack, Flutterwave, Stripe etc) and optionally integrating geolocation API for matching by proximity.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>As we progress some challenges might include verification of artisans’ skills and credentials and also encouraging adoption in low-digital communities.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 20:20:25</sys_created_on>
+        <sys_id>b2a49c46c3e8f210123cb132b40131d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ArtisanLink – Verified Tradesperson Marketplace &amp; Job Scheduler</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b2a49c46c3e8f210123cb132b40131d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 20:20:26</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

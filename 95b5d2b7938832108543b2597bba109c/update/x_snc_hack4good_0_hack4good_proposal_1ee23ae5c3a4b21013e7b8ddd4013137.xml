@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p> </p>
+<ul><li>Save <strong>60–80%</strong> of time spent on manual reconciliation and approvals</li><li>Reduce financial errors and fraud through <strong>document intelligence</strong> and <strong>predictive verification</strong></li><li>Provide <strong>real-time financial visibility</strong> for donors, auditors, and NGO leaders</li><li>Improve <strong>budget discipline</strong> and optimize fund allocation across projects</li><li>Build a sustainable financial framework that strengthens the <strong>entire nonprofit ecosystem</strong></li></ul>
+<p>Ultimately, it helps nonprofits <strong>spend smarter, stay compliant, and scale their impact</strong> responsibly.</p>]]></potential_impact>
+        <problem_statement>Nonprofits handle thousands of financial transactions — donations, grants, salaries, and operational expenses — but most lack a unified and intelligent system to manage them.&#13;
+They rely on manual spreadsheets, disconnected accounting tools, or offline processes, leading to:&#13;
+&#13;
+Human error in reporting and auditing&#13;
+&#13;
+Fraud risks due to lack of verification and budget control&#13;
+&#13;
+Difficulty linking financials to HR, procurement, and donations&#13;
+&#13;
+Time-consuming reconciliations for every project or fund&#13;
+&#13;
+The result is inefficient fund utilization, delayed reporting, and low donor transparency — which ultimately reduces trust and social impact.</problem_statement>
+        <project_name>AI-Powered Nonprofit Finance &amp; Accounting Core (NFAC)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><table><thead><tr><th>Capability</th><th>Usage</th></tr></thead><tbody><tr><td><strong>App Engine Studio</strong></td><td>Core app creation for invoices, expenses, and ledgers</td></tr><tr><td><strong>Flow Designer</strong></td><td>Approval workflows and automated routing of invoices</td></tr><tr><td><strong>Document Intelligence</strong></td><td>Extract and verify invoice details automatically</td></tr><tr><td><strong>Predictive Intelligence</strong></td><td>Forecast expenses, detect anomalies, and suggest optimizations</td></tr><tr><td><strong>Integration Hub</strong></td><td>Connect to Stripe / PayPal for donations and HR systems for payroll</td></tr><tr><td><strong>UI Builder</strong></td><td>Financial dashboards and visual insights</td></tr><tr><td><strong>Virtual Agent (optional)</strong></td><td>Query budgets, upcoming payments, and summaries</td></tr><tr><td><strong>Performance Analytics</strong></td><td>Track key KPIs like spend vs. budget or project cost trends</td></tr></tbody></table>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Third-party APIs</strong> for:</p>
+<ul><li>Payment gateways (Stripe, PayPal, Razorpay)</li><li>Currency conversion (Open Exchange API)</li><li>Document intelligence engine (ServiceNow or external OCR if needed)</li><li><strong>Data integration</strong> with HR and procurement modules (if connected)</li><li><strong>Predictive model training</strong> for expense forecasting and anomaly detection</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>data security and privacy</strong> for financial records</li><li>Maintaining <strong>integration consistency</strong> across multiple modules and APIs</li><li>Designing a <strong>scalable approval hierarchy</strong> adaptable to different nonprofit sizes</li><li>Training smaller NGOs to adopt a digital finance system</li><li>Fine-tuning predictive models for varied NGO spending patterns</li></ul>
+<p>These challenges can be mitigated through modular design, access controls, and guided onboarding flows.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>abhishek</sys_created_by>
+        <sys_created_on>2025-10-12 18:33:31</sys_created_on>
+        <sys_id>1ee23ae5c3a4b21013e7b8ddd4013137</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AI-Powered Nonprofit Finance &amp; Accounting Core (NFAC)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1ee23ae5c3a4b21013e7b8ddd4013137</sys_update_name>
+        <sys_updated_by>abhishek</sys_updated_by>
+        <sys_updated_on>2025-10-12 18:33:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
