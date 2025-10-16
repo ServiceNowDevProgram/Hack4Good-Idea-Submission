@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This initiative bridges the gap between technology and purpose. By enabling a group of volunteers (app analysts, developers, and product owners) to build tailored ServiceNow apps for nonprofits, we empower them with automation, visibility, and efficiency.</p>
+<ol><li>
+<p>Old-age homes can better manage residents, volunteers, and donations.</p>
+</li><li>
+<p>Food banks can track distribution and supply needs in real time.</p>
+</li><li>
+<p>Nonprofits can centralize data, automate reporting, and focus more on service, not spreadsheets.<br />The measurable impact: improved service delivery, higher volunteer engagement, and sustainable tech adoption for good.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Many nonprofit organizations — especially small ones like old-age homes, shelters, and community aid centers — struggle with limited technical resources. They often rely on outdated tools, spreadsheets, or manual processes that slow down operations and reduce their ability to serve people effectively.</problem_statement>
+        <project_name>Tech for Change: Empowering Nonprofits with Purpose-Built Apps</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>A dedicated volunteer tech group forms cross-functional teams (App Analyst, Developer, Product Owner) to design, build, and deploy ServiceNow-powered apps customized for nonprofit needs.<br />The platform will leverage:</li></ol>
+<ol><li>
+<p>App Engine Studio for rapid low-code development</p>
+</li><li>
+<p>Flow Designer for automations</p>
+</li><li>
+<p>Knowledge Management for internal team training</p>
+</li><li>
+<p>Service Portal or Employee Center for an intuitive interface<br />After launch, the volunteers train nonprofit staff to manage and scale the solution independently, ensuring long-term sustainability.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes — the project would require ServiceNow App Engine access and sandbox instances for development. Integration with common nonprofit tools (Google Sheets, Excel, or donation tracking systems) may be needed.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring consistent volunteer participation and scheduling across teams</p>
+</li><li>
+<p>Data security and access control for sensitive beneficiary or donor information</p>
+</li><li>
+<p>Simplifying complex workflows so they’re easily maintainable by non-technical users</p>
+</li><li>
+<p>Ongoing support and documentation after deployment</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 02:52:38</sys_created_on>
+        <sys_id>33b2403ac3ecfe50e4deb132b40131e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tech for Change: Empowering Nonprofits with Purpose-Built Apps</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_33b2403ac3ecfe50e4deb132b40131e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 02:52:40</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
