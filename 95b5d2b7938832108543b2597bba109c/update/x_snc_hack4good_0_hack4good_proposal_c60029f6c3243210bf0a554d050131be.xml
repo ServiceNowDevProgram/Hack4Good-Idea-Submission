@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Solution</strong></p>
+<p>SkillLink is a ServiceNow-based &#34;time banking&#34; and skills exchange app. Instead of paying with money, users exchange hours of service.</p>
+<p>Examples:</p>
+<ul><li>A teacher can tutor a student for 2 hours and earn 2 &#34;time credits&#34;.</li><li>They can then “spend” those credits to get help repairing a bike or learning another skill.</li></ul>
+<p>The app uses ServiceNow workflows to match users, log transactions, and track community impact hours.</p>
+<p><strong>Impact</strong></p>
+<p>This solution encourages community cooperation and mutual aid, promotes inclusion and dignity by valuing everyone’s time equally and creates measurable social impact (“500 hours exchanged &#61; 500 hours saved”).</p>]]></potential_impact>
+        <problem_statement>Many people in low-income or underserved communities have valuable skills but lack monetary means to exchange them. They might be great at tutoring, fixing bikes, or cooking, but can’t afford paid services themselves.</problem_statement>
+        <project_name>SkillLink: Local Skills Exchange &amp; Time Banking Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution would be a simple, user-friendly platform built on ServiceNow where community members can exchange services using time credits instead of money. Each user would have a profile listing their skills and availability, while the platform would track time exchanged and match people based on needs and proximity. ServiceNow capabilities like Flow Designer, Service Catalog, and Now Experience UI Builder could be used to automate requests, manage credits, and display community impact dashboards.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The main technical dependencies would include a small database model to store user skills, transactions, and time balances, along with optional integration to geolocation APIs for local matching.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The biggest challenges would likely involve verifying user credibility, ensuring fairness in time exchanges, and maintaining engagement in the platform so it remains active and beneficial to the community.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 09:39:59</sys_created_on>
+        <sys_id>c60029f6c3243210bf0a554d050131be</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillLink: Local Skills Exchange &amp; Time Banking Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c60029f6c3243210bf0a554d050131be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 09:40:01</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
