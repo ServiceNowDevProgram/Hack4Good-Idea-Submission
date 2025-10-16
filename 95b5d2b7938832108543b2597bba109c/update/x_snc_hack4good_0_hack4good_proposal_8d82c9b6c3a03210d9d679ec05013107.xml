@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
     <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
-        <focus_area>cure</focus_area>
+        <focus_area>disaster</focus_area>
         <notes/>
         <participation>no</participation>
         <potential_impact><![CDATA[<p><strong>Zero Food Waste (Logistical):</strong> Significantly reduce the spoilage rate of perishable donations by optimizing speed from donation to delivery.</p>
@@ -11,7 +11,8 @@
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
-<p></p><p>A central, real-time logistics platform that connects food donors, the food bank, and distribution agencies (pantries, shelters) via a simple, mobile-first interface:</p>
+<p> </p>
+<p>A central, real-time logistics platform that connects food donors, the food bank, and distribution agencies (pantries, shelters) via a simple, mobile-first interface:</p>
 <ul><li><strong>Real-Time Inventory (CMDB/Asset):</strong> Every incoming donation is instantly scanned or logged as a digital &#34;Food Asset&#34; with key data (weight, type, expiration date). The food bank has a single, real-time view of all available inventory across all warehouses.</li><li><strong>Donor/Agency Portal:</strong> Donors (grocers, manufacturers) use a simple portal to post their surplus food instantly. Recipient agencies (pantries) use a mobile app to instantly view available inventory and place &#34;orders&#34; based on their current client needs.</li><li><strong>Flow Designer &amp; Dispatch:</strong> Automates the matching process: If a donation of 100 gallons of milk is available, the system automatically checks which agencies have requested milk and creates the most efficient delivery route or pickup schedule for the driver, eliminating manual paperwork and phone calls.</li><li><strong>Mobile App for Drivers:</strong> Drivers receive their optimized routes and log pickups/deliveries on a mobile app, updating the inventory status instantly upon drop-off.</li></ul>
 <p> </p>
 <p> </p>
@@ -27,13 +28,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-16 07:30:28</sys_created_on>
         <sys_id>8d82c9b6c3a03210d9d679ec05013107</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>NourishNet: Real-Time Food Rescue and Inventory Dispatch</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
         <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8d82c9b6c3a03210d9d679ec05013107</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-16 07:30:31</sys_updated_on>
+        <sys_updated_on>2025-10-16 07:48:19</sys_updated_on>
     </x_snc_hack4good_0_hack4good_proposal>
 </record_update>
