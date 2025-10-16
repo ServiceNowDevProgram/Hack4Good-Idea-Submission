@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol><li><strong><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);">Up to 70% faster</span></strong><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);"> aid and service delivery by removing manual identity checks.</span></li><li><strong><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);">Significant reduction</span></strong><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);"> in duplicate assistance and fraud (measured via verification mismatch rates).</span></li><li><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);">Improved continuity of care: higher rates of completed vaccination schedules and retained medical histories.</span></li><li><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);">Increased school enrollment speed for displaced children with verifiable credentials.</span></li><li><span style="font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0);">Restored dignity and agency for displaced persons through secure control over their records.</span></li></ol>]]></potential_impact>
+        <problem_statement>War, conflict, and displacement cause people to lose identity documents, health records, and education credentials. Without verified identity, displaced persons struggle to access aid, healthcare, cash assistance, education, and legal protection. Aid duplication, fraud, and slow service delivery increase suffering and waste resources.</problem_statement>
+        <project_name>SafeID - Digital Identity &amp; Credentialing for Displaced Persons</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>App Engine Studio </strong>: build the digital identity registry, credential records, and consent workflows.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>IntegrationHub </strong>: connect to biometric providers, UNHCR/ID systems, national registries, and verification APIs.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>Integrated Risk Management (IRM) </strong>: enforce data protection policies, access controls, and audit trails.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>Customer Service Management (CSM) </strong>: support desk for identity recovery, appeals, and verification requests.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>Flow Designer</strong> : automate onboarding, verification flows, and cross-agency approvals.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"><strong>Performance Analytics </strong>: dashboards for coverage, verification latency, and fraud indicators.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">Mobile App / Offline Framework :enable field workers to register and verify IDs in low-connectivity areas.</span></li><li> </li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"><li>
+<p>Biometric SDKs or QR/PKI infrastructure for secure identifiers.</p>
+</li><li>
+<p>Integration with UNHCR, national civil registries, or trusted third-party ID providers.</p>
+</li><li>
+<p>Secure cloud storage and key management for encrypted personal data.</p>
+</li><li>
+<p>SMS/email gateways for notifications and recovery; offline sync (MQTT or similar) for field use.</p>
+</li><li>
+<p>Compliance with local/regional data protection laws (GDPR-like frameworks).</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">
+<p>Legal and ethical concerns around biometrics and consent in fragile settings.</p>
+</li><li style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">
+<p>Interoperability with a wide range of legacy registries and standards.</p>
+</li><li style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">
+<p>Ensuring robust privacy, encryption, and access governance to prevent misuse.</p>
+</li><li style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">
+<p>Building trust with communities wary of digital IDs or surveillance.</p>
+</li><li style="white-space: normal; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);">
+<p>Operationalizing recoverability when devices are lost or compromised.</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 12:47:49</sys_created_on>
+        <sys_id>fbba8236c3643610b202be3ed40131af</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeID - Digital Identity &amp; Credentialing for Displaced Persons</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_fbba8236c3643610b202be3ed40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 12:47:50</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
