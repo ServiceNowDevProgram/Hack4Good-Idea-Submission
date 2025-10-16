@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>
+<p><strong>30–50% reduction</strong> in procurement cycle times through workflow automation</p>
+</li><li>
+<p><strong>Significant drop in fraud cases</strong> due to real-time risk monitoring and audit trails</p>
+</li><li>
+<p><strong>Greater supplier participation</strong> by lowering administrative barriers</p>
+</li><li>
+<p><strong>Public visibility</strong> into spending, improving citizen trust and oversight</p>
+</li><li>
+<p><strong>Data-driven governance</strong> through procurement performance dashboards</p>
+</li></ul>]]></potential_impact>
+        <problem_statement>Public procurement processes are often  prone to corruption, manipulation, nepotism or favouritism&#13;
+Without a centralized system, contracts are awarded through fragmented channels, making it difficult to detect fraud, monitor compliance, or ensure fair competition. &#13;
+This leads to wasted public funds, delayed infrastructure projects, and eroded citizen trust in government institutions.</problem_statement>
+        <project_name>ProcureGov -Government Procurement Integrity System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>
+<p><strong>App Engine Studio</strong> – for custom tender submission, review, and approval workflows</p>
+</li><li>
+<p><strong>Integrated Risk Management (IRM)</strong> – for automated compliance checks, vendor risk scoring, and audit readiness</p>
+</li><li>
+<p><strong>Customer Service Management (CSM)</strong> – for managing supplier inquiries, document uploads, and case tracking</p>
+</li><li>
+<p><strong>Flow Designer</strong> – to orchestrate bid approvals, conflict-of-interest verifications, and award notifications</p>
+</li><li>
+<p><strong>Performance Analytics</strong> – to visualize procurement KPIs (e.g., tender cycle time, supplier participation, fraud alerts)</p>
+</li><li>
+<p><strong>IntegrationHub</strong> – for connecting with external e-procurement, ERP, or payment systems</p>
+</li><li>
+<p><strong>UI Builder</strong> – to design intuitive dashboards for procurement officers, auditors, and public transparency portals</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p><strong>Vendor and business registry API</strong> to validate supplier identities and check for related entities</p>
+</li><li>
+<p><strong>ERP or financial system integration</strong> for payment tracking and budget linkage</p>
+</li><li>
+<p><strong>Email or SMS gateway</strong> for bidder notifications and updates</p>
+</li><li>
+<p><strong> AI or anomaly-detection API</strong> for advanced fraud pattern recognition</p>
+</li><li>
+<p><strong>Document management integration</strong> for uploading RFPs, contracts, and certificates securely</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Integrating diverse government legacy procurement systems</p>
+</li><li>
+<p>Ensuring data privacy and integrity for sensitive financial transactions</p>
+</li><li>
+<p>Encouraging supplier adoption of a new digital workflow</p>
+</li><li>
+<p>Maintaining audit transparency while protecting confidential bid information</p>
+</li><li>
+<p>Aligning procurement policies and approval hierarchies across ministries</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 21:13:48</sys_created_on>
+        <sys_id>0c043a2ac364f210b202be3ed4013166</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ProcureGov -Government Procurement Integrity System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0c043a2ac364f210b202be3ed4013166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 21:13:49</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
