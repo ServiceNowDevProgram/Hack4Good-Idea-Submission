@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>80% reduction</strong> in risk of dispensing recalled/expired medications.<br /></p>
+<p><strong>Real-time alerts</strong> ensure timely response by pharmacists and clinics.<br /></p>
+<p><strong>Improved patient safety</strong>, especially in vulnerable communities.<br /></p>
+<p><strong>Regulatory compliance</strong> through auditable logs and automated actions.<br /></p>
+<p><strong>Time savings</strong> by eliminating manual checks against government recall databases.</p>]]></potential_impact>
+        <problem_statement>Many pharmacies, especially in underserved or rural areas, unknowingly dispense expired or recalled medications due to lack of timely updates, manual inventory tracking, and poor integration with recall systems.&#13;
+&#13;
+This can lead to serious health consequences, reduced trust in healthcare providers, and legal or regulatory repercussions.&#13;
+&#13;
+Nonprofit-run clinics and small pharmacies are particularly vulnerable as they often operate without robust systems for recall management.</problem_statement>
+        <project_name>SafeMeds: Expiry &amp; Recall Alert System for Pharmacies</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>SafeMeds</strong> is a ServiceNow-powered solution that connects pharmacy inventory systems with <strong>national and global drug recall databases</strong> (e.g., FDA, WHO, EMA).<br /><br />When a recall or expiry is identified, the platform automatically:</p>
+<p>Matches affected batch numbers with pharmacy inventory records.</p>
+<p>Sends <strong>real-time alerts</strong> to the responsible pharmacist or clinic admin.</p>
+<p>Initiates workflows to quarantine affected stock and notify staff.</p>
+<p>Logs all actions for regulatory compliance and reporting.</p>
+<p>Offers a <strong>dashboard</strong> for NGOs and clinics to monitor medicine safety performance over time.<br /><br /></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with national or international drug recall databases (e.g., FDA’s Enforcement Reports API).</p>
+<p>Access to pharmacy inventory systems or spreadsheet imports (for initial low-tech adoption).</p>
+<p>Role-based access control to ensure that only authorized staff take actions on flagged items.</p>
+<p>Support for multilingual interfaces and offline alerts (e.g., SMS/email for rural clinics).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Variability in recall data formats</strong> across regions and countries.</p>
+<p><strong>Data accuracy issues</strong> from small clinics with manual tracking.</p>
+<p><strong>Limited tech infrastructure</strong> in some low-income or nonprofit-run clinics.</p>
+<p><strong>Change management</strong> — training staff to trust and use the new system effectively.</p>
+<p>Ensuring <strong>compliance with health data regulations</strong> (HIPAA, GDPR).</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 09:57:08</sys_created_on>
+        <sys_id>bbb5fb9bc3ac321051c35ffdd40131cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeMeds: Expiry &amp; Recall Alert System for Pharmacies</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_bbb5fb9bc3ac321051c35ffdd40131cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 09:57:10</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

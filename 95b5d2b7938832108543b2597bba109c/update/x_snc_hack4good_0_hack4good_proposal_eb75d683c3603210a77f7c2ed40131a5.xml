@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<ol><li>Engage tens of thousands of households or individuals in carbon-reducing actions (e.g., switching to LED, solar, recycling)</li><li>Reduce community carbon emissions by e.g. 20-30<strong>%</strong> for participating zones over 1-2 years</li><li>Increase participation in municipal environmental programs by at least 3 times.</li></ol>]]></potential_impact>
+        <problem_statement>Cities like Lagos, Abuja, and Port Harcourt and other African cities have initiatives around tree planting, clean energy, waste management, solar panel installations, etc. But citizens and local governments lack unified platforms to log and track these green actions. Individual efforts go unnoticed; there’s no scalable incentive or reward system; awareness of carbon footprints is low.</problem_statement>
+        <project_name>GreenPulse Africa – Community Carbon Footprint &amp; Incentive Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>GreenPulse Africa would operate somewhat like a gamified platform plus a metrics dashboard:</p>
+<ul><li><strong>App Engine Studio:</strong> track individual/household actions (solar installation, tree planting, using clean cookstoves, recycling, etc.)</li><li><strong>Predictive Intelligence:</strong> project emissions reduction if certain actions are scaled; forecast environmental impact at the city or ward level.</li><li><strong>Flow Designer:</strong> award points for actions; send reminders; generate certificates or badges; reward top contributors.</li><li><strong>IntegrationHub:</strong> integrate with carbon-calculation APIs; connect with utilities for clean energy data; possibly payments or incentives.</li><li><strong>QR Code Generation:</strong> households or businesses scan QR codes to register green actions (e.g., scan a code on a clean energy meter or solar panel installer certificate).</li><li><strong>Service Portal / Knowledge Management:</strong> provide content on what actions reduce carbon, local resources, and how to participate.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Carbon footprint calculation API</li><li>Ability to verify actions (e.g., solar installers, certified tree-planting NGOs)</li><li>Mobile/web portal for households’ input</li><li>Incentive payment/reward systems (e-vouchers, etc.)</li><li>IoT data from smart meters or sensors</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Verifying claimed actions:</strong> e.g., someone claims to have planted trees, but nobody validates.</li><li><strong>Avoiding “greenwashing”:</strong> ensuring accuracy and honesty.</li><li><strong>Sustaining engagement:</strong> people start, then drop off. Incentives must be meaningful.</li><li><strong>Inclusivity:</strong> accommodate households without smartphones or with low literacy.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-17 08:23:05</sys_created_on>
+        <sys_id>eb75d683c3603210a77f7c2ed40131a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenPulse Africa – Community Carbon Footprint &amp; Incentive Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_eb75d683c3603210a77f7c2ed40131a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-17 08:23:07</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

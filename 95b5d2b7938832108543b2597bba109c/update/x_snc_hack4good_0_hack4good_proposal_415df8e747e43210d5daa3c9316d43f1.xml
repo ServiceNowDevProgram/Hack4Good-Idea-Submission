@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>A ServiceNow AI-powered solution could:</li><li>Reduce adverse event processing time by up to 50%.</li><li>Improve accuracy of data collection, minimizing manual errors.</li><li>Enable faster detection of drug safety signals, leading to quicker intervention and potentially saving lives.</li><li>Ensure regulatory compliance through audit-ready workflows and automation.</li><li>Enhance patient trust in pharmaceutical companies through faster, more transparent communication.</li></ul>]]></potential_impact>
+        <problem_statement>Pharmaceutical companies are required to collect, process, and report adverse drug reactions (ADRs) from patients and healthcare professionals to ensure patient safety. This is a regulatory requirement and a critical aspect of pharmacovigilance.&#13;
+&#13;
+Currently, this process is highly manual, fragmented, and time-consuming:&#13;
+1) Adverse events are often reported via email, phone calls, or paper forms.&#13;
+2) Safety teams must manually collect data, validate reports, and enter them into safety systems.&#13;
+&#13;
+Follow-up communication is not always timely or efficient.&#13;
+This creates delays in detecting safety issues and increases the risk of non-compliance with global regulatory bodies (e.g., FDA, EMA, WHO).</problem_statement>
+        <project_name>PharmaAssist AI – Intelligent Adverse Event Reporting and Patient Safety Monitoring</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>We propose an AI Agent built on ServiceNow that:</li><li>Conversational Interface (Virtual Agent &#43; GenAI): Allows patients or healthcare providers to report adverse events via web, mobile, or chat.</li><li>Data Extraction: Uses AI/ML to extract structured data from unstructured inputs (emails, PDFs, forms).</li><li>Workflow Automation: Triggers pharmacovigilance workflows in ServiceNow for triage, validation, and escalation.</li><li>Regulatory Reporting: Integrates with regulatory systems to auto-generate and submit required forms (e.g., MedWatch, CIOMS).</li><li>Sentiment &amp; Risk Scoring: AI Agent assigns urgency level based on language used and potential severity.</li></ul>
+<p>Case Management Dashboard: For pharmacovigilance teams to monitor, follow up, and ensure timely closure.</p>
+<ul><li>ServiceNow Virtual Agent &#43; Generative AI</li><li>ServiceNow App Engine (for custom workflows)</li><li>Document Intelligence</li><li>IntegrationHub (for connecting to external safety systems)</li><li>Now Mobile (for patient self-reporting)</li><li>ServiceNow Case Management</li></ul>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Access to NLP/ML models for extracting medical terms and drug information.</li><li>Integration with external pharmacovigilance systems (e.g., Argus Safety, Veeva Vault).</li><li>Support for multi-language input for global deployment.</li><li>Regulatory and data privacy compliance (e.g., HIPAA, GDPR).</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring high accuracy in AI interpretation of medical terms.</li><li>Maintaining data privacy and compliance across regions.</li><li>Gaining stakeholder buy-in from regulatory and IT departments.</li><li>Integration with legacy pharmacovigilance systems may require significant effort.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 15:05:00</sys_created_on>
+        <sys_id>415df8e747e43210d5daa3c9316d43f1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PharmaAssist AI – Intelligent Adverse Event Reporting and Patient Safety Monitoring</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_415df8e747e43210d5daa3c9316d43f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 15:05:02</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

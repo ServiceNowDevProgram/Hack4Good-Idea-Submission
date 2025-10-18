@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Help users set and achieve <strong>micro financial goals</strong> (e.g., save ₹500, reduce debt, track spending)</li><li>Enable NGOs and educators to <strong>track engagement and progress</strong> across communities</li><li>Provide <strong>sponsor dashboards</strong> showing financial literacy impact and regional reach</li><li>Foster <strong>peer motivation</strong> through gamified badges and community challenges</li><li>Build <strong>long-term financial resilience</strong> through habit tracking and nudge</li></ul>]]></potential_impact>
+        <problem_statement>Many young adults and low-income families struggle with budgeting, saving, and understanding financial basics. NGOs and educators try to teach financial literacy, but often rely on static materials, one-time workshops, or generic advice. There’s no interactive, community-driven platform to help people set micro-goals, track progress, and celebrate financial wins &amp; especially in a way that’s sponsor-friendly and gamified</problem_statement>
+        <project_name>MoneyWise - Community Financial Literacy &amp; Micro-Goal Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Users can <strong>set personal financial goals</strong> and track progress (e.g., saving, budgeting, debt reduction)</li><li>NGOs and educators can <strong>assign challenges</strong>, host workshops, and monitor impact</li><li>QR codes link to <strong>goal trackers, workshop invites, and digital badges</strong></li><li>Dashboards show <strong>community-wide progress</strong>, sponsor impact, and engagement metrics</li><li>Optional: <strong>Peer groups and leaderboards</strong> to encourage shared learning</li><li>Nudges and reminders help users stay on track with their goals</li></ul>
+<p> </p>
+<p><strong>Capabilities:</strong></p>
+<ul><li>App Engine Studio for goal records, user profiles, and educator dashboards</li><li>Flow Designer for reminders, badge generation, and progress updates</li><li>UI Builder for mobile-friendly dashboards and sponsor views</li><li>IntegrationHub for syncing with SMS/email platforms or financial APIs</li><li>Attachment API for uploading workshop materials or certificates</li><li>QR Code Generation &amp; Base64 Encoding for goal access and badge sharing</li><li>Scoped App with ACLs for privacy, role-based access, and educator permissions</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Optional: SMS or WhatsApp gateway for nudges and reminders</li><li>QR code generation for goal tracking and badge access</li><li>Optional: Financial APIs or calculators for budgeting templates</li><li>Optional: Gamification engine for badges and challenge</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Designing a <strong>simple, inclusive UX</strong> for users with low digital literacy</li><li>Ensuring <strong>privacy and consent</strong> for financial data</li><li>Encouraging <strong>consistent engagement</strong> beyond initial workshops</li><li>Balancing <strong>gamification with real-world impact</strong></li><li>Building <strong>trust and adoption</strong> among NGOs and educators</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 09:28:33</sys_created_on>
+        <sys_id>1811779783a03210f12c92d6feaad310</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MoneyWise - Community Financial Literacy &amp; Micro-Goal Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1811779783a03210f12c92d6feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 09:28:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
