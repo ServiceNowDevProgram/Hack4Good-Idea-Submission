@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Improved medication adherence and patient outcomes</li><li>Reduced hospital readmission rates due to better understanding of prescriptions</li><li>Greater patient independence and informed decision-making</li><li>Empowerment of non-literate or multilingual patients through voice and visual education</li><li>Scalable education delivery across NGOs, mobile clinics, and remote communities</li></ul>]]></potential_impact>
+        <problem_statement>Millions of patients worldwide struggle with low health literacy, meaning they can't understand the medications they are prescribed — how to take them, what they are for, or what side effects to expect.&#13;
+This is especially common in underserved, multilingual, or low-income communities, where printed leaflets are ineffective, and clinical staff may be too overloaded to provide one-on-one guidance.&#13;
+As a result, patients misuse medications, skip doses, or abandon treatment altogether, leading to complications and hospital readmissions.</problem_statement>
+        <project_name>PharmaEdu AI: Patient-Friendly Medical Education Agent</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>PharmaEdu AI is an AI-powered medical education assistant built with ServiceNow&#39;s AI Agent that provides simple, personalized medication guidance in a patient’s preferred language and learning style.</p>
+<p>Key features include:</p>
+<p><strong>1) Patients or clinic staff input a prescription or scan a medication label</strong><br /><strong>2) The AI Agent explains what the medicine is for, how and when to take it, and possible side effects</strong><br /><strong>3) Guidance is provided via voice, text, and visual aids (e.g., images or symbols)</strong><br /><strong>4) Supports multiple languages (e.g., English, Hindi, Spanish, Swahili)</strong><br /><strong>5) Can be accessed via mobile, kiosk, or embedded in patient portals</strong></p>
+<p>Uses conversational workflows to answer follow-up questions like:</p>
+<p><strong>“Can I take this with food?” or “What if I miss a dose?”</strong></p>
+<p>Ideal for NGOs, rural clinics, pharmacies, and health programs serving low-literacy populations.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>1) AI Agent – Core capability to deliver multilingual, intelligent, and natural conversations<br />2) Virtual Agent Designer – To build guided education flows and support visual assets<br />3) ServiceNow App Engine – For managing medicine database, patient interactions, and feedback<br />4) IntegrationHub – To connect with medicine information sources (e.g., MedlinePlus, WHO, RxNorm APIs)<br />5) Service Portal – Interface for patients or healthcare workers in clinics or kiosks<br />6) Performance Analytics – To track usage, languages served, and patient satisfaction</p>
+<p>Technical dependencies -<br />1) Access to verified, multilingual drug information databases<br />2) Speech-to-text and text-to-speech services for voice interaction<br />3) Local language support for content generation and translation<br />4) Mobile/tablet-friendly UI with offline capabilities for remote areas<br />5) Ability to upload or connect to prescription info from clinic systems</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring accuracy and safety of AI-generated content</li><li>Creating culturally appropriate and locally relevant explanations</li><li>Voice support in less-common languages or dialects</li><li>Ensuring low bandwidth compatibility and offline fallback for rural clinics</li><li>Balancing simplicity with clinical completeness in explanations</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 10:23:06</sys_created_on>
+        <sys_id>999cbf9747603210d5daa3c9316d4304</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PharmaEdu AI: Patient-Friendly Medical Education Agent</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_999cbf9747603210d5daa3c9316d4304</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 10:23:08</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
