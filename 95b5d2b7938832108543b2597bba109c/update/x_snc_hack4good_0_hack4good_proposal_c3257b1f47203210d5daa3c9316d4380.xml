@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Eliminates 90%&#43; of fraudulent prescriptions through verified digital records.</li><li>Builds a tamper-proof, shared prescription ledger accessible to pharmacies and providers.</li><li>Empowers regulators with real-time data on medicine dispensing patterns.</li><li>Improves accountability across healthcare actors: doctors, pharmacies, and patients.</li><li>Enhances trust in e-prescriptions across borders and organizations.</li></ul>]]></potential_impact>
+        <problem_statement>Prescription fraud is a major global issue that results in overmedication, addiction, black market sales, and insurance fraud.&#13;
+In many regions, paper-based prescriptions or disconnected digital systems make it easy to forge, duplicate, or alter prescriptions.&#13;
+This problem affects both patients' safety and healthcare system integrity, especially in underserved areas where regulation is less enforceable.</problem_statement>
+        <project_name>RxChain: Blockchain-Based Prescription Verification</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>RxChain</strong> is a secure digital prescription verification platform built on <strong>ServiceNow</strong> and integrated with a <strong>permissioned blockchain</strong> network.</p>
+<p>The solution works as follows:</p>
+<ol><li>
+<p><strong>Doctors</strong> issue digital prescriptions within ServiceNow, which are hashed and stored on the blockchain.</p>
+</li><li>
+<p><strong>Pharmacies</strong> scan the prescription ID via Service Portal and verify it against the blockchain ledger.</p>
+</li><li>
+<p><strong>Patients</strong> receive a secure, tamper-proof version of the prescription (via QR code or digital wallet).</p>
+</li><li>
+<p><strong>Regulators</strong> can monitor prescription issuance and flag unusual patterns (e.g. overprescription of opioids).</p>
+</li><li>
+<p>All transactions are logged immutably, preventing fraud or unauthorized access.</p>
+</li></ol>
+<p>This system ensures that only <strong>authentic prescriptions</strong> are dispensed and cannot be reused, forged, or tampered with.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>ServiceNow App Engine</strong> – To build the digital prescription interface.</li><li><strong>IntegrationHub</strong> – To connect with the blockchain layer (e.g., Hyperledger Fabric, Ethereum, or a private blockchain).</li><li><strong>Flow Designer</strong> – For automation like prescription issuance, verification, and flagging patterns.</li><li><strong>Service Portal</strong> – For access by pharmacies, clinics, and patients.</li><li><strong>Performance Analytics</strong> – For tracking trends and suspicious prescribing activity.</li><li><strong>Security Operations</strong> – For access control, compliance, and audit trails.</li></ul>
+<ul><li>Blockchain infrastructure (either hosted or through a decentralized network like Hyperledger).</li><li>API integration between ServiceNow and the blockchain node (read/write functions).</li><li>Identity management for authenticating doctors and pharmacies.</li><li>Secure QR code or token system for patients to carry prescriptions.</li><li>Potential integration with national electronic health records or medical license registries.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Blockchain scalability and cost depending on the network used.</li><li>Resistance to change from healthcare providers unfamiliar with blockchain or digital records.</li><li>Onboarding pharmacies and clinics onto a shared system.</li><li>Ensuring data privacy and compliance (especially under HIPAA or GDPR).</li><li>Interoperability with existing EHR and pharmacy systems.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 09:59:05</sys_created_on>
+        <sys_id>c3257b1f47203210d5daa3c9316d4380</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RxChain: Blockchain-Based Prescription Verification</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c3257b1f47203210d5daa3c9316d4380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 09:59:08</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
