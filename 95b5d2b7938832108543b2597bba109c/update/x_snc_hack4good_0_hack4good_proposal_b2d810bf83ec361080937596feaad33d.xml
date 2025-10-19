@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Wildlife Recovery would raise global awareness and drive urgent action for species that are on the brink of extinction. It would combine the power of storytelling, digital media, data analytics, and social campaigning to shine a light on the issues causing the reduction in number of the species on the &#34;watchlist&#34;. Wildlife Recovery would allow users to learn about the animals, track their conservation status, and actively engage in campaigns, petitions, and fundraising efforts to support on-the-ground conservation initiatives, including a portal to report illegal hunting and poaching. </p>]]></potential_impact>
+        <problem_statement>Very little is known by the general public about critically endangered and nearly extinct species, therefore, poaching and illegal hunting of these species go unreported and often encouraged by people who have a need for the byproduct of these species.</problem_statement>
+        <project_name>Wildlife Recovery</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>It would require extensive contributions from wildlife biologist, zoologist and conservationists.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Data accuracy and access</li><li>Global reach</li><li>Statutory requirements from different jurisdictions</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 07:09:34</sys_created_on>
+        <sys_id>b2d810bf83ec361080937596feaad33d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Wildlife Recovery</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b2d810bf83ec361080937596feaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 07:09:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

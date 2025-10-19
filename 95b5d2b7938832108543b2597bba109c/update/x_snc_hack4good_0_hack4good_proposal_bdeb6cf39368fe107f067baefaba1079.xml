@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Faster Access to Life-Saving Drugs: Patients locate needed medication in minutes, not hours.</p>
+<p>Reduced Counterfeit Circulation: Integrated verification helps cut fake drug sales.</p>
+<p>Lower Consumer Costs: Price visibility drives fairer competition among pharmacies.</p>
+<p>Smarter Health Planning: Real-time data helps health agencies predict and address shortages.</p>
+<p>Public Trust: Builds confidence in the pharmaceutical supply chain through transparency and accountability.</p>]]></potential_impact>
+        <problem_statement>Across Nigeria, patients often struggle to find essential drugs such as insulin, malaria treatment, blood pressure medication, or antibiotics when needed. Pharmacies experience uneven stock levels, some run out while others overstock.&#13;
+&#13;
+The absence of a unified, transparent drug availability tracker means people waste time and money visiting multiple pharmacies, sometimes ending up with counterfeit or expired products. Health facilities also lack reliable real-time data on drug shortages, making it hard for regulators and NGOs to coordinate timely interventions.&#13;
+&#13;
+The current processes: word of mouth, random phone calls, and WhatsApp groups; is inefficient, untraceable, and inaccessible for most Nigerians.</problem_statement>
+        <project_name>MedAccess: Essential Drug Availability and Price Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine / Studio – build the custom “Drug,” “Pharmacy,” and “Stock Entry” tables, workflows, and user roles.</p>
+<p>Service Portal / ESC – create the web interface for pharmacies and the public-facing search tool.</p>
+<p>Flow Designer – automate updates, restock notifications, and shortage alerts.</p>
+<p>IntegrationHub – connect to external APIs (NAFDAC verification, health authority data).</p>
+<p>Performance Analytics / Dashboards – visualize stock levels, regional shortages, and price patterns.</p>
+<p>Mobile App / Agent Workspace – allow pharmacists and field health officers to update or confirm stock while on-site.</p>
+<p>AI Search / Recommendation Engine – suggest the closest or alternative pharmacies or substitute drugs when preferred options are unavailable.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with NAFDAC’s drug verification API (or similar regulatory database).</p>
+<p>Pharmacy Inventory Systems API for automated stock synchronization.</p>
+<p>Geolocation and Map Services for distance and location-based search.</p>
+<p>SMS / WhatsApp Gateway for user notifications in low-internet regions.</p>
+<p>Secure user authentication and role-based access for pharmacy staff and regulators.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data Accuracy: Ensuring pharmacies consistently update stock and price data.</p>
+<p>API Access: Gaining official access to NAFDAC or private pharmacy APIs.</p>
+<p>Adoption Barriers: Encouraging small, low-tech pharmacies to participate.</p>
+<p>Verification Overhead: Detecting and blocking counterfeit drug listings.</p>
+<p>Connectivity Gaps: Handling low-bandwidth environments and offline data syncing.</p>
+<p>Privacy Concerns: Protecting sensitive pharmacy data while maintaining transparency.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 08:44:17</sys_created_on>
+        <sys_id>bdeb6cf39368fe107f067baefaba1079</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MedAccess: Essential Drug Availability and Price Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_bdeb6cf39368fe107f067baefaba1079</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 08:44:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
