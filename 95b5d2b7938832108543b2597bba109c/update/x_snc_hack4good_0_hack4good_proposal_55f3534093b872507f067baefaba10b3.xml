@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Financial Inclusion: unlocks credit for millions usually excluded by traditional banking.</p>
+<p>Empowerment: turns reputation and reliability into real financial opportunities.</p>
+<p>Economic Growth: supports small-scale entrepreneurship and job creation.</p>
+<p>Trust &amp; Transparency: creates measurable accountability and performance histories.</p>
+<p>Data-Driven Lending: reduces risk for lenders through smarter, behavior-based analytics.</p>]]></potential_impact>
+        <problem_statement>Millions of Nigerians operate in the informal economy. Artisans, drivers, traders, and freelancers who earn daily income but lack access to credit or formal banking systems.&#13;
+&#13;
+Traditional credit models depend on payslips, bank statements, or collateral, leaving these workers invisible to financial institutions.&#13;
+Yet they demonstrate reliability through consistent work, peer reputation, and transaction history and all of these data often goes unrecorded.&#13;
+&#13;
+There’s an urgent need for a digital system that recognizes this informal trust and translates it into tangible financial credibility.</problem_statement>
+        <project_name>CrediNow: AI-Powered Credit and Reliability Scoring for Informal Workers</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine / Studio: builds custom data models for worker profiles, transaction logs, peer ratings, and trust scores.</p>
+<p>Predictive Intelligence / Machine Learning: analyzes behavior and engagement patterns to generate dynamic reliability or “trust” scores.</p>
+<p>IntegrationHub: connects with payment apps, gig platforms, or microfinance systems to import real-world transaction data.</p>
+<p>Flow Designer: automates scoring, notifications, and referral recommendations for eligible users.</p>
+<p>Service Portal / Experience Sites: provides a clean interface for users to check scores, request micro-loans, and manage their profile.</p>
+<p>Mobile App: lets informal workers easily log daily income, track trust growth, and receive offers from verified lenders.</p>
+<p>Performance Analytics: measures inclusion impact, average credit increase, and engagement by region.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Data Integration APIs: links to POS systems, payment apps, and gig platforms (e.g., Opay, PalmPay, Jumia, Bolt).</p>
+<p>Identity Verification API: uses NIN or BVN for basic validation.</p>
+<p>AI Model Training Pipeline: ensures fairness and transparency in scoring.</p>
+<p>SMS/USSD Integration: supports users with non-smartphones.</p>
+<p>Partnership with Microfinance Institutions: enables real-world loan access and feedback loops.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Data Privacy &amp; Ethics: ensuring AI scoring models are fair and explainable.</li><li>Verification: maintaining identity integrity in a largely informal ecosystem.</li><li>Adoption Barriers: building trust among users who fear exploitation or bias.</li><li>Partnerships: aligning banks, fintechs, and local cooperatives under shared standards.</li><li>Infrastructure: managing intermittent connectivity and inconsistent data sources.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 15:22:44</sys_created_on>
+        <sys_id>55f3534093b872507f067baefaba10b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CrediNow: AI-Powered Credit and Reliability Scoring for Informal Workers</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_55f3534093b872507f067baefaba10b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 15:22:45</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
