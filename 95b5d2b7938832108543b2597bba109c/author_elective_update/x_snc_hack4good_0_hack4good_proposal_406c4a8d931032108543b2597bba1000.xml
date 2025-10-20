@@ -56,7 +56,7 @@
         <reverted_from/>
         <source>7c73d87d935cf2108543b2597bba106d</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 15:11:11</sys_created_on>
         <sys_id>3473d87d935cf2108543b2597bba10fa</sys_id>
@@ -69,7 +69,7 @@
         <update_guid_history>ebfe93959a10b2104e1cdc50c1fa880d:-1751334083,8943907d3d5cf210ee155d2327d4d6c8:-115672503,ebfe93959a10b2104e1cdc50c1fa880d:-1751334083,137cd3517110b21038a75da9c62e4d1c:-124299373,5db556d1d5587210ac189ee4fa960471:-432784285,2308a24d85903210bdd4ec3e01db6ea7:1294917201,d50896cd1c503210c268ed6d269e84f3:-379019041,2b6c8a8d5c10321044f60a0540d1e511:392389557,4f6c0a8d291032101dceafb21706c5ce:787707807</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Give me a long enough project name so that we can see how it wrap, I mean does i">db66d1f1931436108543b2597bba1045</sys_audit_delete>
+        <sys_audit_delete display_value="">db66d1f1931436108543b2597bba1045</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 20:03:49</sys_created_on>

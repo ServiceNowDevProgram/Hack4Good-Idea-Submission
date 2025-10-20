@@ -44,7 +44,7 @@
         <update_guid_history>27484d10fb90b21095a9acacd6c86c77:875146250</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="1">4b58cd109390b2108543b2597bba10b1</sys_audit_delete>
+        <sys_audit_delete display_value="">4b58cd109390b2108543b2597bba10b1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>earl.duque@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 03:11:27</sys_created_on>

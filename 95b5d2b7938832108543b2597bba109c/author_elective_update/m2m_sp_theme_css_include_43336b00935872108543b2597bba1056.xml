@@ -42,7 +42,7 @@
         <update_guid_history>5943e34cd81872104b9de96cffb70640:-757508436,c7336b001d58721076d018c57d237457:-455626443</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="components.Hack4Good Theme">27c3eb40935872108543b2597bba10dd</sys_audit_delete>
+        <sys_audit_delete display_value="">27c3eb40935872108543b2597bba10dd</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-25 19:52:08</sys_created_on>
