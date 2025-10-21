@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The proposed <strong>PGCare</strong> solution will bring measurable improvements to both <strong>PG owners</strong> and <strong>residents</strong> by digitizing and automating all manual operations related to room management, payments, and complaints.</p>
+<h4><strong>1. Operational Efficiency</strong></h4>
+<p><strong>80% reduction</strong> in manual record-keeping efforts by automating resident onboarding, payments, and complaint tracking.</p>
+<p>Eliminates the need for spreadsheets, WhatsApp logs, and manual receipts, ensuring <strong>real-time visibility</strong> of all data.</p>
+<h4><strong>2. Faster Complaint Resolution</strong></h4>
+<p>Automated task assignment and notifications can reduce complaint resolution time by <strong>up to 60%</strong>, improving the overall resident experience.</p>
+<p>Centralized tracking ensures <strong>zero missed maintenance requests</strong>.</p>
+<h4><strong>3. Improved Payment Management</strong></h4>
+<p>Scheduled reminders and transparent tracking can increase <strong>on-time rent payments by 40–50%</strong>.</p>
+<p>Reduces financial discrepancies through auto-generated receipts and audit trails.</p>
+<h4><strong>4. Data Accuracy &amp; Transparency</strong></h4>
+<p>Real-time dashboards for occupancy, payments, and complaints ensure <strong>100% data accuracy</strong> compared to traditional manual tracking.</p>
+<p>Enables data-driven decisions on pricing, capacity planning, and maintenance costs.</p>
+<h4><strong>5. Enhanced Resident Experience</strong></h4>
+<p>Self-service portal for residents to pay rent, raise complaints, and check food/menu details improves satisfaction and trust.</p>
+<p>Residents experience <strong>faster response times</strong> and a professional digital process.</p>
+<h4><strong>6. Scalability &amp; Replicability</strong></h4>
+<p>The solution can easily scale to <strong>multiple PGs or hostels</strong>, enabling expansion without additional administrative workload.</p>
+<p>Provides a reusable ServiceNow application model that can benefit <strong>hundreds of hostels or co-living spaces</strong>.</p>
+<h4><strong>7. Sustainability Impact</strong></h4>
+<p>Reduced paper usage for receipts, registrations, and records — promoting an <strong>eco-friendly, paperless operation</strong>.</p>
+<hr />
+<h3><strong>Overall Measurable Outcomes</strong></h3>
+<div class="_tableContainer_1rjym_1">
+<div class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse">
+<table class="w-fit min-w-(--thread-content-width)"><thead><tr><th>Impact Area</th><th>Current Challenges</th><th>Post-Implementation Results</th></tr></thead><tbody><tr><td>Record Management</td><td>Manual tracking &amp; duplication</td><td>80% time saved via automation</td></tr><tr><td>Complaint Handling</td><td>Delayed or missed complaints</td><td>60% faster resolution</td></tr><tr><td>Rent Collection</td><td>Missed payments &amp; confusion</td><td>50% higher on-time payments</td></tr><tr><td>Data Visibility</td><td>Scattered &amp; unstructured</td><td>100% centralized dashboard</td></tr><tr><td>Resident Satisfaction</td><td>Low transparency</td><td>4.5★&#43; average satisfaction score (estimated)</td></tr></tbody></table>
+</div>
+</div>]]></potential_impact>
+        <problem_statement>PG owners in Hyderabad (and elsewhere) track residents, payments, complaints, and vacancies across spreadsheets, and paper. This causes missed payments, delayed maintenance, inconsistent meal plans, and poor reporting. &#13;
+&#13;
+PGCare centralizes data and automates reminders, payments and workflows.&#13;
+&#13;
+So start ServiceNow app for paying rent, lodging resident records, logging complaints &amp; maintenance, managing food menus, and tracking room vacancies — giving PG owners a single place to run operations and residents a simple portal.</problem_statement>
+        <project_name>PGCare — ServiceNow application for PG / hostel management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution will be built using <strong>ServiceNow’s CSM and App Engine capabilities</strong> to fully digitalize PG operations.</p>
+<p><strong>Customer Service Management (CSM)</strong> will handle <strong>complaints and requests</strong> — each resident complaint will create a <strong>Case</strong>, which can be assigned to the PG staff or maintenance vendor for resolution and tracking.</p>
+<p><strong>Incident Management</strong> will be used for <strong>technical or facility issues</strong> reported by residents (like Wi-Fi or electricity problems).</p>
+<p><strong>App Engine</strong> will store resident, room, and payment data using custom tables, along with workflows for rent reminders and room allocation.</p>
+<p>A <strong>Service Portal</strong> will allow residents to raise cases, check payment status, and view food or room details.</p>
+<p><strong>Flow Designer</strong>, <strong>Notifications</strong>, and <strong>Reports &amp; Dashboards</strong> will automate updates, send reminders, and provide insights on occupancy, payments, and complaint trends.</p>
+<p>This ensures an automated, transparent, and user-friendly system for both residents and PG owners.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, there are a few technical dependencies for the proposed ServiceNow solution:</p>
+<p><strong>ServiceNow CSM and App Engine licenses</strong> are required to create custom tables, flows, and cases for managing PG operations.</p>
+<p><strong>Access to Service Portal</strong> for building the resident self-service interface.</p>
+<p><strong>Notification and Email setup</strong> for sending rent reminders, complaint updates, and acknowledgments.</p>
+<p>(Optional) <strong>IntegrationHub</strong> if connecting to <strong>payment gateways</strong> (for online rent collection) or <strong>SMS services</strong> for alerts.</p>
+<p><strong>Mobile App configuration</strong> if residents or staff need to manage complaints and payments on the go.</p>
+<p>These dependencies ensure smooth automation, communication, and integration for the complete PG management experience.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><h3><strong>Foreseen Challenges</strong></h3>
+<p><strong>Data accuracy &amp; migration:</strong> Shifting existing resident and payment data from manual records or spreadsheets into ServiceNow without errors.</p>
+<p><strong>User adoption:</strong> PG owners and residents may need basic training to adapt from manual to digital systems.</p>
+<p><strong>Integration complexity:</strong> Connecting with external <strong>payment gateways or SMS APIs</strong> may require additional setup and testing.</p>
+<p><strong>Access control &amp; privacy:</strong> Ensuring residents only see their own data while owners and staff have broader access — requires careful <strong>ACL configuration</strong>.</p>
+<p><strong>Scalability:</strong> Handling multiple PGs or large numbers of residents efficiently as the app grows.</p>
+<p><strong>Connectivity:</strong> Dependence on stable internet for real-time updates and portal access.</p>
+<p>Despite these, the challenges can be mitigated through proper planning, phased implementation, and testing within ServiceNow’s robust platform.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 09:15:07</sys_created_on>
+        <sys_id>a9333c3783e03210edbee5d0deaad3c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PGCare — ServiceNow application for PG / hostel management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a9333c3783e03210edbee5d0deaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 09:15:10</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

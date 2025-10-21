@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The measurable value is tied directly to reducing water point downtime and increasing service reliability.</p>
+<ol><li>Downtime Reduction: Reduce the Mean Time to Resolution (MTTR) for water faults from an average of 14 days to under 48 hours in pilot Local Government Areas (LGAs).</li><li>Health &amp; Economic Value: Improve access to potable water for an estimated 5,000 households (25,000 individuals) per LGA, reducing water-borne illnesses and the economic burden of purchasing water from unregulated vendors.</li><li>Asset Longevity: Implement proactive maintenance schedules based on usage and fault history from the CMDB, extending the useful life of boreholes by an estimated 20%.</li></ol>]]></potential_impact>
+        <problem_statement>Nigeria's decentralized water management leads to rapid failure of community boreholes and pipe networks. The key challenge is lag time—the delay between a fault occurring, it being reported, a repair team being notified, and the job being completed. This lag is caused by manual, paper-based reporting systems, poor asset visibility, and lack of accountability, resulting in frequent, prolonged water shortages for millions in rural and peri-urban areas.</problem_statement>
+        <project_name>HydroGuard: Community Water Infrastructure Maintenance &amp; Accountability System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>ServiceNow Customer Service Management (CSM) for issue intake and tracking</li><li>Field Service Management (FSM) for scheduling and dispatching repair teams</li><li>Performance Analytics for tracking repair times and water point uptime</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Integration with mobile SMS/USSD for rural users without smartphones</li><li>GPS mapping for borehole/water point locations</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Limited internet coverage in rural communities</li><li>Ensuring accurate data entry and validation</li><li>Engaging local governments and water agencies for collaboration</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 20:07:21</sys_created_on>
+        <sys_id>2d02a62683a87210d37c58a6feaad3d4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HydroGuard: Community Water Infrastructure Maintenance &amp; Accountability System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_2d02a62683a87210d37c58a6feaad3d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 20:07:25</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>AgriConnectNow is a ServiceNow-powered digital sustainability and supply-chain platform that connects farmers, cooperatives, logistics providers, and buyers on one unified ecosystem.</p>
+<p>It uses automation, AI insights, and sustainability metrics to enhance the traceability, transparency, and profitability of farm product management — from production to delivery</p>]]></potential_impact>
+        <problem_statement>Across many developing economies farmers face persistent challenges such as:&#13;
+&#13;
+Lack of visibility into market demand and fair pricing.&#13;
+&#13;
+Post-harvest losses due to poor logistics coordination.&#13;
+&#13;
+Limited transparency in farm-to-market product traceability.&#13;
+&#13;
+Weak data management systems for sustainability tracking (carbon footprint, water usage, soil health).&#13;
+&#13;
+These inefficiencies lead to food waste, reduced farmer income, and environmental impact</problem_statement>
+        <project_name>AgriConnectNow – Digital Platform for Sustainable Farm Product Management &amp; Traceability</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio</p>
+<p>Build a centralized Farm Product Lifecycle Portal where farmers and aggregators can record crop yields, input usage, and harvest data.</p>
+<p>IntegrationHub</p>
+<p>Connects with IoT-based sensors and agricultural APIs (weather, soil data, crop health) for real-time monitoring.</p>
+<p>Flow Designer</p>
+<p>Automates workflows such as farm inspections, certification requests, logistics scheduling, and payment approvals.</p>
+<p>Service Catalog &amp; Procurement Module</p>
+<p>Allows cooperatives or government agencies to manage digital purchase orders, supply requests, and vendor payments (integrated with existing ERP).</p>
+<p>Performance Analytics &amp; ESG Dashboards</p>
+<p>Visualizes sustainability metrics like carbon emissions, fertilizer usage, water efficiency, and yield per hectare — supporting SDG-aligned reporting.</p>
+<p>Knowledge Management</p>
+<p>Hosts agricultural best practices, sustainability training modules, and government policy updates to educate farmers.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>IoT devices or APIs for farm data collection (soil, weather, moisture sensors).</li><li>Integration with national ERP or payment systems for supply chain and treasury automation.</li><li>ServiceNow App Engine, Flow Designer, IntegrationHub, Performance Analytics, and GRC modules.</li><li>Mobile-friendly interface for rural access (low-data mode)</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Limited internet access or tech literacy in rural communities.</li><li>Ensuring accurate IoT data calibration and maintenance.</li><li>High initial cost of sensor deployment.</li><li>Need for strong data governance and privacy controls.</li><li>Alignment with national agricultural and trade policies.</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 15:47:42</sys_created_on>
+        <sys_id>88d3fefec368721008fcbefdd40131de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AgriConnectNow – Digital Platform for Sustainable Farm Product Management &amp; Traceability</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_88d3fefec368721008fcbefdd40131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 15:47:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

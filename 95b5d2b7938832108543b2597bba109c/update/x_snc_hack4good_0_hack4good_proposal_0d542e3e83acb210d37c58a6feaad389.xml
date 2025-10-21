@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A digital marketplace would connect waste producers (e.g., households, factories) to recyclers and upcyclers, creating economic opportunities while reducing landfill waste. Measurable impact:</p>
+<ol><li>Diverting 20–30% of waste from landfills in pilot cities</li><li>Creating new jobs in recycling and manufacturing sectors</li></ol>]]></potential_impact>
+        <problem_statement>Nigeria generates millions of tons of waste yearly, much of which could be recycled or upcycled. However, recyclers, artisans, and manufacturers lack a centralized platform to trade reusable materials, leading to waste and pollution.</problem_statement>
+        <project_name>Circular Materials Marketplace — Turning Waste into Value</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>ServiceNow App Engine to build the custom marketplace</li><li>Flow Designer for automating trade and delivery workflows</li><li>Performance Analytics for tracking waste diversion metrics</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Payment integration (Flutterwave, Paystack)</li><li>Integration with local logistics/delivery APIs</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Verifying and vetting recyclers and buyers</li><li>Managing logistics for bulky waste materials</li><li>Raising awareness and user adoption</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 14:46:14</sys_created_on>
+        <sys_id>0d542e3e83acb210d37c58a6feaad389</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Circular Materials Marketplace — Turning Waste into Value</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0d542e3e83acb210d37c58a6feaad389</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 14:46:15</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

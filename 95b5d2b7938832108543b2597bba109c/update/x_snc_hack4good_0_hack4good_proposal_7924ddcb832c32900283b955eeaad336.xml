@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology can bridge the gap between laws and people for whom it&#39;s essentially built to prvide an aid. We know there and 1000 things that are for us as right but DO WE REALLY KNOW? Believe NO. <br /><br />Even if we know AM I AWARE OF PROCESS TO AVAIL IT? again possibly know. </p>
+<p>These gaps can be well handled by some authority with positive mindset to make social impact &amp; ease of technology that&#39;s for people to make it understandale, reachable andconnect ritgh people to guide them educate them.</p>]]></potential_impact>
+        <problem_statement>Being educated is not guarantee that you're master of everything, in pursuit of chasing excellence we often neglect the importance of knowing fundamental rights that we are entitled by birth whether it’s in technology, business, research, or personal development. &#13;
+&#13;
+“The best soldier is not the one with the finest armor, but the one who knows how to use it well"&#13;
+&#13;
+A centralized app that's available everyone at finger trips to remove the complexity of jargons and help them reach to the right individual and process will help beyond limits to connect everyone and technology can only bring this gap.</problem_statement>
+        <project_name>MindYourRights</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A centeralized platform for authority and portal for the needy can bridge this gap and solve the pain points.<br /><br />A process flow to keep them informed an updated will add values and give them confidence<br /><br />A feedback survey will rest the case well with satisfaction review</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Awareness and maknig it reachable will be good to consider as challenge. Gathering information about Laws and Rights will require a lot of effort to pull those information.<br /><br />and Then keep it updated is another challenge to consider </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Keeping it updated with latest edition. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>a.pandey</sys_created_by>
+        <sys_created_on>2025-10-17 03:37:49</sys_created_on>
+        <sys_id>7924ddcb832c32900283b955eeaad336</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MindYourRights</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7924ddcb832c32900283b955eeaad336</sys_update_name>
+        <sys_updated_by>a.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-17 03:37:50</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Faster triage: Generative AI provides immediate symptom guidance, severity classification, and triage recommendations</li><li>Improved access to healthcare information: AI Agents can answer common questions and connect patients to the right department</li><li>Real-time visibility: Dashboards give health coordinators a live view of symptom trends and resource utilization</li><li>Reduced workload: Routine or low-priority cases are routed or handled automatically, allowing staff to focus on urgent cases</li><li>Early detection of outbreak patterns: Performance Analytics surfaces trends for proactive response.</li></ul>]]></potential_impact>
+        <problem_statement>Many community health centers and emergency units struggle to triage patients quickly, provide accurate first-level guidance, and route them to the right medical team.&#13;
+&#13;
+Common health issues like flu, malaria symptoms, or minor injuries could be managed more efficiently if patients and frontline staff received intelligent guidance before a medical professional intervenes. Manual triage processes slow down response times and can lead to resource strain during peak periods. There’s a need for a smart, AI-assisted triage and routing system that accelerates care delivery, improves patient experience, and supports medical teams.</problem_statement>
+        <project_name>AI Health Response &amp; Triage Assistant</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Now Assist for Intelligent conversation, summarization, and triage guidance</li><li>AI Agents for the automated triage, symptom guidance, and suggested actions</li><li>Flow Designer for automatic routing to appropriate medical teams or services </li><li>Record Producer to capture the health-related requests</li><li>UI Policies &amp; Client Scripts for the dynamic form experiences based on symptoms</li><li>Notifications for email/sms alerts for patients and health workers</li><li>Reporting &amp; Dashboards for case monitoring and symptom tracking</li><li>Performance Analytics to measure response time, track common conditions, and detect critical alerts</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Now assist capabilities enabled on the instance</li><li>Health-related knowledge base content for AI reference</li><li>Optional integrations with messaging platforms</li><li>Basic Flow Designer configuration for routing logic</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Defining clear triage categories and escalation workflows</li><li>Properly training AI Agents with relevant medical knowledge base content</li><li>Balancing automation with timely human intervention for critical cases</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-17 21:48:25</sys_created_on>
+        <sys_id>dcde8d9f83ac361010071f65eeaad3ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AI Health Response &amp; Triage Assistant</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dcde8d9f83ac361010071f65eeaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-17 21:48:26</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

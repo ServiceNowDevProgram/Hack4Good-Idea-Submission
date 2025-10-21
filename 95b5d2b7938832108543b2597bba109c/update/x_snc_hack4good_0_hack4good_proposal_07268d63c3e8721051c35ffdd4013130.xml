@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Help nonprofits transition toward <strong>net-zero operations</strong></p>
+<p>Provide a <strong>centralized platform</strong> to track Scope 1, 2, and 3 emissions</p>
+<p>Support <strong>grant reporting and ESG compliance</strong> with standardized reporting tools</p>
+<p>Allow small organizations to <strong>benchmark and share best practices</strong></p>
+<p>Enable nonprofits to lead by example and influence partners/sponsors</p>]]></potential_impact>
+        <problem_statement>Nonprofits and small organizations want to reduce their carbon emissions but lack tools to measure and manage their operational impact. They often use spreadsheets or manual logs to track energy, waste, and travel emissions, making it hard to set or achieve sustainability targets.</problem_statement>
+        <project_name>NetZeroOps – Nonprofit Operational Carbon Emission Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The proposed solution is a <strong>centralized emissions tracking and reporting system</strong> for nonprofit organizations, powered by ServiceNow:</p>
+<p><strong>Sustainability Workflow Engine</strong>: Capture data from various sources—travel logs, energy bills, vendor purchases, waste logs.</p>
+<p><strong>Scope 1, 2, 3 Categorization</strong>: Automatically classify data into Scope 1 (direct emissions), Scope 2 (energy), and Scope 3 (indirect/supply chain).</p>
+<p><strong>Carbon Analytics Dashboard</strong>: Visualize trends over time, forecast targets, and flag high-emission areas.</p>
+<p><strong>Sustainability Report Generator</strong>: Export reports for donors, government, or ESG audits.</p>
+<p><strong>Task Automation</strong>: Assign reduction initiatives (e.g., switch to green suppliers) and track completion across departments.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>APIs or data access from utilities, finance, and travel systems</p>
+<p>Carbon conversion factors or integration with GHG protocols</p>
+<p>Secure and compliant storage of operational data</p>
+<p>Language localization for global NGOs</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data gaps or inconsistencies across departments</p>
+<p>Complexity in tracking Scope 3 (indirect emissions)</p>
+<p>Getting nonprofit staff trained on sustainability workflows</p>
+<p>Integrating with legacy finance or procurement systems</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 15:39:40</sys_created_on>
+        <sys_id>07268d63c3e8721051c35ffdd4013130</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NetZeroOps – Nonprofit Operational Carbon Emission Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_07268d63c3e8721051c35ffdd4013130</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 15:39:42</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

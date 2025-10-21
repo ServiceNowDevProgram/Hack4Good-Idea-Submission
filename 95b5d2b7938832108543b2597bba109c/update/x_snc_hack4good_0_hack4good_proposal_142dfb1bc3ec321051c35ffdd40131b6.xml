@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Up to 40% reduction in medicine wastage</strong> by ensuring better alignment of donations and actual patient needs</p>
+<p><strong>Improved medication access</strong> for low-income and rural patients</p>
+<p><strong>Data-driven decision making</strong> for NGOs and donor partners</p>
+<p><strong>Time savings</strong> for clinics by automating matching and allocation workflows</p>
+<p>Better <strong>emergency preparedness</strong> by matching available stock with likely outbreaks (e.g., seasonal flu, malaria)</p>]]></potential_impact>
+        <problem_statement>Every year, millions of dollars worth of donated medicines go unused or expire because they are not matched effectively to real-world needs at the community or clinic level.&#13;
+&#13;
+Nonprofits and healthcare NGOs often receive surplus or non-requested medications, while patients lack access to essential drugs. This mismatch leads to waste, delays in care, and operational inefficiencies.&#13;
+&#13;
+Many clinics don’t have the capacity to analyze patient trends or forecast medicine needs — especially in under-resourced or disaster-affected regions.</problem_statement>
+        <project_name>MedMatch AI: AI Agent for Matching Donated Medicines to Patient Needs</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>MedMatch AI</strong> uses ServiceNow&#39;s new <strong>AI Agent</strong> to create a smart, conversational assistant for NGOs, clinics, and donor organizations. The AI Agent:</p>
+<p>Understands <strong>incoming medicine donations</strong> (type, quantity, expiration, etc.)</p>
+<p>Analyzes <strong>clinic-level data</strong> on patient demographics, diseases treated, and medicine usage trends</p>
+<p>Uses AI to <strong>match donated inventory to projected demand</strong> at each facility</p>
+<p>Provides recommendations on <strong>where and how to distribute donations</strong> for maximum impact</p>
+<p>Suggests redistribution of excess or soon-to-expire stock between clinics</p>
+<p>Offers <strong>dashboards and alerts</strong> for unmet needs or donation gaps<br /><br />This makes the medicine donation process more <strong>targeted, efficient, and equitable</strong>.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with third-party drug donation portals or inventory systems</p>
+<p>Access to basic patient data, disease prevalence, and medicine consumption trends</p>
+<p>AI model fine-tuning to adapt to local medical terminology and regional health patterns</p>
+<p>Ability to import donation data via CSV/API from partners like WHO, Direct Relief, or Red Cross</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Data inconsistency</strong> between NGOs and clinics (formats, quality, frequency)</p>
+<p>Ensuring <strong>data privacy</strong> and security of patient-related information</p>
+<p>Limited digital infrastructure in some regions (requiring offline-first or SMS-based options)</p>
+<p><strong>Language localization</strong> to support AI Agent use in multiple countries or contexts</p>
+<p>Ensuring trust and <strong>human oversight</strong> for AI-generated recommendations</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 10:21:13</sys_created_on>
+        <sys_id>142dfb1bc3ec321051c35ffdd40131b6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MedMatch AI: AI Agent for Matching Donated Medicines to Patient Needs</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_142dfb1bc3ec321051c35ffdd40131b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 10:21:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

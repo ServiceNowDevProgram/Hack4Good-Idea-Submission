@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>2x faster access </strong>to appropriate mental health resources based on need and location</li><li><strong>Reduced stigma</strong> through anonymous, guided navigation</li><li><strong>Improved retention</strong> in support programs via personalized follow-ups</li><li><strong>Sponsor-ready dashboards</strong> showing engagement, impact, and emotional outcomes</li><li><strong>Empowered NGOs</strong> with real-time visibility into service gaps and demand<strong>2x faster access<br /><br />MindMosaic </strong>would be a ServiceNow-powered portal and mobile-friendly assistant that enables:</li><li><strong>Anonymous self-assessment</strong> to guide users to the right support (e.g., helpline, peer group, therapist, meditation app)</li><li><strong>Smart routing</strong> based on urgency, language, age, location, and affordability</li><li><strong>QR-linked access cards</strong> for NGOs to distribute at events, schools, or clinics</li><li><strong>Dashboards</strong> for NGOs and sponsors to track engagement, referrals, and emotional impact</li><li><strong>Follow-up nudges</strong> via SMS or WhatsApp to encourage continued care</li><li><strong>Volunteer and peer support matching</strong> for low-cost emotional aid</li></ul>]]></potential_impact>
+        <problem_statement>Mental health support is often fragmented, stigmatized, and difficult to access especially for youth, caregivers, and underserved communities. People struggle to find the right resources, whether it’s a counselor, peer support group, helpline, or self-care tool. NGOs and local clinics lack a unified system to guide individuals based on urgency, language, affordability, or cultural sensitivity.&#13;
+This leads to delays, dropouts, and emotional isolation. In crisis situations, the lack of a clear, personalized pathway can be life-threatening.</problem_statement>
+        <project_name>MindMosaic - Community Mental Health Navigator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>App Engine Studio</strong> for resource records, assessments, and user profiles</li><li><strong>Flow Designer</strong> for routing, nudges, and escalation workflows</li><li><strong>Virtual Agent</strong> for conversational guidance and anonymous triage</li><li><strong>IntegrationHub</strong> for syncing with helpline APIs, WhatsApp, or SMS gateways</li><li><strong>UI Builder</strong> for clean, sponsor-friendly dashboards and mobile views</li><li><strong>Scoped App with ACLs</strong> for privacy, consent, and role-based access</li><li><strong>QR Code Generation &amp; Base64 Encoding</strong> for access cards and posters</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>Helpline APIs </strong>or NGO databases for resource sync</li><li><strong>WhatsApp/SMS gateway</strong> for follow-ups and nudges</li><li><strong>QR code generation</strong> for access cards and anonymous entry</li><li>Optional: <strong>Sentiment analysis API</strong> for feedback tagging</li><li>Optional: <strong>Calendar integration</strong> for appointment reminders</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>privacy and consent</strong> for sensitive emotional data</li><li>Designing a <strong>non-triggering, empathetic UX</strong> for vulnerable users</li><li>Encouraging <strong>NGO adoption and regular updates</strong> to resource listings</li><li>Balancing <strong>automation with human warmth</strong> in follow-ups</li><li>Building <strong>trust and safety</strong> for anonymous users</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 10:32:56</sys_created_on>
+        <sys_id>5b179702832cb210f12c92d6feaad3a1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MindMosaic - Community Mental Health Navigator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5b179702832cb210f12c92d6feaad3a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 10:32:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

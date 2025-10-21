@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Reduce e-waste by reusing viable IT assets instead of disposing of them</li><li>Support NGOs, schools, and community projects through equitable asset distribution</li><li>Ensure fairness and transparency using AI-driven prioritization models</li><li>Provide data insights on Corporate Social Responsibility impact through real-time dashboards and reports</li><li>Strengthen sustainability reporting and promote corporate responsibility</li></ul>]]></potential_impact>
+        <problem_statement>Many organizations after retirement of asset, either dispose or donate of hardware assets at the end of their lifecycle, these assets are still functional and could benefit schools, NGOs, or community centers. There is currently no intelligent, automated system to identify assets eligible for donation, collect requests from verified organizations, and allocate donations fairly based on genuine need and social impact.&#13;
+This leads to wastage of usable resources, missed opportunities for community development, and inefficient Corporate Social Responsibility processes.</problem_statement>
+        <project_name>Asset Donation Management System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Hardware Asset Management (HAM) to identify and track end-of-life assets ready for donation</li><li>App Engine Studio to build custom donation request, registration, and approval workflows</li><li>Service Portal for organization registration and request submissions</li><li>Flow Designer to automate asset lifecycle transitions, approvals, and donation allocations</li><li>Predictive Intelligence to analyze, score, and prioritize donation requests based on impact and need</li><li>Performance Analytics &amp; Dashboards to visualize donation metrics, impact reports, and asset reuse data</li><li>Now Assist to Generate Corporate Social Responsibility summaries and intelligent insights from donation data</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Connectivity with external communication channels (email/SMS) for notifications</p>
+<p>Access to Predictive Intelligence or GenAI capabilities within the ServiceNow instance</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring data accuracy and authenticity of organisations applying for donations</li><li>Managing compliance and data privacy across different regions</li><li>Building a robust AI scoring model that balances fairness, urgency, and impact</li><li>Integration challenges with external verification APIs or regional registries</li><li>Ensuring user adoption and proper training for asset managers and Corporate Social Responsibility teams</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-17 23:16:08</sys_created_on>
+        <sys_id>0a10e9178320761010071f65eeaad30a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Asset Donation Management System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0a10e9178320761010071f65eeaad30a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-17 23:16:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>
+<p><strong>30–40% reduction</strong> in maintenance response times through automated dispatching</p>
+</li><li>
+<p><strong>Improved transparency</strong> and public trust via open dashboards showing repair progress</p>
+</li><li>
+<p><strong>Reduced costs</strong> through predictive maintenance based on IoT alerts</p>
+</li><li>
+<p><strong>Safer, more sustainable cities</strong> with data-driven infrastructure management</p>
+</li><li>
+<p><strong>Increased citizen engagement</strong> and satisfaction through visible action tracking</p>
+</li></ul>]]></potential_impact>
+        <problem_statement>Cities and local governments struggle to maintain roads, bridges, streetlights, and public utilities efficiently. Maintenance requests are often lost in bureaucracy, inspections are reactive instead of predictive, and citizens lack visibility into the status of reported issues.&#13;
+This results in wasted budgets, delayed repairs, and unsafe public environments.</problem_statement>
+        <project_name>CivicInfra: Smart Public Works &amp; Maintenance Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>
+<p><strong>App Engine Studio</strong> – to design custom issue submission forms and maintenance workflows</p>
+</li><li>
+<p><strong>Field Service Management (FSM)</strong> – to assign and track field technicians or contractors</p>
+</li><li>
+<p><strong>IT Operations Management (ITOM)</strong> – to monitor sensor-enabled assets and trigger maintenance alerts</p>
+</li><li>
+<p><strong>Customer Service Management (CSM)</strong> – to manage citizen requests, feedback, and communication</p>
+</li><li>
+<p><strong>Flow Designer</strong> – to automate request triage, dispatching, and escalation</p>
+</li><li>
+<p><strong>Performance Analytics</strong> – for live dashboards and KPI tracking (e.g., average repair time, issue density by region)</p>
+</li><li>
+<p><strong>IntegrationHub</strong> – for connecting IoT sensor feeds, GIS data, and municipal ERP or budgeting systems</p>
+</li><li>
+<p><strong>UI Builder</strong> – to create an intuitive citizen portal and city maintenance dashboard</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p><strong>IoT or sensor network APIs</strong> to collect real-time data from connected infrastructure assets (e.g., vibration sensors on bridges, leak sensors on water pipes, smart streetlights).</p>
+</li><li>
+<p><strong>GIS or mapping APIs</strong> (e.g., Google Maps, ArcGIS) for visualizing reported issues and technician locations on interactive maps.</p>
+</li><li>
+<p><strong>Mobile or web form integration</strong> for citizens and inspectors to submit maintenance reports with geotagged photos.</p>
+</li><li>
+<p><strong>SMS or email gateway</strong> for sending status updates and repair notifications to citizens.</p>
+</li><li>
+<p><strong>IntegrationHub connectors</strong> to link existing municipal ERP, budgeting, or asset management systems.</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Integrating diverse legacy systems across municipalities and utilities</p>
+</li><li>
+<p>Ensuring accuracy of IoT data and minimizing false alerts</p>
+</li><li>
+<p>Encouraging citizen engagement and consistent reporting</p>
+</li><li>
+<p>Balancing transparency with data privacy (especially for sensitive infrastructure)</p>
+</li><li>
+<p>Managing scalability across multiple cities or regions with different workflows</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 15:40:39</sys_created_on>
+        <sys_id>6074e5eec3ecb210b202be3ed401315d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CivicInfra: Smart Public Works &amp; Maintenance Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6074e5eec3ecb210b202be3ed401315d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 15:40:40</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Empower millions of low-income consumers to track and compare local market prices of essentials, identifying when they are being unfairly charged.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Aid regulatory bodies (e.g., FCCPC) with real-time, ground-level data on price anomalies and hoarding behavior, enabling faster intervention.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Promote fairness and transparency in informal markets (which account for a large share of Nigerian trade) by creating reputational incentives for compliant traders.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Enhance overall market efficiency: traders who price fairly can be rewarded (via “fair price certified” badges), reducing cycles of consumer distrust and inflation-driven panic buying.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Scale potential: The model can extend to other African countries facing similar informal market gouging/hording challenges, and globally to other emerging-market contexts.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>In Nigeria, many households experience rapidly rising prices for essential goods, driven not only by inflation but also by market practices such as hoarding, artificial scarcity and price-gouging.  This means that everyone (especially lower income households) are vulnerable to unfair price surges and lack transparent market price signals to detect when they are being overcharged. There is no easily accessible, citizen-driven system that tracks local market prices of essential commodities, flags anomalous spikes, and alerts both consumers and regulatory bodies in near real-time.</problem_statement>
+        <project_name>PriceGuard (Anti-Surge Tool for Everyday People)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Mobile app &#43; USSD/SMS gateway for data submissions in low-connectivity/low-smartphone areas.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Reliable baseline data sources (official CPI, real-time food price datasets).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Location services or at least region identifiers for submission metadata.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Analytics engine capable of handling geospatial and time-series anomaly detection.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Partnership with regulators/trader networks to validate data and ensure buy-in.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Data integrity: Crowdsourced submissions may be noisy, manipulated or biased.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Trader resistance: Some traders may decline to participate or even retaliate against data submission in their market.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Consumer trust: Users must trust the platform.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Regulatory action required: Alerts are useful, but effective change requires follow-through by regulatory bodies and market enforcement.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Connectivity and adoption gaps: Rural/low-bandwidth markets may struggle.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Sustainability: Funding is essential to scale the platform.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 12:28:56</sys_created_on>
+        <sys_id>865537908334b21080937596feaad384</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PriceGuard (Anti-Surge Tool for Everyday People)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_865537908334b21080937596feaad384</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 12:28:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

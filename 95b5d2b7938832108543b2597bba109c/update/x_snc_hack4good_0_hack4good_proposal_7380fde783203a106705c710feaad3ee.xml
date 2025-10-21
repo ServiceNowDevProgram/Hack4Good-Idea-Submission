@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This digital education platform can bridge the learning gap by providing free access to academic lessons, career awareness, and learning resources anytime from mobile devices. This solution will enable girls to continue learning even outside school environments and improve long-term literacy, employability, and self-confidence. this is must need for underprevilaged countries, support for girls is highly needed on.</p>]]></potential_impact>
+        <problem_statement>Millions of girls in rural and low-income communities lack access to consistent education due to financial constraints, limited school infrastructure, and social barriers. Many are forced to drop out early, limiting their future opportunities and economic independence.</problem_statement>
+        <project_name>EduBridge – Digital Learning Access for Girls</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service Portal / Employee Center , Knowledge Management, Now Mobile App – Mobile access for girls in remote areas, Integration Hub, Now Assist (AI Search) , Flow Designer  are required to succesfully implement this </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical dependecies are mainly Internet access in rural places and Integration with open educational content providers like some public sites to get access.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>I see digital access in remote areas with low connectivity which need to be sorted and Language barriers for students in non-English regions and parent or community supports for getting this idea implemented</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 18:46:40</sys_created_on>
+        <sys_id>7380fde783203a106705c710feaad3ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EduBridge – Digital Learning Access for Girls</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7380fde783203a106705c710feaad3ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 18:46:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
