@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<ul><li>Reduce incidence of digital fraud or scam reports by <strong>50%</strong> among program participants</li><li>Certify at least <strong>200 small businesses or individuals</strong> in basic cybersecurity in first year</li><li>Increase digital tool adoption (fintech, digital shops) among small traders by measurable percentage (say 20%) due to increased trust</li></ul>]]></potential_impact>
+        <problem_statement>With increasing internet access, many Nigerians, especially small business owners, students, women, and informal sector workers, become victims of basic cyber threats: phishing, fraud, weak passwords, and scams. There is no widely used system to train them in cyber hygiene, provide reported fraud tracking, or offer ongoing, localized guidance. Many business owners lose money, and many people are hesitant to adopt digital tools (fintech, e-commerce) because of fear.</problem_statement>
+        <project_name>Trust360 – Community Cyber Safety &amp; Digital Literacy Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Trust360 would be both educational and protective:</p>
+<ul><li><strong>Security Operations (SecOps):</strong> set up simulated phishing and threat detection trainings; provide sandboxed examples of attacks.</li><li><strong>GRC:</strong> governance for the digital literacy program; tracking compliance; maybe small-scale risk ratings for businesses regarding their cyber posture.</li><li><strong>App Engine Studio:</strong> build modules for lessons, quizzes, the resource library, and incident report submission.</li><li><strong>Virtual Agent &#43; GenAI:</strong> daily tips and an interactive chatbot to help people understand if a message seems fraudulent and answer questions about best practices.</li><li><strong>Service Portal:</strong> for individuals/businesses to access resources, report incidents, and view their risk profile.</li><li><strong>Flow Designer:</strong> trigger follow-ups after incident reports; route to cyber helplines; send reminders to update passwords; schedule training sessions.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Required:</strong></p>
+<ul><li>Real phishing dataset or actual cyber threat feeds (e.g., OpenPhish, Google Safe Browsing, etc.)</li><li>SMS/email/WhatsApp integration via IntegrationHub (for daily safety alerts, scam warnings, training nudges)</li></ul>
+<p><strong>Optional (for scaling and future-proofing):</strong></p>
+<ul><li>Browser extension or API hooks to warn users in real time while browsing</li><li>Collaboration with local ISPs/telecoms (MTN, Airtel, Glo) for regional “push alerts”—especially during major scam waves</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Engagement &amp; retention:</strong> cybersecurity can feel dry or abstract; we need compelling content, local context, and stories.</li><li><strong>Trust &amp; credibility:</strong> people must believe content is from reliable sources; misinformation is rampant.</li><li><strong>Language/localization:</strong> many regions need content in local languages; also adapt to low literacy/digital literacy levels.</li><li><strong>Scalability &amp; resources:</strong> if many people report incidents, how to handle volume; funding/training content creation; maintaining up-to-date threat intelligence.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 10:51:52</sys_created_on>
+        <sys_id>28fbd310c3fc3210a77f7c2ed401313e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Trust360 – Community Cyber Safety &amp; Digital Literacy Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_28fbd310c3fc3210a77f7c2ed401313e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 10:51:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
