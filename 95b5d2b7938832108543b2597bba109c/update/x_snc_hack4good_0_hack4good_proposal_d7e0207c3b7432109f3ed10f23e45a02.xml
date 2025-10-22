@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>An AI-powered donor prediction system would help nonprofits identify potential high-value donors, understand donor behaviors, and increase fundraising efficiency. By focusing efforts on the right prospects, nonprofits can improve their donor retention rates and optimize fundraising strategies.</p>]]></potential_impact>
+        <problem_statement>Nonprofits often struggle to identify which donors are most likely to contribute or who is at risk of discontinuing their support. Many organizations rely on manual processes or simple CRM systems, which don’t provide predictive analytics for donor engagement and retention.</problem_statement>
+        <project_name>AI-Powered Donor Prediction System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The system would use machine learning algorithms to analyze historical donation data and predict donor behavior. It could generate insights into when a donor is likely to give again, how much they might donate, and even what type of messaging or campaign would resonate with them. ServiceNow’s Predictive Analytics and Performance Analytics could be used to create the predictive models and dashboards.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with third-party CRM and payment processing systems (e.g., Stripe, PayPal) for donation tracking. Also, a robust data pipeline to clean and process historical donation data for accurate predictions.</li><li>Performance Analytics</li><li>Predictive Analytics</li><li>Reporting &amp; Dashboard</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The quality and cleanliness of historical data would significantly impact the model’s accuracy. Convincing nonprofits to adopt predictive analytics and making the insights actionable in their daily workflows could also be a barrier.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 10:10:39</sys_created_on>
+        <sys_id>d7e0207c3b7432109f3ed10f23e45a02</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AI-Powered Donor Prediction System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d7e0207c3b7432109f3ed10f23e45a02</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 10:10:41</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
