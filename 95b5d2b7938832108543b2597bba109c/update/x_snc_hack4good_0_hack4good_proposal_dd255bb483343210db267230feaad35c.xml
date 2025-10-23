@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Measurable impact/value:</p>
+<ul><li>Reduce delayed family communication by 80%</li><li>Improve family satisfaction scores and trust in facility care</li><li>Provide auditable communication logs for compliance and risk management</li><li>Reduce staff time spent on repeated calls or manual updates</li><li>Ensure real-time notifications during urgent events (falls, medication changes, status updates)</li></ul>]]></potential_impact>
+        <problem_statement>In LTC homes and community care, communication between staff and families is often delayed or inconsistent. Families frequently need to visit in person or make multiple calls to get updates on a resident’s condition. This becomes critical in urgent situations, such as a resident fall, where timely updates are essential.&#13;
+&#13;
+Current communication processes can lead to:&#13;
+Delayed or missed updates to families&#13;
+Confusion and frustration for staff and families&#13;
+Incomplete or untracked communication logs&#13;
+&#13;
+Additional benefit: FamConnect can provide real-time updates to families via mobile devices, reducing the need for in-person visits or repeated calls, especially during urgent incidents.</problem_statement>
+        <project_name>FamConnect – Family Communication Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow products or capabilities used:</p>
+<ul><li>App Engine Studio – build the FamConnect application, communication tables, forms, and dashboards</li><li>Flow Designer – automate notifications, escalation, and reminders to staff and family members<br />Service Portal / Mobile App – allow staff to log updates and families to receive updates on mobile devices</li><li>Performance Analytics – track response times, communication frequency, and family satisfaction metrics</li><li>IntegrationHub – optional integration with resident data from EHR or LTC databases<br />Inbound / Outbound REST APIs – enable integration with external systems or secure family notification channels (SMS, email, push)</li><li>Notification &amp; Event Management – push real-time alerts to staff and families during urgent events</li><li>Role-based Access Control (ACLs) – ensure only authorized staff and family members can access resident information</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical dependencies:</p>
+<ul><li>Resident master data and family contact information from EHR or LTC database</li><li>Staff directory or roster for notification routing</li><li>Mobile devices for staff and family access</li><li>Secure communication channels (email, SMS, push notifications)</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Anticipated challenges:</p>
+<ul><li>Ensuring family members are properly onboarded and authenticated for privacy compliance</li><li>Avoiding notification overload while ensuring urgent updates are delivered promptly</li><li>Training staff to log updates consistently in the system</li><li>Integrating with multiple legacy systems that vary between LTC facilities</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 23:25:40</sys_created_on>
+        <sys_id>dd255bb483343210db267230feaad35c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FamConnect – Family Communication Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dd255bb483343210db267230feaad35c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 23:25:42</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

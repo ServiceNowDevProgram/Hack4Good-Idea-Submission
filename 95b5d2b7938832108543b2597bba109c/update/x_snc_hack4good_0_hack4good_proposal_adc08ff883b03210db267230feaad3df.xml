@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The Palliative Assessment Manager would enable staff to digitally assess residents and identify those entering a palliative phase using structured clinical criteria and workflows.</p>
+<p>Measurable impact/value:</p>
+<ul><li>Reduce time to identify residents for palliative review by 40%.</li><li>Improve coordination between nursing, medical, and support staff.</li><li>Ensure 100% of eligible residents receive timely comfort care planning.</li><li>Increase family satisfaction scores through proactive communication.</li><li>Reduce avoidable hospital transfers by capturing early decline indicators.</li></ul>]]></potential_impact>
+        <problem_statement>In community home/long-term care (LTC) and community health settings, early identification of residents who need palliative care is often delayed. Paper-based assessments and inconsistent communication between care teams lead to missed opportunities for comfort-focused interventions. This causes unnecessary suffering for residents, increased distress for families, and inefficient coordination among nurses, physicians, and personal support workers.&#13;
+&#13;
+The current process depends on manual reviews and fragmented documentation, which makes it difficult to track residents’ changing conditions in real time and trigger timely palliative consultations.</problem_statement>
+        <project_name>Palliative Assessment Manager</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow products or capabilities used:<br /><br />App Engine Studio – create the custom Palliative Assessment application, tables, and forms.<br />Flow Designer – automate assessment scoring, review routing, and notifications.<br />Service Portal / Mobile App – allow bedside assessments on tablets or mobile devices.<br />Performance Analytics – monitor metrics such as number of active palliative residents and time to initiate care plans.<br />IntegrationHub (Spokes) – connect with existing EHR or LTC resident systems via REST, HTTP, or CSV spokes.<br />API Designer &amp; Inbound REST APIs – expose endpoints for external systems to send resident updates or request assessment data.<br />Notification &amp; Event Management – push alerts to care teams when assessment scores cross a defined threshold.<br />Data Policies &amp; Access Control Rules – ensure role-based data protection for sensitive health information.<br />Document Management / Attachments – store digital copies of physician notes or family consent forms.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical dependencies:</p>
+<ul><li>Integration with resident data from an Electronic Health Record (EHR) or  PointOfCare(POC) (e.g., CSV import or REST API).</li><li>Role-based access integration with staff directory (Active Directory or local user table).</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Anticipated challenges:</p>
+<ul><li>Aligning assessment criteria with clinical standards used across facilities.</li><li>Ensuring data privacy and HIPAA/PHIPA compliance for sensitive health information.</li><li>Driving adoption among staff who are used to paper-based workflows.</li><li>Managing integration consistency with various LTC systems that differ in structure and data quality.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 22:13:03</sys_created_on>
+        <sys_id>adc08ff883b03210db267230feaad3df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Palliative Assessment Manager</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_adc08ff883b03210db267230feaad3df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 22:13:08</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
