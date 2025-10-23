@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This solution benefits:</p>
+<ol><li>
+<p>Volunteers and bikers who want to stay active and connect with others.</p>
+</li><li>
+<p>Nonprofits and hospitals such as cancer centers, children’s hospitals, and community shelters that receive donations.</p>
+</li><li>
+<p>Local communities that gain awareness and participation in health-driven fundraising events.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Many volunteers and fitness enthusiasts want to contribute to meaningful causes but lack a unified way to combine their passion for biking with community impact. Traditional fundraising often feels disconnected—limited to one-time events, manual coordination, or generic donation links.</problem_statement>
+        <project_name>Ride for Good – The Bikers’ Club App</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Volunteer registration and profile management</p>
+</li><li>
+<p>Event scheduling and real-time ride tracking</p>
+</li><li>
+<p>Fundraising and donation integration with trusted platforms</p>
+</li><li>
+<p>Leaderboards to boost engagement and friendly competition</p>
+</li><li>
+<p>Community wall for updates, inspiration, and impact stories</p>
+</li><li>
+<p>Wellness badges for consistency and milestones</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>ServiceNow Platform: to manage events, user registration, and donations</p>
+</li><li>
+<p>Mobile App Framework / Now Experience UI for an engaging user interface</p>
+</li><li>
+<p>Integration APIs for payment gateways and fitness trackers</p>
+</li><li>
+<p>Gamification &amp; AI insights to motivate users and measure social impact</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Data Integration &amp; Tracking Accuracy – Ensuring reliable sync with multiple fitness trackers (e.g., Strava, Fitbit, Apple Health) and converting physical activity data into validated donation metrics.</p>
+</li><li>
+<p>Donation Transparency &amp; Compliance – Managing secure payments, transparent donation tracking, and ensuring compliance with nonprofit and fundraising regulations.</p>
+</li><li>
+<p>User Engagement Over Time – Sustaining motivation after initial excitement fades; building in gamification, team challenges, and seasonal events will help retain participation.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 21:07:20</sys_created_on>
+        <sys_id>5b38e152c36c7e50e4deb132b4013189</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ride for Good – The Bikers’ Club App</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5b38e152c36c7e50e4deb132b4013189</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 21:07:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

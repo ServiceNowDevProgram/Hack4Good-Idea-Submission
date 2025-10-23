@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>
+<p><strong>50% reduction</strong> in detectable methane leaks at monitored sites (based on drone survey pilots).</p>
+</li><li>
+<p><strong>Millions of tons CO₂e averted annually</strong> at scale (site-dependent; aggregated program-level projection).</p>
+</li><li>
+<p>Faster mitigation: <strong>time-to-fix reduced by 60%</strong> through automated prioritization and dispatch.</p>
+</li><li>
+<p>Tangible ESG reporting: audit-ready records to support carbon credit / offset claims and regulatory compliance.</p>
+</li><li>
+<p>Workforce uplift: improved field-team readiness via VR training; fewer safety incidents.</p>
+</li></ul>]]></potential_impact>
+        <problem_statement>Methane leaks from oil &amp; gas operations are extremely potent climate drivers and often go undetected for long periods. Traditional inspection (man-placed sensors, periodic surveys) is slow and costly, leaving large volumes of CH₄ unreported and unmitigated. Operators need continuous, automated detection and fast, prioritized response to meet ESG goals and regulatory pressure.</problem_statement>
+        <project_name>MethaneSwarm — Drone Swarm Coordinator for Real-time Methane Leak Detection &amp; Response</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>
+<p><strong>Autonomous detection:</strong> Drone swarm equipped with methane sensors and computer-vision / spectral analysis performs routine or triggered surveys. Telemetry streams into ServiceNow via IntegrationHub.</p>
+</li><li>
+<p><strong>Agentic AI triage:</strong> AI Agents analyze sensor data &#43; satellite feeds to confirm leaks, estimate emission rate, and score severity. Agentic workflows autonomously create prioritized incidents with remediation urgency.</p>
+</li><li>
+<p><strong>Orchestration &amp; dispatch:</strong> Field Service Management schedules technician teams or robotic repair units; Flow Designer sequences tasks (isolate valve, apply patch). ITOM logs asset state updates.</p>
+</li><li>
+<p><strong>ESG &amp; compliance integration:</strong> ESG Management and IRM capture verified leak fixes, record timestamps, and create immutable audit trails (blockchain adapter optional) for carbon credit claims and regulator reporting.</p>
+</li><li>
+<p><strong>Training &amp; simulation:</strong> VR modules (linked from the app) simulate leak scenarios to train field crews; SPM/Training records track competency.</p>
+</li><li>
+<p><strong>Analytics &amp; funding intelligence:</strong> Performance Analytics dashboards show emission trends, mitigation ROI, and prepare grant-ready impact reports (e.g., for IRENA/climate funds).</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p>Drone hardware with methane sensors and telemetry APIs (open-standard or vendor SDKs).</p>
+</li><li>
+<p>Low-latency connectivity (edge gateways, 4G/5G, satellite uplinks) or store-and-forward design for remote sites.</p>
+</li><li>
+<p>Integration with site SCADA / asset registries for safety interlocks.</p>
+</li><li>
+<p>Optional blockchain or tamper-evident ledger for verifiable carbon credit records.</p>
+</li><li>
+<p>VR hardware and scenario content for training modules.</p>
+</li><li>
+<p>Agreements with regulators and verifiers for carbon credit acceptance.</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Regulatory approvals for drone swarms (airspace, safety) and cross-jurisdiction ops.</p>
+</li><li>
+<p>Sensor calibration and false-positive filtering (environmental confounders).</p>
+</li><li>
+<p>Security &amp; privacy of telemetry and operational control channels (cyber risk).</p>
+</li><li>
+<p>Integrating legacy OT/SCADA safely with cloud-based workflows.</p>
+</li><li>
+<p>Ensuring verifiable, third-party-accepted evidence for carbon credits (standards alignment).</p>
+</li><li>
+<p>Operational cost and scale—drone ops and maintenance logistics in remote fields.</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 17:46:33</sys_created_on>
+        <sys_id>0f13e16fc368f610b202be3ed4013108</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MethaneSwarm — Drone Swarm Coordinator for Real-time Methane Leak Detection &amp; Response</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0f13e16fc368f610b202be3ed4013108</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 17:46:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

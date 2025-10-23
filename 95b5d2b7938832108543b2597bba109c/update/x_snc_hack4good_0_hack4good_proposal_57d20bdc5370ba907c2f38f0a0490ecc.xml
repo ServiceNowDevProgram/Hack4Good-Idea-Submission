@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This will have very high impact.</p>
+<p>Increases income for both farmers and equipment owners</p>
+<p>Better agricultural yield per acre with use of modern machinery </p>]]></potential_impact>
+        <problem_statement>Many small farmers can’t afford expensive agricultural machinery (tractors, harvesters etc)&#13;
+Lack of access during peak seasons result in lower agricultural returns</problem_statement>
+        <project_name>AgriShare - Agricultural Equipment/Machinary Sharing Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A portal/Mobile app to request/rent Agricultural machinery.</p>
+<p>Regional languages to support local farmers.</p>
+<p>Owner profiles, Farmer profiles.</p>
+<p>Surveys </p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 08:46:21</sys_created_on>
+        <sys_id>57d20bdc5370ba907c2f38f0a0490ecc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AgriShare - Agricultural Equipment/Machinary Sharing Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_57d20bdc5370ba907c2f38f0a0490ecc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 08:46:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

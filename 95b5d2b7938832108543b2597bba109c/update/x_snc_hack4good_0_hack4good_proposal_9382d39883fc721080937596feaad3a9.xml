@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol><li>
+<p>More youth gain verified, real-world experience, boosting employability.</p>
+</li><li>
+<p>Businesses access low-cost, vetted assistants and prospective hires.</p>
+</li><li>
+<p>Trains a skill feedback loop: data collected shows which skills are in demand.</p>
+</li><li>
+<p>Bridges education and industry more tightly, especially in underserved regions.</p>
+</li><li>
+<p>Helps the youths be more productive while reducing their likelihood of entry into vices.</p>
+</li><li>
+<p>Scales across Africa and globally — tasks are universal (digital, admin, small trade assistance).</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Across Nigeria and many African countries, there is a persistent mismatch between what young graduates (or trainees) know and what the local labor market demands. Formal education often leaves students with theoretical knowledge but without exposure to real-work environments or professional soft skills. Traditional apprenticeships exist (for example, the Igbo apprentice system) but are informal and often lack tracking, accountability, or measurable outcomes.&#13;
+Meanwhile, small businesses, artisans, and SMEs often need short-term support (say, for overflow tasks or seasonal assistance) but cannot afford formal full-time hires or internships. They lack a trusted way to onboard and evaluate potential entry-level workers.</problem_statement>
+        <project_name>SkillBridge (School - to - Apprentice Platform)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol style="margin-top: 0in; margin-bottom: 0in;" start="1" type="1"><li style="margin-bottom: 0in; margin-top: 0in; margin-right: 0in; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>SMS / USSD provider integrations.</p>
+</li><li style="margin-bottom: 0in; margin-top: 0in; margin-right: 0in; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Internet / mobile connectivity (though fallback for low-bandwidth).</p>
+</li><li style="margin-bottom: 0in; margin-top: 0in; margin-right: 0in; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Identity verification or endorsements (e.g. school records).</p>
+</li><li style="margin-bottom: 0in; margin-top: 0in; margin-right: 0in; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Hosting, database, and secure storage.</p>
+</li><li style="margin-bottom: 0in; margin-top: 0in; margin-right: 0in; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Optionally, APIs to integrate with training institutions, CV / portfolio systems, or national skill databases.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Trust &amp; Quality Assurance: Ensuring employers produce fair tasks and verify honestly; preventing exploitation.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Incentive alignment: Students need to be motivated (monetary or reputational) even for micro tasks.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Onboarding inertia: getting enough employers and students to make the marketplace viable.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Connectivity gaps: Many rural or low-income users may struggle with app use.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Assessment fairness: Badging must reflect real skill, not just completion.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Sustainability / funding: Platform must generate some income to stay afloat (NGO support) without burdening low-income users.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 10:02:45</sys_created_on>
+        <sys_id>9382d39883fc721080937596feaad3a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillBridge (School - to - Apprentice Platform)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9382d39883fc721080937596feaad3a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 10:02:46</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

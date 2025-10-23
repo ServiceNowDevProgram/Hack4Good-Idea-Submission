@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Bridge the opportunity gap by matching students to programs and internships they may not know exist</li><li>Help students make informed decisions about their education and career path</li><li>Increase participation in early career programs among underserved populations</li><li>Automate and streamline workflows for school career offices, NGOs, or local government programs</li><li>Enable measurable tracking of student engagement and outcome success rates</li></ul>]]></potential_impact>
+        <problem_statement>Many high school and college students especially from underrepresented or low-income backgrounds struggle to:&#13;
+&#13;
+Identify suitable career paths based on their interests and strengths&#13;
+Find internships, scholarships, or training programs&#13;
+Navigate complex application processes&#13;
+Connect with mentors or professionals in their field of interest&#13;
+Career counseling resources are often limited, and students miss out on life-changing opportunities simply due to lack of guidance or access.</problem_statement>
+        <project_name>YouthPath – AI-Guided Career and Internship Navigator for Students</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>We propose a Career Navigation Platform built on ServiceNow with the following features:</p>
+<p>AI-Powered Career Coach (Virtual Agent &#43; GenAI)<br />Students can chat with an AI agent that suggests potential careers, fields of study, or internships based on their skills, interests, and goals.</p>
+<p>Opportunity Matching Engine<br />Uses student profiles to match them with scholarships, internships, apprenticeships, summer programs, and volunteer work.</p>
+<p>Smart Reminders &amp; Application Tracker<br />Students receive automated alerts for deadlines and track their application statuses in one place.</p>
+<p>Mentorship Connection Portal<br />Connects students with mentors, alumni, or professionals (integrated with LinkedIn or local NGO databases).</p>
+<p>Administrative Dashboard<br />Career counselors and program managers can monitor student activity, identify those needing support, and generate impact reports.</p>
+<p><strong>ServiceNow products or capabilities -</strong></p>
+<p>Virtual Agent &#43; Generative AI Studio</p>
+<p>ServiceNow App Engine (for building student dashboards and workflows)</p>
+<p>IntegrationHub (for external data sources like job boards, LinkedIn, or scholarship APIs)</p>
+<p>Case Management (for tracking student support requests)</p>
+<p>Performance Analytics (to measure outcomes and engagement)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>APIs for job/internship databases (e.g., Handshake, LinkedIn, or local government job boards)</p>
+<p>NLP model trained to understand student language, career paths, and educational terms</p>
+<p>User authentication and role-based access for students, mentors, and staff</p>
+<p>Integration with student information systems or educational CRMs</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring the AI provides inclusive, bias-free guidance</p>
+<p>Data privacy and compliance with FERPA or similar laws</p>
+<p>Sustaining up-to-date opportunity listings through external integrations</p>
+<p>Encouraging continuous student engagement with the platform</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 15:13:59</sys_created_on>
+        <sys_id>e24f34ab47e43210d5daa3c9316d43d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>YouthPath – AI-Guided Career and Internship Navigator for Students</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e24f34ab47e43210d5daa3c9316d43d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 15:14:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

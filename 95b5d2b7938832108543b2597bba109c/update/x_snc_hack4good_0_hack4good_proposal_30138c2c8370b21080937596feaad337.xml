@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Increased reach: Convert unmet legal needs into actionable referrals.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Faster assistance: Reduce correspondence time for urgent non-violent cases (target SLA for emergency eviction or service denial).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Local dispute de-escalation: Increase mediated resolutions via local paralegals and reduce escalation to courts for suitable civil disputes.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Transparency &amp; trust: Provide claimants with visible case status, lowering abandonment rates and increasing satisfaction.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>A large share of Nigerians faces serious barriers in accessing legal help for non-violent civil and administrative issues (land disputes, service denial, discrimination, tenancy and consumer complaints). These barriers they face yield these direct consequences:&#13;
+•	People delay or forgo legal remedies because of cost, distance, or complexity.&#13;
+•	It becomes hard to triage and route civil/legal complaints to the right local actor (law clinic, NGO, paralegal, regulatory body).&#13;
+•	It becomes hard for plaintiffs to track case progress or get timely referrals.</problem_statement>
+        <project_name>JusticeAccess (Legal Aid for Non-Violent Legal &amp; Rights Issues)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Partner directory &amp; contact APIs</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Secure cloud hosting and legal-grade data encryption; retention and consent management compliant with Nigeria Data Protection Regulation (NDPR).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Geolocation or LGA mapping service to map hotspots.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Document/photo handling and basic OCR for intake evidence.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Offline-first mobile sync for field paralegals and low-connectivity areas.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Limited partner capacity / slow responses</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Data privacy &amp; consent risks</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>False or malicious reports (fraud/defamation risk)</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Digital divide (digital literacy barriers)</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Reliance on cooperation from formal institutions</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 13:34:33</sys_created_on>
+        <sys_id>30138c2c8370b21080937596feaad337</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>JusticeAccess (Legal Aid for Non-Violent Legal &amp; Rights Issues)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_30138c2c8370b21080937596feaad337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 13:34:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

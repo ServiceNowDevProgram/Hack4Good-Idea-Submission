@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This Career Guide will show all available opportunities one can think about and also it will give detailed information like examinations, preparation procedures, institutions and their fees, job details and benefits to finalize correct career path. For all categories of students in 12th Standard, College graduates (BSc, BCom, BA, BTech, BBA, BCA, MBBS etc.) will get to know about the career and they can decide whether they should start preparing for Government jobs, PhD or master&#39;s or some other domain.</p>]]></potential_impact>
+        <problem_statement>Every year, many students across the world, falls into a situation where they need to decide in which path they should continue for a good career. According to their current qualification, they must be aware of the available career paths and how to sustain in that career. Basically, there are so many opportunities as profession be it UPSC officer, Doctor, Software Engineer, Scientist, Professor, Railway, Bank service etc. that different categories of students can pursue. But that only happens if one has clear idea about the job culture, average salary, pros and cons of that occupation properly. This Career Guide application will be a must try for whom who do not have anyone to guide him or her, also he or she has doubt on parent or someone else's suggestion about career.</problem_statement>
+        <project_name>Career Guide</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Tables that would store details like Qualifications, Career Opportunities, Event Calendar.</p>
+<p>Service Portal or Now Mobile Application for a well-maintained UI.</p>
+<p>Business Rules and Script Includes that would run based on user&#39;s selected qualifications and display returned opportunities after matching.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>HTML, CSS, AngularJS along with Client Controller and Server script for creating widgets on Service Portal.</p>
+<p>Else knowledge of building Now Mobile application required.</p>
+<p>Good understanding of Business Rule, Script Includes is also required.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Need some maintainer or administrator who can regularly check and update the latest procedures and fees in Career Opportunities data. Also, Event Calendar needs to be updated with details like NEET, JEE, UPSC, SSC examination dates, job fair dates, off campus hiring dates, college admission dates etc.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 07:58:57</sys_created_on>
+        <sys_id>07d6f720c3747610b533bb02b4013159</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Career Guide</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_07d6f720c3747610b533bb02b4013159</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 07:58:58</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

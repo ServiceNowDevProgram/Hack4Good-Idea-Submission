@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Higher donation success rate:</strong> Increases successful pickup/drop-off completion rates from <strong>~40% (typical manual efforts)</strong> to <strong>90%&#43;</strong> with scheduling automation.</p>
+<p><strong>Waste reduction:</strong> Diverts thousands of pounds of usable clothing from landfills each year by making donations more accessible and reliable.</p>
+<p><strong>Volunteer efficiency:</strong> Optimizes routes and time slots, reducing redundant travel by <strong>30–40%</strong> through smarter scheduling.</p>
+<p><strong>Community engagement:</strong> Encourages recurring donors through confirmation and feedback loops — measurable in repeat donation frequency.</p>
+<p><strong>Scalability &amp; flexibility:</strong> The same framework can be extended to <strong>food, books, or toys</strong> with minimal configuration, amplifying impact across multiple donation types.</p>]]></potential_impact>
+        <problem_statement>Many people want to donate clothes but end up missing opportunities because donation drives or NGOs don’t have a structured system to coordinate pickups. I myself had this issue several times.&#13;
+Most organizations distribute paper fliers or messages with vague dates and no confirmation, leading to wasted efforts, missed pickups, and donor frustration. At the same time, NGOs often lack visibility into how much they can collect and where the nearest donations are available.</problem_statement>
+        <project_name>ClothConnect – Smarter Clothing Donation Coordination</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ClothConnect would serve as a digital bridge between donors and NGOs that simplifies how donations are scheduled and tracked.</p>
+<p>Donors can log into a simple portal to choose between pickup or drop-off. For pickups, they select an available time slot based on the NGO’s schedule. For drop-offs, they can search for nearby collection centers on a map.</p>
+<p>NGOs can manage pickup routes, volunteer assignments, and item tracking from a centralized dashboard. Automated reminders reduce missed collections, and reports help track total donations, repeat donors, and environmental impact (e.g., kilograms of clothes collected).</p>
+<h3>ServiceNow Products / Capabilities Used</h3>
+<p>App Engine Studio – to build donation scheduling forms, tables, and dashboards.</p>
+<p>Flow Designer – to manage pickup requests, time slot reservations, and volunteer notifications.</p>
+<p>IntegrationHub (Google Maps API) – to locate and display nearby collection centers.</p>
+<p>Service Portal / Mobile App – to provide donors and volunteers with simple access on any device.</p>
+<p>Predictive Intelligence – to recommend optimal pickup windows or areas of high donation activity.</p>
+<p>Performance Analytics – for reporting and measuring donation impact (volume, fulfillment rate, repeat donors).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution will leverage ServiceNow App Engine for workflow automation, Flow Designer and IntegrationHub for scheduling and notifications, and Service Portal for user interaction.</p>
+<p>It may integrate with Google Maps API for location tracking and nearby drop-off searches. ServiceNow Tables will securely store donor and NGO data with ACLs for privacy.</p>
+<p>Optional enhancements include AI-driven pickup optimization and sustainability dashboards to track real-world impact.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring smooth coordination between donors and NGO availability.</p>
+<p>Managing last-minute cancellations or no-shows.</p>
+<p>Need for a simple mobile-friendly UI since many users will access it casually.</p>
+<p>Potential expansion into multi-city support for large NGOs later.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 01:04:17</sys_created_on>
+        <sys_id>6ae3cba34768f21070e8d48f016d43ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ClothConnect – Smarter Clothing Donation Coordination</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6ae3cba34768f21070e8d48f016d43ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:04:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Environmental Benefit: Reduced fuel usage and emissions, contributing to a cleaner environment.</p>
+<p>Social Impact: Strengthens employee bonding, collaboration, and a sense of community.</p>
+<p> </p>
+<p>Economic Impact: Saves money on fuel costs.</p>
+<p>Traffic Reduction: Fewer cars on the road during peak hours, easing urban congestion. (In Indian cities like Bangalore, Average Traffic Time for 20kms is more than 1 hour)</p>]]></potential_impact>
+        <problem_statement>Many employees commute individually to work every day, even when they live or travel along the same route. This leads to increased traffic congestion, high fuel consumption, and a larger carbon footprint.</problem_statement>
+        <project_name>Employee Car Pooling Platform </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A portal and mobile application (Custom Application) to Register, Make themselves a Driver or Rider, Automatically get matched based on route, Push notifications.</p>
+<p>Integration with Google Maps.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 07:01:33</sys_created_on>
+        <sys_id>04aab8fe536072907c2f38f0a0490ef5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee Car Pooling Platform </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_04aab8fe536072907c2f38f0a0490ef5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 07:01:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

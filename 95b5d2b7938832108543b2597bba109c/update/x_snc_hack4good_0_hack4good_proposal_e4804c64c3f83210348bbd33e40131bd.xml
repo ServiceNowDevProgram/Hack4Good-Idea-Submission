@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong><span style="text-decoration: underline;">Target Users:</span></strong></p>
+<ul><li><strong>Employees (requesters):</strong> Raise requests for themselves or family members.</li><li><strong>Donors (employees):</strong> Register their willingness to donate and keep their information updated.</li><li><strong>HR / Admin Coordinators:</strong> Validate requests and monitor fulfilment progress.</li><li><strong>Medical Team (optional):</strong> Verify medical requirements or add doctor’s notes.</li></ul>
+<p><span style="text-decoration: underline;"><strong>Key Features (MVP)</strong></span></p>
+<ol><li>
+<p><strong>Donation Request Form</strong> — Employees can request blood/stem cell donations for themselves or family.</p>
+</li><li>
+<p><strong>Donor Registry</strong> — Employees opt-in and provide blood group, location, and contact preferences.</p>
+</li><li>
+<p><strong>Automated Matching Flow</strong> — Finds best-matched donors (by blood group, proximity, availability).</p>
+</li><li>
+<p><strong>Notifications</strong> — Sends immediate notifications (email/SMS/Teams/WhatsApp) to matched donors.</p>
+</li><li>
+<p><strong>Tracking &amp; Updates</strong> — Coordinator updates request status (Matched, In Progress, Fulfilled, Closed).</p>
+</li><li>
+<p><strong>Privacy &amp; Consent Controls</strong> — Donor data shown only to authorized HR/medical users.</p>
+</li><li>
+<p><strong>Reports &amp; Dashboards</strong> — Metrics: requests raised, matches found, fulfilment rate, average response time.</p>
+</li></ol>
+<p><span style="text-decoration: underline;"><strong>Future Enhancements</strong></span></p>
+<ul><li>Integration with verified external donor registries (e.g., Red Cross, DATRI for stem cells).</li><li>Geo-tagging for nearest donor match.</li><li>Health card upload and donor history tracking.</li><li>AI-powered matching for rare blood groups.</li></ul>]]></potential_impact>
+        <problem_statement>During medical emergencies, employees and their immediate family members often struggle to find compatible donors quickly.&#13;
+HR or admin teams manually coordinate through calls, chat groups, or spreadsheets — leading to delays, duplication, and privacy risks.&#13;
+&#13;
+There’s no single trusted, compliant, and automated system within most organizations to manage this crucial process efficiently.</problem_statement>
+        <project_name>LifeLink</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The <em>LifeLink</em> application will consist of three main custom tables, each serving a distinct purpose in managing and tracking the blood and stem cell donation process.</p>
+<p><strong>a. Blood/Stem Cell Request Table — <code>x_lifelink_request</code></strong><br />This table stores all donation requests raised by employees for themselves or their immediate family members.<br />Each record represents one request, containing details such as:</p>
+<ul><li><strong>Requester:</strong> The employee who raises the request.</li><li><strong>Patient Name:</strong> The individual in need of the donation.</li><li><strong>Relation:</strong> Defines the patient’s relation to the requester (Self, Spouse, Parent, Child, etc.).</li><li><strong>Blood Group:</strong> The required blood type for matching donors.</li><li><strong>Type:</strong> Specifies whether the request is for <em>Blood</em>, <em>Plasma</em>, or <em>Stem Cells</em>.</li><li><strong>Hospital Name:</strong> The medical facility where the donation is needed.</li><li><strong>Urgency Level:</strong> Indicates the priority of the request (Critical, High, Medium, Low).</li><li><strong>Location:</strong> City or area where the donation should take place.</li><li><strong>Status:</strong> Tracks the progress of the request (New, Matching, In Progress, Fulfilled, Closed).</li></ul>
+<p>This table acts as the central hub of the app, from which all matching, notifications, and fulfilment actions are triggered.</p>
+<hr />
+<p><strong>b. Donor Registry Table — <code>x_lifelink_donor</code></strong><br />This table maintains a list of employees who have volunteered to donate blood or stem cells.<br />Each record holds key information needed for matching and communication, including:</p>
+<ul><li><strong>Employee:</strong> Reference to the registered donor (linked to the <code>sys_user</code> table).</li><li><strong>Blood Group:</strong> Used for matching compatible requests.</li><li><strong>City:</strong> Indicates the donor’s current location for proximity-based matching.</li><li><strong>Available From / Available To:</strong> Defines the donor’s availability window.</li><li><strong>Consent Flag:</strong> Confirms the donor’s consent for data use and for being contacted during emergencies.</li></ul>
+<p>This registry enables automatic matching through Flow Designer and supports real-time filtering of eligible donors.</p>
+<hr />
+<p><strong>c. Match Record Table — <code>x_lifelink_match</code></strong><br />This table links donation requests with one or more matching donors.<br />Each record captures:</p>
+<ul><li><strong>Linked Request:</strong> Reference to the related record in <code>x_lifelink_request</code>.</li><li><strong>Linked Donor:</strong> Reference to the corresponding record in <code>x_lifelink_donor</code>.</li><li><strong>Status:</strong> Indicates the current state of the match (Pending, Contacted, Confirmed, Fulfilled, Declined).</li><li><strong>Notes:</strong> Used to record follow-up actions, communication details, or medical notes.</li><li><strong>Verified By:</strong> The HR or medical team member who validated the match.</li></ul>
+<p>This table provides traceability and ensures transparency across the donation process.<br /><br />Using <strong>flow designer </strong>we can build a flow to intake the request, notify the HR of the requestor regarding the request, triage matching donors who are nearby to the requestor and inform the requestor with the details of the donors with donor&#39;s consent and finally track the donor&#39;s confirmation and fulfillment of the request.<br /><br />We can also make a <strong>dashboard </strong>that showcase the no. of active, in-progress/ fulfilled requests and <strong>workspace </strong>to the HR team for these requests. Also, The portal is built using <strong>Service Portal</strong> or <strong>Next Experience Workspace</strong>, designed with a user-friendly form layout and guided steps.   </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Donor availability and accuracy<br /><br /></li><li>Data Privacy and Consent</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 13:25:14</sys_created_on>
+        <sys_id>e4804c64c3f83210348bbd33e40131bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LifeLink</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e4804c64c3f83210348bbd33e40131bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 13:25:17</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

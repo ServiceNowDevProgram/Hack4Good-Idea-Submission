@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduce maternal deaths by 40%, identify high-risk pregnancies 60-90 days earlier, decrease emergency C-sections by 30%, improve prenatal care attendance by 50%, and save around 300,000&#43; lives annually. </p>]]></potential_impact>
+        <problem_statement>800+ women die daily from preventable pregnancy/childbirth complications, with 94% occurring in low-resource settings. Healthcare providers lack tools to predict high-risk pregnancies early, leading to delayed interventions and preventable maternal deaths.</problem_statement>
+        <project_name>MaternalGuard AI: Early Detection for Maternal Health Equity</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>ServiceNow Capabilities:</strong> Predictive Intelligence, Case Management, Integration Hub, Mobile Agent, Virtual Agent, Performance Analytics</p>
+<p> </p>
+<p><strong>Core Features:</strong></p>
+<ul><li><strong>Predictive Intelligence</strong> analyzes patient data (vitals, lab results, medical history, demographics) to generate risk scores for complications (preeclampsia, hemorrhage, eclampsia)</li><li><strong>Case Management</strong> creates high-risk pregnancy cases with automated care protocols and milestone tracking</li><li><strong>Mobile Agent</strong> enables community health workers to collect vitals and risk assessments during home visits in remote areas</li><li><strong>Virtual Agent</strong> provides 24/7 pregnancy guidance, danger sign education, and emergency triage via SMS/WhatsApp for low-literacy populations</li><li><strong>Integration Hub</strong> connects with electronic health records, lab systems, and national maternal health registries</li><li><strong>Automated Alerts</strong> notify providers when risk scores exceed thresholds, triggering early intervention protocols</li><li><strong>Performance Analytics</strong> tracks maternal outcomes, intervention effectiveness, and identifies high-risk geographic clusters</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration Hub for EHR/EMR systems, lab information systems, mobile health platforms</li><li>Predictive Intelligence trained on maternal health outcome datasets (WHO, local health data)</li><li>SMS/WhatsApp integration for low-connectivity areas</li><li>Offline mobile capability for remote community health workers</li><li>Multi-language support for diverse populations</li><li>HIPAA/GDPR compliance for health data privacy</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Training accurate AI models with limited historical data in developing regions, ensuring cultural sensitivity in pregnancy guidance, integrating with fragmented healthcare systems, and maintaining patient data privacy would probably the challenges in implementing this idea.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 08:05:49</sys_created_on>
+        <sys_id>695d0985933432104a52385efaba10a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MaternalGuard AI: Early Detection for Maternal Health Equity</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_695d0985933432104a52385efaba10a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 08:05:50</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

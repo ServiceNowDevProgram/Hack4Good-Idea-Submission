@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Increased inclusion for persons with disabilities and low literacy.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Reduced submission errors, faster processing, fewer rejections.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Lower burden on citizen to re-enter repeated personal data.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Efficient workflow for government agencies (fewer manual corrections).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Trust in e-government services increases.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Scalability: can be adapted across Africa and globally; governments can plug in their form schemas.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>As Nigeria and many governments digitise services (e.g., via services.gov.ng), citizens face barriers in using online forms due to poor accessibility, complexity, and repeated data entry.&#13;
+Some citizens have low literacy, disabilities (visual impairment, motor challenges), or limited digital skills. Filling forms become daunting, error-prone, and exclusionary. Therefore: Many are excluded from e-government services, errors in submissions cause delays, rejections, or frustration and government workflows suffer inefficiencies and high rejection rates.</problem_statement>
+        <project_name>AccessForms (Accessibility Tool for Statutory and Government Forms)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Access to government form APIs or endpoints (or ability to embed via HTTP).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>OCR / document scanning / optical character recognition library.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Speech synthesis / voice guidance engine &#43; local language support.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Secure profile data storage / encryption.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Mobile / web interface design.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Offline data queuing / sync logic.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol style="margin-bottom: 0in; margin-top: 0px;"><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Government API access / cooperation: Some forms may not be exposed or may reject proxy submissions.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Language coverage: Voice guidance must support multiple Nigerian / African languages.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>OCR accuracy: Poor camera quality or lighting can reduce extraction accuracy.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Data privacy &amp; consent: Must manage users’ trust and ensure legal compliance (e.g. Nigeria Data Protection Regulation).</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>User training / adoption: Some citizens may resist using a new interface.</p>
+</li><li style="margin: 0in 0in 0in 0px; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">
+<p>Maintenance of form templates: Government forms change; templates must be updated actively.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 10:59:03</sys_created_on>
+        <sys_id>0e11af1c8370b21080937596feaad314</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AccessForms (Accessibility Tool for Statutory and Government Forms)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0e11af1c8370b21080937596feaad314</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 10:59:04</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
