@@ -34,20 +34,21 @@
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:41:29</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>6cc140249350f2108543b2597bba10ac</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>H4G: Populate solution proposal</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
         <sys_update_name>sys_hub_flow_6cc140249350f2108543b2597bba10ac</sys_update_name>
-        <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
-        <sys_updated_on>2025-09-28 09:49:22</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 00:00:13</sys_updated_on>
         <type>flow</type>
         <updation_source/>
         <version>2</version>
-        <version_record display_value="Created 2025-09-28 02:49:19">6696fc0547107210e52659db416d436c</version_record>
+        <version_record/>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=6cc140249350f2108543b2597bba10ac"/>
     <sys_variable_value action="delete_multiple" query="document_key=6cc140249350f2108543b2597bba10ac"/>
@@ -69,14 +70,11 @@
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-28 09:49:18</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d696fc0547107210e52659db416d4332</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:49:18</sys_updated_on>
         <table>x_snc_hack4good_0_hack4good_proposal</table>
@@ -101,16 +99,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>6cc140249350f2108543b2597bba10ac</id>
         <name>H4G: Populate solution proposal</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:41:29</sys_created_on>
         <sys_id>bcc140249350f2108543b2597bba10ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:41:29</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -325,11 +318,7 @@
         <sys_created_on>2025-09-27 19:17:12</sys_created_on>
         <sys_id>13feedf8935c36108543b2597bba103e</sys_id>
         <sys_mod_count>5</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:51:36</sys_updated_on>
         <ui_id>f1b096e9-7fe5-4052-8a5d-c6304c82b8c6</ui_id>
@@ -353,11 +342,7 @@
         <sys_created_on>2025-09-26 16:43:22</sys_created_on>
         <sys_id>1832cc249350f2108543b2597bba10b0</sys_id>
         <sys_mod_count>26</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:51:36</sys_updated_on>
         <ui_id>bdd0073d-822d-4d04-af32-cbaf7284ffb4</ui_id>
@@ -386,11 +371,7 @@
         <sys_created_on>2025-09-28 09:20:02</sys_created_on>
         <sys_id>e9ef6c0947dc3210e52659db416d43eb</sys_id>
         <sys_mod_count>51</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:49:16</sys_updated_on>
         <ui_id>51bde0d8-3859-48cf-9f60-aa98c5911da9</ui_id>
@@ -747,11 +728,11 @@
         <sys_created_on>2025-09-26 16:41:29</sys_created_on>
         <sys_id>b4c140249350f2108543b2597bba10ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_6cc140249350f2108543b2597bba10ac_current_en</sys_update_name>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:41:29</sys_updated_on>
         <url/>
@@ -770,11 +751,11 @@
         <sys_created_on>2025-09-26 16:41:29</sys_created_on>
         <sys_id>f4c140249350f2108543b2597bba10f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_6cc140249350f2108543b2597bba10ac_table_name_en</sys_update_name>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:41:29</sys_updated_on>
         <url/>
@@ -811,6 +792,7 @@
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:43:43</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>654240649350f2108543b2597bba10ef</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name/>
@@ -831,16 +813,11 @@
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
         <id>654240649350f2108543b2597bba10ef</id>
         <name>H4G: Populate solution proposal</name>
-        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:43:43</sys_created_on>
         <sys_id>654240649350f2108543b2597bba10f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:43:43</sys_updated_on>
     </sys_flow_cat_variable_model>
@@ -1055,11 +1032,7 @@
         <sys_created_on>2025-09-28 09:38:31</sys_created_on>
         <sys_id>1024700147107210e52659db416d43cd</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:38:47</sys_updated_on>
         <ui_id>f1b096e9-7fe5-4052-8a5d-c6304c82b8c6</ui_id>
@@ -1083,11 +1056,7 @@
         <sys_created_on>2025-09-26 16:43:44</sys_created_on>
         <sys_id>654280649350f2108543b2597bba1032</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:38:47</sys_updated_on>
         <ui_id>bdd0073d-822d-4d04-af32-cbaf7284ffb4</ui_id>
@@ -1116,11 +1085,7 @@
         <sys_created_on>2025-09-28 09:38:31</sys_created_on>
         <sys_id>5024700147107210e52659db416d43ce</sys_id>
         <sys_mod_count>16</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:49:17</sys_updated_on>
         <ui_id>51bde0d8-3859-48cf-9f60-aa98c5911da9</ui_id>
@@ -1477,11 +1442,11 @@
         <sys_created_on>2025-09-26 16:43:44</sys_created_on>
         <sys_id>2d4280649350f2108543b2597bba100e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_654240649350f2108543b2597bba10ef_table_name_en</sys_update_name>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:43:44</sys_updated_on>
         <url/>
@@ -1500,11 +1465,11 @@
         <sys_created_on>2025-09-26 16:43:44</sys_created_on>
         <sys_id>694240649350f2108543b2597bba10fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_654240649350f2108543b2597bba10ef_current_en</sys_update_name>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-26 16:43:44</sys_updated_on>
         <url/>
@@ -1524,18 +1489,14 @@
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"754280649350f2108543b2597bba1056","name":"plan","plan_signature":null}}</plan>
         <plan_id>6cc140249350f2108543b2597bba10ac</plan_id>
         <snapshot>44273c4547107210e52659db416d4393</snapshot>
-        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-26 16:43:44</sys_created_on>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>754280649350f2108543b2597bba1056</sys_id>
         <sys_mod_count>9</sys_mod_count>
-        <sys_name/>
         <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
-        <sys_update_name/>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-28 09:49:18</sys_updated_on>
         <trigger display_value="">d696fc0547107210e52659db416d4332</trigger>

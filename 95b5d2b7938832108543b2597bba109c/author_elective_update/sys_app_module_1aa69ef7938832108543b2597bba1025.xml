@@ -67,7 +67,7 @@
         <update_guid_history>5ea69ef70e883210fb9df240d7645c27:1757600245</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Hack4Good Ideas">f05aae4d93d032108543b2597bba106e</sys_audit_delete>
+        <sys_audit_delete display_value="">f05aae4d93d032108543b2597bba106e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-28 18:14:56</sys_created_on>
