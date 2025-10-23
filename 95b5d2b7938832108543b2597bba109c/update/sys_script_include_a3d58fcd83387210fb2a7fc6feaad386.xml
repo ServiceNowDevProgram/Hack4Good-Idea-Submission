@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_hack4good_0.dnPolicyActionHelper</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description>Utils to assist UI policy Accelerator.</description>
+        <mobile_callable>false</mobile_callable>
+        <name>dnPolicyActionHelper</name>
+        <sandbox_callable>true</sandbox_callable>
+        <script><![CDATA[/**
+ * This script include is used to assist for UI Policy Accelerator
+ * All the functions should be created and updated in this script include
+ *
+ * @class dnPolicyActionHelper
+ * @extends AbstractAjaxProcessor(client callable)
+ * Created by - Deepak Negi
+ */
+var dnPolicyActionHelper = Class.create();
+dnPolicyActionHelper.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    /**
+     * Return true if the logged in user has access to create poilcy actions for forms.
+     *
+     * @returns true if the property to display the UI Action is enabled.
+     */
+
+    canCreateActionsSC: function() {
+        return (gs.hasRole("admin") && gs.getProperty("dn.uipa.enable.sc_custom")) && parent.getTableName() == "catalog_ui_policy";
+    },
+
+    /**
+     * Return true if the logged in user has access to create poilcy actions for catalog.
+     *
+     * @returns true if the property to display the UI Action is enabled.
+     */
+    canCreateActionsForm: function() {
+        return (gs.hasRole("admin") && gs.getProperty("dn.uipa.enable.forms_custom") && parent.getTableName() == "sys_ui_policy");
+    },
+    /**
+     * Create the poilcy actions for forms in sys_ui_policy_action table.
+     *
+     * @returns the actions selected by the admin are created.
+     */
+    submitActions: function() {
+        var jsonData = JSON.parse(this.getParameter('dn_actionData'));
+        var policy = this.getParameter('dn_policy');
+        for (var i in jsonData) {
+            var action = new GlideRecord("sys_ui_policy_action");
+            action.newRecord();
+            action.setValue('ui_policy', policy);
+            action.setValue('field', jsonData[i].field);
+            action.setValue('disabled', jsonData[i].value.disabled);
+            action.setValue('visible', jsonData[i].value.visible);
+            action.setValue('mandatory', jsonData[i].value.mandatory);
+            action.setValue('cleared', jsonData[i].value.cleared);
+            action.insert();
+        }
+    },
+    /**
+     * Create the poilcy actions for catalogs in catalog_ui_policy_action table.
+     *
+     * @returns the actions selected by the admin are created.
+     */
+    submitActionsSC: function() {
+        var jsonData = JSON.parse(this.getParameter('dn_actionData'));
+        var scObj = JSON.parse(this.getParameter('dn_sc_obj'));
+        var policy = this.getParameter('dn_policy');
+        for (var i in jsonData) {
+            var action = new GlideRecord("catalog_ui_policy_action");
+            action.newRecord();
+            action.setValue('ui_policy', policy);
+            action.setValue(scObj.target, scObj.targetVal);
+            action.setValue('catalog_variable', jsonData[i].variable);
+            action.setValue('disabled', jsonData[i].value.disabled);
+            action.setValue('visible', jsonData[i].value.visible);
+            action.setValue('mandatory', jsonData[i].value.mandatory);
+            action.setValue('cleared', jsonData[i].value.cleared);
+            action.insert();
+        }
+    },
+    type: 'dnPolicyActionHelper'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 16:46:40</sys_created_on>
+        <sys_id>a3d58fcd83387210fb2a7fc6feaad386</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>dnPolicyActionHelper</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>sys_script_include_a3d58fcd83387210fb2a7fc6feaad386</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 16:47:20</sys_updated_on>
+    </sys_script_include>
+</record_update>
