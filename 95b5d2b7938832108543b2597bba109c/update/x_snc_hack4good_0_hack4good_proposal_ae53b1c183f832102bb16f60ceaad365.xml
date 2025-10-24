@@ -12,7 +12,8 @@
         <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
 <p> </p>
 <h3>Which ServiceNow products or capabilities would be used?</h3>
-<p></p><p>Students will wear smartwatches connected to a ServiceNow-based app. Throughout the day, they can award points to peers for helpful behavior, collaboration, or kindness. These points are logged and visible to teachers via dashboards.</p>
+<p> </p>
+<p>Students will wear smartwatches connected to a ServiceNow-based app. Throughout the day, they can award points to peers for helpful behavior, collaboration, or kindness. These points are logged and visible to teachers via dashboards.</p>
 <p>Teachers can monitor student friend circles and social dynamics based on peer interactions. Academic performance data will also be tracked across subjects. If a student is underperforming in a specific area, the system will automatically schedule a one-on-one meeting with their parents and suggest a personalized learning plan.</p>
 <p>For subjects where the student struggles, a <strong>slow-paced learning approach</strong> will be recommended. For subjects they enjoy, the system will encourage deeper exploration. This ensures that students stay motivated and supported.</p>
 <p>Performance Analytics will help teachers and administrators visualize trends in behavior, academic growth, and social engagement. Virtual Agent can guide teachers and parents through insights and recommendations.</p>
@@ -22,23 +23,25 @@
 <p> </p>
 <hr style="border-top: 3px solid #bbb;" />
 <h3>Are there any technical dependencies for the proposed solution?</h3>
-<p></p><ul><li>Integration with smartwatch APIs for peer point tracking</li><li>Secure handling of student data and behavioral logs</li><li>Integration with school academic systems for performance tracking</li><li>Notification system for real-time alerts and meeting coordination</li><li>AI-based recommendation engine for personalized learning paths</li></ul>
+<p> </p>
+<ul><li>Integration with smartwatch APIs for peer point tracking</li><li>Secure handling of student data and behavioral logs</li><li>Integration with school academic systems for performance tracking</li><li>Notification system for real-time alerts and meeting coordination</li><li>AI-based recommendation engine for personalized learning paths</li></ul>
 <p> </p>
 <hr style="border-top: 3px solid #bbb;" />
 <h3>What challenges would you foresee in implementing this idea?</h3>
-<p></p><ul><li>Ensuring privacy and ethical use of student data</li><li>Encouraging consistent use of peer points and smartwatches</li><li>Managing bias or misuse of peer recognition</li><li>Coordinating with parents and school systems for interventions</li><li>Scaling the platform across different schools and regions</li><li>Providing actionable insights without overwhelming teachers</li></ul>]]></solution_proposal>
+<p> </p>
+<ul><li>Ensuring privacy and ethical use of student data</li><li>Encouraging consistent use of peer points and smartwatches</li><li>Managing bias or misuse of peer recognition</li><li>Coordinating with parents and school systems for interventions</li><li>Scaling the platform across different schools and regions</li><li>Providing actionable insights without overwhelming teachers</li></ul>]]></solution_proposal>
         <state>submitted</state>
         <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-23 10:48:10</sys_created_on>
         <sys_id>ae53b1c183f832102bb16f60ceaad365</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>EduPulse – Smart Behavior &amp; Performance Tracker for Schools</sys_name>
         <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
         <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ae53b1c183f832102bb16f60ceaad365</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-23 10:48:12</sys_updated_on>
+        <sys_updated_on>2025-10-24 08:13:17</sys_updated_on>
     </x_snc_hack4good_0_hack4good_proposal>
 </record_update>
