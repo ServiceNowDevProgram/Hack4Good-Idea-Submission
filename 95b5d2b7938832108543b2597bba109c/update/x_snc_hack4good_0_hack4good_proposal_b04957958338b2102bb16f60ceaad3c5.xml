@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A localized donation and resale platform can:</p>
+<ul><li>Reduce waste by promoting reuse of household items.</li><li>Help people in need access affordable or free resources.</li><li>Foster community bonding and mutual support.</li><li>Encourage sustainable living and responsible consumption.</li></ul>
+<p><strong>Measurable outcomes:</strong></p>
+<ul><li>500&#43; items reused or donated in the first 6 months.</li><li>70% of users engage in at least one transaction.</li><li>Reduction in household waste by measurable volume.</li><li>Increased community interaction and satisfaction.</li></ul>]]></potential_impact>
+        <problem_statement>When people move homes or declutter, they often discard usable items like books, furniture, electronics, or clothing due to the lack of a simple, local platform for donation or resale. This leads to unnecessary waste and missed opportunities for others who may need these items but cannot afford them. There is a need for a community-centric solution that connects people within the same locality to share resources easily and responsibly.</problem_statement>
+        <project_name>ShareCircle – Community Reuse &amp; Donation Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Service Portal</strong> – for user registration, item listing, and browsing</li><li><strong>Record Producer</strong> – to collect user details and preferences</li><li><strong>Catalog Item / Custom Table</strong> – for item listings with donation/sale options</li><li><strong>Flow Designer</strong> – to automate grouping, notifications, and voting logic</li><li><strong>Virtual Agent</strong> – for location suggestions and voting interactions</li><li><strong>Notification Engine</strong> – to alert nearby users about new listings and pickup details</li><li><strong>Performance Analytics</strong> – to track reuse metrics, popular items, and user engagement</li><li><strong>IntegrationHub</strong> – for optional map integration and external messaging services</li><li><strong>Survey Management</strong> – for post-transaction feedback and platform improvement</li><li><strong>Now Mobile (optional)</strong> – for mobile access to listings and notifications</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with mapping APIs (e.g., Google Maps) for pickup location coordination</li><li>Secure data handling for user location and contact details</li><li>Notification system (email/SMS/push) for real-time alerts</li><li>Dynamic grouping logic based on pincode</li><li>Optional integration with payment gateways (for resale transactions)</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring accurate and safe location-based grouping</li><li>Verifying item availability and transaction completion</li><li>Encouraging consistent user participation and trust</li><li>Managing disputes or issues between users</li><li>Scaling the platform across multiple regions</li><li>Ensuring data privacy and secure communication</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 12:51:05</sys_created_on>
+        <sys_id>b04957958338b2102bb16f60ceaad3c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ShareCircle – Community Reuse &amp; Donation Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b04957958338b2102bb16f60ceaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 12:51:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
