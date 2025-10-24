@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>SafeVoice provides a secure, anonymous reporting system that connects survivors with verified legal, medical, and counseling services.<br />Cases are triaged to the right agency, and survivors can safely track their case progress without revealing identity.</p>]]></potential_impact>
+        <problem_statement>Survivors of gender-based violence face stigma and lack safe, anonymous reporting systems.</problem_statement>
+        <project_name>SafeVoice: Confidential Gender Base Violence Reporting &amp; Support Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p> </p>
+<ul><li><strong>Case Management</strong>-manage and route confidential reports.</li><li><strong>Flow Designer</strong> - automate triage to appropriate responders.</li><li><strong>Knowledge Base</strong>-provide verified resources and survivor guides.</li><li><strong>Virtual Agent</strong> -confidential chatbot for safe, discreet interaction.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Data encryption, anonymous login, no phone/email required, geolocation for nearby support centers, and multi-language support.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring data confidentiality and user trust.</li><li>Potential impact (measurable):</li><li>500&#43; survivors receive timely help</li><li>Increased public awareness of GBV reporting options</li><li>Supports SDG 5 (Gender Equality)</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 00:25:52</sys_created_on>
+        <sys_id>73c4e09d9334f2101ec27ee32bba100c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeVoice: Confidential Gender Base Violence Reporting &amp; Support Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_73c4e09d9334f2101ec27ee32bba100c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 00:25:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
