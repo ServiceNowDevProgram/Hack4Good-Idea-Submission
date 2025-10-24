@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>AgriLink is a ServiceNow-powered digital marketplace and supply-chain visibility platform connecting small farmers directly with urban buyers, food processors, and NGOs.</li><li>Farmers list harvests via mobile (or through local agents).</li><li>Buyers can verify product origin, quality, and pricing in real time.</li><li>AI-based demand forecasts and logistics matching reduce waste and transport inefficiency.</li></ul>]]></potential_impact>
+        <problem_statement>Smallholder farmers in Nigeria produce most of the nation’s food, yet they earn the least.&#13;
+They face:&#13;
+Limited access to buyers and fair prices.&#13;
+Post-harvest losses due to poor logistics.&#13;
+Lack of transparency in middlemen transactions.&#13;
+No digital record of produce quality or reliability.</problem_statement>
+        <project_name>FarmBridge -Connecting Farmers to Markets</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>App Engine Studio - </strong>build farmer profiles, listings, and transaction workflows.</p>
+<p><strong>IntegrationHub - </strong>connect to logistics APIs (e.g., GIG Logistics, Kobo360) and payment gateways.</p>
+<p><strong>Flow Designer - </strong>automate order matching and delivery coordination.</p>
+<p><strong>Performance Analytics - </strong>dashboards showing farm-to-market times and waste reduction metrics.</p>
+<p><strong>Customer Service Management (CSM)</strong>- support farmers and buyers.</p>
+<p><strong>Mobile App - </strong>enable access for rural farmers with low bandwidth.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with SMS/USSD for farmers without smartphones.</li><li>Payment APIs (e.g., Flutterwave) for secure transactions.</li><li>GIS or Google Maps API for farm-to-market route optimization.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Onboarding farmers in low-digital-literacy areas.</li><li>Ensuring fair price transparency and trust between farmers and buyers.</li><li>Reliable last-mile logistics.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 18:15:42</sys_created_on>
+        <sys_id>84e124a193bc36101ec27ee32bba1063</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FarmBridge -Connecting Farmers to Markets</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_84e124a193bc36101ec27ee32bba1063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 18:15:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
