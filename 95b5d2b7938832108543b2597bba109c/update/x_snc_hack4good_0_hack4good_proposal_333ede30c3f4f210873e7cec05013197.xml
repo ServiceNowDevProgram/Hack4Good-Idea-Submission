@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">PulseAid would transform how communities deliver care and support by bringing speed, visibility, and intelligence into every response.</p>
+<ol><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Faster Response Time: By automating alerts and matching cases to nearby NGOs or volunteers, emergency assistance can be delivered up to 40% faster than manual coordination.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Smarter Collaboration: Connects multiple NGOs, hospitals, and volunteers on one platform, eliminating duplicate efforts and ensuring resources reach the right people.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> Data Driven Decisions: Real-time dashboards help organizations see where help is needed most, improving planning and funding allocation.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Improved Community Wellbeing: Early detection of crises and timely interventions reduce harm and save lives, building trust and resilience within vulnerable communities.</li></ol>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">PulseAid shifts NGO response from reactive to proactive, making care predictable, coordinated, and measurable.</p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> </p>]]></potential_impact>
+        <problem_statement>Every day, communities face silent emergencies  a sick child without access to care, an elderly person living alone, a volunteer group overwhelmed by requests for help.&#13;
+Nonprofit organizations and social workers want to respond faster, but their efforts are often scattered across spreadsheets, phone calls, and disconnected systems.&#13;
+This lack of coordination means that critical needs go unseen, resources overlap, and people in real distress wait too long for the help they deserve.&#13;
+There’s an urgent need for a real-time intelligence system that can connect care providers, volunteers, and local communities in one network  turning scattered data into actionable care when it matters most.</problem_statement>
+        <project_name>PulseAid — Real-Time Community Care Intelligence Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">The ideal PulseAid solution would function as a unified crisis coordination and case management platform built on ServiceNow. It would bring together NGOs, healthcare responders, and volunteers into one connected ecosystem where information, alerts, and actions flow seamlessly.</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">ServiceNow Case Management To automatically create and assign “care cases” whenever a community alert or emergency report is logged.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> Field Service Management (FSM) To deploy and track on-ground volunteers and resources in real time.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> Performance Analytics To measure response times, resource utilization, and impact metrics across multiple NGOs and regions.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Integration Hub  To connect external systems like SMS alerts, social platforms, and community apps for quick communication.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> AI Search &amp; Virtual Agent To help NGOs and citizens get instant answers, report emergencies, or find available support channels using natural language.</li></ul>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">PulseAid would be built to ensure transparency, coordination, and accountability, turning ServiceNow into a social impact powerhouse that helps communities heal faster and stronger.</p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">ServiceNow Dependencies:</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"><em>Now Platform App Engine</em> for building the core PulseAid workflow and case management modules.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"><em>ServiceNow Integration Hub</em> for connecting to external NGO and government systems through REST APIs.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"><em>Flow Designer</em> for automating health case escalation, volunteer assignments, and response notifications.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"><em>Performance Analytics</em> for real-time health trend tracking and visualization.</li></ul>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> External Dependencies:</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">APIs from local and global health organizations (e.g., WHO, UNICEF) for verified outbreak and resource data.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Mobile or SMS gateway integration to reach field workers in remote areas with low internet access.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Cloud hosting and data storage for large-scale case tracking and analytics.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Implementing <em>PulseAid</em> could face several challenges:</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Data Accuracy and Verification: Ensuring that health and community reports submitted by volunteers or citizens are valid and not duplicated.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Integration Complexity: Connecting the system with multiple NGO and government data sources may require extensive API coordination and compliance checks.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Infrastructure Limitations: Some rural areas may lack reliable internet access, which can affect real-time data submission and communication.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">User Adoption: Encouraging NGOs and field workers to adopt and consistently use the system may require training and awareness campaigns.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Data Privacy and Security: Safeguarding sensitive health and community data while adhering to international data protection standards.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 19:42:58</sys_created_on>
+        <sys_id>333ede30c3f4f210873e7cec05013197</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PulseAid — Real-Time Community Care Intelligence Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_333ede30c3f4f210873e7cec05013197</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 19:43:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

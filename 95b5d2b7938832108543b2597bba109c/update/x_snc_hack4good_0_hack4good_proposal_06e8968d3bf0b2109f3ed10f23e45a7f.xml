@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Streamlined volunteer support processes, faster onboarding, and better resource management.</p>]]></potential_impact>
+        <problem_statement>Large volunteer organizations lack an ITSM-style helpdesk for managing volunteer requests, onboarding, and issue resolution.</problem_statement>
+        <project_name>Volunteer Service Desk</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow ITSM-based portal for volunteers to raise tickets (e.g., access requests, equipment needs, event queries). It can include knowledge articles, chatbots, and SLA-based resolution tracking.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>ITSM</p>
+<p>Knowledge Management</p>
+<p>Virtual Agent</p>
+<p>Service Portal/Catalog</p>
+<p>HR or CRM data integration for volunteer user profiles.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Adapting ITSM workflows to non-IT volunteer contexts.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 13:34:52</sys_created_on>
+        <sys_id>06e8968d3bf0b2109f3ed10f23e45a7f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Volunteer Service Desk</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_06e8968d3bf0b2109f3ed10f23e45a7f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 13:34:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

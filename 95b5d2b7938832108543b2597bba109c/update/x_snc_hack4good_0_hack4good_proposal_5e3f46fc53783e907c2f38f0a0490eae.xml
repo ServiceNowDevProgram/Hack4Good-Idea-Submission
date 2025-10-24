@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>It can empower local vendors/small business </p>
+<p>Reduces operation costs and increases Revenue </p>]]></potential_impact>
+        <problem_statement>ServiceNow is known for its powerful workflow automation and enterprise-level capabilities.&#13;
+However, small and medium-sized businesses (SMBs) — such as local hotels, schools, clinics, and small retailers</problem_statement>
+        <project_name>ServiceNow for Small Business - Plug and Play Mobile App</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Plug and play mobile apps build in ServiceNow, Simple and affordable license model as same App can be rolled to 100s of customers based on type of business.</p>
+<p>No complex customisations, just simple OOB configurations</p>
+<p>They can use mobile application for forms, notifications and assignments</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 18:13:56</sys_created_on>
+        <sys_id>5e3f46fc53783e907c2f38f0a0490eae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ServiceNow for Small Business - Plug and Play Mobile App</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5e3f46fc53783e907c2f38f0a0490eae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 18:13:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

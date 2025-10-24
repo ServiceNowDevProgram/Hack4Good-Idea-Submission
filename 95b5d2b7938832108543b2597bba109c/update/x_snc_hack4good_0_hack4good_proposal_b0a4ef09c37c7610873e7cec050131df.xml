@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">GreenTrace would transform how NGOs manage and report sustainability projects by introducing data-driven environmental accountability.</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Helps NGOs quantify and visualize their ecological contributions.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Enables donors and stakeholders to track the measurable carbon offset value of their support.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Encourages global participation in local sustainability efforts through transparent reporting and gamified volunteer engagement.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Builds long-term trust and credibility within the environmental ecosystem.</li></ul>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> </p>]]></potential_impact>
+        <problem_statement>Many environmental NGOs struggle to track and prove the real impact of their reforestation or sustainability projects. Tree planting drives and carbon offset campaigns often lack transparent reporting, leading to donor distrust and difficulty in scaling genuine environmental progress.</problem_statement>
+        <project_name>GreenTrace – Smart Environmental Impact &amp; Reforestation Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>GreenTrace would be built on the ServiceNow App Engine to manage environmental projects and measure sustainability metrics.</p>
+<ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Flow Designer automates project updates (tree planting, cleanup events, etc.).</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Integration Hub connects with satellite and IoT data sources for real time impact measurement.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Performance Analytics visualizes carbon reduction trends and progress toward sustainability goals.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Service Portal allows citizens and volunteers to register, log activities, and monitor their environmental impact.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">App Engine Studio enables NGOs to customize and expand features for various environmental campaigns.</li></ul>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Are There Any Technical Dependencies for the Proposed Solution?</p>
+<p style="margin: 0in 0in 8pt 0.5in; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Integration with satellite or drone imagery APIs for verifying reforestation efforts.</p>
+<p style="margin: 0in 0in 8pt 0.5in; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">IoT sensors for air-quality or soil-health data.</p>
+<p style="margin: 0in 0in 8pt 0.5in; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Cloud database for project storage and analytics.</p>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;"> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Ensuring reliable and accurate environmental data from remote sources.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Integration complexity across multiple environmental APIs.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">NGO readiness and training to use digital impact-tracking tools.</li><li style="line-height: 107%; font-size: 11pt; font-family: Aptos, sans-serif;">Managing privacy and permissions for geo-location data.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 19:09:54</sys_created_on>
+        <sys_id>b0a4ef09c37c7610873e7cec050131df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenTrace – Smart Environmental Impact &amp; Reforestation Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b0a4ef09c37c7610873e7cec050131df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 19:09:56</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

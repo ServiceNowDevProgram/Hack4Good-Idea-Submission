@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Prevents the use of compromised drugs and vaccines, protecting patients</li><li>Saves millions in losses due to spoiled shipments</li><li>Builds real-time visibility into NGO/pharmaceutical supply chains</li><li>Automates cold chain compliance monitoring and reporting for audits</li><li>Enhances emergency responsiveness in mobile health programs and disaster zones</li></ul>]]></potential_impact>
+        <problem_statement>Many essential medications, especially vaccines, insulin, and biologics, are temperature-sensitive and must be stored and transported within specific cold chain conditions.&#13;
+In remote or underserved areas, logistics infrastructure is limited, and power or refrigeration failures can compromise medicine quality  often without being detected.&#13;
+Spoiled medications may be administered unknowingly, leading to ineffective treatment, adverse effects, and loss of public trust.&#13;
+There is a critical need for an automated, real-time system to detect, report, and respond to cold chain violations.</problem_statement>
+        <project_name>ColdChain AI: Temperature Monitoring Assistant for Vaccine &amp; Drug Transport</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ColdChain AI is a ServiceNow-based AI-powered monitoring solution that integrates with IoT temperature sensors embedded in medicine storage units or transit containers.</p>
+<p>Key features:</p>
+<ul><li>Sensors continuously send temperature and humidity data to ServiceNow via IntegrationHub</li><li>If thresholds are breached, AI Agent evaluates the risk level and automatically:</li><li>Notifies the assigned health worker or logistics coordinator</li><li>Suggests corrective actions (e.g., use backup storage, alert pharmacy)</li><li>Logs incidents for compliance reporting</li><li>AI Agent offers interactive guidance to workers on what to do in case of cold chain breach</li><li>Dashboards track trends, incidents, and cold chain stability across regions</li><li>This system ensures real-time protection and transparency of sensitive medical inventory.</li><li>AI Agent – Provides real-time alerts, decision support, and educational dialogue for staff</li><li>IntegrationHub – Connects with IoT platforms and sensor data streams</li><li>App Engine – For managing incident workflows, assets, and compliance logs</li><li>Flow Designer – Automates response actions (e.g., escalations, resupply, deactivation)</li><li>Performance Analytics – Tracks cold chain breaches, response times, and operational trends</li><li>Asset Management – To manage cold storage units, containers, and medicine stock locations</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>IoT temperature and humidity sensors with API access or data streams</li><li>Connectivity in rural areas (alternatives may include offline buffering and delayed sync)</li><li>Cold chain standard guidelines for reference (WHO, UNICEF, etc.)</li><li>Language support in AI Agent for global teams (optional)</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Inconsistent connectivity or power supply in remote areas</li><li>Variation in sensor hardware or data formats across partners</li><li>Ensuring accurate thresholds and configurations for different medication types</li><li>Training staff on interpreting alerts and using the AI Agent</li><li>Budget constraints for widespread sensor deployment in some NGOs</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 10:50:01</sys_created_on>
+        <sys_id>298348ef47603210d5daa3c9316d4372</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ColdChain AI: Temperature Monitoring Assistant for Vaccine &amp; Drug Transport</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_298348ef47603210d5daa3c9316d4372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 10:50:02</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

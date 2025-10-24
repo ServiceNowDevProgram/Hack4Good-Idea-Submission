@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A ServiceNow‑based portal for mental health and wellness can deliver a confidential, user‑friendly platform to connect people with trained counselors or support volunteers.</p>
+<ol><li>
+<p>Provides <strong>24/7 self‑service</strong> access to wellness resources and emotional‑care guidance.</p>
+</li><li>
+<p>Enables <strong>anonymous help requests</strong> to reduce stigma and promote participation.</p>
+</li><li>
+<p>Facilitates <strong>data‑driven insights</strong> into community stress trends, helping NGOs design better outreach programs.</p>
+</li><li>
+<p>Centralizes tracking for wellness sessions, follow‑ups, and overall satisfaction metrics.</p>
+</li></ol>
+<p>The measurable benefits include <strong>50–70 percent faster response times</strong>, improved service reach, and <strong>higher user engagement</strong> due to confidential and mobile access.</p>]]></potential_impact>
+        <problem_statement>Mental health is one of the most underserved areas in community and organizational support systems, especially among non‑profits and developing regions. Many individuals in distress lack access to timely counseling, well‑being resources, or even a safe platform to request help. Most NGOs and wellness organizations rely on manual communication, emails, or phone helplines, which limit anonymity, slow down responses, and make it difficult to track trends or follow up effectively. The stigma associated with discussing mental health further reduces engagement and transparency in support systems.</problem_statement>
+        <project_name>Mental Health &amp; Wellness Support Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a holistic support portal that combines accessibility, privacy, and automation on the ServiceNow platform.<br />Key functionalities include:</p>
+<ol><li>
+<p>A public‑facing <strong>wellness portal</strong> for users to log requests anonymously or schedule counseling sessions.</p>
+</li><li>
+<p>Integrated <strong>Virtual Agent</strong> to provide self‑help guidance, coping‑mechanism chat, and referrals.</p>
+</li><li>
+<p>Intelligent routing of sensitive cases to certified counselors using HRSD case templates.</p>
+</li><li>
+<p>Access to a <strong>knowledge base</strong> of mental‑health articles and community well‑being resources.</p>
+</li><li>
+<p>Dashboards for NGOs or HR teams to monitor case loads, common wellness trends, and response SLA performance.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with third‑party video‑counseling tools (e.g., Zoom, Teams, or secure telehealth APIs).</p>
+</li><li>
+<p>Secure authentication for counselor access using SSO or OAuth.</p>
+</li><li>
+<p>SMS or email plugins for real‑time reminder notifications.</p>
+</li><li>
+<p>Optional integration with external mental‑health knowledge resources and community APIs.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Maintaining confidentiality and data‑privacy compliance (GDPR, HIPAA).</p>
+</li><li>
+<p>Building user trust in digital platforms for sensitive mental‑health topics.</p>
+</li><li>
+<p>Ensuring counselors and volunteers are trained in using the ServiceNow interface.</p>
+</li><li>
+<p>Designing multilingual access and cultural adaptability for global NGOs.​</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 09:07:34</sys_created_on>
+        <sys_id>876c11cd93347610014930a97bba10a9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mental Health &amp; Wellness Support Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_876c11cd93347610014930a97bba10a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 09:07:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution would have a high, measurable impact across three areas:</p>
+<p>Reduction in Food Waste (30%): By providing an instant, low-effort way for small businesses to log and schedule drop-offs/pickups of small surpluses, food that would otherwise be discarded is saved.</p>
+<p>Increased Pantry Efficiency: Real-time inventory tracking allows pantries to know exactly what supplies they have, preventing overstocking and allowing them to immediately communicate needs to the community.</p>
+<p>Measurable Impact Tracking: The platform provides clear metrics (e.g., &#34;1,500 pounds of food diverted this month&#34;) for NPOs to use in grant applications and public outreach</p>]]></potential_impact>
+        <problem_statement>Food insecurity is often a problem of distribution, not scarcity. Local food banks, community pantries, and shelters frequently struggle with unpredictable donations, inadequate inventory tracking, and highly inefficient logistics. Simultaneously, local businesses (restaurants, bakeries, grocery stores) often have small, perishable surpluses (donuts, unsold produce) that are too small to justify a truck pickup but too abundant to throw away, leading to significant food waste.&#13;
+&#13;
+This challenge is one of efficient, localized, real-time matching and logistics coordination between small-scale donors and local consumption points.</problem_statement>
+        <project_name>FoodFlow: Local Surplus Management Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio </p>
+<p>ServiceNow Reporting </p>
+<p>Service Portal</p>
+<p>FSM</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Geolocation: Reliance on GPS for optimizing driver routes and showing donors the nearest accepted drop-off points.</p>
+<p>External APIs (Optional): Could integrate with Google Maps or similar services for advanced route optimization, but the core functionality can be built internally.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Volunteer Recruitment and Vetting: Ensuring a sufficient and reliable pool of volunteer drivers and managing basic background checks (if necessary for liability).</p>
+<p>Perishability Timelines: Enforcing strict, time-sensitive tracking and pick-up deadlines, as food waste is often measured in hours, not days.</p>
+<p>zLiability and Food Safety: Clear disclaimers and training must be provided to all parties regarding safe food handling and liability transfer from the donor to the pantry.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 05:24:08</sys_created_on>
+        <sys_id>838f976483fc36104d3866d0deaad324</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FoodFlow: Local Surplus Management Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_838f976483fc36104d3866d0deaad324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 05:24:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
