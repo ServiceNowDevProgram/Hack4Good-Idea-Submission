@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
     <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
-        <kb_knowledge_base display_value="Hack4Good">1c16b031935036108543b2597bba10eb</kb_knowledge_base>
+        <kb_knowledge_base display_value="">1c16b031935036108543b2597bba10eb</kb_knowledge_base>
         <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
         <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
         <sys_created_on>2025-09-30 17:43:32</sys_created_on>
@@ -15,6 +15,6 @@
         <sys_update_name>kb_uc_can_contribute_mtom_6c56b031935036108543b2597bba10f8</sys_update_name>
         <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
         <sys_updated_on>2025-09-30 17:43:32</sys_updated_on>
-        <user_criteria display_value="Users with 'snc_internal' and another role">887d36ba57101300d873ac71ef94f9c7</user_criteria>
+        <user_criteria display_value="">887d36ba57101300d873ac71ef94f9c7</user_criteria>
     </kb_uc_can_contribute_mtom>
 </record_update>
