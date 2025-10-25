@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Memora is an AI-powered platform that enables early screening, monitoring, and support for individuals at risk of cognitive decline.<br />Community health workers or caregivers can use the app to perform simple digital assessments — including speech patterns, memory tests, and daily activity tracking — which are analyzed to detect potential early warning signs.The platform securely connects results to healthcare professionals and caregivers, triggering proactive interventions such as follow-up visits, therapy reminders, or lifestyle recommendations.<br />Through data-driven insights, Memora supports both patients and families in managing brain health with empathy and precision.</p>]]></potential_impact>
+        <problem_statement>Millions of older adults begin to show early signs of cognitive decline (such as memory lapses or confusion), but most go undetected until symptoms become severe.&#13;
+Limited access to neurologists, social stigma, and lack of community-based screening delay early intervention.&#13;
+This results in preventable deterioration, higher healthcare costs, and emotional strain for families.</problem_statement>
+        <project_name>Memora: Early Cognitive Health Detection and Support Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>App Engine Studio - </strong>to build the patient registry, cognitive test modules, and follow-up workflows.</p>
+<p><strong>Predictive Intelligence &amp; Performance Analytics - </strong>to analyze assessment patterns and flag early risk indicators.</p>
+<p><strong>Customer Service Management (CSM) - </strong>for care coordination and family support ticketing.</p>
+<p><strong>IntegrationHub - </strong>to connect with health record systems, wearable data, and telehealth APIs.</p>
+<p><strong>Flow Designer - </strong>to automate screening-to-care pathways and alerting mechanisms.</p>
+<p><strong>Mobile App Framework - </strong>for field data collection in low-connectivity areas.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>AI/ML model for speech and memory pattern recognition.</li><li>Integration with healthcare data standards (FHIR, HL7).</li><li>Secure cloud infrastructure for health data (HIPAA/GDPR compliant).</li><li>Optional integration with wearable devices for cognitive activity tracking.</li><li>Multilingual interface for global accessibility.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring medical accuracy of AI predictions and reducing false positives.</li><li>Building trust among users concerned about data privacy.</li><li>Training field workers to administer tests effectively.</li><li>Maintaining consistent user engagement and long-term monitoring adherence.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 08:30:40</sys_created_on>
+        <sys_id>e1b5ab2993b8b6101ec27ee32bba10ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Memora: Early Cognitive Health Detection and Support Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e1b5ab2993b8b6101ec27ee32bba10ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 08:30:42</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
