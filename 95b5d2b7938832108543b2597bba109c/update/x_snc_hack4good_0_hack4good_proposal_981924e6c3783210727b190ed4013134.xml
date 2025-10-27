@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Since the Risk Assessment component is not available Developers are facing lots of limitations when it comes to customising the behaviour of this component as per client need.</p>]]></potential_impact>
+        <problem_statement>In RISK WOrkspace , the RISK  Assessment main Default  page has a component "Advanced RISK Assessment1", this component is not customizable in UI builder.&#13;
+&#13;
+But it has scope for configuration changes via RISKASSESSMENT UTIL script include..Developers are facing lots of limitations when it comes to customising the behaviour of this component as per client need.</problem_statement>
+        <project_name>RISK WORKSPACE ASSESSMENT UI Component</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><div class="pWvJNd" style="width: 652px;">
+<div class="mZJni Dn7Fzd" style="unicode-bidi: isolate; width: 652px;">
+<div class="otQkpb" style="margin: 30px 0px 16px; color: rgb(10, 10, 10); font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 20px; line-height: 28px; font-weight: 600;">High-level vision: A modular, data-driven experience</div>
+<div class="Y3BBE" style="font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; overflow-wrap: break-word; margin: 16px 0px;">The solution moves away from a single, monolithic component towards a modular, data-driven, and loosely coupled architecture. This approach maximizes flexibility, eases future maintenance, and delivers an enhanced user experience without compromising upgradability.</div>
+<div class="Y3BBE" style="font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; overflow-wrap: break-word; margin: 16px 0px;"><strong class="Yjhzub" style="font-weight: bold;">Core principles:</strong></div>
+<ul class="KsbFXc U6u95" style="margin: 16px 0px; padding: 0px; font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-inline-start: 16px;"><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Separation of concerns:</strong> The UI is completely decoupled from the assessment logic. The workspace component is purely for display and user interaction, while the scoring, validation, and data management remain on the server side.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Leverage existing data model:</strong> The solution reuses the existing GRC <code class="o8j0Mc" style="unicode-bidi: isolate; font-size: 14px; line-height: 22px; background-color: rgb(240, 242, 245); border-image: none 100% / 1 / 0 stretch; border-radius: 4px; padding: 2px 4px; border: 0.888889px solid rgb(240, 242, 245);">sn_grc_risk_assessment_factor_response</code> and related tables for storing assessment data, ensuring data integrity and consistency with standard reporting.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Scalable and maintainable:</strong> Developers build a custom component that is flexible enough to handle different assessment types without being hard-coded for specific risk factors.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Enhanced user experience:</strong> The custom component can implement dynamic behavior, advanced visualizations, and conditional logic that is impossible with the out-of-the-box (OOTB) component.</span></li></ul>
+<div class="Fsg96"> </div>
+<div class="otQkpb" style="margin: 30px 0px 16px; color: rgb(10, 10, 10); font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 20px; line-height: 28px; font-weight: 600;">Benefits of this approach</div>
+<ul class="KsbFXc U6u95" style="margin: 16px 0px; padding: 0px; font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 16px; line-height: 24px; padding-inline-start: 16px;"><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Full customization:</strong> Developers gain complete control over the UI, user experience, and behavior of the assessment component, meeting any client requirement.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Maintainability:</strong> By using a custom component and a Scripted REST API, the solution is self-contained. Future platform upgrades are less likely to break the custom solution.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Scalability:</strong> The modular design allows for reusing the custom component with different assessment types by simply passing different data through the input properties.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Enhanced UX:</strong> Developers can build an intuitive, dynamic interface that guides users through the assessment process more effectively, leading to better data quality.</span></li><li style="margin: 0px 0px 16px; padding: 0px; list-style-type: disc; padding-inline-start: 4px;"><span class="T286Pc" style="overflow-wrap: break-word;"><strong class="Yjhzub" style="font-weight: bold;">Future-proof:</strong> As UI Builder evolves, the custom component can be updated to leverage new features, while the core logic on the server remains untouched.</span></li></ul>
+<div class="Fsg96"> </div>
+<div>
+<div class="DBd2Wb" style="clear: both; display: flex; flex-flow: wrap; row-gap: 16px; margin: 20px 0px 12px;">
+<div style="display: contents;"> </div>
+<div class="zkL70c" style="display: flex; gap: 4px; flex-shrink: 1;">
+<div>
+<div class="csTa2e" style="position: relative; display: inline-flex;">
+<div id="shrproxyxOH_aLrNOf_hseMP9ZvxyAo_1" class="bQ0Yzc" style="display: flex; width: 44px;"><button class="eGAasd" style="margin: 0px; outline-width: 0px; align-items: center; background-color: rgb(255, 255, 255); box-sizing: border-box; border-radius: 50%; color: rgb(86, 89, 94); cursor: pointer; display: flex; height: 44px; width: 44px; justify-content: center; border: 2px solid transparent;"></button>
+<div> </div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+</div>
+<div class="VlQBpc" style="display: inline-flex; gap: 4px;"><button class="ya9Iof" style="margin: 0px; padding: 0px; outline-width: 0px; align-items: center; background-color: rgb(255, 255, 255); box-sizing: border-box; border-radius: 50%; color: rgb(86, 89, 94); cursor: pointer; display: flex; height: 44px; width: 44px; justify-content: center; border: 2px solid transparent;"></button><button class="ya9Iof" style="margin: 0px; padding: 0px; outline-width: 0px; align-items: center; background-color: rgb(255, 255, 255); box-sizing: border-box; border-radius: 50%; color: rgb(86, 89, 94); cursor: pointer; display: flex; height: 44px; width: 44px; justify-content: center; border: 2px solid transparent;"></button>
+<div> </div>
+</div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+</div>
+<div>
+<div class="ofHStc" style="width: 372px; padding-inline-start: 76px; padding-bottom: 12px; min-height: 100%; margin-top: -80px; min-width: 372px;">
+<div style="display: contents;">
+<div class="jKhXsc notranslate" style="unicode-bidi: isolate; color: rgb(10, 10, 10); font-size: 16px; position: sticky; top: 100px;">
+<div class="BTkBWc" style="position: relative;">
+<ul class="EJw9bc" style="margin: 0px; padding: 0px; display: flex; flex-direction: column; list-style-type: none; position: relative;"><li class="jydCyd" style="margin: 0px; padding: 0px;">
+<div class="MFrAxb BKnikc" style="padding: 12px 20px; position: relative; overflow: hidden;">
+<div>
+<div class="w6SxZb" style="box-sizing: border-box; display: flex; justify-content: center; gap: 8px; height: 105.583px; overflow: hidden;">
+<div class="T5ny9d" style="box-sizing: border-box; display: flex; flex-direction: column; flex: 1 1 0%; position: relative; min-height: 0px; overflow: hidden;">
+<div class="w8lk7d" style="align-items: center; align-self: flex-end; display: flex; margin-right: auto; margin-top: auto; width: 242px;">
+<div class="jEYmO" style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: rgb(86, 89, 94); display: flex; flex-direction: column; margin-inline-start: 8px; font-family: &#39;Google Sans&#39;, Roboto, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 21:24:34</sys_created_on>
+        <sys_id>981924e6c3783210727b190ed4013134</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RISK WORKSPACE ASSESSMENT UI Component</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_981924e6c3783210727b190ed4013134</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 21:24:37</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
