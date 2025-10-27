@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>1.Time taken to close a Dispute Case will be reduced by 60 to 70%<br />2.CSATs will jump on average to 4 out of 5 etc.</p>]]></potential_impact>
+        <problem_statement>Now OOB Now Assist skills not available for FSO - Dispute Management &amp; Sales Order Management..&#13;
+&#13;
+Due to which Partners are facing huge challenges in building the AI based requirements for customers like..&#13;
+&#13;
+&#13;
+Example:&#13;
+&#13;
+Sales:&#13;
+The integration of Now Assist and AI Agents into the Sales and Order Management (SOM) modules to provide more proactive, sales-specific insights. For example, AI could:&#13;
+Automatically identify customer order issues before they become a problem.&#13;
+Flag cross-sell opportunities for existing orders based on customer history and inventory data.&#13;
+Generate real-time summaries of order status for agents and customers.&#13;
+&#13;
+&#13;
+Dispute:&#13;
+&#13;
+Identify the history of transaction made and providing summary containing the cause of dispute, the chargeback eligibility reasons,&#13;
+The logistics of the transactions, the policies referred while closure of the Dispute task..etc</problem_statement>
+        <project_name>Industry Implementer specific Now Assist skills required.</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>No ServiceNow Products listed for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 21:41:08</sys_created_on>
+        <sys_id>774d28eec3783210727b190ed401319f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Industry Implementer specific Now Assist skills required.</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_774d28eec3783210727b190ed401319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 21:41:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
