@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A platform that makes sustainability visible and actionable would get more students involved in green initiatives. Students could see exactly how their small daily choices add up to real environmental impact. The university could reach its climate goals faster by mobilizing student participation at scale. Students would develop lifelong sustainable habits and environmental awareness that extends beyond campus. Friendly competition between dorms or student groups would make sustainability engaging rather than preachy.</p>]]></potential_impact>
+        <problem_statement>Universities make big commitments to sustainability and carbon neutrality, but students don't have an easy way to participate in these goals or see how their actions make a difference. Many students care about the environment but don't know what actions they can take on campus. Current sustainability programs lack visibility and engagement, so only a small percentage of students actually participate. There's no central place to track individual and collective environmental impact.</problem_statement>
+        <project_name>GreenCampus Impact - Campus Sustainability Action Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Students would access a campus portal showing a live dashboard of sustainability metrics—carbon saved, waste diverted, energy conserved. They could browse a catalog of green actions to commit to, like using reusable water bottles, biking instead of driving, or joining campus cleanup events. When students complete these actions, the system would calculate and display their environmental impact. Residence halls or student organizations could compete in sustainability challenges with leaderboards showing who&#39;s making the biggest difference. Students could also propose and register for environmental events like e-waste drives or tree planting days. The platform would send tips and reminders to help students maintain their green habits.</p>
+<p> </p>
+<p>ServiceNow Products/Capabilities used:<br />Service Portal for the student dashboard, Service Catalog to browse and commit to sustainability actions, Performance Analytics to track and visualize environmental impact, Flow Designer to calculate carbon savings from logged actions, Surveys to gather student feedback, and Knowledge Management to share sustainability guides and tips. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The basic platform uses native ServiceNow functionality. For more advanced features, we could integrate with campus building energy systems or IoT sensors, but that&#39;s optional. Integration with student ID card systems could automate tracking for certain actions like bike share usage, but manual logging would work fine initially.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Validating that students actually completed their logged actions without creating too much friction. Maintaining student interest beyond the initial excitement phase. Getting cooperation from campus facilities to share building sustainability data. Balancing competitive elements with the collaborative spirit of environmental action. Setting realistic impact calculations that students trust.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 08:22:00</sys_created_on>
+        <sys_id>408b12d593f836104a52385efaba1052</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenCampus Impact - Campus Sustainability Action Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_408b12d593f836104a52385efaba1052</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 08:22:02</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

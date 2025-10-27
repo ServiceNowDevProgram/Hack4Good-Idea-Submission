@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<h3><strong> Educational Impact</strong></h3>
+<ul><li>
+<p>Facilitates <strong>cross-domain learning</strong> by integrating technical and research content within a single platform.</p>
+</li><li>
+<p>Empowers individuals to acquire both<strong> <em>practical skills</em></strong> and <strong><em>theoretical knowledge</em></strong> in their chosen field of study. Fosters <strong>lifelong learning</strong> through adaptive, AI-driven recommendations.</p>
+</li></ul>
+<h3><strong> Research Impact</strong></h3>
+<ul><li>Makes research more accessible and actionable within organisations.</li><li>Encourages collaboration between technical experts, researchers, and educators.</li><li>Accelerates innovation cycles by linking learning modules to active research.</li></ul>
+<h4><strong> Measurable Goals</strong></h4>
+<ul><li>&#43;50% learning engagement</li><li>&#43;40% cross-domain collaboration</li><li>-30% duplicated training or research efforts</li></ul>]]></potential_impact>
+        <problem_statement>Learning and research exist in silos. IT professionals use structured courses, while researchers rely on separate academic platforms. There’s little collaboration or knowledge sharing between these groups. This isolation slows innovation and limits access to valuable insights.&#13;
+&#13;
+LearnSphere bridges this gap by creating a single platform that brings together learning, research, and collaboration.</problem_statement>
+        <project_name>LearnSphere: Where Learning Meets Research</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow based app where users can:</p>
+<ul><li>
+<p>Access learning modules and research papers in one dashboard</p>
+</li><li>
+<p>Use AI to get personalised recommendations</p>
+</li><li>
+<p>Collaborate on research projects through shared workspaces</p>
+</li><li>
+<p>Publish and track research impact via dashboards and badges</p>
+</li></ul>
+<p> </p>
+<p>ServiceNow products or capabilities will be used for this app:</p>
+<ul><li>
+<p>App Engine / Studio</p>
+</li><li>
+<p>Knowledge Management</p>
+</li><li>
+<p>Flow Designer &amp; IntegrationHub</p>
+</li><li>
+<p>Virtual Agent / Now Assist</p>
+</li><li>
+<p>Service Portal / UI Builder</p>
+</li><li>
+<p>Performance Analytics</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p>Research APIs (CrossRef, Semantic Scholar, arXiv)</p>
+</li><li>
+<p>Knowledge Management, Flow Designer, Virtual Agent</p>
+</li><li>
+<p>IntegrationHub for API connections</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Managing data privacy and publication ownership</p>
+</li><li>
+<p>Handling API rate limits and integration complexity</p>
+</li><li>
+<p>Maintaining user engagement and accessibility</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 08:31:18</sys_created_on>
+        <sys_id>f86a688e83303210b2abf1d6feaad36e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LearnSphere: Where Learning Meets Research</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f86a688e83303210b2abf1d6feaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 08:31:21</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

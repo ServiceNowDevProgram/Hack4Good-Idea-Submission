@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>CrowdSense could reduce overcrowding by up to 40% through real-time monitoring and alerts. It would help authorities and businesses manage visitor limits, optimize ventilation and energy use, and contribute to lowering the collective carbon footprint by preventing unnecessary travel to packed locations.</p>]]></potential_impact>
+        <problem_statement>During peak seasons or festivals, public places like malls, markets, and parks get overcrowded, increasing both carbon emissions and safety risks. There’s no real-time visibility of crowd density or control measures to limit gatherings proactively.</problem_statement>
+        <project_name>CrowdSense – Smart Carbon &amp; Crowd Control System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Environmental, Social &amp; Governance (ESG) Management for tracking and reporting environmental impact.</p>
+<p>Now Platform App Engine for building real-time dashboards and alerts.</p>
+<p>IntegrationHub for connecting with IoT sensors, entry scanners, or CCTV systems.</p>
+<p>Performance Analytics for visualizing crowd patterns and sustainability metrics.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with IoT sensors, Wi-Fi trackers, or camera-based crowd detection APIs to gather accurate headcount and air quality data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy while tracking people, maintaining real-time accuracy of crowd estimates, and securing collaborations with malls or local authorities for sensor deployment and data sharing.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 14:34:23</sys_created_on>
+        <sys_id>a48c0fd6c3bcf250fb09b10ed40131e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CrowdSense – Smart Carbon &amp; Crowd Control System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a48c0fd6c3bcf250fb09b10ed40131e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 14:34:24</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

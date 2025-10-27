@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>Potential Impact for Donors are;<br />Transparency: Donors can see exactly where their contributions go, with real-time updates and impact metrics.</p>
+<p>Personalized Engagement: Automated thank-you messages, campaign updates, and impact stories tailored to each donor’s interests.</p>
+<p>Self-Service Access: Through the Service Portal, donors can view donation history, download receipts, and track campaign progress.</p>
+<p>Trust and Retention: Clear communication and visible impact foster long-term donor relationships and repeat giving.</p>]]></potential_impact>
+        <problem_statement>Charity organizations play a vital role in addressing poverty, inequality, and humanitarian crises. Yet without centralized tools, many struggle to maintain donor trust due to poor communication, delayed acknowledgments, and unclear fund allocation. The lack of real-time visibility into campaign performance and social impact makes it even harder to attract new supporters, meet compliance standards, or deliver transparent reporting. As a result, nonprofits often operate below their potential, missing key opportunities to scale their mission and deepen community engagement.&#13;
+Donors, meanwhile, face their own frustrations: uncertainty about how their contributions are used, impersonal or generic communication, and limited access to personalized updates or meaningful engagement. These gaps erode trust, reduce donor retention, and make it harder for donors to build lasting, values-driven relationships with these organizations.</problem_statement>
+        <project_name>CharityConnect - Donor Engagement Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Capabilities Used are;<br />ITSM to manage donation-related issues, volunteer requests, and campaign support tickets.<br />CMDB to track fundraising assets such as campaigns, donor profiles, and outreach tools.<br />Field Service Management to coordinate on-site charity events, donation drives, and volunteer logistics.<br />Performance Analytics to visualize donation trends, campaign effectiveness, and volunteer engagement.<br />Service Portal to provide donors and volunteers with access to dashboards, donation history, and impact reports.<br />IntegrationHub to connect with payment gateways (e.g., Stripe, PayPal), CRM tools, and social media platforms.<br />ESG Management to report on social impact, fund allocation, and alignment with sustainability goals.<br />Flow Designer to automate donor thank-you messages, campaign updates, and volunteer onboarding workflows.</p>
+<p>Virtual Agent to provide 24/7 conversational support for donors and volunteers. It also handles FAQs, donation inquiries, campaign updates, receipt requests etc.<br />Now Assist to summarize donor interactions, suggest next steps, and auto-draft personalized responses using generative AI.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>To bring CharityConnect to life, the following technical components and integrations are essential:</p>
+<p>Payment Gateway APIs: For secure, real-time donation processing and transaction tracking.</p>
+<p>CRM Integration: To manage donor profiles, giving history, and personalized engagement workflows.</p>
+<p>Email &amp; SMS Gateways: For automated donor communication, campaign updates, and event reminders.</p>
+<p>Social Media Connectors: To promote campaigns, track engagement, and enable social sharing from the Service Portal.</p>
+<p>Mobile Access and a User-friendly Design: Ensures volunteers and donors can interact with the platform on any device.</p>
+<p>Data Encryption and Compliance Frameworks: To protect donor information and meet data privacy regulations.<br />ESG Reporting Frameworks: For tracking social impact, fund allocation, and sustainability metrics.</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Some Challenges in implementing CharityConnect may involve several technical and operational hurdles:</p>
+<p>Adhering to Data Privacy and Security: Handling sensitive donor information requires robust encryption, access controls, and compliance with global data protection laws especially when it involves cross border transactions.</p>
+<p>Integration Complexity: Connecting with diverse third-party systems (payment processors, CRMs, social platforms) may require custom connectors or middleware.</p>
+<p>User Adoption and Training: Nonprofit staff and volunteers may need onboarding to effectively use the platform’s features and workflows.</p>
+<p>Scalability for Campaign Spikes: High-traffic donation periods (e.g., Giving Tuesday) may require load balancing and performance tuning.</p>
+<p>Localization and Accessibility: Supporting multiple languages, currencies, and accessibility standards is key for global reach.</p>
+<p>Accurate Real-Time Reporting: Ensuring data consistency across systems for live dashboards and ESG reports can be challenging without proper data normalization.</p>
+<p>Getting Individuals to initially give out their financial details.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 22:50:52</sys_created_on>
+        <sys_id>6c8f4ef953787610a9c8d7f0a0490e4f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CharityConnect - Donor Engagement Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6c8f4ef953787610a9c8d7f0a0490e4f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 22:50:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

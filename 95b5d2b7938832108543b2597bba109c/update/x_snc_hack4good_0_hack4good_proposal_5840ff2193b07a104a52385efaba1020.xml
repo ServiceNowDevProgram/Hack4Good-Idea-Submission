@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A mentorship matching platform would connect struggling business owners with experienced entrepreneurs who can provide practical guidance. Small businesses would avoid expensive mistakes and grow more sustainably. Experienced business owners would share their knowledge and strengthen their local business community. Success rates for new businesses would improve, creating more jobs and economic opportunity. Underrepresented entrepreneurs would gain access to networks and knowledge they previously couldn&#39;t access.</p>]]></potential_impact>
+        <problem_statement>Small business owners, especially from underserved communities, face countless challenges they've never encountered before—managing cash flow, hiring employees, marketing, dealing with regulations, and more. Many struggle in isolation and make costly mistakes that could have been avoided with guidance from someone who's been there. Meanwhile, experienced entrepreneurs want to give back but don't have an organized way to connect with business owners who need their specific expertise. Current mentorship programs are expensive, formal, and often inaccessible to solo entrepreneurs and microbusinesses.</problem_statement>
+        <project_name>BizMentor Connect - Small Business Mentor Matching Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Business owners would create profiles describing their business type, challenges they&#39;re facing, and what kind of guidance they need. Experienced entrepreneurs would list their expertise areas like finance, marketing, operations, hiring, or industry-specific knowledge. The platform would match mentees with mentors based on relevant experience and challenges. Business owners could request specific help like reviewing a business plan or getting advice on a tough decision. The system would track meeting schedules and progress on goals. Mentors could share templates, resources, and frameworks through a knowledge library. Group mentoring sessions could be organized for common challenges. Success stories would be showcased to inspire others and demonstrate impact.</p>
+<p> </p>
+<p>ServiceNow Products/Capabilities used:<br />Advanced Work Assignment to match mentors with mentees based on industry expertise and business challenges, Case Management to track mentoring relationships and goals, Service Catalog for requesting specific types of business guidance, Knowledge Management for sharing business templates and resources, Performance Analytics to measure business growth and mentorship outcomes, and Virtual Agent to help navigate the platform and suggest relevant resources. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution uses mainly native ServiceNow capabilities. Optional calendar integration would help schedule mentoring sessions. Video conferencing integration could enable remote mentoring meetings. Document sharing for business plans or financial reviews. Simple profile system to showcase mentor credentials and business experience.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Recruiting enough experienced entrepreneurs willing to volunteer their time as mentors. Ensuring quality matches that lead to productive relationships rather than mismatched pairings. Managing expectations about time commitment on both sides. Verifying that mentors actually have relevant, successful business experience. Keeping both parties engaged over time as the relationship develops. Handling situations where mentoring relationships aren&#39;t working out would probably be the challenges in implementing this idea.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 09:12:26</sys_created_on>
+        <sys_id>5840ff2193b07a104a52385efaba1020</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BizMentor Connect - Small Business Mentor Matching Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5840ff2193b07a104a52385efaba1020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 09:12:30</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

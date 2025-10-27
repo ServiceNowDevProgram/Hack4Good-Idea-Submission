@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A library of plug-and-play ServiceNow apps — built as modular, OOB (out-of-the-box) templates that can be activated for specific business types.</p>]]></potential_impact>
+        <problem_statement>A library of plug-and-play ServiceNow apps — built as modular, OOB (out-of-the-box) templates that can be activated for specific business types.</problem_statement>
+        <project_name>A library of plug-and-play ServiceNow apps</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p> <br />Pre-built tables, forms, and flows.<br /> <br />Pre-configured mobile-friendly portals.<br /> <br />Sample dashboards and reports.<br /> <br />Zero-code setup (just install and start using).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 13:33:18</sys_created_on>
+        <sys_id>ad3f3e1e837832106bcaba29feaad37c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>A library of plug-and-play ServiceNow apps</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ad3f3e1e837832106bcaba29feaad37c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 13:33:20</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>HerRise connects women professionals with mentors, growth programs, and leadership opportunities based on verified skills and experience.<br />Using AI-driven career mapping, it recommends tailored training paths, networking events, and job matches while tracking diversity and inclusion progress for organizations.</p>]]></potential_impact>
+        <problem_statement>Women remain underrepresented in leadership and technical roles due to limited mentorship access, biased career growth systems, and lack of visibility for skills and achievements.&#13;
+This gender gap reduces innovation, economic diversity, and equitable opportunity in the workforce.</problem_statement>
+        <project_name>HerRise - Career Pathway Platform for Women in Tech and Leadership</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>App Engine Studio - </strong>build mentorship matching and career pathway modules.</p>
+<p><strong>Employee Center Pro - </strong>centralize resources, workshops, and leadership opportunities.</p>
+<p><strong>Performance Analytics - </strong>measure organizational gender balance and growth metrics.</p>
+<p><strong>IntegrationHub - </strong>connect to LinkedIn Learning or external training APIs.</p>
+<p><strong>Now Learning / Knowledge Base - </strong>deliver curated leadership content and success stories.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>AI/ML engine for recommendation and career mapping.</li><li>HR and Learning Management System (LMS) integration.</li><li>Data analytics API for diversity tracking.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Encouraging participation from both mentors and mentees.</li><li>Avoiding algorithmic bias in recommendation systems.</li><li>Sustaining engagement beyond onboarding.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 03:40:52</sys_created_on>
+        <sys_id>bb83a22993b0b6101ec27ee32bba1020</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HerRise - Career Pathway Platform for Women in Tech and Leadership</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_bb83a22993b0b6101ec27ee32bba1020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 03:40:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
