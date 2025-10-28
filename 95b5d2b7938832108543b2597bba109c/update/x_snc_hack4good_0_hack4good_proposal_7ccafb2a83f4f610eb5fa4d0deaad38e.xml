@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology driven tracking system could:</p>
+<ul><li><strong>Increase supply visibility</strong> across all donation stages (from donor to delivery).</li><li><strong>Reduce delays and losses</strong> by up to 50% through real-time status updates.</li><li><strong>Improve accountability</strong> for donors, NGOs, and government partners.</li><li><strong>Ensure fair and data-driven distribution</strong> of medical resources.</li></ul>
+<p>This solution would help ensure every donated item reaches the right place, at the right time saving lives and strengthening trust between organizations.</p>]]></potential_impact>
+        <problem_statement>During health emergencies and humanitarian crises, medical supplies donated by NGOs and global partners often face tracking and visibility issues.&#13;
+Shipments get delayed, misplaced, or duplicated, and there’s little real time insight into where supplies are, how much is available, or what’s urgently needed.&#13;
+&#13;
+Manual record keeping and lack of transparency lead to waste, stockouts, and unequal distribution, especially in remote or developing regions.&#13;
+This reduces the effectiveness of aid operations and delays life-saving deliveries.</problem_statement>
+        <project_name>MedTrack – AI Driven Medical Donation Supply Chain System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>MedTrack</strong> would be a <strong>ServiceNow-based automation platform</strong> that manages the end to end flow of donated medical supplies.</p>
+<h4><strong>How It Works:</strong></h4>
+<ol><li>
+<p><strong>Donation Registration:</strong> NGOs or donors log incoming supplies via a web portal.</p>
+</li><li>
+<p><strong>Workflow Automation:</strong> Each shipment is assigned a unique ID and tracked through customs, warehousing, and delivery.</p>
+</li><li>
+<p><strong>AI &amp; Predictive Intelligence:</strong> Detects shortages, delays, or duplication risks.</p>
+</li><li>
+<p><strong>IntegrationHub:</strong> Connects with logistics APIs (FedEx, DHL, or local couriers) for real-time updates.</p>
+</li><li>
+<p><strong>Dashboards:</strong> Show current inventory, delivery progress, and stock predictions for better planning.</p>
+</li></ol>
+<h4><strong>ServiceNow Products / Capabilities to Use:</strong></h4>
+<ul><li><strong>App Engine:</strong> for building the donation tracking and management system.</li><li><strong>Flow Designer:</strong> to automate logistics workflows.</li><li><strong>Predictive Intelligence:</strong> for forecasting shortages or delays.</li><li><strong>IntegrationHub:</strong> to link shipping and warehouse systems.</li><li><strong>Performance Analytics:</strong> to visualize supply movement and performance metrics.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>Integration with logistics APIs</strong> (e.g., DHL, UPS, local transport systems).</li><li><strong>Barcode or QR code scanning system</strong> for package tracking.</li><li><strong>Cloud database access</strong> for centralized inventory management.</li><li><strong>AI/ML model</strong> for demand prediction and anomaly detection.</li><li><strong>Secure network infrastructure</strong> for data exchange among partners.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Data standardization</strong> across multiple NGOs and logistics partners.</li><li><strong>Limited connectivity</strong> in rural or crisis regions affecting real-time tracking.</li><li><strong>Integration difficulties</strong> with external courier systems.</li><li><strong>Training and adoption</strong> for staff unfamiliar with digital tools.</li><li><strong>Ensuring transparency and data security</strong> between organizations with different policies.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-28 12:39:40</sys_created_on>
+        <sys_id>7ccafb2a83f4f610eb5fa4d0deaad38e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MedTrack – AI Driven Medical Donation Supply Chain System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7ccafb2a83f4f610eb5fa4d0deaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-28 12:39:41</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
