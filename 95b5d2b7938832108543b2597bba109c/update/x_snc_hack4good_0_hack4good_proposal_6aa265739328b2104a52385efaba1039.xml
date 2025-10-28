@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A comprehensive elderly care coordination platform would connect elderly individuals with family members, caregivers, healthcare providers, and emergency services.</p>
+<p>The platform would enable health monitoring (medication reminders, vitals tracking), caregiver management (finding, scheduling, and rating caregivers), emergency response (SOS button connecting to family and ambulance), social engagement (connecting with peers for activities), and care plan management (doctor appointments, test reports, treatment tracking). </p>
+<p>This would improve quality of life for millions of elderly Indians, provide peace of mind to families living away from elderly parents, reduce emergency situations through proactive monitoring, create employment for caregivers, and ensure dignity and independence for senior citizens. </p>]]></potential_impact>
+        <problem_statement>India's elderly population (60+ years) is over 104 million and will reach 17% of the total population by 2036. About 75% of elderly Indians suffer from at least one chronic disease, 70% are dependent on others for daily maintenance, and 78% live without pension coverage. With the rise of nuclear families and urban migration of working-age adults, traditional family support systems are weakening. &#13;
+&#13;
+Elderly people face challenges in accessing healthcare, managing medications, getting emergency help, finding trusted caregivers, and staying socially connected. There is no integrated platform to coordinate elderly care services, track health conditions, and connect them with family members and healthcare providers.</problem_statement>
+        <project_name>SilverCare Connect - Elderly Care Coordination Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The platform would have three portals:</p>
+<p>1. Elderly Portal - simple interface with large fonts, medication reminders, SOS emergency button, telemedicine booking, activity tracking, and social connection features;</p>
+<p>2. Family Portal - real-time updates on elderly parent&#39;s health, caregiver activity reports, appointment scheduling, and video calling;</p>
+<p>3. Caregiver Portal - task management, visit scheduling, care instructions, and payment tracking.</p>
+<p>The system would send alerts for missed medications, unusual health readings, or inactivity periods. Integration with wearable devices would track vitals like heart rate and blood pressure. A network of verified caregivers, nurses, and home healthcare providers would be available for booking through the platform. </p>
+<p>ServiceNow Products/Capabilities:<br />App Engine Studio, Service Portal with customized UI for elderly users, Mobile App Builder, Integration Hub for IoT and healthcare systems, Virtual Agent for voice-based assistance, Field Service Management for caregiver scheduling, Case Management for health tracking, Flow Designer for automated alerts and workflows.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>ServiceNow App Engine Studio for multi-portal application</li><li>Integration with IoT devices and wearables (fitness trackers, BP monitors)</li><li>Geolocation services for emergency response and caregiver tracking</li><li>Video calling integration for telemedicine and family connections</li><li>Payment gateway integration for caregiver payments</li><li>Background verification system for caregiver onboarding</li><li>Simple UI/UX design suitable for elderly users with accessibility features</li><li>Multi-language support for regional languages</li><li>SMS and call-based alerts for elderly without smartphones</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Onboarding and verifying caregivers at scale, achieving seamless integration with diverse medical devices and IoT wearables, and designing an accessible UI for elderly users would probably be the challenges in implementing this idea.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 12:22:04</sys_created_on>
+        <sys_id>6aa265739328b2104a52385efaba1039</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SilverCare Connect - Elderly Care Coordination Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6aa265739328b2104a52385efaba1039</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 12:22:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

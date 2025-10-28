@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Promotes digital inclusion by keeping school technology operational.</li><li>Strengthens collaboration between educators and technical teams.</li><li>Increases reliability and lifespan of educational equipment.</li><li>Reduces classroom interruptions caused by technical issues.</li><li>Provides visibility into asset health and maintenance trends.</li><li>Supports smarter planning and resource allocation for schools.</li><li>Enhances the overall learning experience through continuous access to digital tools.</li></ul>]]></potential_impact>
+        <problem_statement>Public schools and community centers often receive donated computers, tablets, and network equipment, but lack technical support for maintenance and repair.&#13;
+When these devices fail, classrooms lose access to digital learning for weeks, and equipment data is often outdated or missing.&#13;
+There’s no centralized view of asset health, warranty, or technician availability.</problem_statement>
+        <project_name>EduField Sync - Smart Field Support for School Devices</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>EduField Sync</strong> connects the <strong>Field Service Management (FSM)</strong> and <strong>CMDB</strong> modules to create an intelligent field support network for schools.</p>
+<p>Using the <strong>Service Portal</strong>, school staff can easily report issues by scanning a QR code or selecting a device from the inventory.<br />FSM automatically dispatches the nearest technician with the right skills, based on location and issue type.<br />Once the work order is completed, the technician’s mobile app updates the <strong>CMDB</strong> and <strong>Asset</strong> record with repair details, replaced parts, and photos.</p>
+<p>The platform also provides dashboards showing device uptime, repair frequency, and MTTR per school, enabling proactive maintenance and smarter resource planning.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Field Service Management</li><li>CMDB</li><li>Asset Management</li><li>Mobile App</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Maintaining accurate CMDB data over time.</li><li>Ensuring technician routing optimization in remote or low-connectivity regions.</li><li>Managing spare parts and stockroom logistics.</li><li>Encouraging adoption among non-technical school staff.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 23:17:05</sys_created_on>
+        <sys_id>e2a301a68370f2104b19b4a6feaad311</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EduField Sync - Smart Field Support for School Devices</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e2a301a68370f2104b19b4a6feaad311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 23:17:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

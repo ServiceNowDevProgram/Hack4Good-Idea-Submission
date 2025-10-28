@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology-driven helpdesk platform would streamline how communities manage assistance requests. It would allow residents to log issues, volunteers to respond quickly, and administrators to track progress in real time. This would improve response times, transparency, and accountability. Over time, data analytics could reveal trends in community needs, helping organizations plan better initiatives and allocate resources more effectively.</p>]]></potential_impact>
+        <problem_statement>Many communities, non-profit organizations, and local groups struggle to manage and respond to requests for help efficiently. Issues such as lack of coordination, delayed responses, and poor visibility into community needs result in wasted resources and unmet requests. Volunteers and administrators often rely on manual methods—like spreadsheets, email threads, or social media—to track requests and assign tasks, leading to confusion and inefficiency.</problem_statement>
+        <project_name>Community Helpdesk Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a centralized digital helpdesk platform accessible via web and mobile, where:</p>
+<ol><li>
+<p><strong>Residents</strong> can easily submit help requests (e.g., food assistance, transportation, tech support).</p>
+</li><li>
+<p><strong>Volunteers and staff</strong> can view open requests, claim tasks, and update status.</p>
+</li><li>
+<p><strong>Administrators</strong> can manage users, prioritize urgent cases, and generate reports on performance and community needs.</p>
+</li><li>
+<p><strong>Automation</strong> would route requests to the appropriate category or team based on location, urgency, or request type.</p>
+</li><li>
+<p><strong>Self-service features</strong> like FAQs, knowledge articles, and chatbots could help users resolve common issues without needing direct assistance.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with <strong>email</strong>, <strong>SMS</strong>, and possibly <strong>WhatsApp</strong> for real-time updates.</p>
+</li><li>
+<p><strong>GIS or location-based services</strong> to match requests with local volunteers.</p>
+</li><li>
+<p>Secure <strong>identity and access management</strong> (could leverage ServiceNow’s IAM or external authentication).</p>
+</li><li>
+<p>Potential integration with <strong>third-party databases</strong> or CRMs used by community organizations.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>User adoption:</strong> Community members may be unfamiliar with digital helpdesk tools, requiring onboarding and support.</p>
+</li><li>
+<p><strong>Data privacy:</strong> Ensuring sensitive information (like personal addresses or health data) is handled securely and compliant with regulations.</p>
+</li><li>
+<p><strong>Integration complexity:</strong> Coordinating with existing systems or data sources across multiple organizations.</p>
+</li><li>
+<p><strong>Scalability:</strong> Managing increased load as community participation grows.</p>
+</li><li>
+<p><strong>Resource constraints:</strong> Non-profits may have limited budgets and technical staff for deployment and maintenance.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 10:43:23</sys_created_on>
+        <sys_id>c1213d418370f2109fe5c260ceaad33b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Helpdesk Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c1213d418370f2109fe5c260ceaad33b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 10:43:25</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

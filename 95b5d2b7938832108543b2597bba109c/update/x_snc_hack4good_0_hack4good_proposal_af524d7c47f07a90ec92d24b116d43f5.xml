@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>RootCure AI</strong> is a smart platform that helps organisations:</p>
+<ol><li>Capture and categorize problems (IT, safety, compliance, HR, etc.)</li><li>Analyse historical data to detect root causes using patterns</li><li>Recommend cures or preventive actions, using a knowledge base of past resolutions and AI suggestions</li><li>Trigger automated workflows to implement fixes or escalate to the right teams</li><li>Document and share learnings for future use across the organisation</li><li>Monitor repeat incidents and flag systemic issues</li></ol>
+<p> </p>
+<p>Potential Impact will be :-</p>
+<ol><li>Reduces <strong>repeat incidents and service disruptions</strong></li><li>Accelerates <strong>problem resolution with data-backed cures</strong></li><li>Builds a <strong>culture of continuous improvement and learning</strong></li><li>Improves <strong>employee safety, wellbeing, and operational efficiency</strong></li><li>Encourages <strong>cross-departmental collaboration</strong> in tackling recurring issues</li></ol>]]></potential_impact>
+        <problem_statement>In many organisations, recurring operational issues — whether IT incidents, environmental non-compliance, HR concerns, or safety hazards — are treated at the symptom level, not the root cause. This leads to repeated disruptions, wasted time, and higher costs.&#13;
+&#13;
+There’s a clear gap in providing a centralised system that not only identifies the root causes of problems but also suggests appropriate, proven cures based on past resolutions and AI-driven recommendations.</problem_statement>
+        <project_name>RootCure AI – Intelligent Cause &amp; Cure Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>AI Agentic Studio - fro configure the AI Agents and utilised the OOB tools (Scripts, Flow, Search Retrivals) from there</li><li>App Engine Studio – for building custom dashboards, forms, and workflows</li><li>Flow Designer – to automate follow-up actions or escalations</li><li>Performance Analytics – to track root causes and recurrence rates</li><li>Predictive Intelligence / Machine Learning – to suggest likely causes and recommended actions</li><li>Knowledge Management – to maintain a living “Cause &amp; Cure” library</li><li>Surveys &amp; Assessments – to gather user feedback after cures are applied</li><li>Virtual Agent (optional) – to guide users through self-resolution paths</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Historical data from incident/problem/compliance records</li><li>Accurate categorization/tagging for better AI suggestion</li><li>Access to build custom tables, relationships, and UI components</li><li>Predictive Intelligence plugin (if using AI for suggestions)</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Ensuring quality and consistency in data for root cause analysis</li><li>Building trust in AI recommendations (human validation may be needed)</li><li>User adoption of a new process when they’re used to quick fixes </li><li>Integration with different departments or systems for cross-functional use</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>TechTrekwithAJ</sys_created_by>
+        <sys_created_on>2025-10-22 12:43:11</sys_created_on>
+        <sys_id>af524d7c47f07a90ec92d24b116d43f5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RootCure AI – Intelligent Cause &amp; Cure Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_af524d7c47f07a90ec92d24b116d43f5</sys_update_name>
+        <sys_updated_by>TechTrekwithAJ</sys_updated_by>
+        <sys_updated_on>2025-10-22 12:43:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

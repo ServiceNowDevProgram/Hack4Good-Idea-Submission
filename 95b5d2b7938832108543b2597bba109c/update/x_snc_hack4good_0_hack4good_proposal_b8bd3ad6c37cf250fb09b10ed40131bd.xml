@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>By enabling citizens, authorities, and vendors to collaborate through a unified ServiceNow-powered solution, we can:</p>
+<p>Reduce air pollution incidents by 25–40% during festive seasons.</p>
+<p>Improve citizen compliance through transparency and awareness.</p>
+<p>Promote eco-friendly alternatives via verified vendor listings.</p>
+<p>Provide real-time air quality and sound level dashboards for both government officials and the public.</p>
+<p>Empower decision-makers with data-driven insights to plan better environmental regulations and campaigns.</p>]]></potential_impact>
+        <problem_statement>During Diwali, air and noise pollution levels spike drastically due to the uncontrolled sale and bursting of firecrackers. Despite government regulations, it’s difficult to track, control, and ensure compliance at the local level. Citizens also lack awareness of safe zones, low-pollution alternatives, and real-time air quality updates.</problem_statement>
+        <project_name>EcoDiwaliNow</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio (AES): To build the custom EcoDiwaliNow application with forms, dashboards, and workflows.</p>
+<p>ServiceNow ESG (Environmental, Social, Governance) Management: To monitor and report on sustainability metrics like AQI trends.</p>
+<p>Integration Hub: To integrate with external APIs (e.g., government pollution data, air quality sensors).</p>
+<p>Flow Designer: For automated notifications and escalation to authorities if pollution thresholds are breached.</p>
+<p>Mobile App / Next Experience UI: For citizens to report violations, locate green vendors, and track local air quality.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with local pollution monitoring APIs (e.g., CPCB, AQICN).</p>
+<p>Data feeds from IoT-based air quality sensors (optional enhancement).</p>
+<p>Secure public portal or mobile experience for citizen reporting.</p>
+<p>Optional integration with government databases for vendor licensing.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data accuracy: Ensuring real-time and reliable AQI readings.</p>
+<p>Adoption barriers: Encouraging citizens and vendors to actively use the platform.</p>
+<p>Integration complexity: Connecting multiple external APIs and data sources securely.</p>
+<p>Scalability: Managing high traffic during the festive period.</p>
+<p>Behavioral change: Driving long-term awareness and responsible celebration habits.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 13:35:06</sys_created_on>
+        <sys_id>b8bd3ad6c37cf250fb09b10ed40131bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EcoDiwaliNow</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b8bd3ad6c37cf250fb09b10ed40131bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 13:35:08</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

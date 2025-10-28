@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A ServiceNow-powered platform can connect verified domestic workers with households in need. By offering digital profiles, background verification, real-time availability, and automated job matching, the platform can provide safe, transparent, and dignified work opportunities. Measurable impacts include increased job placements, better livelihood stability, and higher customer satisfaction.</p>]]></potential_impact>
+        <problem_statement>Many households struggle to find verified, trustworthy, and skilled househelp or cleaning professionals, while workers often lack visibility, fair wages, or consistent work opportunities. There’s also limited transparency in scheduling, payments, and feedback, creating inefficiencies for both sides.</problem_statement>
+        <project_name>CleanConnect – Empowering Local Househelp and Cleaning Services</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio – to build the core app and workflows.</p>
+<p>Employee Center Portal – as a unified interface for households and workers.</p>
+<p>Flow Designer – for matching and scheduling automation.</p>
+<p>Performance Analytics – to track employment rates and impact metrics.</p>
+<p>Mobile App Builder – to enable on-the-go access for workers.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with identity verification APIs (e.g., Aadhaar or DigiLocker), payment gateways, and geolocation services.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring worker verification and safety, managing regional language support, and encouraging adoption among digitally unfamiliar workers.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 14:24:06</sys_created_on>
+        <sys_id>dc3a0b96c3bcf250fb09b10ed401310e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CleanConnect – Empowering Local Househelp and Cleaning Services</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_dc3a0b96c3bcf250fb09b10ed401310e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 14:24:07</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

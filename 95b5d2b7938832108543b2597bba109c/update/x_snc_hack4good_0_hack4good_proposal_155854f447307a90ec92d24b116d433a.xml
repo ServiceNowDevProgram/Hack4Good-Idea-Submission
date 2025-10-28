@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>By creating a centralized, digital platform for mentorship, learning opportunities, and career preparation, SkillBridge can:</p>
+<ul><li>Connect students with verified mentors from various industries.</li><li>Help youth find local or virtual workshops, internships, and events.</li><li>Let educators and NGOs track youth engagement and progress.</li><li>Close the gap between education and employability.</li></ul>]]></potential_impact>
+        <problem_statement>Many young people, especially in under-resourced communities, lack access to mentorship, skill-building opportunities, and career guidance. They might not know what career paths exist, how to prepare for them, or how to access training and internships.&#13;
+&#13;
+Schools and local organisations often run mentorship or training programs — but coordination is scattered, and students miss out due to lack of awareness or poor engagement.&#13;
+&#13;
+Example use case -&#13;
+&#13;
+A 17-year-old student logs into SkillBridge and selects an interest in IT careers.The app recommends mentors, upcoming coding workshops, and beginner course materials.The student books a mentorship session.The mentor receives a task notification in ServiceNow and conducts a virtual session.After the session, both leave feedback, and the platform updates the student’s progress.</problem_statement>
+        <project_name>SkillBridge – Youth Mentorship &amp; Learning Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><table class="t1" style="width: 89.6954%; height: 457.586px;" cellspacing="0" cellpadding="0"><tbody><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p1"><strong>ServiceNow Capability</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p1"><strong>Purpose</strong></p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>App Engine Studio</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">To build the no-code/low-code application</p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>Service Catalog</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">For students to request mentorship or sign up for programs</p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>Flow Designer</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">Automate mentor matching, session reminders, and follow-ups</p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>Notification Engine</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">Alerts for upcoming sessions, new opportunities</p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>Record Producers</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">For submitting mentorship interests or feedback</p>
+</td></tr><tr style="height: 54.3984px;"><td class="td1" style="width: 26.5558%; height: 54.3984px;" valign="top">
+<p class="p2"><strong>Dashboards / PA</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 54.3984px;" valign="top">
+<p class="p2">Visualize engagement rates, number of sessions, mentor participation</p>
+</td></tr><tr style="height: 76.7969px;"><td class="td1" style="width: 26.5558%; height: 76.7969px;" valign="top">
+<p class="p2"><strong>ServiceNow Mobile App</strong></p>
+</td><td class="td1" style="width: 73.0163%; height: 76.7969px;" valign="top">
+<p class="p2">Allow students and mentors to interact on-the-go</p>
+</td></tr></tbody></table>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with <strong>external video platforms</strong> (Zoom, Google Meet) for virtual sessions.</li><li>Optional integration with <strong>LinkedIn APIs</strong> or similar for mentor verification.</li><li>Google Maps or location API (if recommending nearby workshops or training centers).</li><li>SMS/Email gateway for mobile-first communication.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li><strong>User onboarding &amp; verification</strong>: Ensuring mentors and students are real and approved.</li><li><strong>Data privacy</strong>: Protecting personal data, especially for minors.</li><li><strong>Engagement</strong>: Getting consistent participation from both students and mentors.</li><li><strong>Scaling</strong>: As the number of users grows, ensuring performance and usability.</li><li><strong>Accessibility</strong>: Designing for mobile and low-bandwidth environments.</li><li><strong>Program governance</strong>: Different schools or NGOs may want custom workflows or reporting.</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>TechTrekwithAJ</sys_created_by>
+        <sys_created_on>2025-10-22 09:35:51</sys_created_on>
+        <sys_id>155854f447307a90ec92d24b116d433a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillBridge – Youth Mentorship &amp; Learning Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_155854f447307a90ec92d24b116d433a</sys_update_name>
+        <sys_updated_by>TechTrekwithAJ</sys_updated_by>
+        <sys_updated_on>2025-10-22 09:35:52</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

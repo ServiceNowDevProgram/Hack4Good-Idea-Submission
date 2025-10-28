@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<div>
+<div>
+<div>
+<div>
+<p>A technology solution would bridge the trust gap by creating an immutable, transparent journey for every dollar donated. It would automatically connect a donor&#39;s contribution to specific project milestones, like the purchase of supplies or aid delivered to a family; complete with photos and receipts.</p>
+<p>This transforms donating from a blind act of faith into a trackable, engaging story. The potential impact is a revolution in trust: donors give with confidence, knowing exactly how they helped, while nonprofits can dramatically increase donor retention, secure more funding, and build deeper, more honest relationships with their supporters.</p>
+</div>
+</div>
+<div> </div>
+<div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+</div>
+<div> </div>]]></potential_impact>
+        <problem_statement>Donating to charity often feels like a leap of faith. You give money, but you're left wondering: what real difference did my contribution make? This lack of transparency creates a critical trust gap.&#13;
+&#13;
+For donors, it leads to skepticism and hesitation. For nonprofits, it results in lost funding and supporter loyalty, simply because they lack the tools to efficiently show the direct impact of each donation. The connection between the gift and its outcome is broken.</problem_statement>
+        <project_name>TransparentAid: Donation Accountability Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif;">The ideal solution is a dedicated application on the ServiceNow Platform that acts as a transparent backbone for nonprofit operations. We envision a donor-friendly portal connected to a powerful internal workflow engine.</span></p>
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif;">Here’s how specific ServiceNow capabilities would bring this to life:</span></p>
+<ol style="margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;"><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; text-wrap-mode: wrap;">ServiceNow App Engine: </span></strong><span style="font-size: 11pt; text-wrap-mode: wrap;">This is the core. We would use it to build the custom application, complete with tables for donations , projects , and milestones  to track the entire lifecycle of every dollar.</span></p>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; text-wrap-mode: wrap;">Service Portal &amp; Employee Center:</span></strong><span style="font-size: 11pt; text-wrap-mode: wrap;"> This would power two key interfaces:</span></p>
+</li></ol>
+<ul style="margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;"><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap; margin-left: 36pt;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; text-wrap-mode: wrap;">A public-facing Donor Portal where individuals can enter a unique Donation ID and see a visual, timeline-based journey of their contribution.</span></p>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap; margin-left: 36pt;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; text-wrap-mode: wrap;">An internal NGO Operations Hub for staff to manage projects, log activities, and view dashboards.</span></p>
+</li></ul>
+<ol style="margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px;" start="3"><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; text-wrap-mode: wrap;">Flow Designer &amp; Workflow Automation: </span></strong><span style="font-size: 11pt; text-wrap-mode: wrap;">This is the &#34;brain&#34; of the solution. We would build automated workflows that:</span></p>
+<ul style="padding-inline-start: 48px;"><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; text-wrap-mode: wrap;">Trigger confirmation emails when a donation is received.</span></p>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; text-wrap-mode: wrap;">Assign tasks to field agents when funds are ready to be deployed.</span></p>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; text-wrap-mode: wrap;">Automatically update the donor&#39;s dashboard when a new milestone (like a photo from the field) is logged.</span></p>
+</li></ul>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; text-wrap-mode: wrap;">Mobile App Builder: </span></strong><span style="font-size: 11pt; text-wrap-mode: wrap;">This is crucial for on-the-ground impact. Field agents could use the ServiceNow Mobile App to instantly log completed activities, upload photos of distributed aid, and capture beneficiary data directly from their phones, in real-time.</span></p>
+</li><li style="font-size: 11pt; font-family: Arial, sans-serif; text-wrap-mode: nowrap;">
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; text-wrap-mode: wrap;">Performance Analytics &amp; Dashboards:</span></strong><span style="font-size: 11pt; text-wrap-mode: wrap;"> We would create real-time dashboards for NGO managers to see key metrics like total funds raised per project, milestone completion rates, and donor engagement levels, enabling data-driven decision-making.</span></p>
+</li></ol>
+<p style="line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif;">In essence, we are not just building a tracker; we are using the power of the Now Platform to create a connected, transparent, and trustworthy ecosystem between donors and the causes they support.</span></p>
+<p><br /><br /><br /></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p class="ds-markdown-paragraph" style="margin: 16px 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);">The solution is designed to be built primarily on the core ServiceNow Platform, minimizing external dependencies for the initial prototype. The main dependencies are:</p>
+<ol style="margin: 16px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);" start="1"><li>
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">ServiceNow Platform Access:</strong> The primary dependency is a Developer Instance of the ServiceNow Platform with access to App Engine, Service Portal, and Flow Designe<strong style="font-weight: 600;">r</strong> to build the custom application, workflows, and user interfaces.</p>
+</li><li style="margin-top: 6px;">
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">Payment Gateway Integration (for a live solution):</strong> To move beyond a demo, the solution would need a secure integration with a payment processor (like Paystack, Flutterwave, or Stripe) to handle real donations. For the hackathon prototype, this can be simulated using a mock integration.</p>
+</li><li style="margin-top: 6px;">
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">Mobile Data Connectivity:</strong> For field agents to log milestones in real-time, the solution depends on cellular or internet connectivity in the areas of operation. The application can be designed with an offline-capable mobile interface to mitigate this, syncing data when a connection is available.</p>
+</li></ol>
+<p class="ds-markdown-paragraph" style="margin: 16px 0px 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);">The architecture prioritizes a strong, standalone proof-of-concept on the ServiceNow platform first, with clear pathways for integrating additional services later.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p class="ds-markdown-paragraph" style="margin: 16px 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);">The main challenges in implementing this idea would be:</p>
+<ol style="margin: 16px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);" start="1"><li>
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">NGO Adoption &amp; Behavior Change:</strong> The biggest hurdle isn&#39;t technical; it is convincing busy NGOs to adopt a new process. Their staff and field agents would need to consistently log activities and upload evidence, which requires a cultural shift towards radical transparency.</p>
+</li><li style="margin-top: 6px;">
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">Data Burden on Field Operations:</strong> Capturing photos and receipts for every transaction in real-time can be challenging in low-connectivity or high-pressure environments (like disaster zones). We must design a simple, mobile-friendly process that doesn&#39;t hinder their primary work.</p>
+</li><li style="margin-top: 6px;">
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">Initial Data Setup and Integrity:</strong> The system&#39;s value depends on accurate data. Setting up projects, budgets, and beneficiary lists correctly from the start is crucial. Inaccurate data entry would break the chain of trust the solution is built on.</p>
+</li><li style="margin-top: 6px;">
+<p class="ds-markdown-paragraph" style="margin: 0px;"><strong style="font-weight: 600;">Integration with Existing Systems:</strong> For wider adoption, the solution may need to integrate with an NGO&#39;s existing accounting or donor management software, which can be complex and vary between organizations.</p>
+</li></ol>
+<p class="ds-markdown-paragraph" style="margin: 16px 0px 0px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, &#39;system-ui&#39;, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif; font-size: 16px; white-space: normal; background-color: rgb(255, 255, 255);">By focusing on an incredibly user-friendly mobile experience and a phased rollout, these challenges can be effectively managed.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 19:50:50</sys_created_on>
+        <sys_id>82d9e74983b83e10bfe895d6feaad3fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TransparentAid: Donation Accountability Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_82d9e74983b83e10bfe895d6feaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 19:50:51</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

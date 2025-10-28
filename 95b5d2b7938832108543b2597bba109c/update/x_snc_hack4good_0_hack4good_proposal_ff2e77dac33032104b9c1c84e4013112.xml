@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<h4><strong>1. Efficiency and Time Savings</strong></h4>
+<p>Automates nomination intake, scoring, and reporting—reducing <strong>administrative effort by up to 60–70%</strong>.</p>
+<p>Eliminates manual data entry, email follow-ups, and spreadsheet tracking, allowing staff to focus on <strong>mission-driven activities</strong>.</p>
+<h4>&#x1f9e0; <strong>2. Transparency and Fairness</strong></h4>
+<p>Provides a <strong>standardized evaluation framework</strong>, ensuring all nominees are assessed consistently.</p>
+<p>Real-time dashboards increase visibility for coordinators and board members, enhancing <strong>trust and accountability</strong>.</p>
+<h4>&#x1f91d; <strong>3. Collaboration and Engagement</strong></h4>
+<p>Enables <strong>multi-judge collaboration</strong> with centralized scoring and comments.</p>
+<p>Encourages broader participation from community volunteers and experts through secure, role-based access.</p>
+<h4>&#x1f4ca; <strong>4. Data-Driven Insights</strong></h4>
+<p><strong>Performance Analytics</strong> offers reports on trends, diversity of nominations, and historical recognition patterns.</p>
+<p>Insights help nonprofits refine award categories and improve future selection processes.</p>
+<h4>&#x1f49a; <strong>5. Long-Term Value</strong></h4>
+<p>Establishes a reusable, scalable platform for future awards or grants.</p>
+<p>Strengthens the organization’s reputation for <strong>transparency, fairness, and operational excellence</strong>.</p>]]></potential_impact>
+        <problem_statement>Nonprofit organizations often struggle with managing award nominations and selection processes efficiently. Submissions are typically collected through emails or spreadsheets, leading to data inconsistency, lost information, and manual scoring errors.&#13;
+Evaluations lack transparency—judges work in silos, scoring criteria differ, and there’s little visibility into progress or fairness. Administrators spend excessive time coordinating nominations, tracking eligibility, and consolidating results.&#13;
+Without a unified platform, the entire process—from nomination to final selection—becomes time-consuming, error-prone, and difficult to audit. There’s a clear need for a digital, transparent, and automated solution that streamlines award management while ensuring equitable recognition of deserving candidates.</problem_statement>
+        <project_name>AwardSync</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><h4><strong>ServiceNow Products &amp; Capabilities Used</strong></h4>
+<p><strong>Service Catalog / Record Producers:</strong> Nomination and judging forms.</p>
+<p><strong>Flow Designer &#43; Subflows:</strong> Automation of routing, scoring, and notifications.</p>
+<p><strong>IntegrationHub:</strong> Connect external directories or collaboration tools (like SharePoint or Slack).</p>
+<p><strong>Performance Analytics (PA):</strong> Visual dashboards for trends, fairness, and outcome transparency.</p>
+<p><strong>Now Mobile / Employee Center:</strong> Easy submission and evaluation experience.</p>
+<p><strong>Document Management:</strong> Secure storage of supporting materials and audit history.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Employee Center / Service Portal (UI Builder)</strong> — nomination &#43; judging workspaces</p>
+<p><strong>Service Catalog / Record Producers</strong> — nomination &amp; evaluation forms</p>
+<p><strong>Flow Designer &#43; Subflows</strong> — routing, validation, weighted scoring, notifications</p>
+<p><strong>IntegrationHub (REST/Webhooks)</strong> — CRM/Directory lookups, file/signature tools, Slack/Teams</p>
+<p><strong>Performance Analytics (PA)</strong> — KPIs (submissions, review progress, variance, time-to-decision)</p>
+<p><strong>Now Mobile</strong> — judge tasks, scoring on the go, push reminders</p>
+<p><strong>Knowledge Management</strong> — criteria rubrics, FAQs, policies</p>
+<p><strong>Document Management / Attachments</strong> — evidence files, audit trail</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><h4><strong>. Data Integration and Consistency</strong></h4>
+<p>Collecting nomination data from multiple sources (forms, emails, external databases) can cause <strong>data duplication or inconsistency</strong>.</p>
+<p>Integration with third-party systems (e.g., nonprofit directories, e-signature tools) requires secure and well-managed APIs.</p>
+<h4>&#x1f512; <strong>2. Fairness and Evaluation Transparency</strong></h4>
+<p>Designing scoring models that ensure <strong>unbiased and consistent evaluation</strong> across categories can be complex.</p>
+<p>Managing access so judges only see relevant entries while maintaining confidentiality needs careful <strong>RBAC (role-based access control)</strong> setup.</p>
+<h4>&#x1f9e0; <strong>3. User Adoption and Training</strong></h4>
+<p>Judges, staff, and volunteers may have <strong>varying levels of technical comfort</strong>, requiring simple UI/UX and training sessions.</p>
+<p>Encouraging adoption from traditional, email-based processes to a digital system might face initial resistance.</p>
+<h4>⚙️ <strong>4. Workflow Customization</strong></h4>
+<p>Each nonprofit may have <strong>unique award categories, criteria, and review rounds</strong>, making the workflow highly configurable.Balancing flexibility with ease of administration will be key.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 18:12:31</sys_created_on>
+        <sys_id>ff2e77dac33032104b9c1c84e4013112</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AwardSync</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ff2e77dac33032104b9c1c84e4013112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 18:12:32</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

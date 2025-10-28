@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p class="whitespace-normal break-words"><strong>A secure, centralized case management platform on ServiceNow that:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-2.5 pl-7"><li class="whitespace-normal break-words">Creates a complete case record for each child with automatic alerts for required check-ins</li><li class="whitespace-normal break-words">Tracks all interactions, documents, and interventions in one auditable timeline</li><li class="whitespace-normal break-words">Flags high-risk cases automatically based on predefined criteria</li><li class="whitespace-normal break-words">Manages multi-agency collaboration with controlled access and information sharing</li><li class="whitespace-normal break-words">Generates compliance reports for regulators and funders</li></ul>]]></potential_impact>
+        <problem_statement>Child protection charities manage complex cases involving multiple touchpoints (social workers, schools, legal teams, families). Paper based or fragmented digital records lead to missed follow-ups, lost documentation, and safeguarding risks. Staff turnover means critical case history gets lost.</problem_statement>
+        <project_name>SafeTrack– Child Safeguarding Case Management System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p class="whitespace-normal break-words"><strong>ServiceNow Products to Use:</strong></p>
+<ul class="[&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc space-y-2.5 pl-7"><li class="whitespace-normal break-words">Customer Service Management (adapted for case management)</li><li class="whitespace-normal break-words">IntegrationHub (connect with school databases, court systems)</li><li class="whitespace-normal break-words">Performance Analytics (track outcomes, intervention effectiveness)</li><li class="whitespace-normal break-words">Mobile App (field workers access case info on the go)</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution requires integration with existing local authority case management systems and secure data sharing agreements between agencies (social services, schools, healthcare, police). GDPR compliant hosting is essential given the sensitivity of child protection data. Mobile offline capability is needed for field social workers. Successfully implementing this depends on cross-agency collaboration agreements and staff training on standardized data protocols.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Key challenges include: </strong>securing cross agency data sharing agreements and overcoming institutional resistance to shared platforms ensuring GDPR compliance while enabling appropriate information access managing change across multiple organizations with varying digital maturity migrating and standardizing data from legacy systems and maintaining user trust that the system supports rather than surveils their work. Additionally, preventing algorithmic bias in risk assessment and ensuring the solution remains sustainable beyond initial implementation require careful governance frameworks. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 07:41:31</sys_created_on>
+        <sys_id>7884ac8a8370b210eb5fa4d0deaad303</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeTrack– Child Safeguarding Case Management System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7884ac8a8370b210eb5fa4d0deaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 07:41:33</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

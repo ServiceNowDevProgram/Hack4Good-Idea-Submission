@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>
+<p>Simplifies donation management and tracking.</p>
+</li><li>
+<p>Ensures donations reach verified recipients faster.</p>
+</li><li>
+<p>Increases transparency and trust in relief efforts.</p>
+</li><li>
+<p><strong>Measurable Goals:</strong></p>
+<ul><li>
+<p>&#43;70% faster aid coordination</p>
+</li><li>
+<p>-40% logistics delays</p>
+</li><li>
+<p>&#43;50% donor engagement</p>
+</li></ul>
+</li></ul>]]></potential_impact>
+        <problem_statement>During conflicts, people lose access to basic needs like food, shelter, and clothing.&#13;
+Donations are often uncoordinated, with no clear visibility of where help is needed most.&#13;
+There’s a need for a centralised, transparent system to connect donors, NGOs, and victims efficiently.</problem_statement>
+        <project_name>Relief Connect: Empowering Communities to Support War Victims</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p style="text-align: left;"><strong>Relief Connect</strong> will be a ServiceNow-based donation management platform that:</p>
+<ul><li>
+<p>Lets users donate food, clothes, essentials, or money through a Service Portal.</p>
+</li><li>
+<p>Matches donations with verified NGO requests using AI workflows.</p>
+</li><li>
+<p>Tracks logistics and delivery status in real-time.</p>
+</li><li>
+<p>Displays impact metrics via dashboards and maps.</p>
+</li></ul>
+<p>ServiceNow products or capabilities that would be used are mentioned below</p>
+<ul><li>
+<p><strong>App Engine / Studio</strong> - Scoped app build</p>
+</li><li>
+<p><strong>Service Portal</strong> - Donation submission interface</p>
+</li><li>
+<p><strong>Flow Designer &amp; IntegrationHub</strong> - Automations and logistics APIs</p>
+</li><li>
+<p><strong>Performance Analytics</strong> - Impact dashboards</p>
+</li><li>
+<p><strong>Now Assist (AI)</strong> - Smart donation matching</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p>IntegrationHub spokes for payments (PayPal/Stripe) and logistics (FedEx/DHL)</p>
+</li><li>
+<p>Geolocation API for mapping</p>
+</li><li>
+<p>Document Management for donation receipts</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Data security and privacy for donors/recipients</p>
+</li><li>
+<p>Verification of NGO authenticity</p>
+</li><li>
+<p>API integration complexity</p>
+</li><li>
+<p>Scalability during high traffic periods</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 12:23:37</sys_created_on>
+        <sys_id>4104e9c683743210b2abf1d6feaad3d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Relief Connect: Empowering Communities to Support War Victims</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4104e9c683743210b2abf1d6feaad3d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 12:23:38</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

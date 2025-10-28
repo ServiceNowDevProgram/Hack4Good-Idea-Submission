@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution would have a high, measurable impact across three areas:</p>
+<ol start="1"><li>
+<p><strong>Increased Volunteer Retention (25%):</strong> By providing better matching and clear project scopes, volunteers feel their time is valued and are more likely to complete projects and return.</p>
+</li><li>
+<p><strong>Faster Project Completion (20%):</strong> NPOs can quickly find the niche skills required for projects like website redesigns, data analysis, or marketing campaigns, significantly speeding up operational improvements.</p>
+</li><li>
+<p><strong>Skill Validation:</strong> Every completed volunteer project generates a <strong>verified digital certificate</strong> (using ServiceNow features or a public ledger), which volunteers can use on their resumes or LinkedIn profiles, providing tangible educational value.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Many small and medium nonprofit organizations (NPOs) struggle with volunteer retention and skill misalignment. They often receive interest from volunteers, but lack an efficient way to match specific, high-value volunteer skills (e.g., coding, graphic design, grant writing, project management) to specific, time-bound organizational needs.</problem_statement>
+        <project_name>SkillBridge - Nonprofit Volunteer Matching &amp; Skill Development</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>using App Engine Studio</p>
+<p>Service Portal</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><h2> </h2>
+<p><strong>Public-Facing Access:</strong> Requires a public-facing Service Portal or Unauthenticated App access configuration for the general volunteer community.</p>
+<p><strong>Skill Taxonomy:</strong> Reliance on a robust, standardized skill taxonomy (either custom-built or leveraging existing ServiceNow HR/Learning content) to ensure accurate matching.</p>
+<p><strong>Geolocation (Optional):</strong> Could use geolocation for NPOs to find local volunteers, which requires device access.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p><strong>AI Accuracy:</strong> Achieving a high degree of accuracy in the <strong>skill-to-project matching</strong> component. Poor matches could quickly erode trust in the platform.</p>
+</li><li>
+<p><strong>Data Security:</strong> Managing public-facing user profiles and ensuring that sensitive NPO project details are kept private and only shared with selected, verified volunteers.</p>
+</li><li>
+<p><strong>Adoption Rate:</strong> Getting busy NPO staff to adopt a new platform for project intake requires strong change management and an extremely intuitive interface.</p>
+</li><li>
+<p><strong>Certificate Integrity:</strong> Ensuring the digital certificates are genuinely verifiable and cannot be fraudulently generated.</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 05:12:43</sys_created_on>
+        <sys_id>11bcd3ec83bc36104d3866d0deaad336</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillBridge - Nonprofit Volunteer Matching &amp; Skill Development</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_11bcd3ec83bc36104d3866d0deaad336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 05:12:45</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

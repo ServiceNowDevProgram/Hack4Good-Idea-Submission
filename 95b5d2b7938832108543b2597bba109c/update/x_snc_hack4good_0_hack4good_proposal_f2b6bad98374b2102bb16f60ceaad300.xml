@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A wearable-enabled platform that tracks student behavior and academic performance can:</p>
+<ul><li>Help teachers understand student social circles and peer interactions.</li><li>Enable early intervention for struggling students.</li><li>Promote positive behavior through peer recognition.</li><li>Personalize learning paths based on student interests and strengths.</li></ul>
+<p><strong>Measurable outcomes:</strong></p>
+<ul><li>25% improvement in student engagement and participation.</li><li>30% increase in positive peer interactions.</li><li>Early identification of learning gaps in 90% of cases.</li><li>Improved parent-teacher collaboration and student support.</li></ul>]]></potential_impact>
+        <problem_statement>In traditional classrooms, teachers often struggle to monitor student behavior, social dynamics, and academic performance in real time. Students may feel disconnected or unsupported, especially if they’re struggling in certain subjects. There’s a lack of personalized learning and early intervention, which can lead to disengagement and poor academic outcomes.</problem_statement>
+        <project_name>EduPulse – Smart Behavior &amp; Performance Tracker for Schools</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Service Portal</strong> – for teacher dashboards, student profiles, and parent meeting scheduling</li><li><strong>Record Producer</strong> – to collect student data, peer points, and academic performance</li><li><strong>Flow Designer</strong> – to automate alerts, meeting scheduling, and personalized learning recommendations</li><li><strong>Virtual Agent</strong> – for guidance on student support strategies and insights</li><li><strong>Notification Engine</strong> – to alert teachers and parents about performance issues or behavioral trends</li><li><strong>Performance Analytics</strong> – to track academic growth, peer interactions, and engagement metrics</li><li><strong>IntegrationHub</strong> – for connecting with smartwatch APIs and school systems</li><li><strong>Survey Management</strong> – for collecting feedback from students, teachers, and parents</li><li><strong>Now Mobile (optional)</strong> – for mobile access to dashboards and notifications</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with smartwatch APIs for peer point tracking</li><li>Secure handling of student data and behavioral logs</li><li>Integration with school academic systems for performance tracking</li><li>Notification system for real-time alerts and meeting coordination</li><li>AI-based recommendation engine for personalized learning paths</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring privacy and ethical use of student data</li><li>Encouraging consistent use of peer points and smartwatches</li><li>Managing bias or misuse of peer recognition</li><li>Coordinating with parents and school systems for interventions</li><li>Scaling the platform across different schools and regions</li><li>Providing actionable insights without overwhelming teachers</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 10:21:18</sys_created_on>
+        <sys_id>f2b6bad98374b2102bb16f60ceaad300</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EduPulse – Smart Behavior &amp; Performance Tracker for Schools</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f2b6bad98374b2102bb16f60ceaad300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 10:21:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

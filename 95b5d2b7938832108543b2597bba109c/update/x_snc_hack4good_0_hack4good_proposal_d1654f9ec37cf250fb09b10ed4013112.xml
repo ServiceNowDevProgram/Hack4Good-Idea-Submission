@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Increase in donor registrations through awareness campaigns and automation.</p>
+<p>Faster matching of donors and recipients using intelligent workflows.</p>
+<p>Real-time communication between hospitals and organ banks.</p>
+<p>Improved transparency, data security, and compliance tracking.<br />Measurable impact: Reduction in organ wastage and improved transplant coordination time.</p>]]></potential_impact>
+        <problem_statement>Organ donation is a lifesaving act, yet thousands of lives are lost each year due to a lack of awareness, delayed coordination, and absence of a centralized system to track potential donors and recipients. There is a strong need for a transparent, secure, and real-time platform to connect donors, hospitals, and NGOs efficiently.</problem_statement>
+        <project_name>LifeLinkNow – Organ Donation Awareness and Tracking Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio – to build the core organ donor registry and request tracking app.</p>
+<p>Flow Designer – to automate donor-recipient matching workflows.</p>
+<p>IntegrationHub – to integrate with hospital databases and NGO portals.</p>
+<p>Now Mobile – for donor awareness and registration through mobile apps.</p>
+<p>Performance Analytics – to track impact metrics and awareness campaign outcomes.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with hospital management systems, verified donor ID databases, and government organ donation APIs.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy and HIPAA compliance for sensitive medical information.</p>
+<p>Verifying authenticity of donor and recipient records.</p>
+<p>Coordinating real-time updates across multiple hospitals and regions.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 14:05:00</sys_created_on>
+        <sys_id>d1654f9ec37cf250fb09b10ed4013112</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LifeLinkNow – Organ Donation Awareness and Tracking Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d1654f9ec37cf250fb09b10ed4013112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 14:05:01</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
