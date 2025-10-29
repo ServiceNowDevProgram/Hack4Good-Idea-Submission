@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>HealTrack bridges the gap between hospital care and home recovery. After discharge, patients receive personalized recovery plans through a secure mobile portal. The system sends automated medication reminders, physical therapy schedules, and follow-up checklists.</li><li>Nurses and doctors can monitor recovery progress through submitted digital forms or IoT-connected wearable data (like heart rate or glucose monitors). If a patient reports concerning symptoms, HealTrack automatically triggers alerts to the assigned healthcare provider or creates a teleconsultation appointment.</li><li>Analytics dashboards display overall patient recovery rates, readmission trends, and medication adherence statistics - empowering hospitals to improve post-care programs and reduce hospital overcrowding.</li></ul>]]></potential_impact>
+        <problem_statement>Hospitals and healthcare providers often lose visibility into a patient’s condition once they are discharged. Many patients skip follow-up visits or forget prescribed medication schedules, which can lead to complications, readmissions, or poor recovery outcomes. Traditional phone-based follow-ups are inefficient and time-consuming for healthcare staff.</problem_statement>
+        <project_name>HealTrack: Patient Recovery Monitoring System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Flow Designer: Automate patient follow-up workflows, reminder notifications, and escalation triggers when abnormal recovery data is reported.</p>
+<p>Mobile App Builder: Provide an intuitive patient-facing app for submitting recovery updates, receiving reminders, and communicating with medical staff securely.</p>
+<p>IntegrationHub (SMS &amp; Health APIs): Integrate with wearable devices, hospital EMRs, or SMS gateways for real-time updates and alerts.</p>
+<p>Dashboards: Track patient recovery metrics, alert frequency, and improvement trends for healthcare administrators.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 07:47:04</sys_created_on>
+        <sys_id>28f280c3c3f4b6106f77292599013138</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HealTrack: Patient Recovery Monitoring System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_28f280c3c3f4b6106f77292599013138</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:47:05</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

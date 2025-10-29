@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>WaterWatch enables field volunteers or IoT sensors to record water test data directly into a centralized system.</li><li>Contamination alerts can be generated automatically and shared with local authorities for prompt action. Dashboards highlight problem areas and recurring issues, helping agencies plan preventive measures.</li><li>With better visibility, communities can act faster and reduce the risks of waterborne diseases. </li></ul>]]></potential_impact>
+        <problem_statement>In many rural communities, water testing is inconsistent, and results are logged on paper, making it hard for health departments to respond quickly when contamination occurs.</problem_statement>
+        <project_name>WaterWatch: Rural Water Quality Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Developed with App Engine Studio and IntegrationHub, WaterWatch integrates IoT sensor data and mobile submissions from the field. Flow Designer triggers contamination alerts automatically, while Dashboards track contamination trends by region. This gives public health teams instant visibility and actionable insights to ensure safe water access.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 07:13:12</sys_created_on>
+        <sys_id>157b7bf2c3f8b6106f7729259901318e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WaterWatch: Rural Water Quality Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_157b7bf2c3f8b6106f7729259901318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 07:13:13</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
