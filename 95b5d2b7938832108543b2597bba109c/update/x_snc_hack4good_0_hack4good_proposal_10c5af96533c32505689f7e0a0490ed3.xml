@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="text-align: justify;">The solution can help reduce accident risks by enabling early detection and faster repair of potholes. Motorists will experience safer and smoother travel. Municipal authorities gain a real-time, data-driven view of road conditions. Overall, the platform will strengthen community and transparency between citizen and corporation.</p>]]></potential_impact>
+        <problem_statement>The prime motivation behind making pothole Tracker is to aid and reduce the grievance of motorists. There is huge risk of accidents on roads with big potholes. The major reason is behind pothole is low quality of material for construction of roads, faulty design poor material etc. All these reason urges to get information of such major accident causing potholes. Municipal authorities often receive complaints through scattered channels such as calls, social media, or emails, leading to delays and missed repairs.&#13;
+This project aims to provide a citizen platform for reporting and tracking potholes, helping authorities collect real-time information about accident-prone road sections and act quickly to prevent potential disasters.</problem_statement>
+        <project_name>Accident Prevention – Pothole Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li style="text-align: justify;">Customer Service Management Module to register the cases using proper channels </li><li style="text-align: justify;">Field Service Management Module to register work orders to get pothole fixed</li><li style="text-align: justify;">Custom Portal for public-facing where users can report potholes by submitting images, GPS coordinates, and categorizing them based on danger level (using parameters like size, depth, and width)</li><li style="text-align: justify;">Reports and Performance Analytics: To visualize and track metrics like total reported potholes, resolved cases, repair time, and recurring locations, helping identify high-risk areas and monitor improvement trends</li><li style="text-align: justify;">IntegrationHub later part of project to connect with GPS enabled IOT device to automatically track potholes</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="text-align: justify;">Initially, the project can begin by manually storing pothole locations using their latitude and longitude, with corresponding images of potholes uploaded as attachments. Initially This will require GPS, map integration (e.g., Google Maps) mobile with camera access for capturing evidence. In the later stages, IoT-based sensors installed on vehicles or road networks can automatically capture and report pothole locations, eliminating manual data entry.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p style="text-align: justify;">To get Volunteers to do groundwork and raise awareness about project. To Ensure accurate geolocation (latitude and longitude ) captured and avoiding duplicate submissions. Coordinating among city departments to tackle the problem of pothole and address the pothole problem should be end goal.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 16:53:06</sys_created_on>
+        <sys_id>10c5af96533c32505689f7e0a0490ed3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Accident Prevention – Pothole Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_10c5af96533c32505689f7e0a0490ed3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 16:53:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

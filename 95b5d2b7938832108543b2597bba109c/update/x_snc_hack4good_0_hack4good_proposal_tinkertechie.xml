@@ -1,0 +1,15 @@
+<record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <name>AI-based Early Health Risk Detector for Rural Communities</name>
+        <short_description>Predicts health risks early using AI to assist rural healthcare workers.</short_description>
+        <description>
+            A detailed explanation of your idea:
+            - Problem it solves: Rural communities often lack access to timely medical diagnosis and preventive healthcare. This tool helps identify potential health risks early based on basic inputs.
+            - How it helps people: Supports rural health workers and clinics by providing early alerts for conditions like diabetes, hypertension, or infectious diseases, improving early intervention and healthcare outcomes.
+            - Tech stack you would use: ServiceNow for workflow and record management, AI/ML models (Python, TensorFlow), REST APIs, mobile-friendly dashboards for health workers.
+        </description>
+        <author>TinkerTechie</author>
+        <category>Healthcare</category>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
+

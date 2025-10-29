@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Faster detection and alerting could save lives, reduce property loss, and protect ecosystems. It can also improve coordination between local councils, emergency services, and citizens, potentially reducing wildfire damage by up to 40%.</p>]]></potential_impact>
+        <problem_statement>Spain faces increasing wildfire incidents due to rising temperatures and dry conditions, especially in regions like Andalucía and Valencia. Current alert systems are fragmented, slow, and lack predictive intelligence for early prevention and rapid response coordination.</problem_statement>
+        <project_name>FireGuard – AI Powered Wildfire Risk and Early Alert System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Use <strong>ServiceNow Flow Designer</strong> and <strong>Integration Hub</strong> to collect data from satellite feeds, weather APIs, and local fire departments. <strong>Now Platform dashboards</strong> would visualize fire risks, while <strong>Virtual Agent</strong> and <strong>Mobile App</strong> would send automated alerts to residents and emergency teams.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with weather APIs (e.g., MeteoSpain), satellite imagery (Copernicus), and local emergency systems.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Access to real time environmental data, ensuring accuracy of AI predictions, and coordinating between multiple regional authorities for data sharing and response. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-28 21:14:22</sys_created_on>
+        <sys_id>4362b5ba83343a10eb5fa4d0deaad3bb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FireGuard – AI Powered Wildfire Risk and Early Alert System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4362b5ba83343a10eb5fa4d0deaad3bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-28 21:14:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
