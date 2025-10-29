@@ -1,0 +1,21 @@
+// Business Rule | Table: purchase_order | When: before insert or update
+(function executeRule(current, previous) {
+    if (!current.u_margin || !current.u_po_type) return;
+
+    var margin = parseFloat(current.u_margin);
+    var poType = current.u_po_type.toString();
+    var glCode = current.u_gl_code.getDisplayValue();
+
+    var approverGroup = '';
+
+    if (poType === 'Internal' && margin < 17)
+        approverGroup = 'Finance Managers';
+    else if (poType === 'External' && glCode === 'OGP sales-4018' && margin < 5)
+        approverGroup = 'Sales Approvers';
+    else
+        approverGroup = 'Procurement Team';
+
+    current.u_approver_group = approverGroup;
+
+    gs.info('Dynamic approval assigned to ' + approverGroup);
+})(current, previous);
