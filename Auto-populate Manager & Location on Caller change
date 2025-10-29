@@ -1,0 +1,27 @@
+// Client Script | Type: onChange | Field: caller_id
+function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue === '') return;
+
+    var ga = new GlideAjax('GetUserDetails');
+    ga.addParam('sysparm_name', 'getDetails');
+    ga.addParam('sysparm_user', newValue);
+    ga.getXMLAnswer(function(response) {
+        var data = JSON.parse(response);
+        g_form.setValue('manager', data.manager);
+        g_form.setValue('location', data.location);
+    });
+}
+
+// Script Include
+var GetUserDetails = Class.create();
+GetUserDetails.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    getDetails: function() {
+        var user = new GlideRecord('sys_user');
+        user.get(this.getParameter('sysparm_user'));
+        var result = {
+            manager: user.getValue('manager'),
+            location: user.getDisplayValue('location')
+        };
+        return JSON.stringify(result);
+    }
+});
