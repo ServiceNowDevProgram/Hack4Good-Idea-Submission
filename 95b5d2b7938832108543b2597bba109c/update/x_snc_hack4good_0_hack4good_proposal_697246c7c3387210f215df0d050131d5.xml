@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The SkillBridge platform will help students connect with the right mentors, build skills, and find career opportunities faster — leading to better guidance, higher job readiness, and stronger youth empowerment in schools and communities.</p>
+<p>Increases student career readiness by 30% through guided learning paths.<br />Connects 80% of students with suitable mentors using AI-based matching.<br />Improves course and certification completion rates by 25%.<br />Reduces manual counseling workload for educators by 40% through automation.</p>]]></potential_impact>
+        <problem_statement>Many students and young professionals struggle to choose the right career path or gain access to mentors and internships that match their skills. Schools and youth organizations often lack a unified system to connect students with mentors, track learning progress, and provide guidance resources efficiently.</problem_statement>
+        <project_name>SkillBridge : AI-Powered Career Guidance &amp; Mentorship</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio – to build custom applications for student, mentor, and admin workflows.</p>
+<p>Flow Designer – to automate processes like mentor matching, progress tracking, and notifications.</p>
+<p>Predictive Intelligence – for AI-based mentor recommendations and skill gap analysis.</p>
+<p>Service Portal – to create user-friendly interfaces for students and mentors to interact with the platform.</p>
+<p>Performance Analytics – to measure engagement, learning progress, and program effectiveness.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 17:02:47</sys_created_on>
+        <sys_id>697246c7c3387210f215df0d050131d5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SkillBridge : AI-Powered Career Guidance &amp; Mentorship</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_697246c7c3387210f215df0d050131d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 17:02:48</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
