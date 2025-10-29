@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A structured time tracker with focus modes can:</p>
+<ul><li>Improve user awareness of time usage.</li><li>Encourage regular check-ins and accountability.</li><li>Help users build better habits and routines.</li><li>Reduce digital distractions and increase productivity.</li></ul>
+<p><strong>Measurable outcomes:</strong></p>
+<ul><li>40% improvement in focused work sessions.</li><li>25% reduction in time spent on non-productive activities.</li><li>Increased user satisfaction and goal achievement.</li><li>Personalized insights for better time management.</li></ul>]]></potential_impact>
+        <problem_statement>In today’s digital age, people often struggle to stay focused and manage their time effectively. Distractions, lack of structure, and poor self-awareness lead to wasted hours and reduced productivity. There’s a need for a simple, intelligent system that helps users track how they spend their time and encourages mindful focus throughout the day.</problem_statement>
+        <project_name>FocusFlow – Smart Time Tracker for Daily Productivity</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><h3><strong>Which ServiceNow products or capabilities would be used?</strong></h3>
+<ul><li><strong>Service Portal</strong> – for user registration, mode selection, and time usage reports</li><li><strong>Record Producer</strong> – to collect activity logs and user preferences</li><li><strong>Flow Designer</strong> – to automate notifications and mode-based tracking intervals</li><li><strong>Virtual Agent</strong> – for productivity tips, reminders, and user engagement</li><li><strong>Notification Engine</strong> – to send prompts based on selected mode</li><li><strong>Performance Analytics</strong> – to visualize time usage trends and productivity scores</li><li><strong>Survey Management</strong> – for user feedback and improvement suggestions</li><li><strong>Now Mobile (optional)</strong> – for mobile tracking and real-time logging</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Notification scheduling based on user-selected mode and intervals</li><li>Secure data handling for activity logs and personal usage patterns</li><li>Integration with mobile OS APIs for app usage tracking (optional)</li><li>AI-based analysis for personalized productivity insights</li><li>Sleep mode scheduling and auto-disable logic</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring consistent user engagement and logging</li><li>Managing notification fatigue and user preferences</li><li>Accurately categorizing activities as productive or non-productive</li><li>Providing meaningful insights without overwhelming the user</li><li>Scaling the platform for diverse user routines and time zones</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 10:59:03</sys_created_on>
+        <sys_id>72e5798d83f832102bb16f60ceaad3d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FocusFlow – Smart Time Tracker for Daily Productivity</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_72e5798d83f832102bb16f60ceaad3d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 10:59:04</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

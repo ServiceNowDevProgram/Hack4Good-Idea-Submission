@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A digital daycare management system could help parents monitor attendance, health, and activity updates instantly. It enables safer environments, transparent communication, and peace of mind for parents—potentially improving work-life balance and childcare trust by over 50%.</p>]]></potential_impact>
+        <problem_statement>Working parents often struggle to find reliable daycare services, track their child’s well-being in real-time, and communicate effectively with caregivers. Manual processes lead to miscommunication, safety concerns, and inefficiencies.</problem_statement>
+        <project_name>KidCareNow – Smart Daycare Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio, Flow Designer, Now Mobile App, Notification Services, and Performance Analytics for reports and insights.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with third-party APIs for attendance tracking (IoT sensors/RFID) and messaging platforms for live updates.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy, managing child safety compliance, and integrating real-time updates seamlessly across systems.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 13:53:11</sys_created_on>
+        <sys_id>56138fdac37cf250fb09b10ed40131d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>KidCareNow – Smart Daycare Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_56138fdac37cf250fb09b10ed40131d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 13:53:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

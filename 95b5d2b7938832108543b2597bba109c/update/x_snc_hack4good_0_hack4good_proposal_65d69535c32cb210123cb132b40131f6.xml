@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>A crowdsourced and utility-integrated system to track <strong>electricity outages, restoration timelines, and community power quality</strong>, bringing transparency and accountability to power distribution.</p>
+<h4><span style="text-decoration: underline;"><strong>Impacts</strong></span></h4>
+<ul><li>Improve citizen trust in power utilities through real-time status visibility.</li><li>Reduce downtime for small businesses dependent on electricity.</li><li>Enable analytics for national grid reliability improvement.</li></ul>]]></potential_impact>
+        <problem_statement>Frequent power cuts affect homes and businesses, but citizens rarely get accurate information on cause or restoration time.</problem_statement>
+        <project_name>PowerTrackNow – Community Energy Outage and Restoration Monitor</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>This solution will use the products listed and not limited to the following;</p>
+<ul><li><strong>Service Portal</strong> for user outage reporting and live updates.</li><li><strong>IntegrationHub</strong> with DISCO APIs (or simulated data).</li><li><strong>Flow Designer</strong> to trigger notifications when outages are resolved.</li><li><strong>Performance Analytics</strong> to map grid performance by region.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>We would need power company API or data-sharing agreement, optionally, we can add SMS integration for rural communities.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>We might encounter data transparency from utility companies, also, there&#39;s the issue of managing real-time event scalability..</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 06:27:34</sys_created_on>
+        <sys_id>65d69535c32cb210123cb132b40131f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PowerTrackNow – Community Energy Outage and Restoration Monitor</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_65d69535c32cb210123cb132b40131f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 06:27:36</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

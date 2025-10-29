@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Rapid, AI-assisted task assignment to the most relevant response teams based on skill, location, or availability</li><li>Faster coordination and reduced overall response times</li><li>Real-time situational awareness for decision-makers</li><li>Trend analysis for stronger future disaster preparedness</li></ul>]]></potential_impact>
+        <problem_statement>During disaster events such as floods, fire outbreaks, or disease outbreaks, response teams often struggle to manage multiple urgent activities at once.&#13;
+&#13;
+-Manual task allocation is slow and inefficient&#13;
+-Responders lack visibility into priority incidents&#13;
+-Valuable time is lost deciding who should handle what&#13;
+&#13;
+This delay can lead to slower emergency responses and increased damage or loss of life</problem_statement>
+        <project_name>AI-Powered Disaster Management Task Board</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Flow Designer: Automated task creation and routing to responders</li><li>UI Policy: Dynamic form experience for response teams</li><li>Notifications: Real-time task assignments and escalations</li><li>Reporting &amp; Dashboards: Visibility into incident response status</li><li>AI Search: Fast access to procedures, knowledge, or similar incidents</li><li>Predictive Intelligence: Auto-classify incidents and suggest assignment groups</li><li>Performance Analytics: Track response time, completion rates, and escalation trends</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Predictive Intelligence plugin for AI-driven classification and suggestions</li><li>Optional Integration Hub for sending external emergency alerts</li><li>Flow Designer for routing disaster tasks and Notifications</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring proper model training for accurate AI predictions</li><li>Managing prioritization when multiple critical incidents occur simultaneously</li><li>Maintaining secure access control for sensitive emergency data</li><li>Encouraging adoption and trust in AI-driven recommendations</li><li>Handling performance analytics setup and configuration for response trends</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 23:46:18</sys_created_on>
+        <sys_id>393c42d283e0321010071f65eeaad3b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AI-Powered Disaster Management Task Board</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_393c42d283e0321010071f65eeaad3b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 23:46:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

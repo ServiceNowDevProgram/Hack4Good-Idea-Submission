@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Measurable impact/value:</p>
+<ul><li>Reduce staff burnout-related turnover by 40%</li><li>Improve adherence to mandated break policies by 60%</li><li>Enable proactive wellness check-ins before critical fatigue stages</li><li>Enhance care quality and staff retention through data-driven wellness tracking</li><li>Support HR and leadership in planning balanced shift schedules</li></ul>]]></potential_impact>
+        <problem_statement>WellStaff - Tracks workload, break adherence, and burnout indicators to improve workforce wellbeing and retention.&#13;
+Frontline caregivers, especially in long-term care (LTC) and hospital settings, often face heavy workloads, skipped breaks, and emotional exhaustion. These factors contribute to burnout, absenteeism, and high turnover rates.&#13;
+&#13;
+Supervisors often lack real-time insight into:&#13;
+&#13;
+Who is overworked or consistently missing breaks&#13;
+Staff reporting fatigue or emotional distress&#13;
+Shifts that exceed safe working hours&#13;
+Trends in overtime or short-staffed coverage&#13;
+&#13;
+Without early detection, wellness issues escalate into performance decline and increased risk of care errors. WellStaff monitors fatigue and wellness indicators in real-time, providing proactive alerts and support.</problem_statement>
+        <project_name>WellStaff - Caregiver Wellness &amp; Fatigue Monitor</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow products or capabilities used:</p>
+<ul><li>HR Service Delivery (HRSD) – manage wellness cases, self-service wellness requests, and HR intervention workflows</li><li>Now Platform App Engine – custom fatigue monitoring app with staff workload and sentiment tracking tables</li><li>Flow Designer – automate alerts when wellness indicators exceed safe thresholds</li><li>Performance Analytics – measure fatigue trends, workload distribution, and retention improvements</li><li>Now Mobile App – allow caregivers to check in/out for breaks and self-report stress or fatigue levels</li><li>Employee Center (Portal) – provide a confidential wellness hub with tips, resources, and direct HR support</li><li>IntegrationHub – integrate with scheduling and biometric/IoT devices (e.g., smartwatches or shift management tools)</li><li>AI Search &amp; Predictive Intelligence – analyze patterns from historical workload and sentiment data to predict burnout risks</li><li>Virtual Agent – offer conversational wellness check-ins and automated guidance based on reported symptoms</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical dependencies:</p>
+<ul><li>Integration with existing HR or scheduling systems (e.g., Kronos, Workday)</li><li>Optional integration with wearable devices or smart badges for fatigue indicators (heart rate, steps, sleep)</li><li>Secure storage of employee sentiment and health-related data</li><li>Mobile app access for check-ins and notifications</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Anticipated challenges:</p>
+<ul><li>Protecting privacy and ensuring staff trust in wellness data handling</li><li>Maintaining engagement and regular use by caregivers</li><li>Integrating with third-party workforce management tools</li><li>Ensuring AI predictions remain transparent and unbiased</li><li>Preventing alert fatigue for supervisors</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 14:03:16</sys_created_on>
+        <sys_id>c61f96c583347210db267230feaad35e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WellStaff - Caregiver Wellness &amp; Fatigue Monitor</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c61f96c583347210db267230feaad35e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 14:03:18</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

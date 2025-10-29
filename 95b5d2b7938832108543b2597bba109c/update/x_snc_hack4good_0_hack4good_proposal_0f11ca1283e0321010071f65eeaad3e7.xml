@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>A centralized platform for tracking sustainability initiatives across the organization</li><li>Clear accountability through automated task assignment and SLA tracking</li><li>Measurable results with real-time dashboards showing completion rates, CO₂ reduction, and other KPIs</li><li>Greater engagement across departments through visibility, reminders, and recognition of completed actions</li></ul>]]></potential_impact>
+        <problem_statement>Many organizations run green initiatives such as energy conservation, waste reduction, or recycling programs. However, these efforts are often tracked informally through spreadsheets or emails, making it hard to:&#13;
+&#13;
+-Assign clear responsibilities for each sustainability action&#13;
+-Monitor progress and deadlines in real time&#13;
+-Measure and report the actual environmental impact&#13;
+-Keep different departments engaged and accountable&#13;
+-Without a structured platform, sustainability goals can become vague, delayed, or forgotten.</problem_statement>
+        <project_name>Sustainability Action Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Service Catalog: Create a catalog item to submit new sustainability tasks</li><li>Flow Designer: Automate task creation, assignments, and notifications</li><li>SLA Definitions: To track deadlines and ensure timely execution</li><li>Notifications: Send alerts, reminders, and celebration messages for completed actions</li><li>App Engine Studio: Create a custom Sustainability Action table to store and manage initiatives</li><li>Performance Analytics: Visualize key sustainability metrics such as completion rates and impact</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>SLA configuration for tracking timelines</li><li>Flow Designer setup for automation and escalations</li><li>Catalog item configuration with dynamic fields</li><li>Notifications and reporting setup</li><li>Optional future integrations with Environmental tracking tools</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Defining meaningful and measurable KPIs</li><li>Ensuring data quality and consistency</li><li>Driving user adoption and engagement</li><li>Establishing accountability and ownership</li><li>Setting up and maintaining Performance Analytics</li><li>Managing cultural change and resistance</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 22:59:58</sys_created_on>
+        <sys_id>0f11ca1283e0321010071f65eeaad3e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sustainability Action Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0f11ca1283e0321010071f65eeaad3e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 22:59:59</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

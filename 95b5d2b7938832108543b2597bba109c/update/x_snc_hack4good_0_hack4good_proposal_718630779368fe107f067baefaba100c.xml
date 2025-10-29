@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Faster Response: problems are routed instantly to the right team.</li><li>Transparency: citizens see progress instead of waiting in silence.</li><li>Public Trust: consistent visibility builds confidence in local governance.</li><li>Data-Driven Planning: agencies use issue data to prioritize repairs and budgets.</li><li>Community Empowerment: citizens directly contribute to improving their environment.</li></ul>]]></potential_impact>
+        <problem_statement>Across Nigeria and in almost every country, citizens constantly encounter broken infrastructure; potholes, burst pipes, faulty streetlights, blocked drains, and fallen power poles.&#13;
+&#13;
+Reporting these issues is difficult and inconsistent. There’s no centralized channel for submitting complaints or tracking repairs.&#13;
+Residents rely on social media posts, WhatsApp groups, or word-of-mouth to get government attention, leading to duplicated reports, no accountability, and slow response times.&#13;
+&#13;
+As a result, problems linger, causing accidents, flooding, property damage, and unnecessary public frustration.</problem_statement>
+        <project_name>StreetWatch: Community Infrastructure Fault Reporting and Tracking Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine / Studio – build custom data models for “Issue,” “Agency,” “Location,” and “Technician.”</p>
+<p>Service Portal / Experience Sites – create a public-facing submission and tracking portal.</p>
+<p>Flow Designer – automate routing, status updates, and notifications.</p>
+<p>Performance Analytics / Dashboards – visualize trends and KPIs for response rates, issue types, and region-specific bottlenecks.</p>
+<p>Mobile App / Field Service Management (FSM) – allow technicians to receive, update, and close issues on-site.</p>
+<p>IntegrationHub – integrate with Google Maps, SMS gateways, or government service APIs.</p>
+<p>Predictive Intelligence (This can be optional) – identify recurring problem areas or seasonal issue spikes.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Map/Location APIs (e.g., Google Maps, OpenStreetMap) for geo-tagging and visualization.</p>
+<p>SMS/USSD Gateway for updates to users without smartphones.</p>
+<p>Government Agency Directory API or CSV import for department routing.</p>
+<p>Identity Management / Verification to limit spam submissions.</p>
+<p>Optional: Open Data Portal integration for public transparency.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Government Adoption: agencies may resist transparency or lack digital readiness.</p>
+<p>Verification: preventing false or duplicate reports.</p>
+<p>Connectivity: ensuring accessibility for low-bandwidth users.</p>
+<p>Follow-Through: converting reports to real action if authorities lack capacity.</p>
+<p>Maintenance: keeping location data and department mappings accurate.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 09:23:55</sys_created_on>
+        <sys_id>718630779368fe107f067baefaba100c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>StreetWatch: Community Infrastructure Fault Reporting and Tracking Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_718630779368fe107f067baefaba100c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 09:23:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

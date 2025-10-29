@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Develop AuditFlow, a ServiceNow-based workflow that automates the internal audit lifecycle — from data collection to report sign-off.</p>
+<p>Integrate with ERP systems (like SAP or Oracle) to fetch transaction data, flag exceptions, and send automatic alerts for non-compliance.</p>
+<p>The auto audit trail which will be made easy with the aid of audit flow, because this can easily be done by the auditor within tinkles of an eyes.</p>
+<p>With the strict control in place, that on no condition should initiator of transaction should not attach sources document from initiation of a transaction.</p>]]></potential_impact>
+        <problem_statement>Manual internal audits are time-consuming, error-prone, and often lack transparency in review and approval tracking.  Because the issues can be dices and cumbersome flipping through alot of paper.</problem_statement>
+        <project_name>AuditFlow – Automating Internal Audit Review &amp; Compliance</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>AuditFlow</strong> is envisioned as a ServiceNow-based solution that automates and digitizes the entire internal audit process — from planning to reporting.</p>
+<p>The platform would streamline how audit teams schedule reviews, collect evidence, assign tasks, and track compliance issues in real time. Instead of using spreadsheets or emails, everything would flow through a structured, transparent system on ServiceNow.</p>
+<p>ServiceNow products or capabilities would be :</p>
+<p>1. Governance, Risk, and Compliance (GRC) </p>
+<p>To manage audit programs, risks, and controls.</p>
+<p>Automate workflows for issue tracking, approval, and evidence collection.</p>
+<p>2. Flow Designer</p>
+<p>To automate audit task assignments, notifications, and approval routing</p>
+<p>3. IntegrationHub</p>
+<p>For connecting ServiceNow with ERP and financial systems to extract audit data automatically.</p>
+<p>4. Reporting and Performance Analytics</p>
+<p>To visualize audit progress, open findings, and compliance scores through real-time dashboards.</p>
+<p>5. Document Management (Knowledge Base)/ a note of progression</p>
+<p>For storing audit procedures, templates, and regulatory policies for easy auditor access.</p>
+<p>6. Service Catalog</p>
+<p>To allow departments to request audits, report control issues, or upload evidence.</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The proposed AuditFlow solution will have several technical dependencies to ensure seamless automation, integration, and data accuracy across systems:</p>
+<p>ServiceNow Platform Version:</p>
+<p>The solution requires a compatible ServiceNow instance (Tokyo, Utah, or later) with active modules for GRC, Flow Designer, and Performance Analytics.</p>
+<p>Email and Notification Setup:</p>
+<p>Configuration of outbound email and notification services is necessary for workflow alerts, audit reminders, and escalation notices</p>
+<p>Optional AI/ML Extensions:</p>
+<p>If anomaly detection or risk prediction is added, it will depend on ServiceNow Predictive Intelligence or external AI services (e.g., Azure AI)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Integration Complexity</p>
+<p>Change Management and User Adoption</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 14:29:58</sys_created_on>
+        <sys_id>639fb235c32cf21008fcbefdd40131f9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AuditFlow – Automating Internal Audit Review &amp; Compliance</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_639fb235c32cf21008fcbefdd40131f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 14:30:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

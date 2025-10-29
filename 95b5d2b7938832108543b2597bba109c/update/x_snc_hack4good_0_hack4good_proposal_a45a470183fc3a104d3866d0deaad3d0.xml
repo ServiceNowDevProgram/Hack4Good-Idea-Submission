@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution would provide verifiable environmental and social impacts:</p>
+<ol start="1"><li>
+<p>Reduced Landfill Impact (Measurable): Tracks the number of devices (and estimated weight) successfully diverted from landfills per month, providing concrete reporting for Environmental, Social, and Governance (ESG) mandates.</p>
+</li><li>
+<p>Compliance Assurance: Ensures retired assets are processed only by pre-vetted, certified recyclers, minimizing legal and environmental risk for the donating organization.</p>
+</li><li>
+<p>Social Good: Maximizes the number of functional assets donated to educational or community programs after certified data sanitization.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Many organizations (businesses, schools, and non-profits) frequently upgrade their IT and electronic equipment, creating a constant stream of electronic waste (e-waste). This e-waste often contains toxic materials or valuable, recyclable components. The challenge is twofold</problem_statement>
+        <project_name>GreenAsset Tracker: E-Waste &amp; Device Recycling Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Flow Designer </p>
+<p>Data Sanitization </p>
+<p>ITAM Integration: When an asset&#39;s status in the Configuration Management Database (CMDB) changes to &#34;Retired,&#34; a Flow Designer process is triggered.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Barcode/QR Code Scanning: Reliance on the ServiceNow Mobile Agent App&#39;s capability to scan asset tags for quick check-out/check-in during the chain of custody transfer.</p>
+<p>Integration with Data Sanitization Tools (Optional): Could integrate with third-party tools to automatically update the asset record with a &#34;Data Wiped&#34; certificate.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Process Integration: Ensuring internal IT staff consistently use the new ServiceNow process instead of traditional, ad-hoc disposal methods.</p>
+<p>Vendor Onboarding: Vetting and onboarding external recycling vendors into the ServiceNow portal interface.</p>
+<p>Data Quality: Ensuring the initial CMDB data on asset type and weight is accurate to calculate the true environmental impact metrics.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 17:08:02</sys_created_on>
+        <sys_id>a45a470183fc3a104d3866d0deaad3d0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenAsset Tracker: E-Waste &amp; Device Recycling Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a45a470183fc3a104d3866d0deaad3d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 17:08:03</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

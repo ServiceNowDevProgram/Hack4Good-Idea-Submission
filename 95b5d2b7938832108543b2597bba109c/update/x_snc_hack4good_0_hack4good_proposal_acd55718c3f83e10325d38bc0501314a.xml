@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology solution could help 10,000&#43; women and girls access free products in the first year.</p>
+<p>It would educate 50,000&#43; people on women&#39;s health, help organizations track and reduce product waste by 30%, and provide data to show real impact and support future funding.</p>]]></potential_impact>
+        <problem_statement>Millions of women and girls face period poverty - lacking access to affordable menstrual products - forcing them to miss school or use unsafe alternatives. 
+
+At the same time, lack of proper health education and cultural shame create misinformation and silence, stopping people from getting the help and resources they need.</problem_statement>
+        <project_name>EmpowerHer: Health Education &amp; Product Access</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>A mobile-friendly portal or app where users can find nearby free product locations, request supplies discreetly, and access health education in multiple languages.</li><li>ServiceNow&#39;s Service Portal for user access</li><li>Knowledge Management for educational content</li><li>Asset Management for inventory tracking</li><li>Virtual Agent for answering questions anonymously</li><li>Performance Analytics to measure impact and support decision-making.</li><li>SMS Services.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>SMS services for notifications in low-internet areas, mapping tools (like Google Maps) for location services, translation on multiple languages, privacy to protect user identity and connections to nonprofit systems, healthcare providers and donation platforms.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Cultural shame and stigma may prevent people from using the platform, many users in underserved areas may lack internet or smartphones, and keeping a steady supply of products with consistent funding would be difficult.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 10:07:02</sys_created_on>
+        <sys_id>acd55718c3f83e10325d38bc0501314a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EmpowerHer: Health Education &amp; Product Access</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_acd55718c3f83e10325d38bc0501314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 10:07:04</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

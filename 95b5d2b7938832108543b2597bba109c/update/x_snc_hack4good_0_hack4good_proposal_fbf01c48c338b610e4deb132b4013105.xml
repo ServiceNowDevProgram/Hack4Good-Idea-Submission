@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution bridges language gaps by providing real-time multilingual support within hospitals. Patients and visitors can interact with a <strong>Virtual Guide App</strong> through kiosks, mobile devices, or hospital portals to:</p>
+<ol><li>
+<p>Ask questions in their native language (spoken or typed)</p>
+</li><li>
+<p>Get directions to departments, labs, or doctors</p>
+</li><li>
+<p>Understand treatment instructions in a language they understand</p>
+</li><li>
+<p>Access emergency or check-in assistance quickly</p>
+</li><li>By integrating <strong>ServiceNow Virtual Agent &#43; Now Assist GenAI &#43; Translation APIs</strong>, hospitals can reduce patient stress, improve satisfaction, and enhance staff efficiency.</li></ol>]]></potential_impact>
+        <problem_statement>Hospitals serve patients from diverse linguistic backgrounds, but communication barriers often delay care and cause confusion. Many patients and their families struggle to understand hospital procedures, signboards, or discharge instructions. This creates frustration for both staff and patients, and can lead to medical misunderstandings or missed treatments.</problem_statement>
+        <project_name>Multilingual Guide Support for Hospitals</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>The system would combine:</li></ol>
+<ol><li>
+<p>GenAI-powered Virtual Agent for natural, conversational assistance</p>
+</li><li>
+<p>Language detection and translation APIs (e.g., Google Cloud or Azure Translator)</p>
+</li><li>
+<p>Hospital Knowledge Base integration for FAQs, directions, and discharge guidance</p>
+</li><li>
+<p>Interactive UI (Employee Center / Portal) accessible via kiosk or mobile QR</p>
+</li></ol>
+<ol><li>For example, a Spanish-speaking visitor could ask, “¿Dónde está cardiología?” and receive a map, directions, and doctor availability in Spanish instantly.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p><strong>ServiceNow Platform</strong> for workflow, request tracking, and knowledge management</p>
+</li><li>
+<p><strong>Virtual Agent &#43; Now Assist</strong> for intelligent conversation handling</p>
+</li><li>
+<p><strong>Translation and Speech APIs</strong> for multilingual input/output</p>
+</li><li>
+<p><strong>IntegrationHub Spokes</strong> for external translation services</p>
+</li><li>
+<p><strong>Analytics Dashboard</strong> to track usage, language patterns, and top patient needs</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Maintaining accuracy in medical terminology translations</p>
+</li><li>
+<p>Handling data privacy and HIPAA compliance when processing patient input</p>
+</li><li>
+<p>Ensuring low-latency translation and response in busy environments</p>
+</li><li>
+<p>Gaining staff adoption and training for effective rollout</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 01:10:17</sys_created_on>
+        <sys_id>fbf01c48c338b610e4deb132b4013105</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Multilingual Guide Support for Hospitals</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_fbf01c48c338b610e4deb132b4013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 01:10:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

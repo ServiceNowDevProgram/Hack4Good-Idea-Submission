@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>
+<p><strong>50–70% faster safety report handling</strong> through automated workflows and AI triage</p>
+</li><li>
+<p><strong>Reduction in preventable maintenance-related delays or incidents</strong> by 30%</p>
+</li><li>
+<p><strong>Improved regulatory compliance</strong> with real-time evidence trails and analytics</p>
+</li><li>
+<p><strong>Enhanced transparency</strong> between airlines and aviation authorities</p>
+</li></ul>]]></potential_impact>
+        <problem_statement>Air safety data is fragmented across airlines, airports, and regulators. Incident and maintenance reports are often delayed, manually logged, or inconsistently categorized, leading to missed warning signs and delayed interventions. Without unified visibility, near-miss events, fatigue risks, or maintenance lapses can escalate into preventable accidents.</problem_statement>
+        <project_name>SafeFly -  Air Travel Risk &amp; Incident Management System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>
+<p><strong>App Engine:</strong> Centralized platform for reporting, reviewing, and tracking safety incidents.</p>
+</li><li>
+<p><strong>Flow Designer:</strong> Automates routing of reports to the right safety or maintenance team.</p>
+</li><li>
+<p><strong>Agentic AI:</strong> Summarizes reports, detects risk patterns, and suggests corrective actions.</p>
+</li><li>
+<p><strong>IntegrationHub:</strong> Connects with aviation data systems (flight logs, sensor data, maintenance platforms).</p>
+</li><li>
+<p><strong>GRC / IRM:</strong> Ensures compliance with aviation safety regulations (ICAO, FAA, EASA).</p>
+</li><li>
+<p><strong>Performance Analytics:</strong> Real-time dashboards show incident trends, maintenance KPIs, and compliance scores.</p>
+</li><li>
+<p><strong>CSM:</strong> Enables open communication channels between airlines, regulators, and travelers for transparency.</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p>Aviation APIs for flight logs and maintenance records</p>
+</li><li>
+<p>IoT or telemetry data feeds for aircraft condition monitoring</p>
+</li><li>
+<p>Secure data exchange protocols (IATA/ICAO standards)</p>
+</li><li>
+<p>Optional: Integration with national aviation safety databases</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Gaining regulatory approval across countries</p>
+</li><li>
+<p>Ensuring data privacy across multiple airlines and government bodies</p>
+</li><li>
+<p>Standardizing data from various aviation systems</p>
+</li><li>
+<p>Training crew and ground staff to adopt new digital reporting habits</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 00:39:18</sys_created_on>
+        <sys_id>f4714f2bc3203a10b202be3ed40131d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SafeFly -  Air Travel Risk &amp; Incident Management System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f4714f2bc3203a10b202be3ed40131d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 00:39:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

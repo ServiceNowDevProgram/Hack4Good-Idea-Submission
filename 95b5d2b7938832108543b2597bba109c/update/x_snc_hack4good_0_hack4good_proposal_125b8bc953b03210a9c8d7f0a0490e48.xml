@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>Having a mobile friendly multilingual digital portal can transform how rural farmers interact with the various support systems they need. Some of the impacts this will have are:<br />A quick way for farmers to submit request for support, equipments or training. <br />Real-time updates on request status, approvals and payments.<br />An improved access to government programs, agricultural services, emergency alerts, market trends, including access to real-time updates on local and international markets.<br />Real-time insights into crop prices, weather forecasts, industry forecasts and pest outbreaks.<br />Ensuring transparency and trust through real-time tracking and monitoring, real-time report analysis and automated updates. <br />Providing real-time updates on subsidy eligibility and government grants for farmers.<br />Helping rural farmers have offline access and sms based interactions especially for low connectivity regions.</p>]]></potential_impact>
+        <problem_statement>Most rural farmers, often face challenges in identifying the right channels or contacts to sell their produce. They also struggle to access timely agricultural support whether from fellow farmers, agribusinesses, or government agencies. These barriers are made worse by limited digital infrastructure, fragmented service access, and low visibility into market trends.</problem_statement>
+        <project_name>Rural Farmers Service Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service portal: an interface for requests, incidents, information, notifications and updates.</p>
+<p>Workflow Studio: To automate requests or incident routing and approvals.</p>
+<p>IntegrationHub: To connect external systems.</p>
+<p>Mobile App Builder; To create a mobile friendly App.</p>
+<p>Virtual Agent: Using Agent Chat to guide farmers through common tasks.</p>
+<p> Performance Analytics: To track service delivery, produce delivery, farmers engagements etc.</p>
+<p>UI builder: To build a simplified User interface that supports multilingual layouts and offline friendly components.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Some technical dependencies are the Integrations with external APIs, SMS or USSD codes for low network or connectivity areas. Also the mapping or GPS tools to track produce locations, distributions or damaged crops.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Challenges I would foresee are: </p>
+<p>Aligning workflows and integrations across farmers database, the government, agricultural ministries, and organizations, and other relevant organizations in the international market. </p>
+<p>Rural farmers refusing to use technology and AI.</p>
+<p>Ensuring offline or SMS fallback for remote regions</p>
+<p>Ensuring sensitive farmer data is protected.</p>
+<p>Ensuring farmers are submitting accurate data always, especially when applying for subsidies or grants, or pricing their farm produce.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 00:26:37</sys_created_on>
+        <sys_id>125b8bc953b03210a9c8d7f0a0490e48</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Rural Farmers Service Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_125b8bc953b03210a9c8d7f0a0490e48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 00:26:39</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A centralized, automated data reporting system could help identify potential outbreaks days or weeks earlier. This would enable faster public health responses, reduce disease spread, and improve coordination between local councils, hospitals, and national agencies.</p>]]></potential_impact>
+        <problem_statement>Public health agencies often rely on manual or delayed data reporting from hospitals and clinics. This leads to slow detection of disease outbreaks and limits the ability to respond quickly. Data is fragmented across different systems, making it difficult to spot patterns in real time.</problem_statement>
+        <project_name>Health Sent – AI Powered Public Health Data Reporting &amp; Early Outbreak Detection</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution would use <strong>ServiceNow Now Platform</strong>, <strong>Predictive Intelligence</strong>, and <strong>Flow Designer</strong> to collect, analyze, and visualize public health data automatically.<br />Hospitals and clinics could submit daily case reports via ServiceNow forms or APIs. Predictive AI models would detect abnormal patterns and trigger alerts to health officers through <strong>ServiceNow Incident Management</strong> and <strong>Performance Analytics dashboards</strong>.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with hospital EHR systems or government health databases (via APIs), and a secure cloud environment for handling sensitive data (e.g., ServiceNow HIPAA-compliant instance).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Data privacy and compliance with local health regulations (GDPR, NHS standards).</li><li>Ensuring consistent data quality and standard reporting formats.</li><li>Integration complexity across different healthcare IT systems.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-28 17:39:39</sys_created_on>
+        <sys_id>5b400d3e83fcf610eb5fa4d0deaad398</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Health Sent – AI Powered Public Health Data Reporting &amp; Early Outbreak Detection</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5b400d3e83fcf610eb5fa4d0deaad398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-28 17:39:40</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

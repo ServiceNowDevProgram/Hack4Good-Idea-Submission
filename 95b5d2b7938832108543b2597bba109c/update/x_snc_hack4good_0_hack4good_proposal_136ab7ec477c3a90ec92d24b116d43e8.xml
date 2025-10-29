@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol><li>A centralized platform for community aid initiatives.</li><li>Faster response times in emergencies (e.g., arranging ambulances, food during floods).</li><li>Better engagement of volunteers and NGOs.</li><li>A transparent system for tracking help requests and their resolution.</li><li>Build stronger, connected communities with digital tools.</li></ol>
+<p>For example: A senior citizen can request medicine delivery, and the nearest available volunteer gets notified and can respond. Or during a blood shortage, the system can notify eligible donors near a hospital in need.</p>]]></potential_impact>
+        <problem_statement>Many local communities struggle with coordinating and responding to basic community needs such as food drives, blood donations, volunteer efforts, and helping vulnerable individuals like the elderly or disabled. These efforts are often scattered across WhatsApp groups, local bulletin boards, or word of mouth, which leads to missed opportunities to help and inefficient communication.&#13;
+&#13;
+There’s no central system that connects volunteers, local NGOs, and people in need especially in real time.</problem_statement>
+        <project_name>CommunityCare Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li><strong>App Engine Studio</strong> – to design and build the app with low code.</li><li><strong>Flow Designer</strong> – to automate task assignments and notifications.</li><li><strong>IntegrationHub</strong> – to connect with third-party services (like WhatsApp, email, or SMS).</li><li><strong>ServiceNow Mobile App</strong> – to allow volunteers and users to interact on mobile.</li><li><strong>Record Producer / Catalog Items</strong> – for submitting help requests or offers.</li><li><strong>Notification Engine</strong> – for alerts, status updates, and reminders.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Integration with external messaging platforms (e.g., WhatsApp or SMS gateways) for wider reach.</li><li>Google Maps API or any location service for real-time volunteer matching based on proximity.</li><li>Authentication for user roles (volunteers, NGOs, public users) – possibly using SSO or external identity providers.</li><li>A small public-facing web portal if non-ServiceNow users need to submit requests.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Managing data privacy for sensitive requests (e.g., health-related or personal information).</li><li>Ensuring real-time performance at scale in disaster or crisis situations.</li><li>Motivating volunteers to consistently use the platform (engagement).</li><li>Integration challenges with third-party tools or APIs.</li><li>Multilingual support if deployed in diverse communities.</li><li>Access control and role management (ensuring only verified users can see/respond to specific requests).</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>TechTrekwithAJ</sys_created_by>
+        <sys_created_on>2025-10-22 07:30:07</sys_created_on>
+        <sys_id>136ab7ec477c3a90ec92d24b116d43e8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CommunityCare Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_136ab7ec477c3a90ec92d24b116d43e8</sys_update_name>
+        <sys_updated_by>TechTrekwithAJ</sys_updated_by>
+        <sys_updated_on>2025-10-22 07:30:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

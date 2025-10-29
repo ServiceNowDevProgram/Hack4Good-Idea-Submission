@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>The impact of this can be life-changing for students worldwide. This solution can lead to early help for urgent cases, lower dropout, and safer campuses. </p>]]></potential_impact>
+        <problem_statement>In today's world, it's a very common issue for students to face situations where they might need counseling/support, etc. but due to society norms, fear of isolation and bullying they end up doing something whose outcome can be devastating at times. Due to this, Students need confidential, easy access to mental health support and crisis help.</problem_statement>
+        <project_name>Mental Health Support for the Youth</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Self‑help tools, anonymous screening, appointment booking, crisis escalation, and follow‑up plans.</p>
+<ul><li>Virtual Agent (for self‑help by students)</li><li>ServiceNow Tables (for student records, Helper Records, Student issue and resolution)</li><li>Case management</li><li>Performance Analytics</li><li>Collaboration with Medical Professionals and Counselors and others involved in youth care and help</li><li>Video Lecture storage for self-help</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Confidentiality, counselor capacity. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 09:04:29</sys_created_on>
+        <sys_id>e3d5bd3d83243210086cb5a6feaad3cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mental Health Support for the Youth</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e3d5bd3d83243210086cb5a6feaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 09:04:32</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

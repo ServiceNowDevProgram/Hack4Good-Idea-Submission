@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>An automated monitoring system can reduce energy waste by 10-25%, lower operational costs, and support environmental targets. It enables data driven decisions for energy optimization and helps organizations comply with sustainability and ESG reporting requirements. </p>]]></potential_impact>
+        <problem_statement>Manufacturing plants and large facilities often waste energy due to lack of real time monitoring and poor visibility into consumption data. Manual tracking makes it difficult to identify inefficiencies or high energy equipment. This leads to higher costs, excess carbon emissions, and failure to meet sustainability goals.</problem_statement>
+        <project_name>EESMS Track – Energy Efficiency &amp; Sustainability Monitoring System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution would use <strong>ServiceNow Asset Management</strong>, <strong>Performance Analytics</strong>, and <strong>Now Intelligence</strong> to collect, analyze, and visualize energy usage data in real time. IoT sensors installed on machinery send data to the platform, where dashboards highlight inefficiencies and trigger automated maintenance or optimization workflows through <strong>Flow Designer</strong> and <strong>Predictive Intelligence</strong>.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with IoT sensors, energy meters, and manufacturing control systems (via APIs or MQTT). Secure data storage and analytics services for real-time monitoring.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Integrating diverse sensor hardware and legacy systems.</li><li>Ensuring accurate, continuous data collection.</li><li>Managing large-scale data processing in real time.</li><li>Encouraging adoption and behavior change among facility teams.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-28 19:52:04</sys_created_on>
+        <sys_id>97de99f683f03a10eb5fa4d0deaad368</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EESMS Track – Energy Efficiency &amp; Sustainability Monitoring System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_97de99f683f03a10eb5fa4d0deaad368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-28 19:52:05</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

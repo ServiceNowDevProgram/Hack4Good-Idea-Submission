@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>For freshers, it provides a centralised portal.</p>
+<p>Get real-time alerts for hiring drives, walk-ins, and off-campus openings from different sources.</p>
+<p>Easily filter jobs by location, domain, degree, or company.</p>]]></potential_impact>
+        <problem_statement>with Current job market scenario, Despite being graduated from good colleges with good scores, freshers often find it had to get placed.&#13;
+&#13;
+Fresh graduates and entry-level candidates often struggle to find suitable job opportunities despite being qualified and eager to start their careers. The main challenges they face include:&#13;
+&#13;
+Fragmented job information — listings are scattered across multiple platforms (LinkedIn, Naukri, company career pages and other Job portals)&#13;
+&#13;
+Lack of real-time updates on mass hiring events, walk-ins, and off-campus drives.&#13;
+&#13;
+No centralized platform that aggregates all fresher-friendly jobs and hiring drives in one place.&#13;
+&#13;
+As a result, many talented students miss out on opportunities due to poor access</problem_statement>
+        <project_name>GetPlaced - Helping Freshers landing their first Job </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Portal </p>
+<p>Integration with third party hiring websites </p>
+<p>Mobile application to receive push notifications.</p>
+<p>(Apply directly from mobile if logged in directly with SSO LinkedIn credentials)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>No</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>- will have to filter spam/fake job postings.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 07:48:57</sys_created_on>
+        <sys_id>bf97a57d536cfa507c2f38f0a0490ef5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GetPlaced - Helping Freshers landing their first Job </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_bf97a57d536cfa507c2f38f0a0490ef5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 07:48:58</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

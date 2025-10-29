@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Improved communication and faster resolution of student issues, increasing satisfaction and retention.</p>]]></potential_impact>
+        <problem_statement>Students and parents often struggle to find the right contact or channel for academic, technical, or administrative help, leading to confusion and delays.</problem_statement>
+        <project_name>Student Support Service Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A single portal for all student interactions ticket submission, FAQs, chat with virtual agents, and assignment-related support, built on ServiceNow. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li> <em>ITSM</em></li><li><em>Service Portal</em></li><li><em>Virtual Agent</em></li><li><em>Knowledge Management</em></li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Designing an intuitive UX for diverse student needs.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 14:01:22</sys_created_on>
+        <sys_id>78cf16c53b34b2109f3ed10f23e45a2b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Student Support Service Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_78cf16c53b34b2109f3ed10f23e45a2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 14:01:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>- Integrating YouTube Live Chat with ServiceNow allows viewers to make instant donations during live rescue or awareness streams.<br /><br />- Donors can see how their contributions are used through automated ServiceNow dashboards tracking fund allocation and rescue outcomes.<br /><br />- Encourages people to adopt, foster, or volunteer by connecting them directly to shelter databases and available animals.<br /><br />- Automates ticketing for animal rescues, food shortages, or medical emergencies logged by shelter staff or volunteers.</p>]]></potential_impact>
+        <problem_statement>Many animal shelters are forced to euthanize stray animals due to limited funding, overcrowding, and lack of real-time support from the community. Despite public compassion, there’s no transparent, easy, and real-time way for people to contribute funds during awareness events or live rescue efforts. This leads to thousands of animals being euthanized every year simply because shelters lack immediate financial and volunteer support.</problem_statement>
+        <project_name>PawConnect: YouTube Live Fundraising &amp; Shelter Support</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio, Visualization Designer, Workflow Studio, Integration Hub, Email and Notifications and UI Builder</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 18:56:32</sys_created_on>
+        <sys_id>d6b5086a83307210b3b7b5b6feaad3fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PawConnect: YouTube Live Fundraising &amp; Shelter Support</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d6b5086a83307210b3b7b5b6feaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 18:56:33</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

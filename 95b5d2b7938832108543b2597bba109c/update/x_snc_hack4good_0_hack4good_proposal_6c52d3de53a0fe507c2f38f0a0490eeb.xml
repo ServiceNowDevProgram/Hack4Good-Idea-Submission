@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>It can save lives, empower residents and local response teams</li><li>Communication between residents, volunteers, NGOs, and local authorities.</li><li>Helps victims to find food, clean water, medicine, and safe temporary shelters during crises.</li><li>Post-flood, enables coordination for home cleaning, sanitation, and rebuilding assistance.</li></ul>]]></potential_impact>
+        <problem_statement>Every monsoon, regions along the rivers flood-prone areas in India face devastating floods that displace thousands of families. As someone living near River Godavari, I faced this firsthand. There are many rivers in India and people living by these rivers are impacted badly.&#13;
+Despite repeated incidents, real-time and coordinated disaster information always lacking.&#13;
+&#13;
+No single, reliable platform exists to display live flood levels, safe shelters, or available relief resources.</problem_statement>
+        <project_name>Flood Relief Coordination Program </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>A unified portal and now mobile application </li><li>Integration with Meteorological Department to get real time updates of flood level </li><li>Record producers to seek assistance and report issues </li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>- should be made accessible to flood effected residents by local teams </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 05:01:12</sys_created_on>
+        <sys_id>6c52d3de53a0fe507c2f38f0a0490eeb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Flood Relief Coordination Program </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6c52d3de53a0fe507c2f38f0a0490eeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 05:01:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

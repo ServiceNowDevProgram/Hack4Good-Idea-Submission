@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>AidLink Nigeria can:</p>
+<ul><li>Save lives and reduce suffering by helping aid get to the right people, faster.</li><li>Make aid more efficient by avoiding duplication and wasted effort.</li><li>Build trust and transparency so donors and volunteers know their contributions are making a real difference.</li><li>Empower local responders with the right data to make smart decisions.</li></ul>
+<p><strong>Measurable Impact:</strong></p>
+<ul><li>Faster response times for emergency situations</li><li>More communities reached per aid mission.</li><li>Volunteers matched to the tasks where they can make the most impact.</li><li>Increased donor confidence thanks to clear tracking and reporting.</li></ul>]]></potential_impact>
+        <problem_statement>In Nigeria, when crises strike, from floods and fires to outbreaks and displacement, people and organizations want to help, but coordination breaks down. There is no single platform that connects victims, responders, NGOs, and donors in real time. As a result, help often arrives late, duplicated, or not at all.&#13;
+Nonprofits struggle with communication gaps, poor data visibility, and manual tracking of relief activities.</problem_statement>
+        <project_name>AidLink Nigeria – Connecting Aid to People Who Need It Most</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>AidLink Nigeria would be a ServiceNow-powered coordination hub designed for nonprofits and emergency networks to respond to crises faster and smarter.</p>
+<p>It brings all players, responders, NGOs, volunteers, and donors, onto one shared platform for live collaboration, case tracking, and resource allocation.</p>
+<p><strong>Key Capabilities (using ServiceNow):</strong></p>
+<ul><li><strong>Incident &amp; Case Management (ITSM):</strong> Each crisis report becomes a case, tracked from report to resolution.</li><li><strong>Workflow Automation:</strong> Automate how requests are routed, from a local volunteer flagging a need to NGOs dispatching aid.</li><li><strong>Security &amp; Access Controls (SecOps):</strong> Protect sensitive victim and donor data while ensuring only verified NGOs can access critical information.</li><li><strong>Performance Analytics:</strong> Show real-time dashboards of how fast aid is delivered, where gaps exist, and what resources are needed most.</li><li><strong>Service Portal &amp; Knowledge Base:</strong> A public portal where citizens can request help, find information, or report emergencies easily.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Internet and mobile access for volunteers on the ground.</li><li>Optional: Integrations with NGO and government databases for better coordination.</li><li>ServiceNow licenses for participating organizations.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Combining data from multiple sources might be tricky.</li><li>Volunteers and organizations will need some training to use the platform effectively.</li><li>Real-time updates could be harder in remote areas with limited connectivity.</li><li>Getting multiple independent organizations to use one hub might take some effort.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 13:12:54</sys_created_on>
+        <sys_id>4a45c93083787a10bfe895d6feaad398</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AidLink Nigeria – Connecting Aid to People Who Need It Most</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4a45c93083787a10bfe895d6feaad398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 13:12:56</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

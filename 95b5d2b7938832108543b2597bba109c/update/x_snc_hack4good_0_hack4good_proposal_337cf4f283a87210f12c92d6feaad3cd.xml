@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Digitize 1000s of local stories, crafts, and traditions</strong> across regions</li><li><strong>Empower youth</strong> to co-create and document heritage with elders</li><li><strong>Enable sponsors and NGOs</strong> to support cultural preservation drives</li><li><strong>Create interactive galleries</strong> for schools, events, and community centers</li><li><strong>Foster pride, identity, and intergenerational connection</strong></li></ul>]]></potential_impact>
+        <problem_statement>Local languages, traditions, crafts, and oral histories are rapidly disappearing due to urbanization, generational gaps, and lack of digital documentation. Youth often grow up disconnected from their cultural roots, while elders struggle to pass on knowledge in a format that resonates with modern audiences.&#13;
+NGOs, schools, and cultural groups lack a unified platform to capture, share, and celebrate local heritage in a way that’s interactive, sponsor-friendly, and accessible across generations.</problem_statement>
+        <project_name>HeritageHub - Community-Led Cultural Preservation Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>Youth and elders can <strong>co-create digital entries</strong> for local traditions, crafts, recipes, festivals, and stories</li><li>Each entry includes <strong>photos, voice notes, videos, and written narratives</strong></li><li>QR codes link to <strong>interactive galleries</strong> at schools, museums, and events</li><li>Dashboards show <strong>regional contributions, engagement metrics, and sponsor impact</strong></li><li>Contributors receive <strong>digital badges and certificates</strong> for preserving culture</li><li>Optional: <strong>Storytelling challenges</strong> and cultural hackathons to boost participation</li></ul>
+<p><strong>Capabilities:</strong></p>
+<ul><li><strong>App Engine Studio</strong> for cultural record types, contributor profiles, and media uploads</li><li><strong>Flow Designer</strong> for submission approvals, recognition workflows, and sponsor updates</li><li><strong>UI Builder</strong> for interactive galleries and dashboards</li><li><strong>IntegrationHub</strong> for syncing with media platforms or school portals</li><li><strong>Attachment API</strong> for uploading photos, audio, and video content</li><li><strong>QR Code Generation &amp; Base64 Encoding</strong> for gallery access and story sharing</li><li><strong>Scoped App with ACLs</strong> for privacy, moderation, and contributor roles</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Optional: <strong>YouTube or Instagram API</strong> for story sharing</li><li><strong>QR code generation</strong> for gallery access and contributor recognition</li><li>Optional: <strong>Translation APIs</strong> for multilingual storytelling</li><li>Optional: <strong>Gamification engine</strong> for badges and challenge</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>authenticity and respectful representation</strong> of cultural content</li><li>Designing a <strong>simple, mobile-first UX</strong> for youth and elders</li><li>Encouraging <strong>diverse participation</strong> across regions and languages</li><li>Balancing <strong>privacy and visibility</strong> for sensitive stories</li><li>Building <strong>trust and adoption</strong> among cultural groups and schools</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 07:05:15</sys_created_on>
+        <sys_id>337cf4f283a87210f12c92d6feaad3cd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HeritageHub - Community-Led Cultural Preservation Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_337cf4f283a87210f12c92d6feaad3cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 07:05:17</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

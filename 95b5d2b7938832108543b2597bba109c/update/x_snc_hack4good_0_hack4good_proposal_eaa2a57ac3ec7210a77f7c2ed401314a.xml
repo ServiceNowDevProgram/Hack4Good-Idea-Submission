@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>There would be a 40% reduction in counterfeit input distribution, an increased farmer income by 25%, and a verified sustainability tracking for cooperatives.</p>]]></potential_impact>
+        <problem_statement>Farmers in Nigeria lack transparency in fertilizer and seed distribution. Manual tracking invites corruption and delays. Buyers can’t trace farm-to-market origins.</problem_statement>
+        <project_name>AgroChain – Sustainable Farming Supply Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Supply Chain Operations and Procurement Operations</strong> for tracking goods flow.</li><li><strong>Automation Engine</strong> for scanning and verifying supplier docs.</li><li><strong>IntegrationHub</strong> for linking with blockchain or export compliance APIs.</li><li><strong>UI Builder</strong> for farmers&#39; and cooperatives&#39; dashboards.</li><li><strong>Performance analytics</strong> for sustainability metrics.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>We would use the Blockchain traceability API, but it will be optional, and the mobile app framework for farmer field data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Onboarding farmers and training them with the digital tools</li><li>Integration with low-data regions</li><li>Authenticating suppliers in informal markets</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 10:10:46</sys_created_on>
+        <sys_id>eaa2a57ac3ec7210a77f7c2ed401314a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AgroChain – Sustainable Farming Supply Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_eaa2a57ac3ec7210a77f7c2ed401314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 10:10:47</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

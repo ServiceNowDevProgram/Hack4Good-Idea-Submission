@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>FarmLink bridges the communication gap between farmers, agriculture experts, and government departments. The platform helps rural communities receive instant weather alerts, guidance on fertilizer use, and access to nearby marketplaces for fair pricing. It reduces dependency on middlemen, prevents crop loss, and enables farmers to make data-driven decisions. Over time, FarmLink can contribute to sustainable farming practices, improved income stability, and rural empowerment.</p>]]></potential_impact>
+        <problem_statement>Small-scale farmers often struggle with inconsistent weather patterns, pest outbreaks, and lack of real-time access to market prices or expert advice. This information gap leads to crop loss, financial instability, and reduced yields.</problem_statement>
+        <project_name>FarmLink: Smart Agriculture Support Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The platform can be built using App Engine Studio and Mobile App Builder to provide farmers with a simple mobile interface. IntegrationHub connects to external APIs for weather forecasts and commodity pricing. Flow Designer automates critical alerts (e.g., drought warnings) and Dashboards help monitor trends in crop health and productivity across regions. Performance Analytics can further provide insights into farm output and government subsidy impact.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 13:02:11</sys_created_on>
+        <sys_id>42d7321ec3b4b2106f772925990131de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FarmLink: Smart Agriculture Support Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_42d7321ec3b4b2106f772925990131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 13:02:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

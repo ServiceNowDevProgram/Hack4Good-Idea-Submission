@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>LabLink could significantly improve healthcare accessibility, efficiency, and data quality.<br />By automatically converting unstructured lab results and medical reports into structured, actionable data, the solution enables faster clinical decisions, reduces manual work, and empowers patients to manage their own health information.</p>]]></potential_impact>
+        <problem_statement>Millions of patients still receive their lab results, imaging reports, and prescriptions as unstructured PDFs, photos, or scanned documents.&#13;
+&#13;
+Clinics and hospitals waste hours manually reading, interpreting, and entering this information into systems. Often leading to delays in care, transcription errors, and loss of follow-up.&#13;
+&#13;
+Patients also struggle to organize their own medical documents, especially when they come from different providers or labs.</problem_statement>
+        <project_name>LabLink</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Patients can securely upload their medical documents directly through a <strong>Portal</strong> or <strong>Mobile App</strong>. Using <strong>Document Intelligence</strong>, the system automatically scans, classifies, and extracts key information (e.g., test type, values, diagnosis notes, physician name, date). The extracted data is then stored in a structured format within the <strong>Healthcare and Life Sciences Service Management (HLS)</strong> module.</p>
+<p>Healthcare professionals can access this data through a unified dashboard that highlights trends, alerts for abnormal results, and integrates seamlessly with <strong>Patient Case Management</strong>, <strong>Care Coordination</strong>, and <strong>Knowledge Management</strong> for clinical reference.</p>
+<p>The platform would also leverage <strong>Now Assist</strong> for summarization and insights, helping clinicians quickly understand patient history, and <strong>Flow Designer</strong> for automated notifications, such as reminders for follow-up visits or alerts about missing information.</p>
+<p>In short, this solution turns unstructured medical data into intelligent, accessible insights that enhance decision-making, improve patient outcomes, and reduce administrative effort.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>ServiceNow Platform</strong>: Healthcare and Life Sciences Service Management, App Engine, Document Intelligence, Flow Designer, and IntegrationHub.</p>
+<p><strong>Security</strong>: Data encryption, access control, and compliance with HIPAA/GDPR/LGPD.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Implementing this solution may present challenges such as ensuring accurate extraction of medical data from diverse document formats, maintaining strict compliance with healthcare privacy regulations (HIPAA, GDPR, LGPD), and managing integration complexity with existing EHR or clinical systems. Additionally, ensuring consistent data quality and user trust in AI-extracted information will require robust validation and monitoring mechanisms.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 20:17:12</sys_created_on>
+        <sys_id>4a8310aa8378b2104b19b4a6feaad3ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LabLink</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4a8310aa8378b2104b19b4a6feaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 20:17:15</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

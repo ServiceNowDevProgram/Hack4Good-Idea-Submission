@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Environmental Benefits:</strong> Reduced carbon footprint and traffic congestion.<br /><strong>Cost Savings:</strong> Lower fuel and transportation expenses for employees.<br /><strong>Employee Bonding:</strong> Encourages collaboration and bonding among colleagues.<br /><strong>Workplace Efficiency:</strong> Reduces parking demand and improves commute planning.<br /><strong>Social Responsibility:</strong> Aligns with sustainability goals.</p>]]></potential_impact>
+        <problem_statement>In many organizations, employees often commute from similar locations to the office. However, lack of coordination and communication leads to following problems:&#13;
+	Increased fuel costs and traffic congestion.&#13;
+	No available carpooling opportunities.&#13;
+	Environmental impact due to excessive carbon emissions.&#13;
+	Difficulty in finding trusted carpool partners within the organization.&#13;
+&#13;
+There is a need for a centralized, secure, and user-friendly carpooling solution that facilitates smarter, sustainable, and collaborative commuting.</problem_statement>
+        <project_name>CarPool Central - One Ride Many Benefits</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Create a scoped application which combines the related components to easily install the application for use:</p>
+<ul><li><strong>Tables</strong>: Create tables for Carpooling services and Carpooling requests.</li><li><strong>Flow Designer: </strong>Workflows for notifications and request approvals.</li><li><strong>Notifications:</strong> Configure email notifications for Carpooling requests.</li><li><strong>Service Portal: </strong>Build an intuitive portal which provides a user friendly interface to search, offer service, request rides and track rides.</li><li><strong>Catalog Items:</strong> Catalog Items/Record producers for users to submit carpooling service and carpooling request.</li><li><strong>Security:</strong> Ensure only users with the nearest location can see and request rides.</li><li><strong>Platform Analytics:</strong> Track application usage, environmental impact, and adoption metrics.</li><li><strong>Mobile App Studio:</strong> Make the carpooling feature accessible on Now mobile app.</li><li><strong>Integration:</strong> Integrate with external maps APIs like Google Maps for location based matching and tracking.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Integration: </strong>Google Maps or other third-pary Map API for location and tracking.<br /><strong>Users Pesonal Data: </strong>Access to employee personal data like location, work timings, and contact details.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Integration Complexity: </strong>External APIs (maps) may require additional licensing and setup.<br /><strong>Privacy/Security Concerns: </strong>Employees may be hesitant to share location or personal details.<br /><strong>Data Accuracy: </strong>Inaccurate user profiles can affect matching quality.<br /><strong>Service Portal/Mobile App:</strong> Building Responsive design for service portal and now mobile app.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 16:14:18</sys_created_on>
+        <sys_id>a694ec1293e4fa505f6bfef7dd03d649</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CarPool Central - One Ride Many Benefits</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a694ec1293e4fa505f6bfef7dd03d649</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 16:14:20</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Measurable impact/value:</p>
+<ul><li>Reduce hospital readmission rates by 25%</li><li>Achieve 100% data completeness on discharge and admission transfers</li><li>Cut communication delays between facilities by 60%</li><li>Improve coordination and trust among interdisciplinary teams</li><li>Enhance patient and family satisfaction during care transitions</li></ul>]]></potential_impact>
+        <problem_statement>TransiCare - digitizes and automates the transition-of-care process, ensuring all clinical, personal, and logistical data flows seamlessly across settings. Ensures smooth handover when residents move between hospital, LTC, and community,  improving continuity of care and minimizing data loss and delays.&#13;
+&#13;
+When residents move between hospitals, long-term care (LTC) homes, and community care, information often gets delayed or lost. Paper-based transfer forms, incomplete medication lists, and missed care notes lead to confusion, treatment gaps, and avoidable readmissions.&#13;
+&#13;
+Care coordinators and nurses struggle to:&#13;
+Access up-to-date discharge summaries and medication changes&#13;
+Track pending follow-ups during transfers&#13;
+Communicate real-time updates to receiving teams&#13;
+Confirm that key tasks are completed before handover</problem_statement>
+        <project_name>TransiCare - Care Transition Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow products or capabilities used:</p>
+<ul><li>App Engine Studio – build the TransiCare application for managing resident transitions</li><li>Flow Designer – automate transfer workflows, notifications, and task assignments</li><li>IntegrationHub – enable bi-directional data exchange between hospital EHRs and LTC systems using FHIR APIs</li><li>Health and Life Sciences Service Management (HLSM) – leverage healthcare-specific data structures and workflows</li><li>Performance Analytics – measure transfer delays, readmission trends, and communication efficiency</li><li>Document Intelligence – extract structured data from scanned discharge papers or admission notes</li><li>Now Mobile App – allow on-the-go staff to confirm transfer completion and update statuses</li><li>AI Search / Predictive Intelligence – analyze transfer history to predict high-risk transitions (e.g., frequent hospitalizations) and suggest early interventions</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Technical dependencies:</p>
+<ul><li>Integration with EHR/HIS systems (e.g., Epic, Cerner, PointClickCare) using secure REST/FHIR APIs</li><li>Secure data storage compliant with healthcare privacy standards (PHIPA/HIPAA)</li><li>Connectivity between hospital and LTC networks for real-time notifications</li><li>Access to document templates for structured data capture</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Anticipated challenges:</p>
+<ul><li>Ensuring interoperability with multiple external healthcare systems</li><li>Managing patient privacy and data sharing across organizations</li><li>Training staff to adopt digital workflows during high workload periods</li><li>Aligning transfer workflow policies across facilities</li><li>Maintaining accurate synchronization between systems</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 14:40:22</sys_created_on>
+        <sys_id>0fd5e20183747210db267230feaad3ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TransiCare - Care Transition Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_0fd5e20183747210db267230feaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 14:40:24</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

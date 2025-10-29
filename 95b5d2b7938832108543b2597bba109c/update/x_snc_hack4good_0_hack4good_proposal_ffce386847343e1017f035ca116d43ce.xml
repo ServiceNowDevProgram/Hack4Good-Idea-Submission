@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution tackles the challenge of <strong>confidentiality breaches</strong> in technical interviews by ensuring <strong>exclusive, time-bound access</strong> to assessment problems for verified recruiters. Its primary impact is restoring the <strong>integrity and authenticity</strong> of the hiring process, leading to <strong>higher-quality technical hires</strong> by assessing true, on-the-spot problem-solving skills rather than memorized answers. This secure system boosts <strong>recruiter confidence</strong> and enables <strong>scalable, fair, and efficient</strong> technical assessments.</p>]]></potential_impact>
+        <problem_statement>Confidentiality is not maintained in the aspect of coding questions asked in the Technical Interviews.</problem_statement>
+        <project_name>Anonymous-Hire</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>This platform is designed to revolutionize <strong>technical hiring</strong> by ensuring <strong>question confidentiality</strong>. Recruiters get exclusive access to unique coding problems for timed interviews and challenges, verified through mandatory ID checks. A separate, large pool of practice problems is available to candidates to build skills, but the actual assessment questions remain unknown until the interview. This structure guarantees that hiring is based on <strong>genuine, on-the-spot problem-solving ability</strong>.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Implementing this secure hiring platform faces five main challenges:</p>
+<ol start="1"><li>
+<p><strong>Content Scaling:</strong> Continuously generating a massive, high-quality repository of <strong>unique and distinct</strong> hiring and practice problems to prevent eventual question leakage.</p>
+</li><li>
+<p><strong>Security Complexity:</strong> Building robust, real-time database logic for <strong>exclusive problem allocation</strong> and managing the risks associated with secure <strong>recruiter identity verification</strong>.</p>
+</li><li>
+<p><strong>Anti-Cheating Integrity:</strong> Maintaining a stable, secure <strong>live interview environment</strong> that effectively counters sophisticated cheating methods and unauthorized resource use.</p>
+</li><li>
+<p><strong>Infrastructure Load:</strong> Ensuring the platform can handle the <strong>massive, simultaneous load</strong> of code execution and automated evaluation during large-scale hiring challenges (e.g., university drives).</p>
+</li><li>
+<p><strong>Cost and Maintenance:</strong> The high cost of content creation, rigorous security development, and supporting the necessary scalable infrastructure.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 17:49:05</sys_created_on>
+        <sys_id>ffce386847343e1017f035ca116d43ce</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Anonymous-Hire</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ffce386847343e1017f035ca116d43ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 17:49:07</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
