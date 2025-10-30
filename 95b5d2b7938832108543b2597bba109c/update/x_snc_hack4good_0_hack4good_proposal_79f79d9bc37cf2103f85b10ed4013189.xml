@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Lives Saved Through Early Warnings </strong></p>
+<p><strong>Faster Emergency Response</strong></p>
+<p><strong>Economic Loss Mitigation </strong></p>
+<p><strong>Scalability &amp; Replicability </strong></p>
+<p><strong>Job &amp; Livelihood Protection </strong></p>]]></potential_impact>
+        <problem_statement>Natural disasters—such as landslides, floods, earthquakes, and cyclones—are becoming more frequent and intense due to climate change, deforestation, and urban sprawl. These events are no longer rare; they are a recurring threat to millions of lives and livelihoods across the globe.&#13;
+Every year, the world witnesses:&#13;
+&#13;
+🧍‍♂️ 40,000 to 50,000 deaths caused by natural disasters.&#13;
+💸 $300–$417 billion in average annual global economic losses.&#13;
+🏗️ $301–$330 billion in infrastructure damage, affecting roads, bridges, hospitals, and schools.&#13;
+&#13;
+These numbers are not just statistics—they represent families displaced, children out of school, and communities pushed into poverty. In 2024 alone, 167 million people were affected by 393 disasters, with over 16,000 lives lost.&#13;
+Despite technological progress, many vulnerable regions still lack real-time monitoring, early warning systems, and community-level preparedness tools. This results in:&#13;
+&#13;
+Delayed emergency responses&#13;
+Inefficient resource allocation&#13;
+Preventable loss of life and property&#13;
+Long-term economic and psychological trauma&#13;
+&#13;
+&#13;
+🚨 Real-World Example:&#13;
+In 2023, a series of landslides in South Asia displaced thousands and caused hundreds of deaths. Many of these could have been prevented with timely alerts and localized risk assessments.&#13;
+&#13;
+🔍 Why This Matters Now:&#13;
+As climate change accelerates, no region is immune. What was once a “once-in-a-century” event is now happening every few years. The cost of inaction is rising, and the need for intelligent, community-focused solutions has never been more urgent.</problem_statement>
+        <project_name>GeoVigil – Vigilance over geological threats.</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution would be a <strong>ServiceNow-native application</strong> that provides <strong>real-time alerts</strong>, <strong>risk assessments</strong>, and <strong>community support tools</strong> for natural disasters like landslides, floods, and earthquakes. It would combine <strong>data intelligence</strong>, <strong>automation</strong>, and <strong>community engagement</strong> to reduce the impact of disasters.</p>
+<p> </p>
+<ul><li><strong>User receives a landslide alert</strong> based on their location.</li><li><strong>Virtual Agent</strong> guides them to the nearest safe zone or shelter.</li><li><strong>Incident is logged</strong> automatically in the system.</li><li><strong>Authorities are notified</strong>, and a <strong>workflow is triggered</strong> to dispatch emergency services.</li><li><strong>Post-disaster</strong>, users can request aid, report damage, or access job recovery programs via the app.</li><li><strong>Performance Analytics</strong> dashboards help authorities assess impact and improve future responses.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, there are several <strong>technical dependencies</strong> for implementing your proposed disaster-tracking and community support solution on the ServiceNow platform. These dependencies span across <strong>data sources</strong>, <strong>platform capabilities</strong>, <strong>external integrations</strong>, and <strong>infrastructure</strong>.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Real-Time Data Integration</p>
+<p>Accurate Geolocation &amp; Mapping</p>
+<p>Connectivity in Disaster Zones</p>
+<p><em>Another then this i see this challenges but i can sure this can be track by ServiceNow platform well</em></p>
+<p><strong>User Adoption &amp; Accessibility(Ensuring the app is usable by people in rural or low-tech areas )</strong></p>
+<p><strong>Scalability &amp; Performance(Handling spikes in usage during major disasters)</strong></p>
+<p><strong>Data Privacy &amp; Security(Handling sensitive user data (location, personal info, incident reports) requires strict compliance. )</strong></p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 08:54:11</sys_created_on>
+        <sys_id>79f79d9bc37cf2103f85b10ed4013189</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GeoVigil – Vigilance over geological threats.</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_79f79d9bc37cf2103f85b10ed4013189</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 08:54:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
