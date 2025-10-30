@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>30–40% faster response time during emergencies through automated resource allocation and real-time updates.</p>
+<p>Improved transparency in relief distribution by tracking donations and volunteer tasks through a centralized dashboard.</p>
+<p>Enhanced collaboration among NGOs, local authorities, and community volunteers on a unified ServiceNow platform.</p>
+<p>Better citizen support with self-service access to emergency shelters, medical help, and essential resources.<br /><br /></p>]]></potential_impact>
+        <problem_statement>During natural disasters such as floods, wildfires, or hurricanes, local communities face challenges in coordinating relief efforts, tracking resource availability, and providing timely support to affected individuals. Current systems are fragmented, volunteers, NGOs, and local governments often work in silos, leading to delays in aid distribution, lack of visibility into on-ground needs, and inefficient use of available resources.</problem_statement>
+        <project_name>Community Resilience Hub (CRH): Disaster Response &amp; Support Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The Community Resilience Hub will serve as a centralized digital command center built on ServiceNow.<br />Citizens can report incidents, request help, or locate nearby shelters through a simple self-service portal.<br />Relief organizations and government agencies can monitor incidents in real-time using dashboards and assign volunteers or resources based on severity and location.<br />Automated workflows will trigger notifications to emergency responders and supply chain partners.<br />Integration with external weather and alert APIs will allow proactive preparation before disasters strike.<br />Post-disaster analytics will help authorities evaluate response effectiveness and improve planning for future events.<br /><br /><br />ServiceNow Products or Capabilities Used:<br />ServiceNow Customer Service Management (CSM): For citizen self-service portals and case management.<br />ServiceNow Field Service Management (FSM): To dispatch and track volunteers and relief teams.<br />ServiceNow Impact or Performance Analytics: For real-time dashboards and post-disaster impact reporting.<br />ServiceNow IntegrationHub: To connect with external APIs (weather data, emergency alerts).<br />ServiceNow Mobile App: To enable on-the-ground volunteers to update status, upload photos, and receive task notifications.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 17:25:52</sys_created_on>
+        <sys_id>4660dbdbc3303210f215df0d05013125</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Resilience Hub (CRH): Disaster Response &amp; Support Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4660dbdbc3303210f215df0d05013125</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 17:25:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
