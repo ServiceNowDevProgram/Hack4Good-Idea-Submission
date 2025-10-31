@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial, sans-serif;">By translating SDG terms into indigenous languages, this solution opens the door for inclusive understanding and participation. It gives rural and underrepresented communities access to development language that was once out of reach, transforming awareness into empowerment.</span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p style="margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 11pt; font-family: Arial, sans-serif;">Measurable Impacts/Values</span></strong></p>
+<ul><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Linguistic Inclusion: Number of local languages integrated.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Civic Engagement: Increase in community participation in SDG-related initiatives.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Educational Reach: Growth in teachers and learners using local-language SDG materials.</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Volunteer Collaboration: Number of translation and validation contributors across regions.</span></li></ul>]]></potential_impact>
+        <problem_statement>The UN publishes Sustainable Development Goal (SDG) content in only six official languages, leaving speakers of more than 7,000 indigenous and local languages unable to access vital information about global development.&#13;
+&#13;
+This language divide isolates entire communities from conversations about sustainability, education, and equality. Without SDG vocabulary in their native tongues, millions cannot meaningfully participate in shaping their own futures.</problem_statement>
+        <project_name>The Unheard Languages SDG Dictionary</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p style="text-align: left;">The Unheard Languages SDG Dictionary would be a multilingual knowledge platform where users can explore SDG terms translated into local languages.</p>
+<p>Each entry would feature:</p>
+<ul><li>The English term, native translation, and pronunciation guide</li><li>Simple, culturally relevant explanations</li><li>Offline-friendly PDFs and posters for classroom or community use</li><li>A translation workflow will allow linguists, volunteers, and community leaders to contribute, validate, and publish entries through an inclusive process. Gamified recognition would encourage continuous engagement.</li></ul>
+<p><strong>ServiceNow Applications and Capabilities Used</strong></p>
+<ul><li>Knowledge Management: Organizes dictionary entries by term, language, and SDG theme.</li><li>Flow Designer &amp; Workflow Automation: Manages translation and approval processes.</li><li>Multilingual UI Support: Makes the platform accessible in multiple languages.</li><li>Integration Hub: Connects with translation and speech tools for validation and pronunciation.</li><li>Document Generation: Produces downloadable dictionaries and posters.</li><li>Service Portal &amp; Mobile App Builder: Enables global, low-cost public access.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>ServiceNow platform and apps (KM, Flow Designer, Integration Hub, Document Generation)</li><li>APIs for translation, speech synthesis, and text validation</li><li>Cloud storage for language data and media.</li><li>Unicode font libraries for rare language scripts.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Coordinating large-scale translation efforts across thousands of languages</li><li>Ensuring cultural and conceptual accuracy of SDG terms</li><li>Validating and maintaining translations as SDG priorities evolve</li><li>Supporting offline and low-bandwidth accessibility</li><li>Managing script and character compatibility for non-Latin languages<br /><br /><br /></li></ul>
+<p><br /><br /></p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 13:47:51</sys_created_on>
+        <sys_id>f9f5abef8334f6107b94c2d6feaad310</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>The Unheard Languages SDG Dictionary</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f9f5abef8334f6107b94c2d6feaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 13:47:52</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
