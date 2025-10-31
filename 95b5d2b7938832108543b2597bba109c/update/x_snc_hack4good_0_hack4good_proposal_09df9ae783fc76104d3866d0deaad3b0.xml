@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Increased Resource Utilization (30%): A single, unified booking portal makes all resources easy to find and reserve, ensuring community assets are maximized.</p>
+<p>Staff Efficiency: Automating the reservation, confirmation, and conflict-checking process frees up library staff for higher-value educational roles.</p>
+<p>Data-Driven Funding: Libraries gain accurate data on resource usage, which is essential for grant writing and demonstrating the community return on investment (ROI) for equipment purchases (e.g., &#34;Our 3D printer was booked for 400 hours last quarter&#34;).</p>]]></potential_impact>
+        <problem_statement>Public libraries are evolving from simple book repositories into vital community hubs, offering far more than books—they provide free meeting rooms, specialized equipment (3D printers, recording studios), tutoring spaces, and technology access (laptops, hotspots). However, managing the inventory and booking of these non-traditional resources is often handled manually or through outdated, separate spreadsheets. This leads to:&#13;
+&#13;
+Inequitable Access: Patrons are often unaware of available free resources or face a confusing, fragmented booking process.&#13;
+&#13;
+Staff Burden: Library staff spend excessive time manually managing room and equipment calendars, confirming reservations, and resolving conflicts.&#13;
+&#13;
+Utilization Blind Spots: Libraries lack data on how their non-book resources are being used, making it difficult to justify funding for new technology or infrastructure.</problem_statement>
+        <project_name>Community Resource and Booking Manager</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service Portal </p>
+<p>Mobile App</p>
+<p>Custom Table </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>QR Code Generation/Scanning: Needed for efficient check-in/check-out of physical assets via the mobile app.</p>
+<p>External Calendar Integration (Optional): May require integration with Microsoft Exchange or Google Calendar to display room availability alongside existing internal schedules.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Patron Compliance: Ensuring patrons correctly use the system (e.g., cancelling reservations they don&#39;t need) and return equipment on time.</p>
+<p>Integration with Legacy Systems: If the library has an existing library card management system, integrating patron authentication and fine status may be complex.</p>
+<p>Equipment Tracking: Successfully preventing loss or damage to high-value equipment checked out by patrons.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 08:26:46</sys_created_on>
+        <sys_id>09df9ae783fc76104d3866d0deaad3b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Resource and Booking Manager</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_09df9ae783fc76104d3866d0deaad3b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 08:26:47</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
