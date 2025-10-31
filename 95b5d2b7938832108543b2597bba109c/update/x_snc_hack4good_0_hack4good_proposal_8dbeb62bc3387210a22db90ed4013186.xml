@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Potential Impact of the Technology Solution:</strong><br />GreenNow empowers communities to monitor and report sustainability metrics, enabling greener lifestyles and localized environmental policies.</p>
+<p><strong>Measurable Impacts/Values:</strong><br />The solution could help communities achieve up to a 30% reduction in household carbon emissions over a year, drive measurable increases in recycling participation, and provide real-time environmental data for actionable insights.</p>]]></potential_impact>
+        <problem_statement>Communities often struggle to measure and manage their collective carbon footprint. Existing tools focus on individuals or businesses, leaving a gap at the community level where collaboration could drive greater impact. Without accessible data or shared tracking, sustainability efforts remain scattered, making it hard to see progress or stay motivated. GreenNow addresses this gap by empowering communities to collectively track, understand, and reduce their carbon emissions in one unified platform.</problem_statement>
+        <project_name>GreenNow – Community Carbon Footprint Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A community sustainability dashboard built on ServiceNow where users can log daily eco-actions (energy use, transport choices, etc.), track progress, and earn badges for green behavior.<br /><br />It would leverage App Engine Studio for custom carbon tracking applications, Performance Analytics to visualize emission trends, and Integration Hub to connect IoT sensors and smart meters that collect real-time usage data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution would require integration with IoT devices and energy APIs, cloud-based data aggregation, and a gamification engine to encourage consistent user engagement.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Challenges include ensuring accurate user data input, integrating data from different energy systems, and maintaining consistent participation over time.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 10:49:53</sys_created_on>
+        <sys_id>8dbeb62bc3387210a22db90ed4013186</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenNow – Community Carbon Footprint Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8dbeb62bc3387210a22db90ed4013186</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 10:49:54</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
