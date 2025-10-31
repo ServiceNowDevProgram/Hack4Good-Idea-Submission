@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A ServiceNow-based digital platform can bring <strong>structure, confidentiality, and efficiency</strong> to mental health support operations run by NGOs and community programs.</p>
+<p>By automating and centralizing the support process:</p>
+<ol><li>
+<p><strong>Individuals</strong> can easily request help and receive timely counseling sessions.</p>
+</li><li>
+<p><strong>Counselors</strong> can view, track, and update each case through a unified workspace.</p>
+</li><li>
+<p><strong>Administrators</strong> can analyze data to improve outreach, monitor performance, and identify emerging needs.</p>
+</li></ol>
+<p>This technology solution can empower NGOs to serve more people effectively, maintain complete privacy, and build a measurable positive impact on community well-being.</p>]]></potential_impact>
+        <problem_statement>Mental health issues such as stress, anxiety, and depression are increasingly affecting students, young professionals, and underprivileged individuals.&#13;
+While many non-profit organizations and community counselors offer help, they face several operational challenges:&#13;
+&#13;
+Requests for counseling are often received via emails, calls, or word of mouth, making it hard to track and prioritize cases.&#13;
+&#13;
+There’s no structured platform for users to request support confidentially.&#13;
+&#13;
+Counselors struggle to manage case histories, schedule follow-ups, and measure the overall impact of their work.&#13;
+&#13;
+As a result, people in need may face delays or may not receive timely help at all, reducing the effectiveness of mental health initiatives.</problem_statement>
+        <project_name>Mental Health Support &amp; Counseling App</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The <strong>MindConnect App</strong> will act as a secure, self-service portal where users can raise mental health support requests either anonymously or with their identity disclosed.<br />Each request will create a case record in ServiceNow that’s automatically routed to available counselors based on expertise, language preference, or workload.</p>
+<p>Key capabilities include:</p>
+<ol><li>
+<p><strong>Confidential Request Form:</strong> Users describe their issue type (e.g., anxiety, career stress, grief).</p>
+</li><li>
+<p><strong>Automated Assignment:</strong> Flow Designer routes requests to the right counselor.</p>
+</li><li>
+<p><strong>Session Tracking:</strong> Counselors can record notes, follow-ups, and progress.</p>
+</li><li>
+<p><strong>Notifications:</strong> Users receive updates via email or SMS when a session is scheduled or closed.</p>
+</li><li>
+<p><strong>Analytics Dashboard:</strong> Shows metrics like total sessions held, average response time, and satisfaction surveys.</p>
+</li></ol>
+<p>This setup provides a <strong>complete digital ecosystem for mental health management</strong> that non-profit organizations can easily adopt.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Access to <strong>ServiceNow App Engine and Flow Designer</strong> features.</p>
+</li><li>
+<p><strong>Email/SMS integration</strong> for communication and reminders.</p>
+</li><li>
+<p><strong>Role-based access control (ACLs)</strong> to protect sensitive user data.</p>
+</li><li>
+<p>Optional integration with <strong>video conferencing tools</strong> (e.g., Zoom or MS Teams) for live counseling sessions.</p>
+</li><li>
+<p>(Optional) <strong>External database or API integration</strong> for NGOs maintaining donor or volunteer records separately.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>Data Privacy &amp; Security:</strong> Ensuring all personal and emotional information is fully protected and accessed only by authorized counselors.</p>
+</li><li>
+<p><strong>User Accessibility:</strong> Making the platform intuitive for users with varying digital literacy levels.</p>
+</li><li>
+<p><strong>Counselor Availability:</strong> Managing volunteer counselors’ schedules and workload distribution effectively.</p>
+</li><li>
+<p><strong>Cultural Sensitivity:</strong> Designing request forms and support categories that are inclusive and non-stigmatizing.</p>
+</li><li>
+<p><strong>Integration Complexity:</strong> If NGOs wish to connect the app with third-party systems or communication tools.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 17:39:07</sys_created_on>
+        <sys_id>129d587383f07210befc6830ceaad3fb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mental Health Support &amp; Counseling App</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_129d587383f07210befc6830ceaad3fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 17:39:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
