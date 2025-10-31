@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>LearnLink connects students with verified volunteer mentors based on their skills, interests, and availability, enhancing learning outcomes and improving mentorship reach.<br /><br />The platform would enable 60% faster matching between mentors and students, deliver 80% satisfaction rates, and demonstrate measurable academic improvements in partner schools through better engagement tracking.</p>]]></potential_impact>
+        <problem_statement>Many underserved students struggle academically and lack career guidance because existing tutoring initiatives are fragmented, rely on manual coordination, and fail to effectively match volunteers with students’ specific learning needs. Schools often lack the infrastructure to manage volunteer engagement efficiently, resulting in inconsistent support, underutilized volunteer skills, and limited long-term impact on student outcomes.</problem_statement>
+        <project_name>LearnLink – Volunteer Tutoring &amp; Mentorship Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A mentorship matching portal powered by ServiceNow with automated scheduling, live chat, and progress tracking. Mentors can log hours and students can access personalized learning dashboards.<br /><br />The system would be powered by<strong> </strong>Customer Service Management (CSM) for mentor-student communication, Flow Designer for automated scheduling and reminders, and Now Mobile for easy access to mentorship sessions and updates.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>It would depend on<strong> </strong>video conferencing APIs (such as Zoom or Google Meet), cloud storage for shared learning materials, and authentication systems to verify and onboard mentors securely.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Challenges include maintaining high mentor engagement, verifying the quality of volunteer tutors, and safeguarding student privacy during online interactions.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 11:25:42</sys_created_on>
+        <sys_id>f9670b2fc3787210a22db90ed4013157</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LearnLink – Volunteer Tutoring &amp; Mentorship Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f9670b2fc3787210a22db90ed4013157</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 11:25:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
