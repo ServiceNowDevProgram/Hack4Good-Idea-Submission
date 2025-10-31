@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology-driven solution could drastically reduce food wastage and hunger by:</p>
+<ol><li>
+<p><strong>Connecting</strong> food donors with nearby NGOs and distribution networks in real-time.</p>
+</li><li>
+<p><strong>Ensuring traceability</strong> of food from source to beneficiary through digital records.</p>
+</li><li>
+<p><strong>Providing analytics</strong> to identify peak surplus hours, donor contribution trends, and NGO impact metrics.</p>
+</li><li>
+<p><strong>Enhancing accountability</strong> through approvals, temperature/safety logs, and delivery confirmations.</p>
+</li><li>
+<p><strong>Reducing operational overhead</strong> through automation, notifications, and route optimization.</p>
+</li></ol>
+<p>This would result in efficient food redistribution, reduced carbon footprint, and a positive social impact on underprivileged communities.</p>]]></potential_impact>
+        <problem_statement>Every day, large quantities of edible food from corporate cafeterias, hotels, restaurants, and events go to waste due to lack of coordination between food donors and NGOs that distribute meals to those in need. Existing manual tracking systems are inefficient, leading to delays, wastage, and poor visibility into surplus availability and delivery. There is a pressing need for a structured, transparent, and real-time system that can manage the end-to-end process of collecting, tracking, and redistributing surplus food responsibly.</problem_statement>
+        <project_name>Food Waste &amp; Surplus Distribution Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution would be a <strong>ServiceNow-based portal and workflow system</strong> where:</p>
+<ol><li>
+<p><strong>Donors</strong> (restaurants, canteens, event organizers) can log surplus food details such as type, quantity, expiry time, and pickup location.</p>
+</li><li>
+<p><strong>NGOs or Volunteers</strong> receive automatic notifications of nearby available food via a mobile-friendly Service Portal.</p>
+</li><li>
+<p>A <strong>matching engine</strong> assigns donations to the closest available NGO based on capacity and location.</p>
+</li><li>
+<p><strong>Workflows</strong> track food pickup, delivery confirmation, and beneficiary acknowledgment.</p>
+</li><li>
+<p><strong>Dashboards &amp; Reports</strong> provide insights on total food saved, meals distributed, and participating organizations.</p>
+</li><li>
+<p><strong>Integrations</strong> with mapping services can show live pickup and delivery routes.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with <strong>location-based APIs (Google Maps / OpenStreetMap)</strong> for distance calculation and routing.</p>
+</li><li>
+<p>Connectivity with <strong>SMS or WhatsApp APIs</strong> for real-time communication.</p>
+</li><li>
+<p>Secure access for external users (NGOs and donors) through <strong>Public Service Portal</strong> or external user authentication.</p>
+</li><li>
+<p>Storage of food logs and images in <strong>ServiceNow Attachment / Document Management</strong>.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring <strong>real-time accuracy</strong> of surplus food availability and location updates.</p>
+</li><li>
+<p>Managing <strong>external user authentication and access controls</strong> securely.</p>
+</li><li>
+<p><strong>Integration complexities</strong> with third-party APIs (maps, communication, delivery tracking).</p>
+</li><li>
+<p><strong>User adoption and awareness</strong> among non-technical stakeholders like small NGOs or restaurants.</p>
+</li><li>
+<p>Handling <strong>data privacy and hygiene compliance</strong>, especially related to food safety logs.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 18:01:34</sys_created_on>
+        <sys_id>fd23ecf383f07210befc6830ceaad36a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Food Waste &amp; Surplus Distribution Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_fd23ecf383f07210befc6830ceaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 18:01:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
