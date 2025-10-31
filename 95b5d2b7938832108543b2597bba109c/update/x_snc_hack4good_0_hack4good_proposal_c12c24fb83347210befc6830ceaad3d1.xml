@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A centralized digital platform for tracking blood donation requests can:</p>
+<ol><li>
+<p>Significantly reduce response times during emergencies.</p>
+</li><li>
+<p>Improve coordination between hospitals, blood banks, and registered donors.</p>
+</li><li>
+<p>Enhance transparency by tracking requests, donations, and fulfillment status.</p>
+</li><li>
+<p>Enable better planning through analytics and reporting on blood demand trends.</p>
+</li><li>
+<p>Encourage community participation by simplifying donor registration and notification processes.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Many hospitals, NGOs, and individuals face critical challenges in locating blood donors quickly during medical emergencies. The process of manually contacting donors, verifying their availability, and ensuring the correct blood type match often results in delays that can cost lives. Additionally, there is no centralized platform to manage donor information, request status, and blood availability in real time.</problem_statement>
+        <project_name>Blood Donation Request Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The <strong>Blood Donation Request Tracker</strong> would be a ServiceNow-based application where:</p>
+<ol><li>
+<p><strong>Donors</strong> can register with their blood type, location, and availability.</p>
+</li><li>
+<p><strong>Hospitals or NGOs</strong> can submit requests for specific blood groups.</p>
+</li><li>
+<p>The system automatically matches requests with suitable donors nearby using location and blood type filters.</p>
+</li><li>
+<p><strong>Notifications</strong> are sent to potential donors via email or SMS.</p>
+</li><li>
+<p>A <strong>dashboard</strong> provides real-time visibility into pending, fulfilled, and urgent requests.</p>
+</li><li>
+<p>Reports and analytics highlight donation trends, response rates, and critical shortages.</p>
+</li></ol>
+<p>This solution can also integrate with local hospital databases or external APIs from blood banks for data synchronization and verification.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with <strong>SMS/email gateways</strong> for real-time donor notifications.</p>
+</li><li>
+<p>Optional API connections with <strong>hospital databases</strong> or <strong>blood bank management systems</strong> for live blood availability data.</p>
+</li><li>
+<p><strong>Location services (Google Maps API)</strong> for finding nearest donors.</p>
+</li><li>
+<p>Basic ServiceNow roles and permissions to handle donor privacy and access control.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>Data privacy concerns</strong> when handling donor contact and health-related information.</p>
+</li><li>
+<p>Ensuring <strong>real-time accuracy</strong> of donor availability and location data.</p>
+</li><li>
+<p>Integrating with multiple <strong>external systems</strong> that may use different data formats.</p>
+</li><li>
+<p>Encouraging consistent donor participation and keeping records updated.</p>
+</li><li>
+<p>Managing <strong>scalability</strong> if the system expands to multiple regions or organizations.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 18:39:38</sys_created_on>
+        <sys_id>c12c24fb83347210befc6830ceaad3d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Blood Donation Request Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c12c24fb83347210befc6830ceaad3d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 18:39:39</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
