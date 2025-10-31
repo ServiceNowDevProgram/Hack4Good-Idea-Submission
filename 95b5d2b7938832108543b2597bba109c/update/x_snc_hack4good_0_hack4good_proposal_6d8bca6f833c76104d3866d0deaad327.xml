@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduced Intake Time (40%): A streamlined digital intake process reduces the time a client waits to be assigned to a caseworker.</p>
+<p>Increased Pro Bono Utilization (20%): Efficient, automated matching ensures specialized attorneys are utilized effectively, increasing the total number of cases the LAO can handle.</p>
+<p>Improved Grant Reporting: Automated data capture for services and outcomes simplifies compliance, leading to better grant retention and funding success.</p>]]></potential_impact>
+        <problem_statement>Case Backlogs: Slow intake and triage processes, meaning vulnerable clients wait longer for critical help.&#13;
+&#13;
+Volunteer Inefficiency: Difficulty matching specialized pro bono attorneys with cases that fit their expertise, availability, and geographic area.&#13;
+&#13;
+Reporting Burden: Cumbersome manual tracking of services rendered, which is necessary for grant compliance and securing future funding.</problem_statement>
+        <project_name>Legal Aid Case &amp; Volunteer Manager</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service Portal</p>
+<p>CSM <br /><br />Flow Designer </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Security and Confidentiality: Given the sensitivity of legal aid cases, robust access controls and data encryption are paramount.</p>
+<p>Secure File Management: A solution for securely uploading, storing, and sharing client documents with caseworkers and assigned pro bono attorneys.</p>
+<hr />
+<p> </p>
+<h2> </h2>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data Sensitivity: Navigating the ethical and legal requirements (e.g., attorney-client privilege) for managing case data, which may necessitate additional security hardening.</p>
+<p>Volunteer Adoption: Encouraging busy pro bono attorneys to consistently use a new platform for time logging and case communication instead of their existing methods.</p>
+<p>Integration with Existing Case Law Databases: While complex, integration would enhance value but introduces significant technical challenges.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 06:57:48</sys_created_on>
+        <sys_id>6d8bca6f833c76104d3866d0deaad327</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Legal Aid Case &amp; Volunteer Manager</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6d8bca6f833c76104d3866d0deaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 06:57:49</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
