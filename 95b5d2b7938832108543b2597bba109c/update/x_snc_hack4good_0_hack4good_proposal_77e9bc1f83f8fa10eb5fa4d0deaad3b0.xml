@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The system would reduce response time for emergency transfusions, increase blood donation efficiency, and improve coordination between hospitals and donors. It could help save thousands of lives by ensuring the right blood type is available where and when it’s needed most.</p>]]></potential_impact>
+        <problem_statement>During emergencies, hospitals and patients often struggle to find compatible blood donors quickly. Manual coordination between donors, hospitals, and blood banks causes delays, leading to preventable loss of lives. There’s no unified, automated system to match urgent needs with available donors in real time.</problem_statement>
+        <project_name>Blood Link – Blood Donation &amp; Emergency Matching Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Use <strong>ServiceNow App Engine</strong> and <strong>Flow Designer</strong> to create an automated donor–hospital matching workflow.<br />Integration with <strong>ServiceNow Maps</strong> for location tracking and <strong>Now Mobile</strong> for donor notifications.<br />AI and automation match urgent blood requests with the closest available and compatible donors.<br />Dashboards provide real-time visibility for hospitals, NGOs, and emergency response teams.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with external systems like national blood bank databases, hospital management software, and GPS APIs for location tracking.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data privacy and consent management for donor information, integration with existing healthcare systems, and ensuring real time data accuracy during high volume emergencies. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 06:41:32</sys_created_on>
+        <sys_id>77e9bc1f83f8fa10eb5fa4d0deaad3b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Blood Link – Blood Donation &amp; Emergency Matching Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_77e9bc1f83f8fa10eb5fa4d0deaad3b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 06:41:33</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

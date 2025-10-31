@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Improves Productivity:</strong> Recognition encourages high performance.<br /><strong>Boosts Employee Morale:</strong> Recognizing contributions towards motivation of employees.<br /><strong>Reduces Attrition:</strong> Valued employees are more likely to stay.<br /><strong>Standardizes R&amp;R Processes:</strong> ServiceNow enables consistent process across departments.<br /><strong>Enables Peer-to-Peer Recognition:</strong> Builds a collaborative work environment.<br /><strong>Enhances User Experience: </strong>A dedicated portal increases adoption and makes recognition seamless.<br /><strong>Provides Actionable Insights:</strong> Analytics can help track recognition trends and can help leadership make informed decisions on promotions.</p>]]></potential_impact>
+        <problem_statement>In today's corporate world, employee acknowledgement is critical to organizational success. Even after offering high salaries and benefits, many organizations struggle with low morale and lack of motivation among their employees. One of the key issues is the absence of a structured and meaningful Rewards and Recognition (R&amp;R) program.  &#13;
+&#13;
+The current R&amp;R processes in many organizations are inconsistent and fail to align with employee values and organizational goals. As a result, employees feel undervalued, leading to decreased productivity and attrition.  &#13;
+&#13;
+The existing systems offer limited functionalities and are often hard to navigate.  &#13;
+&#13;
+Organizations can address this by using the ServiceNow platform to recognize employee contributions through a dedicated portal. This portal can allow managers to nominate their repartees for quarterly, half-yearly, or annual recognition cycles, and also enable peer-to-peer recognition.</problem_statement>
+        <project_name>Employee Rewards and Recognition (R&amp;R)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Custom Tables:</strong> Create dedicated tables to manage data for Nominations, Recognitions, Award Categories, R&amp;R Cycles, Reward Details and Badges.<br /><strong>Flow Designer:</strong> Automate workflows for nomination approvals, badge/reward assignment, and acknowledgement notification.<br /><strong>Process Automation Designer (PAD):</strong> Design a playbook to guide users through the nomination, approval, and winner selection process.<br /><strong>Notifications:</strong> Configure email notifications for nominations, recognitions, and reward announcements.<br /><strong>Service Portal: </strong>Build an intuitive portal to submit nominations and acknowledgements, view winners, and track personal recognitions.<br /><strong>Catalog Items:</strong> Use catalog forms for submitting nominations and peer acknowledgements.<br /><strong>Dashboards &amp; Analytics:</strong> Develop dashboards to showcase recent winners, nomination, acknowledgement and winner trends, can be filtered/group by domain or technology.<br /><strong>Integrations (Advanced): </strong>Connect with third-party platforms to enable reward claiming.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>N/A</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Building dashboards and PAD playbooks requires some technical expertise in UI and automation tools. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 10:35:10</sys_created_on>
+        <sys_id>b45136b893a436505f6bfef7dd03d697</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee Rewards and Recognition (R&amp;R)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b45136b893a436505f6bfef7dd03d697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 10:35:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

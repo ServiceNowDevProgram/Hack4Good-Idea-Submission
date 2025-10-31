@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Develop a ServiceNow app called <strong>HeatAlert</strong> that:<br />Integrates with weather APIs to monitor temperature and humidity levels.<br />Sends automated alerts when heat indexes exceed safe thresholds.<br />Provides users with safety tips, nearest cooling centers, and hydration reminders.<br />Offers a dashboard for local authorities to coordinate heatwave response efforts.</p>]]></potential_impact>
+        <problem_statement>In many regions, rising global temperatures are causing extreme heatwaves. People, especially the elderly, outdoor workers, and children often lack timely warnings or information on safety measures. This leads to health issues such as heat exhaustion, dehydration, and even fatalities.</problem_statement>
+        <project_name>HeatAlert: A ServiceNow App for Heatwave Safety Problem Statement</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>ServiceNow App Engine Studio</strong> – for workflows and automation.<br /><strong>IntegrationHub</strong> – to connect with weather APIs or IoT sensor systems.<br /><strong>Service Portal/UI Builder</strong> – for user-friendly dashboards and maps.<br /><strong>Flow Designer</strong> – to automate alert workflows.<br /><strong>Notification Engine</strong> – for multi-channel alert delivery (SMS, email, push).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Real time data collection - need to connect with credible sources for this</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 19:03:45</sys_created_on>
+        <sys_id>d3fa84a6c37832105b91be3ed401310f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HeatAlert: A ServiceNow App for Heatwave Safety Problem Statement</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d3fa84a6c37832105b91be3ed401310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 19:03:46</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

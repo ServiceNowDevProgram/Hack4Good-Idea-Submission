@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>3x increase </strong>in successful visits to public service locations for people with accessibility needs</li><li><strong>Real-time visibility</strong> into accessible routes, facilities, and support services</li><li><strong>Empowered decision-making</strong> for caregivers, volunteers, and support workers</li><li><strong>Sponsor-ready dashboards</strong> showcasing accessibility improvements, usage metrics, and community feedback</li><li><strong>Increased civic trust</strong> and participation among marginalized groups</li><li><strong>Improved emergency response</strong> by identifying accessible shelters and service points</li></ul>]]></potential_impact>
+        <problem_statement>Accessing public services: such as hospitals, government offices, schools, and community centers can be a frustrating and exclusionary experience for individuals with disabilities, elderly citizens, and caregivers. Despite legal mandates for accessibility, real-time information about ramps, elevators, sign language support, sensory-friendly spaces, or accessible restrooms is rarely available or centralized.&#13;
+During emergencies or civic disruptions, this lack of visibility becomes even more critical. People may arrive at locations only to discover barriers that prevent them from receiving the services they need. NGOs and volunteers often try to fill the gap manually, but their efforts are fragmented, unsustainable, and lack data-driven insights</problem_statement>
+        <project_name>AccessMap - Inclusive Navigation for Public Services</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>App Engine Studio </strong>for creating custom record types (Location, Accessibility Feature, Feedback)</li><li><strong>Flow Designer</strong> for routing feedback, update approvals, and notifications</li><li><strong>UI Builder</strong> for map-based navigation and sponsor-friendly dashboards</li><li><strong>IntegrationHub</strong> for syncing with civic APIs, transport data, and volunteer platforms</li><li><strong>Scoped App with ACLs</strong> for role-based access and privacy controls</li><li><strong>Attachment API</strong> for uploading photos, documents, or accessibility certificates</li><li><strong>QR Code Generation &amp; Base64 Encoding</strong> for tagging locations and enabling quick updates</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>Google Maps or OpenStreetMap APIs </strong>for location and route data</li><li><strong>Transport APIs</strong> for accessible transit options (e.g., low-floor buses, elevator status)</li><li><strong>QR code generation</strong> for tagging and feedback collection</li><li><strong>Mobile-friendly UI</strong> for field volunteers and caregivers</li><li><strong>Optional integration</strong> with civic databases or accessibility audit tools</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Ensuring accuracy and consistency </strong>of accessibility data across regions</li><li><strong>Encouraging regular updates</strong> from volunteers, NGOs, and civic bodies</li><li><strong>Balancing simplicity</strong> with depth of accessibility features for diverse needs</li><li><strong>Building trust and adoption</strong> among marginalized communities</li><li><strong>Training contributors</strong> with varying tech literacy to use the platform effectively</li><li><strong>Securing partnerships</strong> with civic authorities for long-term sustainability</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 05:58:41</sys_created_on>
+        <sys_id>d174f57083603210f12c92d6feaad349</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AccessMap - Inclusive Navigation for Public Services</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d174f57083603210f12c92d6feaad349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 05:58:42</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

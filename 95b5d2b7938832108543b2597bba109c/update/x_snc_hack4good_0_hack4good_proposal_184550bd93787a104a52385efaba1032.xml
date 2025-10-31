@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Quick identification and help for vulnerable residents during emergencies. Organized resource sharing reduces response times. Neighbors coordinate efficiently without waiting for official help. Community resilience strengthens through connections built before crisis.</p>]]></potential_impact>
+        <problem_statement>During emergencies, neighbors don't know who needs help nearby or what resources are available. Vulnerable residents (elderly, disabled, with medical equipment) can't contact neighbors quickly. Official help takes days to arrive. No organized resource sharing system exists.</problem_statement>
+        <project_name>NeighborReady - Neighborhood Emergency Preparedness Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p>Emergency Portal (Service Portal) - Residents register pre-emergency with profiles listing needs and resources. </p>
+<p>Dashboard (Performance Analytics) - Real-time map showing which households checked safe, which need help, resource availability. </p>
+<p>Mobile App (Mobile Agent) - Works offline via SMS for neighbors to mark residents safe or request help.</p>
+<p>Case Management - Automatic wellness check cases created for vulnerable residents, assigned to nearest neighbors.</p>
+<p>CMDB - Stores resident profiles and resource inventory as Configuration Items.</p>
+<p>Flow Designer - Triggers automated check-in assignments and escalation when no response within SLA.</p>
+<p>ServiceNow Products/Capabilities used:<br />Service Portal for pre-emergency registration, CMDB for resident/resource inventory, Case Management for wellness check tracking, Mobile Agent for offline check-in app, Flow Designer for automated assignments, Advanced Work Assignment for proximity-based routing, Performance Analytics for coverage dashboard, Integration Hub for SMS/weather APIs.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution needs SMS gateway integration, offline sync for Mobile Agent, geolocation for proximity matching, weather/power outage APIs, custom CMDB extensions for medical/resource attributes, encryption for health data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring privacy for residents who don&#39;t want to broadcast vulnerabilities. Maintaining accurate resident information as people move. Getting enough participation so vulnerable residents are actually covered. Working reliably when power and internet are down. Preventing false alarms or misuse of emergency features. Coordinating with official emergency services rather than creating confusion. Training neighbors on when to use the system appropriately would probably be the challenges in implementing this idea.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-25 12:10:47</sys_created_on>
+        <sys_id>184550bd93787a104a52385efaba1032</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeighborReady - Neighborhood Emergency Preparedness Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_184550bd93787a104a52385efaba1032</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-25 12:10:50</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

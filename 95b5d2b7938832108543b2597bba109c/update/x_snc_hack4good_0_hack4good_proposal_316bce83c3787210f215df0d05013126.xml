@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>EcoNow</strong> is a ServiceNow-based sustainability management platform that helps non-profits <strong>automate carbon tracking, monitor eco-initiatives, and generate sustainability reports</strong> in real time. It enables organizations to collect data from various departments, calculate emissions, and make data-driven decisions to reduce their environmental impact. </p>
+<p>Potential Impact / Measurable Value:</p>
+<p>Reduce carbon footprint by 25% within one year through real-time tracking and actionable insights.</p>
+<p>Cut reporting time by 60% using automated data collection and dashboards instead of spreadsheets.</p>
+<p>Increase stakeholder transparency by generating sustainability and impact reports instantly.</p>
+<p>Boost community engagement by 40% through volunteer sustainability initiatives tracked in the platform.</p>]]></potential_impact>
+        <problem_statement>Non-profit organizations play a vital role in promoting sustainability but often lack a centralized system to track, manage, and report their carbon footprint. Manual data collection from multiple sources (energy usage, transportation, events, waste, etc.) makes it difficult to measure progress toward decarbonization goals or demonstrate impact to donors and communities.</problem_statement>
+        <project_name>EcoNow: Sustainable Impact &amp; Carbon Tracking Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow ESG (Environmental, Social, and Governance) Management – to measure, track, and report sustainability metrics and emissions data.</p>
+<p>Flow Designer – to automate workflows for data collection, approvals, and reporting.</p>
+<p>App Engine Studio – to build custom modules for community initiatives and volunteer tracking.</p>
+<p>Performance Analytics – to monitor progress toward sustainability and decarbonization goals with visual dashboards.</p>
+<p>IntegrationHub – to connect external systems like energy meters, transport logs, or IoT sensors for automated data input.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 17:42:36</sys_created_on>
+        <sys_id>316bce83c3787210f215df0d05013126</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EcoNow: Sustainable Impact &amp; Carbon Tracking Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_316bce83c3787210f215df0d05013126</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 17:42:37</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

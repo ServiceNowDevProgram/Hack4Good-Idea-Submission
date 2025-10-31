@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p class="pf0"><span class="cf0">The measurable impact this solution could have is; </span></p>
+<p class="pf0"><span class="cf0">1. A faster crisis response through automated workflows and data-driven insights.</span></p>
+<p class="pf0"><span class="cf0">2. An improved transparency and an efficient and effective coordination between global and local health authorities.</span></p>
+<p class="pf0"><span class="cf0">3. An optimized use of scarce medical resources, reducing waste and shortages.</span></p>
+<p class="pf0"><span class="cf0">4. A reduced outbreak spread via earlier detection and standardized actions.</span></p>
+<p class="pf0"><span class="cf0">5. Providing a stronger resilience for future pandemics by reusing prebuilt modules and playbooks.</span></p>]]></potential_impact>
+        <problem_statement>During global health crises (like COVID-19), governments, NGOs, and healthcare systems struggle with:&#13;
+- fragmented outbreak data across multiple systems,&#13;
+- slow coordination between local and global response teams, and&#13;
+- limited visibility into resource availability (personnel, vaccines, hospital beds, supplies).&#13;
+These gaps cause delays in early detection, containment, and resource allocation, directly impacting lives and outcomes negatively.</problem_statement>
+        <project_name>PANACEA-Now  (Pandemic Analysis, Coordination, and Emergency Action Platform)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p class="pf0"><span class="cf0">ServiceNow Products or Capabilities Used:</span></p>
+<p class="pf0"><span class="cf0">1. Workflow Automation: Using ServiceNow Flow Designer to automate outbreak alerts and playbook actions.</span></p>
+<p class="pf0"><span class="cf0">2. Data Integration: Using IntegrationHub and Spokes (REST, Email, etc.) to connect WHO&#39;s Data APIs and hospital systems to have real-time access to all necessary databases.</span></p>
+<p><span class="cf0">3. Incident and Case Management:  ServiceNow ITSM / CSM  to track </span><span class="cf0">outbreak cases as incidents or service requests.</span></p>
+<p class="pf0"><span class="cf0">4. Asset Management:  ServiceNow CMDB to manage infrastructures and services like health resources (beds, supplies, devices), etc.</span></p>
+<p class="pf0"><span class="cf0">5. Portal Experience:  Service Portal / Now Experience UI used to provide a collaboration interface for health responders.</span></p>
+<p class="pf0"><span class="cf0">6. Reporting:  Performance Analytics &amp; Dashboards used to analyze and keep track of outbreak trends, resource maps, and response KPIs</span></p>
+<p class="pf0"><span class="cf0">7. Security: ServiceNow Access Controls / Encryption used to ensure sensitive data is secure and compliant. </span></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p class="pf0"><span class="cf0">1. WHO open APIs or feeds (e.g. WHO, CDC )</span></p>
+<p class="pf0"><span class="cf0">2. Go.Data API access for outbreak/case data.</span></p>
+<p class="pf0"><span class="cf0">3. Integration credentials for partner health systems (FHIR, HL7, or REST endpoints).</span></p>
+<p class="pf0"><span class="cf0">4. GIS or map service (ArcGIS, Mapbox, or ServiceNow Maps) for geo-visualization.</span></p>
+<p class="pf0"><span class="cf0">5. Optional: AI/ML engine or ServiceNow Generative AI to assist with prediction.</span></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><span class="cf0">Challenges I foresee are;</span></p>
+<ol><li class="pf0"><span class="cf0">Data Integration: WHO and other sources of disease outbreak data formats may vary, some may not have APIs.</span></li><li class="pf0"><span class="cf0">Data Sensitivity: Handling health and personal data securely can be a significant challenge.</span></li><li class="pf0"><span class="cf0">Inter-agency Collaboration: Different organisations have different workflows. </span></li><li class="pf0"><span class="cf0">Scalability: Surges in data during pandemics may strain performance. </span></li><li class="pf0"><span class="cf0">Adoption &amp; Training: Staff may lack ServiceNow familiarity or knowledge.</span></li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-21 23:09:34</sys_created_on>
+        <sys_id>5226cee453fcb210a9c8d7f0a0490e3d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PANACEA-Now  (Pandemic Analysis, Coordination, and Emergency Action Platform)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5226cee453fcb210a9c8d7f0a0490e3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-21 23:09:36</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

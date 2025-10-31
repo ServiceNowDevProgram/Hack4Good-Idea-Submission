@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Saves time by automating resume creation.<br />Improves quality with well-structured and professional resumes.<br />Highlights relevant skills and projects effectively.<br />Boosts career growth.<br />Supports Resource Managers, Project Managers and HR with standardized resumes to provide it to clients.<br />Encourages continuous learning by integrating certifications and achievements.</p>]]></potential_impact>
+        <problem_statement>In dynamic work environments, professionals often struggle to maintain latest resumes that accurately reflect their skills, experiences, certifications and project contributions. Manual resume creation is time-consuming process and often fails to highlight relevant achievements tailored to specific roles, industries, and clients.&#13;
+&#13;
+The objective is to build a Generative AI-powered system that automatically generates personalized and professional resumes by analyzing:&#13;
+&#13;
+	Employee skills&#13;
+	Work experience and roles&#13;
+	Projects and their contributions&#13;
+	Certifications and learning&#13;
+	Performance feedback and achievements</problem_statement>
+        <project_name>Smart Resume Generator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Data and Tables</strong> -</p>
+<ul><li><strong>Use Out-of-the-Box (OOB) Tables: </strong>User, Employee Profile, Project, Skills</li><li><strong>Custom Tables / Integrations:</strong> Create custom tables for Certifications, Learnings, Achievements, Work experience, and Performance Reviews. Alternatively, integrate with existing HR systems to fetch data on demand without storing it in ServiceNow.</li></ul>
+<p><strong>UI Action - </strong>Create a UI Action on the User or Employee Profile table to allow Project Managers, Resource Managers, or HR to generate resumes on demand.</p>
+<p><strong>Catalog Item -</strong> Create a Catalog Item to request resume generation by end users.</p>
+<p><strong>Notification -</strong> Send a notification with the generated resume.</p>
+<p><strong>Flow Designer - </strong>Build a Flow to:</p>
+<p style="padding-left: 40px;">Trigger resume generation using Now Assist or third-party LLMs via MCP (Model Customization Platform)</p>
+<p style="padding-left: 40px;">Email the resume to the user</p>
+<p style="padding-left: 40px;">Attach the resume to the user’s profile</p>
+<p style="padding-left: 40px;">Catalog item flow to ask for user&#39;s manager approval before generating resume (Optional).</p>
+<p><strong>Templates -</strong> Provide users with options to choose from standard resume templates.</p>
+<p><strong>Resume Format - </strong>Support multiple editable formats: PDF, DOCX</p>
+<p><strong>Gen AI Integration - </strong>Use Now Assist or integrate with third-party LLMs to generate resume content based on user data and other defined parameters like roles and industries.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Data Quality -</strong> Ensuring accurate and complete data across user profiles, projects, skills, certifications, work experience, and achievements.</p>
+<p><strong>Integrations -</strong> Integration with external HR systems and LMS platforms to fetch employee data in real-time.</p>
+<p><strong>Now Assist / Gen AI Integration -</strong> Requires access to Now Assist or third-party LLMs using MCP (Model Customization Platform) to generate resume content based on user data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Data Quality - </strong>Inconsistent or missing data in user profiles, projects, skills, certifications, work experience, and achievements.</p>
+<p><strong>Integration Complexity - </strong>Connecting with external HR systems or LMS platforms may require support from different teams. Real-time data fetching without storing sensitive information in ServiceNow.</p>
+<p><strong>Prompt Design for Gen AI - </strong>Creating effective prompts for Now Assist or third-party LLMs to generate accurate resumes based on different criteria.</p>
+<p><strong>Resume Formatting -</strong> Generating resumes in editable formats (PDF, DOCX) with consistent styling and layout.</p>
+<p><strong>Security &amp; Privacy - </strong>Managing access to sensitive employee data.</p>
+<p><strong>Licensing - </strong>Now Assist/third-party LLMs require separate licensing.</p>
+<p> </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 09:00:31</sys_created_on>
+        <sys_id>b4d511fe93e0be505f6bfef7dd03d6c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Smart Resume Generator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b4d511fe93e0be505f6bfef7dd03d6c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 09:00:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

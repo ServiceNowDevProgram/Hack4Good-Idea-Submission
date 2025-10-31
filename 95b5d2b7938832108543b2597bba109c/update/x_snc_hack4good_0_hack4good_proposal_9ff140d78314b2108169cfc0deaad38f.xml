@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology solution would dramatically reduce food waste by connecting surplus donations with recipients in real-time, accelerate response times during food insecurity crises, and increase the number of people served through optimized distribution logistics. Automated matching between donors and beneficiaries would reduce administrative overhead, allowing food banks to redirect resources toward direct services. Real-time tracking would provide transparency to donors and grantors while enabling data-driven insights into community food needs. Enhanced volunteer coordination would improve retention and engagement, ultimately helping food security organizations serve 30-40% more beneficiaries with existing resources.</p>]]></potential_impact>
+        <problem_statement>Food banks and pantries struggle to efficiently connect surplus food donations with communities experiencing food insecurity. Current systems rely on manual processes, phone calls, and spreadsheets to coordinate donors, volunteers, transportation, and beneficiaries. This results in food waste, delayed distribution, missed connections between donors and recipients, and poor visibility into real-time inventory and demand. Vulnerable populations often don't know where or when food assistance is available, while food banks lack the tools to predict demand surges during emergencies or optimize distribution routes.</problem_statement>
+        <project_name>Community Food Access Navigator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution would leverage the ServiceNow AI Platform for intelligent routing and demand prediction, Service Management for case handling and request fulfillment, Virtual Agent for multilingual beneficiary self-service access, Mobile App Builder for donor and volunteer engagement, Performance Analytics for impact reporting to boards and grantors, and Integration Hub to connect with existing food bank management systems. Workflow Automation would streamline donation intake, inventory management, volunteer scheduling, and distribution coordination.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution would require integration with existing food bank inventory systems and donor databases through APIs or middleware. Mobile device access for volunteers and field workers would be necessary for real-time updates. Geolocation services would be needed for route optimization and proximity matching between donors and recipients. Email and SMS capabilities would enable automated notifications. The system would also benefit from integration with transportation/logistics platforms for delivery coordination and potentially with nonprofit CRM systems for donor management.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Key implementation challenges include varying technology maturity levels across food banks (some may lack digital infrastructure), data privacy concerns when handling beneficiary information, and the need for multilingual support in diverse communities. Change management would be critical as staff and volunteers transition from manual processes to automated workflows. Integration complexity with legacy systems could delay deployment. Limited technical expertise within nonprofit organizations may require extensive training and ongoing support. Additionally, ensuring mobile accessibility for populations with limited smartphone access and addressing connectivity issues in rural areas would require thoughtful design considerations.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 05:47:25</sys_created_on>
+        <sys_id>9ff140d78314b2108169cfc0deaad38f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Food Access Navigator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9ff140d78314b2108169cfc0deaad38f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 05:47:28</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

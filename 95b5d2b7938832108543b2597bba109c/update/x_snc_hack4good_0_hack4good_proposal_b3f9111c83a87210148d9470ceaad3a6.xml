@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Outcome with GenAI:</p>
+<p>Proactive escalations instead of reactive ones</p>
+<p>Improved customer satisfaction (CSAT) and reduced SLA breaches</p>
+<p>Lower manual effort for supervisors to monitor customer tone</p>
+<p>Enhanced visibility and response time for critical issues</p>]]></potential_impact>
+        <problem_statement>Manual Sentiment Detection: Agents have to read comments to sense customer tone.&#13;
+Decision for Escalation: Relies on static rules (e.g., keywords or SLA breaches)&#13;
+Escalations happen after customer complaints, not proactively.&#13;
+Supervisors must manually monitor queues for “angry” or “frustrated” customers.&#13;
+Tone interpretation varies by agent assumptions — no standardized process</problem_statement>
+        <project_name>Automate escalation process in ServiceNow using GenAI/NowAssist</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Tickets get created by users like Incident or request either by record producer or via virtual agent</p>
+<p>Customer put the description/short description</p>
+<p>The system analyzes incoming text (chat, email, incident comments) to gauge customer sentiment (positive, neutral, negative, angry, urgent). If negative sentiment crosses a defined threshold (e.g., “frustrated,” “angry,” or “escalation keywords”), the platform automatically:</p>
+<p>Updates ticket priority or impact</p>
+<p>Put the escalation checkbox true</p>
+<p>Assign the group to Tier 2 Group automatically by checking the sentiment analysis</p>
+<p>Notifies the assigned agent or team lead</p>
+<p>Optionally triggers a Flow Designer escalation workflow</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>need GenAI. </p>
+<p>Platform Intelligence</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>need GenAI. Need Budget or Cost</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 14:51:46</sys_created_on>
+        <sys_id>b3f9111c83a87210148d9470ceaad3a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Automate escalation process in ServiceNow using GenAI/NowAssist</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b3f9111c83a87210148d9470ceaad3a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 14:51:48</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Improved Civic Engagement: Empowers citizens to report issues easily, increasing participation and transparency in city management.</li><li>Faster Issue Resolution: Enables municipal authorities to prioritize and address problems promptly, improving public infrastructure and services.</li><li>Data-Driven Decision Making: Aggregates and analyzes citizen feedback to identify recurring problems and allocate resources efficiently.</li><li>Enhanced Accountability: Allows residents to track the status of their submissions, promoting accountability among civic agencies.</li></ul>
+<p>Urban Planning Support: Provides trend analysis for administrators to plan long-term infrastructure improvements based on real community needs</p>]]></potential_impact>
+        <problem_statement>Implement a ServiceNow-based portal for public to submit civic issues (road potholes, streetlight outages, etc.), track resolution status, and analyze trends for city administrators.</problem_statement>
+        <project_name>Citizen Feedback and Issue Tracking Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>ServiceNow Customer Service Management (CSM): For managing citizen requests, communications, and case tracking.</li><li>ServiceNow Portal/Service Catalog: To create a user-friendly interface for citizens to submit issues and check status updates.</li><li>Workflow Automation: Automates assignment, escalation, and notification processes for reported issues.</li><li>Reporting and Analytics: Visualizes trends, hotspots, and resolution times for city administrators.</li><li>Integration Hub: Connects with external municipal systems or mapping services for enhanced context and automation.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with Municipal Databases: APIs or connectors to access and update city maintenance records.</li><li>Geolocation Services: Integration with mapping APIs (e.g., Google Maps) for location tagging of issues.</li><li>Authentication and Security: User verification (via Aadhaar, phone number, etc.) to ensure legitimate reporting and data protection.</li><li>Notification Services: SMS/email integration for status updates and escalations.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Data Privacy and Security: Protecting sensitive citizen information from unauthorized access.</li><li>Integration Complexity: Connecting ServiceNow with legacy municipal systems and databases may require custom development.</li><li>User Adoption: Encouraging citizens to use the portal and educating them about its benefits.</li><li>Scalability: Ensuring the solution can handle high volumes of submissions during peak times or emergencies.</li><li>Language and Accessibility: Supporting multiple local languages and making the portal accessible to all demographics.</li><li>Resource Constraints: Municipal agencies may face budget or staffing limitations to manage and resolve reported issues efficiently.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 11:20:48</sys_created_on>
+        <sys_id>5095198e53f07210f0ad17c0a0490ef2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Citizen Feedback and Issue Tracking Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5095198e53f07210f0ad17c0a0490ef2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 11:20:52</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

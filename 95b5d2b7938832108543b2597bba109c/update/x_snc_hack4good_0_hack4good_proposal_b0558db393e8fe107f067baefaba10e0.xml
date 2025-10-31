@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Economic Inclusion: Gives informal workers visibility and digital credibility.</p>
+<p>Job Access: Creates consistent job flow and better matching across communities.</p>
+<p>Empowerment: Builds digital identities and histories that support micro-loans or career growth.</p>
+<p>Transparency: Employers access verified skill ratings, reducing fraud or poor hires.</p>
+<p>Data-Driven Policy: Aggregated insights guide workforce development programs and local job creation initiatives.</p>]]></potential_impact>
+        <problem_statement>A huge portion of the workforce in many developing countries operate informally; artisans, riders, tailors, market traders, domestic workers, and freelancers.&#13;
+&#13;
+They rely on word-of-mouth for jobs, lack verified work histories, and have no structured way to build trust with employers or clients.&#13;
+Without formal records or references, they struggle to access better jobs, training, or credit facilities.&#13;
+&#13;
+At the same time, small businesses and households constantly search for reliable skilled workers but have no transparent way to verify competence or past performance.</problem_statement>
+        <project_name>WorkNow: AI-Powered Job Tracker and Opportunity Connector for Informal/Skilled Workers</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine / Studio: to design custom tables for worker profiles, job history, ratings, and client reviews.</p>
+<p>Flow Designer: automates matching, recommendations, and alerts for new job listings that fit a worker’s skill or region.</p>
+<p>AI Search &amp; Predictive Intelligence: learns user preferences to suggest verified workers or new opportunities.</p>
+<p>Service Portal / Experience Sites: serves as the front-end where users create profiles, log jobs, or find talent.</p>
+<p>Mobile App: lets workers update availability, log completed jobs, and receive new offers in real time.</p>
+<p>IntegrationHub: connects to existing job boards, WhatsApp Business APIs, or micro-finance partners for credit opportunities.</p>
+<p>Performance Analytics: tracks job placements, user growth, and impact metrics (income improvements, engagement rate).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>SMS/USSD Integration: ensures accessibility for low-end phone users.</p>
+<p>Identity Verification API (e.g., NIN, BVN, or third-party KYC): validates worker authenticity.</p>
+<p>AI Model for Scoring: trained on user activity, client ratings, and reliability patterns.</p>
+<p>Third-party job data feeds: for aggregating external opportunities.</p>
+<p>Geolocation APIs: to match workers and clients within proximity.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data Trust: Ensuring fairness and privacy in AI scoring models.</p>
+<p>Verification: Balancing simplicity with authenticity for informal workers who may lack formal IDs.</p>
+<p>Adoption: Encouraging consistent use among users with limited tech familiarity.</p>
+<p>Connectivity Gaps: Providing low-data modes for rural or low-bandwidth regions.</p>
+<p>Partnerships: Securing cooperation from micro-finance and skill-development bodies for full ecosystem impact.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 10:48:05</sys_created_on>
+        <sys_id>b0558db393e8fe107f067baefaba10e0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WorkNow: AI-Powered Job Tracker and Opportunity Connector for Informal/Skilled Workers</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b0558db393e8fe107f067baefaba10e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 10:48:07</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

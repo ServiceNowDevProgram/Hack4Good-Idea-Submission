@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>AidCare would dramatically improve the speed and accuracy of disaster relief coordination by using AI and automation to connect needs with resources.</p>
+<p><strong>Potential measurable impacts:</strong></p>
+<ul><li>40–60% faster response times for aid delivery.</li><li>Better resource allocation, reducing duplicate dispatches by 30%.</li><li>Improved communication among nonprofits, volunteers, and victims.</li><li>Scalable for global or local crises, from flood relief in Wales to earthquake recovery abroad.</li></ul>
+<p>Overall, AidCare would enhance the efficiency and transparency of nonprofit disaster management operations, saving both time and lives.</p>]]></potential_impact>
+        <problem_statement>During natural disasters or humanitarian crises, nonprofit organizations and local authorities often face fragmented communication and poor coordination.&#13;
+Requests for aid such as food, medicine, or rescue support arrive through multiple disconnected channels (email, WhatsApp, phone calls), leading to duplicate efforts, delayed responses, and wasted resources.&#13;
+Victims may wait hours or days before help reaches them, not because aid is unavailable, but because it isn’t efficiently organized or prioritized.&#13;
+&#13;
+There is an urgent need for a centralized, intelligent workflow system that can coordinate aid requests, resources, and volunteers in real time.</problem_statement>
+        <project_name>AidCare – AI-Powered Disaster Coordination Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>AidCare would be a <strong>ServiceNow-based platform</strong> that automates the entire disaster response workflow.</p>
+<p><strong>Key features:</strong></p>
+<ul><li>AI-powered intake system: Collects requests from multiple channels (web form, email, chatbot).</li><li>AI classification &amp; prioritization: Uses Predictive Intelligence to categorize cases (medical aid, shelter, logistics) and urgency.</li><li>Automated task assignment: Flow Designer routes cases to the right NGO or volunteer group based on location and availability.</li><li>Real-time dashboard: Displays requests, resources, and delivery status for all stakeholders.</li><li>Analytics &amp; reporting: Tracks performance metrics to support continuous improvement and accountability.<br /><br /><strong><br />ServiceNow App Engine</strong> – to build the core workflow application.</li></ul>
+<p><strong>         Flow Designer</strong> – for automating assignments, notifications, and follow-ups.</p>
+<p><strong>         Predictive Intelligence / AI Search</strong> – to classify and prioritize incoming requests.</p>
+<p><strong>         Virtual Agent</strong> – to handle 24/7 chat based support or intake.</p>
+<p><strong>         Field Service Management</strong> – for tracking volunteers, assets, and deliveries.</p>
+<p><strong>        Dashboards and Reporting</strong> – for real-time visibility and analytics.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with external APIs such as Google Maps (for location tracking and routing).</p>
+<p>Messaging APIs (Twilio, WhatsApp) for communication automation.</p>
+<p>Optional integration with open disaster databases or local NGO data sources for richer insights.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Data standardization:</strong> Different NGOs use varied formats for reporting and requests.</p>
+<p><strong>Access to real-time data:</strong> May depend on cooperation and openness from external partners.</p>
+<p><strong>User adoption:</strong> Nonprofit staff and volunteers may require training to use a new platform effectively.</p>
+<p><strong>Connectivity limitations:</strong> Disaster zones may have unstable internet access.</p>
+<p><strong>AI accuracy:</strong> Requires sufficient data to train classification models for local contexts.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 23:21:34</sys_created_on>
+        <sys_id>21837b0283b8f210eb5fa4d0deaad37a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AidCare – AI-Powered Disaster Coordination Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_21837b0283b8f210eb5fa4d0deaad37a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 23:21:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Enable citizens to calculate and reduce their carbon footprint</li><li>Drive community-wide engagement toward sustainability goals</li><li>Support data-driven policy by visualizing collective progress</li><li>Encourage eco-friendly behavior through education and incentives</li><li>Empower nonprofits and cities to measure their impact in real time</li></ul>]]></potential_impact>
+        <problem_statement>Communities and local governments are setting carbon reduction goals but often lack tools to track individual or collective carbon footprints. Residents don’t know how much energy, waste, or transport habits contribute to emissions. There's also a lack of engagement tools to encourage sustainable behavior change at the community level.</problem_statement>
+        <project_name>GreenTrack – Community Carbon Footprint Tracker &amp; Engagement Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>The proposed platform is a citizen-facing sustainability portal powered by ServiceNow that includes:</strong></p>
+<ul><li>Personal Carbon Calculator: Users enter daily activity (transportation, energy use, diet), and the system calculates their carbon footprint.</li><li>Gamified Engagement Engine: Users earn badges or rewards for eco-friendly actions (e.g., biking to work, reducing energy use).</li><li>Community Impact Dashboard: Aggregates data from all users to show neighborhood- or city-level emissions trends.</li><li>Virtual Agent Eco-Assistant: Provides real-time sustainability tips, answers questions, and helps users take meaningful actions.</li><li>Sustainability Pledge and Reporting: Enables users to commit to specific carbon reduction goals and track their performance over time.</li></ul>
+<p><strong>ServiceNow products or capabilities - </strong></p>
+<ol><li>Virtual Agent &#43; GenAI (personal eco-assistant)</li><li>App Engine (custom carbon calculator and workflows)</li><li>IntegrationHub (connect to utility APIs, transit data, smart meters)</li><li>Performance Analytics (for carbon data visualization)</li><li>Experience Builder (for public-facing portal)</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Access to carbon calculation APIs or emissions databases</li><li>Integration with utility providers or energy platforms (optional)</li><li>Secure storage of personal user data</li><li>Multi-language support for inclusivity</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Getting accurate self-reported data from users</li><li>Ensuring privacy and data protection</li><li>Driving long-term user engagement</li><li>Encouraging action beyond just reporting or tracking</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 15:39:11</sys_created_on>
+        <sys_id>cf9509a347283210d5daa3c9316d438f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenTrack – Community Carbon Footprint Tracker &amp; Engagement Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_cf9509a347283210d5daa3c9316d438f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 15:39:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

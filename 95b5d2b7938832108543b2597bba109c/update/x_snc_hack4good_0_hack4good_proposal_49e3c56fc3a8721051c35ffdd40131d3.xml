@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Simplify and <strong>accelerate access</strong> to aid and support services</p>
+<p>Help underserved populations <strong>recover faster and more fairly</strong></p>
+<p>Provide a single system for <strong>tracking all citizen requests</strong></p>
+<p>Allow governments and NGOs to <strong>analyze unmet needs</strong> and adjust strategy in real time</p>
+<p>Increase transparency and trust in public recovery programs</p>]]></potential_impact>
+        <problem_statement>After a disaster, survivors face a long, complex recovery process. They must navigate multiple disconnected systems to apply for aid, mental health services, insurance claims, and housing support. Paper forms, fragmented platforms, and unclear guidance lead to confusion, delays, and missed opportunities—especially for underserved communities.&#13;
+At the same time, governments and nonprofits lack real-time data on recovery progress, making it difficult to allocate resources effectively.</problem_statement>
+        <project_name>RebuildNow – Community Recovery &amp; Resource Access Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>We propose a ServiceNow-powered <strong>Community Recovery Hub</strong>:</p>
+<p><strong>Unified Recovery Portal</strong>: Citizens apply for multiple services (financial aid, housing repair, insurance claims, counseling) through a guided experience.</p>
+<p><strong>AI-Powered Assistant</strong>: Uses GenAI to answer questions, recommend programs, and help fill out forms.</p>
+<p><strong>Document Intelligence</strong>: Extracts and validates data from uploaded ID, proof of residence, and insurance forms.</p>
+<p><strong>Smart Routing and Case Management</strong>: Auto-assigns cases to relevant agencies and tracks their progress.</p>
+<p><strong>Mental Health &amp; Social Services Referrals</strong>: Connects users to counseling, support groups, and job assistance.</p>
+<p><strong>Recovery Analytics Dashboard</strong>: Visualizes recovery trends, bottlenecks, and equity gaps for policy-makers.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with insurance, housing, and public assistance systems</p>
+<p>AI/NLP support for document extraction and language understanding</p>
+<p>Compliance with data privacy laws (e.g., HIPAA, GDPR)</p>
+<p>Role-based access for case workers, agencies, and NGOs</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data privacy and secure access to sensitive citizen information</p>
+<p>Integrating with legacy aid and claims systems</p>
+<p>Reaching low-income or rural populations with limited digital access</p>
+<p>Managing inter-agency collaboration effectively</p>
+<p>Training case workers and support staff on new systems</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 15:30:11</sys_created_on>
+        <sys_id>49e3c56fc3a8721051c35ffdd40131d3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RebuildNow – Community Recovery &amp; Resource Access Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_49e3c56fc3a8721051c35ffdd40131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 15:30:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

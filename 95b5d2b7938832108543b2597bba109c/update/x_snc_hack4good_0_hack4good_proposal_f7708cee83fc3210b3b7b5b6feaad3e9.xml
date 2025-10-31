@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Enhanced End-User Experience - Users receive real-time updates and can provide quick feedback through an intuitive interface.</p>
+<p>Improved Service Quality - Feedback data helps IT managers identify recurring issues and take preventive measures.</p>
+<p>Faster Response &amp; Transparency - Automated flows notify users and agents promptly, improving communication and accountability.</p>
+<p>Data-Driven Insights - Reports and dashboards provide performance trends, SLA compliance, and satisfaction metrics.</p>
+<p>Scalable Framework - Can be easily extended to HR, Facilities, or Customer Service teams for broader service automation.</p>]]></potential_impact>
+        <problem_statement>In many organizations, IT support operations face challenges in maintaining service quality and user satisfaction.&#13;
+End users often raise issues (e.g., system errors, network downtime, software requests), but the communication loop usually ends once the ticket is resolved. Without structured feedback, IT teams struggle to measure service quality, identify recurring problems, or improve response processes.</problem_statement>
+        <project_name>InciTrack+: Intelligent Incident &amp; Feedback Management System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio, Tables (Incident, Feedback as custom table), Record Producer, Flow Designer, UI Policies, Visualization Designer and Survey Form Designer.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 18:18:34</sys_created_on>
+        <sys_id>f7708cee83fc3210b3b7b5b6feaad3e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>InciTrack+: Intelligent Incident &amp; Feedback Management System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f7708cee83fc3210b3b7b5b6feaad3e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 18:18:36</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

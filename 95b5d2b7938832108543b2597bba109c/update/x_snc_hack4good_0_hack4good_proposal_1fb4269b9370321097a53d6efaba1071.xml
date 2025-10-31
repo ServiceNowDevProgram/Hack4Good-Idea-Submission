@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A purpose-built portal automates wish request intake, milestone tracking, document handling, and progress notifications. Families gain a clear and supportive interface to monitor wish status, securely share required information, and collaborate with nonprofit staff. This transformation would improve satisfaction, accelerate wish fulfillment timelines, reduce administrative load, improve transparency for donors, and streamline reporting for compliance and grant funding. Direct measurable value includes 60% faster processing, improved family participation rates, and higher donor engagement.</p>]]></potential_impact>
+        <problem_statement>Nonprofit organizations such as Make-A-Wish routinely grant life-changing wishes to children facing critical illnesses. However, their wish submission and tracking process is often manual—relying on forms, phone calls, and fragmented communications—which can overwhelm families in crisis and slow response times. Challenges include lost paperwork, incomplete documentation, delayed updates, and difficulty coordinating with multiple partners and family members. This complexity increases emotional stress, introduces compliance risks, and leads to poor transparency, making it harder to measure mission impact and donor engagement.</problem_statement>
+        <project_name>Wish Fulfillment &amp; Family Engagement Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a centralized ServiceNow platform that:</p>
+<ol><li>
+<p>Provides a secure, accessible portal for wish submission, document uploads, and status tracking.</p>
+</li><li>
+<p>Automates progress notifications at each milestone (approval, planning, fulfillment, and follow-up).</p>
+</li><li>
+<p>Enables messaging and collaboration between families, staff, and partners.</p>
+</li><li>
+<p>Integrates a document library for medical, legal, and travel forms.</p>
+</li><li>
+<p>Offers dashboards for staff and donors to view progress, impact statistics, and reports.</p>
+</li><li>
+<p>Adapts for mobile use, accessibility options, and multi-language support for diverse users.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with third-party CRM and donor management systems.</p>
+</li><li>
+<p>Secure storage for confidential documents with compliance standards (HIPAA, GDPR).</p>
+</li><li>
+<p>Messaging integrations (email/SMS/APIs) for timely notifications.</p>
+</li><li>
+<p>Cloud hosting for scalable access and mobile optimization.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring privacy and secure access for sensitive family and health data.</p>
+</li><li>
+<p>Training staff, partners, and families who may not be tech-savvy.</p>
+</li><li>
+<p>Maintaining accessibility for families in crisis and those with language barriers.</p>
+</li><li>
+<p>Change management for organizations transitioning from manual to digital workflows.</p>
+</li><li>
+<p>Aligning reporting and auditing with funder and regulatory requirements.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 14:10:25</sys_created_on>
+        <sys_id>1fb4269b9370321097a53d6efaba1071</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Wish Fulfillment &amp; Family Engagement Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1fb4269b9370321097a53d6efaba1071</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 14:10:26</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

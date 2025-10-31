@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>A 60% faster relief deployment coordination, a 90% reduction in duplicate aid entries, and a centralized visibility for 10&#43; NGOs in the region.</p>]]></potential_impact>
+        <problem_statement>After floods or building collapses, Nigerian emergency response relies heavily on fragmented spreadsheets and phone coordination. Aid often reaches victims late, or names get duplicated.</problem_statement>
+        <project_name>AidSync – Smart Disaster Relief Logistics Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>AidSync automates emergency logistics using:</p>
+<ul><li><strong>ITOM and CMDB</strong> for mapping relief assets and field equipment.</li><li><strong>Field Service Management (FSM)</strong> for dispatching volunteers.</li><li><strong>IntegrationHub</strong> for GPS and weather data.</li><li><strong>Flow Designer</strong> for task automation and alert routing.</li><li><strong>Service Portal</strong> for NGOs and citizens to report needs.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The use of Google Maps and OpenWeather APIs is required. We can also use IoT integration for vehicle tracking.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Some of these areas have low connectivity zones, so GPS reliability would be a problem. Validating citizen-submitted reports and also managing high traffic during disasters.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 08:04:17</sys_created_on>
+        <sys_id>c2788df6c36c7210a77f7c2ed40131d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AidSync – Smart Disaster Relief Logistics Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c2788df6c36c7210a77f7c2ed40131d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 08:04:18</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

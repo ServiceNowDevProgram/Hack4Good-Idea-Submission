@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A custom technology solution would:</p>
+<ul><li><strong>Provide continuous mentorship visibility:</strong> Volunteers and mentors can easily track student progress, challenges, and milestones.</li><li><strong>Support early intervention:</strong> Real-time reports identify at-risk students for proactive outreach.</li><li><strong>Measure holistic growth:</strong> Students’ academic, emotional, and personal development can be monitored through surveys and progress assessments.</li><li><strong>Build accountability:</strong> Both mentors and students can self-report goals, check-ins, and outcomes through an intuitive platform.</li><li><strong>Increase retention:</strong> Engaged mentoring and personalized development pathways improve school completion rates.</li></ul>
+<p><strong>Measurable Impact Examples:</strong></p>
+<ul><li>75% student participation retention across the school year.</li><li>30% increase in student-reported motivation and engagement (via biannual surveys).</li><li>20% improvement in mentor follow-up rate and resolution of student challenges logged in the system.</li></ul>]]></potential_impact>
+        <problem_statement>Many high school students—particularly teens in underserved communities—struggle with staying engaged in school, accessing positive mentors, and developing essential life skills. Without strong support systems, these students are at higher risk of dropping out, facing mental health challenges, or becoming involved in risky behaviors.&#13;
+Our community faces a growing need for youth advocacy, mentorship, and skills-based programs that promote mental wellness, purpose, and accountability through accessible and relatable guidance.</problem_statement>
+        <project_name>Youth Empowered: Advocacy, Mentorship, and Technology Pathways</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>An ideal solution integrates <strong>mentorship, advocacy, and digital coaching</strong> into one cohesive experience.<br />Students log in to their personalized profile to view their learning pathway, complete skill assessments, and track life goals. Mentors use an intuitive dashboard to monitor progress, document check-ins, and manage follow-up actions. Administrators can visualize student well-being trends, generate reports, and identify where additional support is needed.</p>
+<p>Key features:</p>
+<ul><li>Student and mentor dashboards</li><li>Progress tracking and goal setting</li><li>Automated reminders for check-ins and assessments</li><li>Peer support chat and conflict resolution workflows</li><li>Mobile-friendly access for both mentors and students</li></ul>
+<p><strong>ServiceNow Products or Capabilities </strong></p>
+<ul><li><strong>ServiceNow Studio</strong> for app design and workflow development</li><li><strong>App Engine Studio / Flow Designer</strong> for automating mentor follow-ups and progress updates</li><li><strong>Performance Analytics</strong> for visual dashboards and student progress tracking</li><li><strong>Survey and Assessment Designer</strong> for well-being and goal check-ins</li><li><strong>Now Mobile</strong> for easy access to student/mentor engagement on the go</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Access to <strong>ServiceNow App Engine</strong> and <strong>Survey Management</strong> plugins</li><li>Integration with <strong>email/SMS notifications</strong> for automated reminders</li><li>Secure data management for student records and mentorship notes</li><li>Optional integration with <strong>Google Workspace or Microsoft 365</strong> for importing school progress data</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li><strong>Mentor engagement:</strong> Recruiting and training volunteers to consistently use the platform.</li><li><strong>Student participation:</strong> Encouraging students to complete assessments and self-report regularly.</li><li><strong>Data privacy:</strong> Ensuring youth data is securely handled and compliant with parental consent policies.</li><li><strong>Sustainability:</strong> Maintaining ongoing volunteer and community involvement beyond initial rollout.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 21:40:33</sys_created_on>
+        <sys_id>ba07d75b9754fa10d57b3c80f053afeb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Youth Empowered: Advocacy, Mentorship, and Technology Pathways</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ba07d75b9754fa10d57b3c80f053afeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 21:40:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

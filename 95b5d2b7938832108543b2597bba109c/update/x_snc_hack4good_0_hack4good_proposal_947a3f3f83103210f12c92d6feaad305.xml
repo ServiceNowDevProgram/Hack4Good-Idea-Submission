@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>WellLink empowers students and young professionals to discover educational programs, mentorship opportunities, and skill-building resources—all through a centralized ServiceNow portal. It will:</strong></p>
+<ul style="list-style-position: inside;"><li>Connect youth with verified mentors, workshops, and learning events.</li><li>Enable educators and organizations to manage referrals and track outcomes.</li><li>Provide sponsors and stakeholders with transparent dashboards on reach and impact.</li><li>Foster inclusive growth by making support accessible, visible, and actionable.</li></ul>]]></potential_impact>
+        <problem_statement>Young people often struggle to find mentorship, learning resources, and support programs. Meanwhile, educators and community organizations lack a unified platform to share opportunities, manage referrals, and track engagement. This disconnect limits youth potential and leaves valuable resources underused. A centralized solution is needed to bridge these gaps and connect support with those who need it most.</problem_statement>
+        <project_name>WellLink: Community Referral &amp; Resource Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 13:42:54</sys_created_on>
+        <sys_id>947a3f3f83103210f12c92d6feaad305</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>WellLink: Community Referral &amp; Resource Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_947a3f3f83103210f12c92d6feaad305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 13:42:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

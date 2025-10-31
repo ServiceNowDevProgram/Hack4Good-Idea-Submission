@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>- IoT-enabled garbage bins send alerts when full, triggering automated routes for collection using ServiceNow workflows.<br /><br />- Organic waste data can be tracked, and compost production reports generated to encourage sustainable farming.<br /><br />- Real-time dashboards show waste collection stats, compost output, and CO₂ reduction, supporting village-level decision-making.<br /><br />- Through ServiceNow Portal and notifications, villagers receive education and rewards for proper waste organization.<br /><br />- The system can be replicated across regions, promoting rural cleanliness, green jobs, and sustainable development.</p>]]></potential_impact>
+        <problem_statement>Remote and rural areas often face poor waste management infrastructure, leading to uncollected garbage, open dumping, and environmental pollution. Lack of awareness and limited access to automated systems make it difficult to segregate biodegradable and non-biodegradable waste efficiently. As a result, villages struggle with sanitation issues, water contamination, and loss of fertile soil quality due to improper disposal practices.</problem_statement>
+        <project_name>EcoCycle: Smart Waste Management &amp; Compost Automation for Sustainable Villages</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine Studio, Workflow Studio, UI Builder, Service Portal, Integration Hub, Visualization Designer and Performance Analytics.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 19:21:38</sys_created_on>
+        <sys_id>faee48ee83707210b3b7b5b6feaad3df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EcoCycle: Smart Waste Management &amp; Compost Automation for Sustainable Villages</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_faee48ee83707210b3b7b5b6feaad3df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 19:21:41</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

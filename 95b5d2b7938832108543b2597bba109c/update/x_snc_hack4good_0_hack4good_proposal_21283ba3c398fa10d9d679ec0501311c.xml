@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p><strong>Increased Learning Quality:</strong> Students get guaranteed, high-quality interpreting services on time, improving their academic results. </p>
+<p><strong>Massive Cost Savings:</strong> Optimizing interpreter travel and reducing manual scheduling can save schools up to 30% on auxiliary services.</p>
+<p><strong>Better Coordination:</strong> Provides interpreters, schools, and students with a single, clear schedule and a real-time communication channel.</p>]]></potential_impact>
+        <problem_statement>Deaf and Hard of Hearing students often struggle to get high-quality, real-time sign language interpreters for their classes and school events. Scheduling interpreters is a chaotic, manual process involving many emails and phone calls, which leads to cancellations, delays, and poor learning experiences for students.</problem_statement>
+        <project_name>SignSync: AI Interpreter Navigator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A smart platform that uses AI and mobile tools to make scheduling and deploying certified sign language interpreters as simple as requesting a ride-share:</p>
+<ul><li><strong>Easy Request App:</strong> Teachers or students submit a request for an interpreter through a simple app (like a service catalog) with the time, date, and subject.</li><li><strong>Smart Dispatch &amp; Routing (FSM):</strong> The system automatically matches the request with the <strong>closest and most qualified interpreter</strong> available, optimizing their travel route (using Field Service Management tools) to save time and cost.</li><li><strong>AI-Augmented Learning:</strong> Integrates with future AI tools to provide <strong>real-time, high-quality captions</strong> for virtual content, serving as a reliable backup or supplement to the live interpreter.</li><li><strong>Confidential Case Management:</strong> All student and interpreter schedules are tracked in a secure system to ensure privacy and compliance.</li></ul>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-06 18:26:00</sys_created_on>
+        <sys_id>21283ba3c398fa10d9d679ec0501311c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SignSync: AI Interpreter Navigator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_21283ba3c398fa10d9d679ec0501311c</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-06 18:26:01</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

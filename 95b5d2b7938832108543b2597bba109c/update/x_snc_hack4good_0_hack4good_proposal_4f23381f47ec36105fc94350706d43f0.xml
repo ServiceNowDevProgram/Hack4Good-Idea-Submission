@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Create a way for users to find Arts events near them and for mental health professionals to recommend specific events that alighn with their patients needs.</p>]]></potential_impact>
+        <problem_statement>Provide access to community arts events to foster a sense of belonging. Helps to treat the loneliness and mental health epidemics affecting many communities. Work with organizations like Art Pharmacy to bring the arts to those who otherwise would not have access.</problem_statement>
+        <project_name>Arts for Public Health</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service Portal, CSM, Workspaces</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with calendars and external sites for content would make access easier for community organizations. For example, ingesting events with a certain tag from an EventBrite query.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Onboarding new regions and organizations would require training and enablement of core users in the area.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-17 19:40:56</sys_created_on>
+        <sys_id>4f23381f47ec36105fc94350706d43f0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Arts for Public Health</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_4f23381f47ec36105fc94350706d43f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-17 19:40:58</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

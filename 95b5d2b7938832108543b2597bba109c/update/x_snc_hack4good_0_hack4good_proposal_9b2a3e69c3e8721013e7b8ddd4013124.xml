@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Create an AI-driven <strong>Employee Utilization &amp; Allocation System</strong> on ServiceNow that helps nonprofits <strong>balance workloads, prevent burnout, and optimize volunteer engagement</strong>.</p>
+<p>⚙️ Key Features</p>
+<p>1. &#x1f465; <strong>Workload Visibility Dashboard</strong></p>
+<p>Real-time view of each employee’s <strong>active projects, assigned hours, and workload %</strong></p>
+<p>Heatmap:</p>
+<p>&#x1f7e2; 0–60% (Available)</p>
+<p>&#x1f7e1; 60–90% (Moderate)</p>
+<p>&#x1f534; &gt;90% (Overloaded)</p>
+<p>2. &#x1f9e0; <strong>Smart Assignment Engine</strong></p>
+<ul><li>When creating or assigning a project task, the system checks:</li><li>Who is available,</li><li>Who has matching skills, and</li><li>Who is nearing fatigue limits.</li></ul>
+<p>Suggests optimal assignee automatically using <strong>Predictive Intelligence</strong>.</p>
+<p>3. &#x1f4c6; <strong>Field Work Scheduler</strong></p>
+<p>For NGOs with field teams: plan and track work distribution per region and per day.</p>
+<p>Visual map of which employee is working where, and for how many hours.</p>
+<p>4. ⚙️ <strong>Fatigue &amp; Overload Detection</strong></p>
+<ul><li>Predicts burnout risks using:</li><li>Consecutive working days</li><li>Workload % trend</li><li>Hours logged vs. average</li><li>Triggers alerts to managers to redistribute tasks or provide rest days.</li></ul>
+<p>5. &#x1f504; <strong>Integration with HR &amp; Project Apps</strong></p>
+<p>Pull employee availability, leaves, and shifts from HR module.</p>
+<p>Sync with Project Management App for active tasks and deadlines.</p>
+<p>Combine with your <strong>Finance Core</strong> → calculates human cost allocation by utilization.</p>
+<p>6. &#x1f4ca; <strong>Utilization &amp; Impact Reports</strong></p>
+<p>Generate analytics by:</p>
+<ul><li>Person, department, or project</li><li>Weekly / monthly utilization rate</li><li>Underused vs. overloaded workforce</li><li>Suggests staffing redistribution to balance workloads.</li></ul>
+<p>7. ❤️ <strong>Wellbeing Index (Optional Add-on)</strong></p>
+<p>Tracks employee satisfaction (survey or sentiment AI)</p>
+<p>Combines physical workload &#43; psychological indicators → burnout prediction score</p>]]></potential_impact>
+        <problem_statement>In nonprofits, staff and volunteers are often overworked or unevenly assigned:&#13;
+&#13;
+Some are attached to multiple projects at once, causing burnout 😩&#13;
+Others are underutilized, waiting for assignments 💤&#13;
+Field workers may be allocated without visibility of their actual workload or travel schedules&#13;
+NGOs lack tools to see, balance, and predict resource utilization across all projects&#13;
+&#13;
+As a result:&#13;
+&#13;
+Efficiency drops,&#13;
+Project timelines slip, and&#13;
+Employee fatigue increases, especially during field campaigns or relief operations.</problem_statement>
+        <project_name>Human Utilization &amp; Workload Intelligence for Nonprofits (HUWIN)</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><table><thead><tr><th>Function</th><th>ServiceNow Capability</th></tr></thead><tbody><tr><td>Task &amp; project tracking</td><td>Custom tables &#43; Flow Designer</td></tr><tr><td>Predictive allocation</td><td><strong>Predictive Intelligence</strong> (Next Best Assignment model)</td></tr><tr><td>Workload heatmap</td><td><strong>UI Builder Dashboard &#43; Performance Analytics</strong></td></tr><tr><td>Field data</td><td>Mobile App / Location API</td></tr><tr><td>HR integration</td><td>Integration Hub / REST API</td></tr><tr><td>Fatigue detection</td><td>Scheduled jobs &#43; Script Includes (pattern analysis)</td></tr></tbody></table>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, the proposed solution will rely on several integrations and platform capabilities:</p>
+<ul><li><strong>Integration with HR and Project Management modules</strong> to pull employee, shift, and task data.</li><li><strong>Predictive Intelligence models</strong> for suggesting optimal assignments and forecasting employee   fatigue.</li><li><strong>Location or mobile data</strong> (optional) for tracking field activity and on-ground workloads.</li><li><strong>Performance Analytics and UI Builder dashboards</strong> to visualize real-time utilization.</li><li><strong>APIs or web services</strong> (if external HR or project tools are used).</li><li><strong>Data accuracy dependency</strong> — the effectiveness of predictions depends on consistent time tracking and effort logging.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Some foreseeable implementation challenges include:</p>
+<ul><li><strong>Data quality and completeness:</strong> If effort or task data isn’t consistently recorded, predictive accuracy and utilization insights may suffer.</li><li><strong>Integration complexity:</strong> NGOs using external HR systems or project trackers will require stable API connectivity.</li><li><strong>Change management:</strong> Encouraging NGOs to adopt digital workload tracking may require user training and cultural adaptation.</li><li><strong>Predictive model calibration:</strong> Different NGOs have unique project rhythms, so models must be trained on varied datasets to avoid bias.</li><li><strong>Privacy considerations:</strong> Field staff location or workload data must be handled securely to respect personal privacy.</li><li><strong>Visualization performance:</strong> Real-time dashboards with large datasets might require optimization for scalability.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>abhishek</sys_created_by>
+        <sys_created_on>2025-10-12 19:01:43</sys_created_on>
+        <sys_id>9b2a3e69c3e8721013e7b8ddd4013124</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Human Utilization &amp; Workload Intelligence for Nonprofits (HUWIN)</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9b2a3e69c3e8721013e7b8ddd4013124</sys_update_name>
+        <sys_updated_by>abhishek</sys_updated_by>
+        <sys_updated_on>2025-10-12 19:01:45</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

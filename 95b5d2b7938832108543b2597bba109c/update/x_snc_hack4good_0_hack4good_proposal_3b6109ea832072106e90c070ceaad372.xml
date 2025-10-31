@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Accelerates research output</strong> by streamlining approvals, workflows, and collaboration.</p>
+<p><strong>Reduces admin burden</strong> on faculty and PhD students.</p>
+<p><strong>Improves funding success rates</strong> by centralizing calls, templates, deadlines, and reminders.</p>
+<p><strong>Enhances research quality</strong> with integrated progress tracking, peer reviews, and reporting.</p>
+<p><strong>Boosts institutional visibility</strong> by centralizing published research and compliance tracking.</p>]]></potential_impact>
+        <problem_statement>Academic researchers face fragmented, inefficient workflows across the entire research lifecycle, from literature reviews to data collection, funding applications, ethics approvals, collaboration, publication tracking, and reporting. Most institutions lack a centralized system to manage research processes, resulting in:&#13;
+&#13;
+Missed funding deadlines&#13;
+&#13;
+Delayed ethics or compliance approvals&#13;
+&#13;
+Siloed collaboration&#13;
+&#13;
+Poor visibility into institutional research output&#13;
+&#13;
+Manual tracking for grant progress and reporting&#13;
+&#13;
+This is a major bottleneck that reduces research productivity, limits interdisciplinary innovation, and burdens faculty with administrative overhead.</problem_statement>
+        <project_name>ResearcHub: Unified Workflow &amp; Collaboration Platform for Academic Research Lifecycle</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p style="text-align: justify;">ResearcHub is a ServiceNow-powered platform that digitizes and automates the entire academic research lifecycle within universities and research institutions. It offers:</p>
+<p style="text-align: justify;"><strong>Research Lifecycle Management</strong></p>
+<p style="text-align: justify;">Create research projects, track phases (proposal → approval → data → publication).</p>
+<p style="text-align: justify;">Auto-generate timelines and assign roles (PI, Co-PI, reviewers, ethics leads).</p>
+<p style="text-align: justify;"><strong>Grant Discovery &amp; Management</strong></p>
+<p style="text-align: justify;">Central feed for funding calls (integrated from databases like Grants.gov, EU Horizon, etc.).</p>
+<p style="text-align: justify;">Automate submission tracking, notifications, and status updates.</p>
+<p style="text-align: justify;"><strong>Ethics &amp; Compliance Workflow Automation</strong></p>
+<p style="text-align: justify;">Submit ethics applications, trigger institutional review workflows, track approvals.</p>
+<p style="text-align: justify;"><strong>Collaboration Workspaces</strong></p>
+<p style="text-align: justify;">Internal and cross-institutional researcher collaboration spaces.</p>
+<p style="text-align: justify;">Version control for shared documents, integrated communication.</p>
+<p style="text-align: justify;"><strong>Research Output Repository</strong></p>
+<p style="text-align: justify;">Structured logging of publications, data sets, code, and citations.</p>
+<p style="text-align: justify;">Metadata for funding sources, impact, collaborators, and open access status.</p>
+<p style="text-align: justify;"><strong>Dashboards for Leadership &amp; Stakeholders</strong></p>
+<p style="text-align: justify;">Research volume by department, grant success rates, publication impact, and pending reviews.</p>
+<p style="text-align: justify;"><strong>ServiceNow Products/ Capabilities</strong></p>
+<p style="text-align: justify;">To bring the ResearcHub vision to life, the application would rely on several powerful ServiceNow capabilities. <strong>App Engine Studio</strong> would be used to design and build custom modules for managing research projects, tracking grant progress, and logging institutional research outputs. <strong>Flow Designer</strong> would automate critical workflows, such as routing ethics approvals, tracking grant deadlines, and managing compliance reviews, freeing researchers from manual follow-ups.</p>
+<p style="text-align: justify;"><strong>IntegrationHub</strong> plays a vital role by connecting the platform to external funding databases, publication repositories, and institutional systems. Researchers would interact with the system through a clean, role-based <strong>Service Portal</strong>, allowing them to submit proposals, track progress, and manage their projects easily. All documents, such as proposals, ethics forms, publications, and raw data, would be stored securely using <strong>Document Management</strong> capabilities within ServiceNow.</p>
+<p style="text-align: justify;">To provide research offices and university leadership with real-time oversight, <strong>Performance Analytics</strong> would be used to build dashboards tracking key indicators like research output, approval turnaround times, funding success rates, and project risks. Optionally, a <strong>Virtual Agent</strong> could guide researchers through common tasks, such as locating relevant funding calls or understanding submission policies, enhancing usability without increasing administrative load.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>API integrations with external funding databases (e.g., NIH RePORTER, Grants.gov, EU Cordis).</p>
+<p>Authentication integrations (institutional SSO, researcher ORCID IDs).</p>
+<p>Optional integration with institutional repository systems (Dspace, Figshare, etc.).</p>
+<p>Document handling and possible AI summarization of research outputs.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Stakeholder alignment</strong> across departments (IT, research office, compliance).</p>
+<p><strong>Customization</strong> needs for discipline-specific workflows (STEM vs humanities).</p>
+<p><strong>Change management</strong> – researchers used to informal tools may resist initial adoption.</p>
+<p><strong>Data privacy and IP control</strong>, especially with unpublished research.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-15 13:10:54</sys_created_on>
+        <sys_id>3b6109ea832072106e90c070ceaad372</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ResearcHub: Unified Workflow &amp; Collaboration Platform for Academic Research Lifecycle</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_3b6109ea832072106e90c070ceaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-15 13:10:55</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

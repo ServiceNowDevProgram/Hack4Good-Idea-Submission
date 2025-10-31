@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>24/7 instant connection to peer and professional support, rapid crisis detection and intervention, reduced stigma through anonymous options, and improved mental health outcomes in the community.</p>]]></potential_impact>
+        <problem_statement>Many people struggle to access timely mental health support, facing barriers like waitlists, cost, and social stigma. Mental health crises can occur anytime, often outside normal hours, with limited ways to connect instantly to the right support level; increasing risk of harm and suicide.</problem_statement>
+        <project_name>MentalHealthLine – Instant Mental Health Support Network</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A platform that triages users via AI, routing them to peer support, licensed counselors, or emergency services as appropriate. Includes chat, video, anonymous access, resource guides, and automated follow-up.</p>
+<p>Service Portal/Now Mobile for access; Case Management for tracking; Now Assist/GenAI for triage; Workflow Studio for routing; Knowledge Management for self-help; IntegrationHub for connecting external hotlines/services; Performance Analytics for trends and outcomes; Notification Engine for crisis alerts.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with emergency/crisis lines, real-time chat and video, mobile access, geolocation for emergencies.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Privacy concerns, accurate AI triage, 24/7 staffing, volunteer training, integrating with external services, ensuring accessibility, and managing crisis situations safely.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 18:27:59</sys_created_on>
+        <sys_id>c0b5adc3935c3e10cfccfcb6dd03d656</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MentalHealthLine – Instant Mental Health Support Network</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c0b5adc3935c3e10cfccfcb6dd03d656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 18:28:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

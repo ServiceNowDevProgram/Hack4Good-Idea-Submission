@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Measurable Impact</strong>:
+<ul><li>Reduce accommodation search time by up to 50%.</li><li>Increase trust through verified listings and authentic reviews.</li><li>Enable affordability by providing budget filters and comparison tools.</li></ul>
+</li><li><strong>Value</strong>:
+<ul><li>Helps thousands of graduates transition smoothly into work life.</li><li>Builds a safe and transparent housing ecosystem.</li><li>Encourages community-driven ratings for better living standards.</li></ul>
+</li></ul>]]></potential_impact>
+        <problem_statement>Fresh graduates relocating for jobs face challenges in finding safe, affordable, and verified accommodations. Existing solutions lack transparency in pricing, amenities, and reviews, leading to poor living experiences or scams. There is no centralized platform that connects verified property owners with students while ensuring trust and affordability.</problem_statement>
+        <project_name>StayConnect – Smart Accommodation Portal for Fresh Graduates</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>StayConnect will be a web and mobile platform with:</p>
+<ul><li><strong>Two login types</strong>: Property Owners and Students.</li><li><strong>Features</strong>:
+<ul><li>Location-based search (City &#43; Area).</li><li>Filters for budget, amenities, and ratings.</li><li>Verified listings and tenant reviews.</li><li>Map integration for commute planning.</li><li>Secure messaging between students and property owners.</li></ul>
+</li><li><strong>Community Features</strong>: Discussion forums and Q&amp;A for students.</li></ul>
+<h1 style="text-align: center;"><strong><span style="color: rgb(113, 113, 113); font-family: SourceSansPro, Helvetica, Arial, sans-serif; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255); float: none; display: inline;">ServiceNow products </span></strong></h1>
+<ul><li><strong>App Engine</strong>: For building custom workflows and portal.</li><li><strong>Flow Designer</strong>: For automating verification and notifications.</li><li><strong>Integration Hub</strong>: For integrating maps and payment gateways.</li><li><strong>Mobile App Builder</strong>: For mobile-first experience.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with <strong>Google Maps API</strong> for location services.</li><li>Secure <strong>payment gateway</strong> for booking.</li><li><strong>Identity verification APIs</strong> for user trust.</li><li>Hosting infrastructure for scalability.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>data accuracy and verification</strong> of property listings.</li><li>Preventing <strong>fake reviews and fraudulent activities</strong>.</li><li>Managing <strong>scalability</strong> for multiple cities.</li><li>Building <strong>trust among users</strong> in early stages.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 13:35:40</sys_created_on>
+        <sys_id>d3ee3a9683f03210cb5976d6feaad3f5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>StayConnect – Smart Accommodation Portal for Fresh Graduates</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d3ee3a9683f03210cb5976d6feaad3f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 13:35:43</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

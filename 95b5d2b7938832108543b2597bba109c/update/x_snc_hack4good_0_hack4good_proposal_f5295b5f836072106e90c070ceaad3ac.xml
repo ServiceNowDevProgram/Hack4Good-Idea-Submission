@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="text-align: justify;">The HeatShield platform aims to significantly reduce heat-related illness and deaths by delivering timely alerts and coordinating the deployment of essential cooling resources. Leveraging real-time heat hotspot data, it enables cities to engage in climate-smart urban planning, identifying where interventions like tree planting, cooling centers, or reflective infrastructure are most needed. The platform is designed to empower vulnerable communities such as the elderly, low-income families, and outdoor workers by providing early warnings and access to life-saving resources during extreme heat events. Additionally, HeatShield generates grant-reportable metrics, including risk reduction per dollar spent, giving funders and city officials clear, actionable insights into impact and return on investment. Ultimately, HeatShield establishes a scalable and replicable model for smart climate adaptation that can be deployed in cities around the world. </p>]]></potential_impact>
+        <problem_statement>Cities across the developed world are experiencing extreme heatwaves due to climate change and the Urban Heat Island (UHI) effect. Vulnerable populations- the elderly, low-income households, and outdoor workers face increasing health risks. Yet many cities lack real-time, localized systems to monitor urban heat risk at the neighborhood level, coordinate emergency responses and cooling resources, track response effectiveness and equity and inform long-term urban planning (e.g., where to plant trees, install reflective roofing, etc.)</problem_statement>
+        <project_name>HeatShield - Resilient Urban Heat Risk Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow app for city governments or climate NGOs that does the following:</p>
+<h4>1. Urban Heat Monitoring Dashboard</h4>
+<ul><li>Ingest real-time temperature data from weather stations, satellites (e.g., Copernicus), IoT sensors</li><li>Map high-risk zones at the street or block level</li><li>Trigger alerts when thresholds are crossed (e.g., 35°C&#43; for &gt;2 hrs)</li></ul>
+<h4>2. Heat Incident &amp; Response Coordination</h4>
+<ul><li>Create heat_incident records when high-risk zones are detected</li><li>Auto-assign response tasks to:</li><li>Open cooling centers</li><li>Distribute water or AC units</li><li>Check on registered vulnerable residents (elderly, disabled)</li><li>Escalate unresolved cases based on time and temperature severity</li></ul>
+<h4>3. Vulnerable Resident Registry</h4>
+<ul><li>Securely store data on residents enrolled in the heat safety program</li><li>Track wellness check-ins and health resource distribution</li><li>Use consent-based data collection, integrated with health/social services</li></ul>
+<h4>4. Cooling Resource Asset Tracker</h4>
+<ul><li>Track inventory and deployment of water, shade structures, fans, reflective paint, trees, etc.</li><li>Manage vendor contracts and delivery timelines</li></ul>
+<h4>5. Resilience Analytics &amp; Planning</h4>
+<p>Post-season reports showing:</p>
+<ul><li>Heat maps before/after interventions</li><li>Community impact and coverage</li><li>Gaps in service by zip code or demographic</li><li>Export for city council briefings, grant reports, or academic collaboration</li></ul>
+<h3><strong>ServiceNow capabilities  that would be used?</strong></h3>
+<ul><li><strong>App Engine Studio</strong>: Scoped app build</li><li><strong>Flow Designer</strong>: Automated workflows for alerts, resource assignment</li><li><strong>IntegrationHub</strong>: Ingest open data from NOAA, NASA, municipal IoT sensors</li><li><strong>Service Portal</strong>: Resident portal for safety check-ins, cooling center lookup</li><li><strong>Performance Analytics</strong>: Track response time, incident volume, population coverage</li><li><strong>CMDB / Asset Management</strong>: Manage physical assets like AC units, tents, shade trees</li><li><strong>Mobile App</strong> (optional): For field responders to log deliveries, check-ins</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Weather &amp; satellite APIs</strong>: NOAA Heat Index, Copernicus Urban Atlas, Weather.gov</p>
+<p><strong>IoT sensors</strong> (optional): Heat sensors on lampposts or buildings</p>
+<p><strong>GIS integration</strong>: Optional for map overlays (Mapbox, ArcGIS)</p>
+<p><strong>Resident data</strong>: Opt-in health or census data for vulnerable population mapping</p>
+<p><strong>Open311 or city data APIs</strong> for location services</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>Data privacy</strong>: Resident registry must follow HIPAA/GDPR where applicable</p>
+</li><li>
+<p><strong>Sensor integration</strong>: Not all cities have urban heat sensors; they may require partnerships</p>
+</li><li>
+<p><strong>Community trust</strong>: Must engage local communities to ensure participation</p>
+</li><li>
+<p><strong>Funding for cooling resources</strong>: Procurement depends on external budgets</p>
+</li><li>
+<p><strong>Cross-departmental coordination</strong>: Need buy-in from health, emergency, public works, and IT teams</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-18 08:01:38</sys_created_on>
+        <sys_id>f5295b5f836072106e90c070ceaad3ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HeatShield - Resilient Urban Heat Risk Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f5295b5f836072106e90c070ceaad3ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-18 08:01:40</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A digital veterinary management platform can bridge the gap between pet owners and veterinarians, enabling quick consultations, emergency alerts, vaccination tracking, and treatment records. It would improve animal health outcomes, reduce emergency fatalities, and promote responsible pet ownership.</p>]]></potential_impact>
+        <problem_statement>In many areas, pet owners struggle to find timely veterinary assistance, especially during emergencies or in rural regions where animal healthcare access is limited. Lack of centralized information, appointment delays, and untracked vaccination or treatment history further impact pet health and welfare.</problem_statement>
+        <project_name>PawCare Connect</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Customer Service Management (CSM), Field Service Management (FSM) for scheduling vet visits, and App Engine Studio for building the custom portal. Generative AI and Virtual Agent could be used for quick symptom checks and appointment assistance.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with GPS for vet location mapping, external APIs for pet medical databases, and mobile app enablement for accessibility.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy for medical records, managing real-time availability of veterinarians, and providing offline access for rural users with limited connectivity.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-27 16:44:24</sys_created_on>
+        <sys_id>ad99e392c3703650fb09b10ed40131d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PawCare Connect</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ad99e392c3703650fb09b10ed40131d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-27 16:44:25</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

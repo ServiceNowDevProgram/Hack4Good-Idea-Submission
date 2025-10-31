@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Dispatch the bus when demand threshold reaches, bus route may be adjusted over time to serve a larger pool of passenger, but it should generally follow a designated pickup / dropoff route. Drivers are also available to support the dispatch</p>]]></potential_impact>
+        <problem_statement>Bus transport on demand helps to ease congestion and reduce wasteful trips. However, it can be hard to gauge as demands changes based on certain need conditions such as weather and event and bus captain availablity.</problem_statement>
+        <project_name>Save the bus trip</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>KB Social Q&amp;A - Raise route suggestion, Collect poll on popular bus routes<br />Workflow Engine - Trigger the dispatch of bus when the demands level is satisfactory<br />AI Prompt - Suggest shortest route to destination or alternative combinations of transport route<br />Performance Analytics - Visualizes bus transport satisfactory trends and insights for new bus route plotting.<br />HR - Training for bus captain to adapt to driving on ad-hoc demand basis</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with bus operator system to alert when ready for dispatch.<br />Notification services to bus captains ready to pick up the journey.<br />Optimize AI services to match bus and driver for faster response.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Lack of contribution by the community for effective analysis.<br />Bus captain to cope with the regular intake of passenger crowd.<br />Slow dispatch of buses when demand spike unexpectedly.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 16:43:02</sys_created_on>
+        <sys_id>a54d80a9833032100341ca96feaad334</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Save the bus trip</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a54d80a9833032100341ca96feaad334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 16:43:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

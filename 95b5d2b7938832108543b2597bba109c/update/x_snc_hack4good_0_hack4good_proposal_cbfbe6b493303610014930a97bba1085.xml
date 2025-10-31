@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Implementing a digital platform for grant and donor lifecycle management would:</p>
+<ol><li>
+<p>Improve transparency and accountability in fund distribution.</p>
+</li><li>
+<p>Reduce manual administrative effort by up to 60%.</p>
+</li><li>
+<p>Accelerate grant approval and fund release cycles by automating workflows.</p>
+</li><li>
+<p>Improve donor trust through real-time tracking and reporting.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Nonprofit organizations rely on grants and donor contributions to fund their missions, but managing the end-to-end lifecycle—from application to distribution and reporting—is often fragmented, manual, and inefficient. Many NGOs handle grants through spreadsheets, emails, and disjointed platforms, leading to delays, compliance risks, and lack of financial transparency. This administrative overhead limits the amount of time teams can focus on service delivery and community impact.</problem_statement>
+        <project_name>Grant and Donor Lifecycle Management System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a <strong>centralized ServiceNow application</strong> that integrates the following modules:</p>
+<ol><li>
+<p>Grant Application Portal for NGOs and individuals.</p>
+</li><li>
+<p>Automated workflow for proposal review, approval, and fund allocation.</p>
+</li><li>
+<p>Donor Engagement Dashboard to track contributions, feedback, and reporting.</p>
+</li><li>
+<p>Real-time Analytics for board reports and compliance audits.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, several dependencies include:</p>
+<ol><li>
+<p>Integration with external finance systems (like SAP or QuickBooks).</p>
+</li><li>
+<p>Secure document handling for compliance audit data.</p>
+</li><li>
+<p>Access to External REST APIs for donor and NGO verification systems.​</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Data quality and migration from legacy systems to the ServiceNow platform.</p>
+</li><li>
+<p>Training nonprofit staff to adopt workflow automation.</p>
+</li><li>
+<p>Ensuring ongoing maintenance and sustainability of the system post‑deployment.</p>
+</li><li>
+<p>Balancing customization needs with simplicity for smaller NGOs with limited resources.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-22 20:16:14</sys_created_on>
+        <sys_id>cbfbe6b493303610014930a97bba1085</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Grant and Donor Lifecycle Management System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_cbfbe6b493303610014930a97bba1085</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-22 20:16:15</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

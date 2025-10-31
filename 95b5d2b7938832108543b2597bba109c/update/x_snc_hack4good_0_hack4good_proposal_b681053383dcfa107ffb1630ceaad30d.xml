@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul style="margin-top: 0cm; margin-bottom: 0cm;" type="disc"><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Builds emotional literacy and resilience in children from an early age.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Encourages healthy daily routines — mindfulness, gratitude, kindness, and movement.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Reduces screen addiction by turning digital time into positive engagement.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Strengthens collaboration among families, schools, and communities around wellbeing.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Creates early, data-backed insights for preventive mental health support.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Scalable model that can be adopted by schools, NGOs, and wellness programs globally.</li></ul>]]></potential_impact>
+        <problem_statement>Children today face increasing emotional overload, anxiety, and unhealthy screen habits.&#13;
+Adults, have many wellbeing apps. Most digital spaces for children are entertainment-driven, feeding on addictive tendencies and not driven by need for instantaneous gratification.&#13;
+Parents and teachers recognize signs of stress or disengagement but are powerless against the pull of bright lights, fast rewards, and make-believe worlds. Children lack a safe, engaging way to express their feelings or build daily emotional resilience and balance.</problem_statement>
+        <project_name>Ripple Mind – Digital Wellness for Kids</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Solution Proposal</strong></p>
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Value Proposition</strong></p>
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Ripple Mind transforms emotional wellbeing into a joyful daily habit for children aged 7–15.<br />It combines gamification, storytelling, and gentle AI nudges to make mindfulness, gratitude, and kindness <em>as engaging as screen time</em>.<br />Children check in on their feelings, complete short wellbeing or movement activities, and earn badges for healthy routines — building emotional awareness and resilience.<br />For parents and teachers, Ripple Mind provides insight and conversation prompts — <em>not surveillance</em> — enabling early support and positive reinforcement.<br />By making wellbeing interactive and rewarding, Ripple Mind nurtures healthier digital habits and emotional intelligence from an early age.</p>
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Vision</strong></p>
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Ripple Mind envisions a world where children see self-care as exciting, natural, and part of their daily rhythm.<br />It empowers them to understand emotions, express themselves safely, and practice kindness — both online and offline.<br />The platform brings together families, schools, and communities around a shared goal: nurturing mental wellness through meaningful, tech-enabled connections.<br />Over time, Ripple Mind aims to create measurable impact — reducing anxiety, boosting confidence, and spreading the habit of positive self-reflection, one ripple at a time.</p>
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Which ServiceNow Products or Capabilities Would Be Used</strong></p>
+<table class="MsoTableGrid" style="border-collapse: collapse; border: none; width: 84.5127%; height: 352.281px;" border="1" cellspacing="0" cellpadding="0"><tbody><tr style="height: 18px;"><td style="width: 0%; border: 1pt solid windowtext; background: rgb(209, 209, 209); padding: 0cm 5.4pt; height: 18px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong><span style="color: black;">ServiceNow Component</span></strong></p>
+</td><td style="width: 0%; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; background: rgb(209, 209, 209); padding: 0cm 5.4pt; height: 18px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong><span style="color: black;">Purpose</span></strong></p>
+</td></tr><tr style="height: 47.4688px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>App Engine Studio</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Custom tables for Child Profile, Mood Log, Activities, and Badges.</p>
+</td></tr><tr style="height: 54px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 54px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Flow Designer</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 54px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;">Automates daily mood prompts, activity recommendations, badge awards, and reminders.</p>
+</td></tr><tr style="height: 36px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 36px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Virtual Agent</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 36px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;">Conversational guide offering check-ins, affirmations, and wellbeing tips.</p>
+</td></tr><tr style="height: 36px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 36px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Service Portal / Mobile App</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 36px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;">Child-friendly interface for daily interactions and progress tracking.</p>
+</td></tr><tr style="height: 47.4688px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Decision Tables / Predictive Intelligence</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Suggests personalized content and adaptive activities based on mood history.</p>
+</td></tr><tr style="height: 47.4688px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Performance Analytics</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 47.4688px;" valign="top">
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Visualizes mood trends and engagement insights for schools and parents.</p>
+</td></tr><tr style="height: 65.875px;"><td style="width: 0%; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none; padding: 0cm 5.4pt; height: 65.875px;" valign="top">
+<p style="margin: 0cm; line-height: normal; font-size: 12pt; font-family: Aptos, sans-serif;"><strong>Integrations</strong></p>
+</td><td style="width: 0%; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext; padding: 0cm 5.4pt; height: 65.875px;" valign="top">
+<p style="margin: 0cm 0cm 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Connects with educational or wellness video APIs for age-appropriate mindfulness content.</p>
+</td></tr></tbody></table>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul style="margin-top: 0cm; margin-bottom: 0cm;" type="disc"><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Integration with safe video or educational content APIs.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Secure authentication with parental consent management.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Notification services for activity reminders (push, email, or SMS).</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Optional AI/ML services for mood-based content personalization.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul style="margin-top: 0cm; margin-bottom: 0cm;" type="disc"><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Maintaining privacy and safeguarding child data.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Ensuring content remains inclusive and age-appropriate.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Encouraging consistent engagement without overuse.</li><li style="margin-top: 0cm; margin-right: 0cm; margin-bottom: 8pt; line-height: 115%; font-size: 12pt; font-family: Aptos, sans-serif;">Partnering with schools and parents for co-adoption and trust.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 00:00:21</sys_created_on>
+        <sys_id>b681053383dcfa107ffb1630ceaad30d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ripple Mind – Digital Wellness for Kids</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b681053383dcfa107ffb1630ceaad30d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 00:00:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This can enable a accessible learning for a more equitable world. This volunteered education can be used as a tool to create a meaningful, positive impact in the lives of human beings</p>]]></potential_impact>
+        <problem_statement>Many young individuals who come from under-resourced backgrounds struggle to find decent paying jobs as they lack required resources and reach to technology.  Believe that all individuals have the innate power to solve important real-world problems.  This philosophy can be incorporated for a better world&#13;
+&#13;
+Being in Tech and having a privilege of industry knowledge every skilled techies can come forward for noble cause to uplift others by sharing there  lessons learnt, skill acquired by dedicating 6-7 hrs a week by contributing there time &amp; effort for betterment of society, nation and eventually world</problem_statement>
+        <project_name>YoungTitan Academy</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A platform can be provided that brings together techies to mentor and sponsor motivated learners - upskilling them in a few months - so that they can get a creditable, well paying job.<br /><br />This requires public awareness to come forward and dedicate some time maybe a recruitment of skilled Techies or industry leaders who can show directions </p>
+<p>Platform, portal as self service and automated flow to define process. A workspace or dashboard to track the progress and get the help as needed by tracking the learners journey</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Identifying the different available platforms to skill them on different technologies will be the key challenge. </p>
+<p>Like for Full stack developer, Backend Developer and Front end developers how training will be facilitate and what will be the structure</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Recruiting  the  techies and onboarding them to program will be challenging as they will be dedicating there time along with there current commitments.<br /><br />The sync between mentees and mentors to work together through out the program. </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>a.pandey</sys_created_by>
+        <sys_created_on>2025-10-09 19:11:29</sys_created_on>
+        <sys_id>56ca93a8836436500283b955eeaad340</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>YoungTitan Academy</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_56ca93a8836436500283b955eeaad340</sys_update_name>
+        <sys_updated_by>a.pandey</sys_updated_by>
+        <sys_updated_on>2025-10-09 19:11:30</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

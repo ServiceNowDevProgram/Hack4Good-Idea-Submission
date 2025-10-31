@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A smart online portal can make things easier by:</p>
+<ul><li>Showing scholarships that match each student’s profile.</li><li>Helping students apply step-by-step.</li><li>Sending reminders before deadlines.</li><li>Letting providers track applications.</li><li>Giving reports to see how many students got help.</li></ul>
+<p><em>Example benefits:</em></p>
+<ul><li>More students from small towns apply.</li><li>Fewer mistakes in applications.</li><li>Easy access for providers and students.</li></ul>]]></potential_impact>
+        <problem_statement>Many students don’t know where to find scholarships or how to apply. Information is scattered, deadlines are missed, and the process is confusing. Because of this, students lose chances to get financial help for their education</problem_statement>
+        <project_name>Scholarship and Education Aid Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Service Portal</strong>: For students to search and apply.</li><li><strong>Flow Designer</strong>: To automate steps like approvals and reminders.</li><li><strong>Record Producer</strong>: To collect student details.</li><li><strong>IntegrationHub</strong>: To connect with other websites or databases.</li><li><strong>Reports &amp; Dashboards</strong>: To show progress and results.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>APIs to get scholarship data from other sources (e.g., government portals, NGO feeds).</li><li>A way to upload and store documents like ID and certificates</li><li>Support for different languages</li><li>Following data privacy rules</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Keeping the scholarship data up to date</li><li>Getting students to use the portal</li><li>Helping students who are not familiar with technology</li><li>Handling many users at the same time</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-11 07:12:35</sys_created_on>
+        <sys_id>b37c0bc5c3a0321091ea5242b40131d6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Scholarship and Education Aid Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b37c0bc5c3a0321091ea5242b40131d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-11 07:12:36</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

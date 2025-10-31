@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology driven surplus redistribution platform/Application goes far beyond manual processes. Here’s how it delivers measurable and strategic value:<br />Waste Reduction and Environmental Benefits<br />Enhanced Social and Community Value<br />Auditability, Compliance, and Risk Reduction<br />Enhanced Corporate Image<br />Process Automation and Productivity</p>]]></potential_impact>
+        <problem_statement>Most organizations (corporate, education, healthcare, government) accumulate unused or surplus items office furniture, electronics, supplies, branded merchandise, event leftovers, etc. as a byproduct of upgrades, moves or periodic buying cycles.&#13;
+&#13;
+Surplus typically sits in storage, gets discarded or is inefficiently “given away” internally.&#13;
+Community organizations (schools, shelters, nonprofits) face shortages of exactly these items but there’s no streamlined way to connect supply and need.&#13;
+The process is ad hoc, informal and untraceable creating risks for loss and missed opportunities for social impact reporting.</problem_statement>
+        <project_name>Community Donation &amp; Surplus Redistribution Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Ideal Solution Vision</strong></p>
+<p><strong>User Experience:</strong> Simple Unified Portal: Organization staff and vetted community partners access a single web/mobile app to post available goods, browse needs, and handle all approvals and logistics.<br /><strong>Automated Notifications &amp; Status:</strong> Every step posting, request, approval, pickup, confirmation is communicated automatically, avoiding “lost in email” frustration.<br /><strong>Smart Matching: </strong>Partners can set preferences or urgent needs; the system suggests items or recipients based on inventory, location, past history, and fairness.<br /><strong>Visibility &amp; Transparency:</strong> Dashboards display live stats such as donation value, environmental impact, and which groups are benefiting.<br /><strong>Impact Story Capture:</strong> Recipients can upload photos and stories of the difference these items make, which are published (with consent) for staff morale, PR, and stakeholder updates.<br /><strong>Audit-Ready Records:</strong> Every transaction is logged with supporting documentation, enabling easy reporting for compliance, tax or sustainability purposes.<br />Process Overview<br /><strong>Surplus Posting: </strong>Staff add items (with photos, specs) to an available inventory via a guided form.<br /><strong>Automated Review &amp; Fair Allocation:</strong> Based on preset rules and/or prioritized criteria, the system routes requests, handles approvals and resolves conflicting claims.<br /><strong>Logistics Coordination:</strong> Pick-up/delivery is coordinated through integrated scheduling, with item tracking until confirmation.<br /><strong>Impact &amp; Follow-up:</strong> Recipients confirm receipt and metrics aggregate for real-time corporate dashboards.</p>
+<p><strong>ServiceNow Products:</strong><br />Core Products and Features<br /><strong>ServiceNow App Engine/ServiceNow Studio:</strong> Used to design, build and deploy custom workflows and data models specific to surplus asset redistribution.<br /><strong>Service Portal/ESC:</strong> For highly tailored user experiences—two main entry points for staff (posting assets) and community partners (requesting items).<br /><strong>Flow Designer:</strong> Automates notifications, approvals, allocation logic, and follow-up reminders.<br />Performance Analytics: Aggregates key program metrics (waste diverted, donation value, timeline metrics, partner engagement).<br /><strong>Mobile App :</strong>Allows both field staff (e.g., maintenance, facilities) and partners to engage on the go snap photos, update status and confirm pickups.<br /><strong>AI Search/Recommendation:</strong> Suggests best matches between available inventory and current community needs.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p><strong>Integration</strong> : Asset/Inventory Management System-: To import or synchronize surplus asset data, location, and status, ensuring accurate posting.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p style="text-align: left;">Data Quality &amp; Asset Standardization.</p>
+<p style="text-align: left;">External Partner Vetting &amp; Trust.</p>
+<p style="text-align: left;">Integration Complexity</p>
+<p> </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-06 09:55:49</sys_created_on>
+        <sys_id>2adf7debc39c7210c3dcd8477d0131d2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Donation &amp; Surplus Redistribution Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_2adf7debc39c7210c3dcd8477d0131d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-06 09:55:53</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

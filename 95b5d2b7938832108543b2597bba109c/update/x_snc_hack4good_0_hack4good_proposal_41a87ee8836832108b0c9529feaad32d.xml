@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>The proposed solution automates the entire expense review process using <strong>Now Assist</strong> and <strong>ServiceNow workflows</strong>, enabling:</li><li><strong>Instant compliance validation</strong>: Bills and receipts uploaded via <strong>Virtual Agent</strong> or <strong>Service Portal</strong> are automatically analyzed and verified against company expense policies.</li><li><strong>AI-driven recommendations</strong>: If any claim violates policy, Now Assist provides smart suggestions to help the user correct and resubmit quickly.</li><li><strong>Time savings</strong>: Reduces HR/Finance manual verification time by up to <strong>70%</strong>, allowing them to focus on high-value tasks.</li><li><strong>Transparency</strong>: Employees receive real-time feedback within minutes, minimizing rework and communication loops.</li><li><strong>Consistency and accuracy</strong>: Eliminates human bias and ensures all claims follow the same policy criteria.</li><li>This solution serves as a <strong>one-stop automated compliance platform</strong>, ensuring faster reimbursements, higher employee satisfaction, and improved governance.</li></ul>]]></potential_impact>
+        <problem_statement>In most organizations, employees manually submit expense claims such as travel, accommodation, or meals for reimbursement. HR or finance teams must manually review receipts and bills against company policies — a process that is slow, inconsistent, and prone to human error. Many claims get delayed or rejected after long verification cycles, leading to employee dissatisfaction and administrative inefficiency.</problem_statement>
+        <project_name>SmartExpense Compliance – Automated Expense Validation using Now Assist</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Now Assist </strong> – To extract, analyze, and validate bill data against expense policies.</li><li><strong>Document Intelligence</strong> – For reading receipts, invoices, or PDFs.</li><li><strong>Virtual Agent</strong> – For conversational claim submission and instant feedback.</li><li><strong>HR Service Delivery (HRSD)</strong> – For managing claim workflows and approvals.</li><li><strong>Flow Designer</strong> – To automate claim routing and exception handling.</li><li><strong>Service Portal</strong> – For an interactive and user-friendly claim submission interface.</li><li><strong>Notifications</strong>: To provide time to time update to user</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><strong>Optical Character Recognition (OCR) or Document Intelligence</strong> for extracting text and data from uploaded receipts and invoices.</li><li><strong>Access to structured company expense policy data</strong> within ServiceNow for AI-based validation and compliance checks.</li><li><strong>Integration with HR and Finance systems</strong> (such as HRSD or ERP tools) to route approved claims and handle settlements automatically.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring AI accuracy in reading diverse invoice formats and multi-language receipts.</li><li>Maintaining data security and privacy during document analysis.</li><li>Managing exceptions where policy interpretation requires human judgment.</li><li>Integrating with legacy HR or finance systems for end-to-end claim automation.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 16:25:19</sys_created_on>
+        <sys_id>41a87ee8836832108b0c9529feaad32d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SmartExpense Compliance – Automated Expense Validation using Now Assist</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_41a87ee8836832108b0c9529feaad32d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 16:25:21</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

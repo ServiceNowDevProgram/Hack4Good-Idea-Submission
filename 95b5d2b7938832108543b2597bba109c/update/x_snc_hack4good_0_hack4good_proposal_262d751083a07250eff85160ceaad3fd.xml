@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>FoodBridge</strong> uses technology to turn surplus into support. Built on <strong>ServiceNow</strong>, it provides a fast, reliable way to connect donors and nonprofits — ensuring good food never goes to waste.</p>
+<ul><li><strong>Donors</strong> (restaurants, grocery stores, or event organizers) can easily log surplus food through a simple online form.</li><li><strong>Automated workflows</strong> instantly match donations with nearby nonprofits or shelters based on food type, location, and timing.</li><li><strong>Notifications</strong> alert recipient organizations to confirm and arrange pickups.</li><li><strong>Dashboards</strong> track total donations, meals served, and environmental impact — showing real results from every contribution.</li></ul>]]></potential_impact>
+        <problem_statement>Every day, restaurants, grocery stores, and event organizers throw away perfectly good food — while nearby families struggle with hunger.&#13;
+The problem isn’t the lack of food, but the lack of connection. There’s no simple, centralized system to link food donors with charities and shelters that can use this food quickly and safely.&#13;
+&#13;
+FoodBridge aims to solve this by providing a ServiceNow-powered platform that instantly connects food donors with organizations in need, helping reduce waste and fight hunger at the same time.</problem_statement>
+        <project_name>FoodBridge </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>App Engine Studio </li><li>Flow Designer</li><li>Service Portal / Now Experience UI</li><li>Notifications &amp; Email</li><li>Reporting &amp; Dashboards / Performance Analytics</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>ServiceNow Platform Access,User Roles &amp; Permissions,Notifications &amp; Email</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Data Accuracy &amp; Standardization</strong> – Ensuring donors provide complete and consistent information about food type, quantity, and expiry.</p>
+<p><strong>Timely Pickup &amp; Delivery</strong> – Coordinating logistics so food reaches nonprofits before it spoils.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 18:08:27</sys_created_on>
+        <sys_id>262d751083a07250eff85160ceaad3fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FoodBridge </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_262d751083a07250eff85160ceaad3fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 18:08:31</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

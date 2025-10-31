@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduced Price Information Asymmetry<strong>:</strong> Households and small traders can make more informed purchase decisions</p>
+<p>Cost Savings for Consumers<strong>: </strong>By choosing markets or timing purchases better</p>
+<p>Better Intervention Timing<strong>:</strong> NGOs, agencies, local governments can detect impending spikes and intervene early</p>
+<p>Transparency &amp; Accountability: Published dashboards bring public visibility to price behavior</p>
+<p>Economic Resilience: Gives poor communities better ability to buffer inflation shocks</p>
+<p>Local Capacity Building: Users learn about data, forecasting, market patterns</p>]]></potential_impact>
+        <problem_statement>Many Nigerian households, micro-traders and small shop owners struggle with volatile prices for basic staples (food, produce, household goods). Because there is no reliable, transparent, and accessible system to view local market prices, people waste time traveling between markets, overpay, or are caught off guard by sudden spikes.&#13;
+Additionally, interventions by NGOs or government agencies often come too late because they lack early signals. The existing ad hoc processes (word of mouth, manual surveys, occasional reports) are slow, error-prone, and lack accountability.</problem_statement>
+        <project_name>MarketPulse: Real-Time Local Market Price Visibility &amp; Forecasting</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>App Engine / Studio:  To build custom tables, modules, UI, forms</p>
+<p>Service Portal / Record Producer: For public submission and dashboard views</p>
+<p>Flow Designer: To automate approval flows, notifications, escalation</p>
+<p>Performance Analytics / Dashboards: To build metrics, KPIs, charts</p>
+<p>Mobile App / Agent Workspace: For mobile submissions and field use</p>
+<p>Predictive Intelligence / AI Search (optional): To power forecast suggestions or smart matching</p>
+<p>IntegrationHub<strong>: </strong>For integrating external data (weather, transport cost, APIs)</p>
+<p>REST APIs:  To allow external clients (NGOs, ministries) to fetch data</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>External Data Feeds (optional but useful): Weather data, transport cost indices, agricultural commodity APIs</li><li>Reliable Geolocation / Mapping Service: For mapping, distance computations</li><li>SMS / WhatsApp Gateway: For notifications to users without smartphones</li><li>User Authentication / Identity Verification: To prevent spam / fraudulent submissions</li><li>Device / Connectivity Considerations: Support low-bandwidth or offline submissions (caching)</li><li>Data Storage &amp; Performance Scaling: As the database grows, need indexing, archiving strategies</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>External Data Feeds (optional but useful): Weather data, transport cost indices, agricultural commodity APIs</li><li>Reliable Geolocation / Mapping Service: For mapping, distance computations</li><li>SMS / WhatsApp Gateway: For notifications to users without smartphones</li><li>User Authentication / Identity Verification: To prevent spam / fraudulent submissions</li><li>Device / Connectivity Considerations: Support low-bandwidth or offline submissions (caching)</li><li>Data Storage &amp; Performance Scaling: As the database grows, need indexing, archiving strategies</li><li>Data Quality &amp; Trust: Users may submit erroneous or fraudulent prices; reputation systems, moderation and cross-validation needed</li><li>User Adoption: Convincing traders and households to consistently submit data</li><li>Incentives / Motivation: Participants need motivation (e.g. see value in alerts, reputation, small rewards)</li><li>Integration Complexity: Bringing in external APIs (weather, transport) may have compatibility issues</li><li>Connectivity Limitations: Users in remote areas may have intermittent internet or low bandwidth</li><li>Forecasting Accuracy: Simple models may fail in volatile markets unless tuned and improved</li><li>Scalability &amp; Performance: As submissions scale, UI/dashboards need to remain responsive</li></ul>
+<p> </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 14:43:44</sys_created_on>
+        <sys_id>839b16a0936032107f067baefaba10a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MarketPulse: Real-Time Local Market Price Visibility &amp; Forecasting</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_839b16a0936032107f067baefaba10a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 14:43:49</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

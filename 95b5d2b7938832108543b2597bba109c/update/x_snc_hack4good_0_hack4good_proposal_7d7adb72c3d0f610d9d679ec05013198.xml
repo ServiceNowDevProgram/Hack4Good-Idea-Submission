@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Quantifiable Reduction in E-Waste:</strong> Measure the tonnage of e-waste successfully processed and diverted from landfills.</p>
+<p><strong>Economic Opportunity:</strong> Increase the volume of high-value components (e.g., gold, lithium) recovered for the circular economy.</p>
+<p><strong>Transparency and Compliance:</strong> Provides auditable proof of ethical disposal for businesses, helping them meet regulatory compliance.</p>]]></potential_impact>
+        <problem_statement>Electronic waste (e-waste) is the fastest-growing waste stream globally, often improperly disposed of, leading to toxic contamination and loss of valuable rare earth metals. There is a lack of an organized, single-platform system to connect consumers/businesses wanting to recycle with certified processors and repair centers.</problem_statement>
+        <project_name>E-Cycle Flow: Circular E-Waste Management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The solution is a centralized platform to manage the complete lifecycle of electronic assets, from disposal to reuse/recycling:</p>
+<ul><li><strong>IT Asset Management (ITAM):</strong> To register and track assets (e.g., phones, laptops, batteries) marked for recycling/disposal and manage inventory of recovered components.</li><li><strong>Field Service Management (FSM):</strong> To schedule and route pickup requests from businesses and consumers efficiently to minimize collection costs and carbon footprint.</li><li><strong>Service Bridge:</strong> To connect asset owners (customers) with certified third-party recycling/repair vendors (providers) seamlessly on the platform.</li><li><strong>Performance Analytics:</strong> To track key metrics like <em>e-waste diverted from landfills (by weight)</em> and <em>materials recovered</em> to prove environmental impact.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>viraj.hudlikar</sys_created_by>
+        <sys_created_on>2025-10-04 08:26:09</sys_created_on>
+        <sys_id>7d7adb72c3d0f610d9d679ec05013198</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>E-Cycle Flow: Circular E-Waste Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7d7adb72c3d0f610d9d679ec05013198</sys_update_name>
+        <sys_updated_by>viraj.hudlikar</sys_updated_by>
+        <sys_updated_on>2025-10-04 08:26:11</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

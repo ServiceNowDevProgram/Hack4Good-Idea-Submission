@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This Cultural Event Management application will help event management companies to plan, coordinate, and execute events efficiently. It offers real time collaboration to ensure smooth event delivery.</p>]]></potential_impact>
+        <problem_statement>Big event management companies often require comprehensive digital platform designed to efficiently plan, organize, and execute various types of events such as conferences, weddings, corporate functions, and concerts. ServiceNow event management application can streamline the entire event lifecycle by providing tools for task management, vendor coordination, budget tracking, client collaboration, scheduling, and real-time updates. It also includes features like attendee management, venue booking, checklists, and reporting dashboards to ensure every aspect of the event runs smoothly. &#13;
+With multi-user support, role-based access, and mobile accessibility, the app empowers teams to collaborate effectively and deliver exceptional event experiences.</problem_statement>
+        <project_name>Cultural Event Management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Now Mobile/Service catalog – to create cultural event records and track those throughout the lifecycle.</p>
+<p>Workspace – for event management team to work on different phases of the cultural event records.</p>
+<p>Integration/Integration hub– to integrate with approved vendors for coordination.</p>
+<p>Knowledge Management – to store knowledge guides, policies, best practices.</p>
+<p>Notifications (Push/SMS) – to notify relevant people when the status of any cultural event record changes.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>NA</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 17:22:50</sys_created_on>
+        <sys_id>ebfa9a1fc3943610b541bb45990131ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Cultural Event Management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ebfa9a1fc3943610b541bb45990131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 17:22:51</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

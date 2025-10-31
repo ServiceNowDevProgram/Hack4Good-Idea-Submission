@@ -1,0 +1,65 @@
+name: PR guard
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  pull-requests: read
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check author role
+        id: role
+        run: |
+          echo "association=${{ github.event.pull_request.author_association }}" >> $GITHUB_OUTPUT
+
+      - name: List changed files
+        id: files
+        uses: actions/github-script@v7
+        with:
+          result-encoding: string
+          script: |
+            const files = await github.paginate(
+              github.rest.pulls.listFiles,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.payload.pull_request.number
+              }
+            );
+            // Return a plain JSON array of filenames
+            return JSON.stringify(files.map(f => f.filename));
+
+      - name: Validate paths for external contributors
+        if: ${{ !contains('OWNER,MEMBER,COLLABORATOR', steps.role.outputs.association) }}
+        shell: bash
+        run: |
+          echo "Author is external (${{ steps.role.outputs.association }}). Enforcing path restrictions."
+          ALLOWED_GLOB='**/update/x_snc_hack4good_0_hack4good_proposal_*.xml'
+          echo "Allowed pattern: $ALLOWED_GLOB"
+
+          FAIL=0
+          jq -r '.[]' <<< '${{ steps.files.outputs.result }}' | while IFS= read -r file; do
+            case "$file" in
+              # ✅ Allowed proposal XMLs
+              **/update/x_snc_hack4good_0_hack4good_proposal_*.xml) : ;;
+
+              # ❌ Forbidden sensitive files
+              README.md|.idea_attribution.json|package.json|package-lock.json|.github/workflows/*)
+                echo "::error file=$file::File cannot be modified by external contributors"
+                FAIL=1
+                ;;
+
+              # ❌ Everything else also forbidden
+              *)
+                echo "::error file=$file::Path not allowed for external contributors"
+                FAIL=1
+                ;;
+            esac
+          done
+
+          exit $FAIL

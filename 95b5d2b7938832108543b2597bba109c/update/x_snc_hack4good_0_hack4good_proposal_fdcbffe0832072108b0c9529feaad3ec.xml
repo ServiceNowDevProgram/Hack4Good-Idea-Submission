@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Early detection of mental health issues through self-reported mood, stress, and cognitive exercises.</li><li>Assigning counselors based on assessment scores for personalized guidance.</li><li>Continuous monitoring, analysis, and treatment tracking (including medication).</li><li>Automated notifications to engage patients in activities, assessments, or medication schedules.</li><li>Data-driven insights for caregivers, schools, or health authorities to improve mental wellness outcomes.</li></ul>]]></potential_impact>
+        <problem_statement>Mental health struggles in adults and teenagers often go unnoticed until they escalate. Schools, families, and healthcare providers lack a centralized system to monitor cognitive health, provide timely guidance, or assign interventions. Patients may not consistently report symptoms, stress, or behavioral changes, making early intervention difficult.</problem_statement>
+        <project_name>🩺 MedMind – Cognitive Health Companion</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Service Portal:</strong> For patients to submit mood, stress, and behavioral assessments.</li><li><strong>Virtual Agent:</strong> Conversational interface for daily check-ins, reminders, and FAQs.</li><li><strong>Custom Tables:</strong> Store patient profiles, assessments, treatment plans, and medication records.</li><li><strong>Workflows &amp; Business Rules:</strong> Automate counselor assignment, treatment scheduling, alerts, and assessment follow-ups.</li><li><strong>Notifications &amp; Alerts:</strong> Reminders for assessments, medicine intake, and engagement activities.</li><li><strong>Dashboards &amp; Reporting:</strong> Track trends, risk patterns, patient engagement, and treatment effectiveness.</li><li><strong>Knowledge Management:</strong> Provide guidance on exercises, mindfulness, and mental wellness activities.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Secure user authentication for patient confidentiality.</li><li>Integration with messaging/email for notifications.</li><li>Optionally, integration with electronic health record (EHR) systems.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring patient privacy and compliance with health regulations.</li><li>Encouraging patients to consistently input mood/assessment data.</li><li>Matching counselors to patients accurately based on risk and specialty.</li><li>Accurate predictive analysis for early intervention.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 21:12:14</sys_created_on>
+        <sys_id>fdcbffe0832072108b0c9529feaad3ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>🩺 MedMind – Cognitive Health Companion</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_fdcbffe0832072108b0c9529feaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 21:12:15</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

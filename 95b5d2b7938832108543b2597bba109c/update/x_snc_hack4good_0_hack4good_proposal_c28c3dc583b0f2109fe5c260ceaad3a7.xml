@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology-driven coordination system would transform how assistance is delivered to individuals experiencing homelessness. By connecting shelters, service providers, and caseworkers on a unified digital platform, it would:</p>
+<ol><li>
+<p><strong>Enhance visibility and coordination</strong> across agencies and organizations.</p>
+</li><li>
+<p><strong>Reduce duplication of services</strong> and ensure resources are distributed efficiently.</p>
+</li><li>
+<p><strong>Enable faster response times</strong> for critical needs like shelter, food, and healthcare.</p>
+</li><li>
+<p><strong>Provide data-driven insights</strong> for policymakers to identify trends, measure outcomes, and improve future initiatives.</p>
+</li><li>
+<p><strong>Improve client experiences</strong> through streamlined case management and consistent follow-ups.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Homelessness remains a persistent social issue, often compounded by fragmented communication and coordination between shelters, healthcare providers, social services, and local authorities. Many cities and organizations rely on disconnected systems or manual processes (spreadsheets, emails, paper forms) to manage service requests and track individuals in need. This lack of centralized coordination leads to duplication of efforts, missed opportunities for intervention, and inefficient use of limited resources. As a result, vulnerable individuals frequently fall through the cracks, with delayed or incomplete access to essential housing, medical, and social support.</problem_statement>
+        <project_name>Homeless Assistance Coordination System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The <strong>Homeless Assistance Coordination System</strong> would serve as a centralized digital hub that integrates all stakeholders involved in supporting the homeless population. Key capabilities would include:</p>
+<ol><li>
+<p><strong>Intake &amp; Case Management:</strong> Enable outreach teams and shelters to register individuals, capture demographic and service data, and assign caseworkers.</p>
+</li><li>
+<p><strong>Real-Time Resource Tracking:</strong> Display live availability of shelter beds, meal services, healthcare clinics, and job programs.</p>
+</li><li>
+<p><strong>Automated Referrals:</strong> Use workflow automation to route cases to the right service provider based on eligibility and location.</p>
+</li><li>
+<p><strong>Service History Tracking:</strong> Maintain a unified profile for each client to record interactions, outcomes, and support history.</p>
+</li><li>
+<p><strong>Analytics &amp; Reporting:</strong> Provide dashboards to track service utilization, outcomes, and key performance indicators for local authorities and NGOs.</p>
+</li><li>
+<p><strong>Mobile Access:</strong> Allow field teams to update case information and access resources in real time through mobile devices.</p>
+</li><li>
+<p><strong>Self-Service Portal:</strong> Enable community partners and clients (when applicable) to check resource availability or submit service requests.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with <strong>municipal databases</strong> and <strong>social service registries</strong> for client verification and reporting.</p>
+</li><li>
+<p>Secure <strong>data sharing agreements</strong> between agencies to ensure compliant and safe exchange of sensitive information.</p>
+</li><li>
+<p><strong>Mobile connectivity</strong> for field workers updating data from outreach locations.</p>
+</li><li>
+<p>Possible integration with <strong>GIS systems</strong> for mapping service locations and tracking outreach coverage.</p>
+</li><li>
+<p><strong>Authentication and access control</strong> systems to manage multi-agency collaboration securely.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>Data privacy and compliance:</strong> Managing sensitive personal data in accordance with laws like GDPR and HIPAA.</p>
+</li><li>
+<p><strong>Cross-agency collaboration:</strong> Aligning workflows and data-sharing agreements among diverse organizations.</p>
+</li><li>
+<p><strong>Training and adoption:</strong> Ensuring staff and volunteers across agencies are comfortable using the new platform.</p>
+</li><li>
+<p><strong>Integration complexity:</strong> Connecting with existing legacy systems and ensuring real-time synchronization.</p>
+</li><li>
+<p><strong>Funding and sustainability:</strong> Securing ongoing resources for system maintenance, updates, and user support.</p>
+</li><li>
+<p><strong>Connectivity issues:</strong> Ensuring reliable access for field teams operating in remote or low-connectivity areas.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 11:29:36</sys_created_on>
+        <sys_id>c28c3dc583b0f2109fe5c260ceaad3a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Homeless Assistance Coordination System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c28c3dc583b0f2109fe5c260ceaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 11:29:37</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The platform would:  </p>
+<ol><li>Make after-school tutoring more accessible, equitable, and efficient.  </li><li>Reduce administrative burden on schools by automating scheduling and reporting.</li><li>Provide parents with visibility into their child’s progress. </li><li>Encourage student confidence and long-term academic success. </li></ol>]]></potential_impact>
+        <problem_statement>After-school tutoring programs play a key role in helping students succeed, but they often face challenges:  &#13;
+- No centralized system to match students with tutors based on subject needs and availability.  &#13;
+- Lack of communication between students, parents, and teachers.  &#13;
+- Difficulty tracking attendance, assignments, and progress over time.  &#13;
+- Inefficient use of volunteer tutor time and uneven distribution of tutoring support.  &#13;
+This leads to missed opportunities for academic growth, uneven access, and underutilized resources</problem_statement>
+        <project_name>After-School Tutoring Coordination </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>Now Mobile – For students and parents to register, book sessions, and receive updates.  </li><li>Workspace – For tutors and program coordinators to manage schedules and track progress. </li><li>Knowledge Management – To store study guides, resources, and practice material.  </li><li>IntegrationHub – To connect with learning management systems (LMS) or external educational tools. </li><li>Notifications – SMS/Email reminders for tutoring sessions, assignments, and progress reports.  </li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li style="text-align: left;">Integration with school databases for student records and grades.  </li><li style="text-align: left;">APIs with LMS platforms (e.g., Google Classroom, Canvas).  </li><li style="text-align: left;">Secure data storage to protect student academic records.  </li><li style="text-align: left;">Offline access for students with limited internet availability.</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Ensuring data privacy and FERPA compliance for student academic records.  </li><li>Training tutors, volunteers, and coordinators to use the platform effectively.  </li><li>Managing scheduling conflicts across multiple students and tutors.  </li><li>Scaling the platform to support large school districts or regional programs.  </li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-05 00:41:02</sys_created_on>
+        <sys_id>6ac87acf939c72104590f9d5dd03d628</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>After-School Tutoring Coordination </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6ac87acf939c72104590f9d5dd03d628</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-05 00:41:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

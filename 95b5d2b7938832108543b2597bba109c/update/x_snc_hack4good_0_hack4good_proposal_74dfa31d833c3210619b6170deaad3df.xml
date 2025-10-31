@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Delivering farm-fresh food to customers’ doors can have a significant impact such as </p>
+<p><strong>Automated Order Management</strong>: Streamlined ordering through apps or service portal reduces </p>
+<p><strong>Direct Access</strong>: Reduce market dependencies and help farmers</p>
+<p><strong>Farm as per Demand</strong>: Farms can plan crop effectively</p>
+<p><strong>Fair Pricing: </strong> Better Margin</p>
+<p> </p>
+<p> </p>]]></potential_impact>
+        <problem_statement>Getting fresh vegetables, Dairy product and essentials from farm is big challenge. Market is filled up with processed food and stored veggies that often leads to unhealthy diets and leads to number of health issue. These are challenges faced by farm-to-door services Like logistics, sourcing, customer engagement.</problem_statement>
+        <project_name>FarmFresh-to-YourDoor</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>CSM- Custom Portal: </strong>Helps in easy ordering, customer experience, real time delivery and bring transparency</p>
+<p><strong>Performance Analytics -  Dashboard:</strong> Helps in pricing and payment management. Real time insight into orders</p>
+<p><strong>FSM</strong>: Manage Delivery and optimizing routes</p>
+<p><strong>Integration Hub: </strong>Helps in real time data exchange between farmers and customer, helps delivery team</p>
+<p><strong>App Engine: </strong> Create custom app for order tracking</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Possibly</p>
+<ol><li>Commerce &amp; Customer</li><li>Logistics and Delivery</li><li>Licensing </li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Staying up with quality and availbility of demand</li><li>Payment security and transparency</li><li>Gaining trust and compete with other vendors</li><li>Adoption and experience</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 14:48:12</sys_created_on>
+        <sys_id>74dfa31d833c3210619b6170deaad3df</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FarmFresh-to-YourDoor</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_74dfa31d833c3210619b6170deaad3df</sys_update_name>
+        <sys_updated_by>d.sharma</sys_updated_by>
+        <sys_updated_on>2025-10-24 14:48:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

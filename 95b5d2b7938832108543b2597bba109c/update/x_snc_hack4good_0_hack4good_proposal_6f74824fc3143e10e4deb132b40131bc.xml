@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol><li>
+<p>More frequent, reliable group sessions across partner homes.</p>
+</li><li>
+<p>Stronger resident participation and engagement on activity days.</p>
+</li><li>
+<p>Clear uplift in mood and social connection after sessions.</p>
+</li><li>
+<p>Faster turnaround from request to confirmed, staffed sessions.</p>
+</li><li>
+<p>Better volunteer retention and continuity for residents.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Loneliness and inactivity are proven risk factors for anxiety and depression in seniors. Local yoga, music, and dance teachers want to help, but coordination is messy: no central schedule, unclear skill matching, last-minute cancellations, transportation gaps, and zero feedback loops. Result: fewer sessions, low consistency, and missed mental health benefits.</problem_statement>
+        <project_name>Volunteer Arts &amp; Yoga for Senior Well-Being</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Request &amp; Match: Homes request sessions (yoga/music/dance), preferences (language, mobility level, time). Matching engine suggests best-fit volunteers by skills, availability, proximity.</p>
+</li><li>
+<p>Schedule &amp; Confirm: One-click scheduling, reminders, and standby backups; ride-share coordination if needed.</p>
+</li><li>
+<p>Run &amp; Record: Volunteers use mobile to check in/out, follow a shared lesson plan, log notes.</p>
+</li><li>
+<p>Measure Impact: Short resident mood check (emoji scale) before/after; staff feedback; auto-generated impact dashboard.</p>
+</li><li>
+<p>Grow &amp; Retain: Badges, streaks, and “return visit” nudges for volunteers; homes see reliable calendars and outcomes.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>CSM/ESC (portal) for homes to request sessions &amp; view calendars.</p>
+</li><li>
+<p>Now Mobile for volunteers: profile, availability, check-in/out, lesson plan.</p>
+</li><li>
+<p>Advanced Work Assignment (AWA) / Workforce Optimization for skill-based matching &amp; capacity.</p>
+</li><li>
+<p>Flow Designer to orchestrate requests → match → confirm → remind → survey.</p>
+</li><li>
+<p>Platform Analytics / Dashboards for KPIs (participation, mood uplift, fill rate).</p>
+</li><li>
+<p>Notifications (Email/SMS/Push) for confirmations, reminders, backup triggers.</p>
+</li><li>
+<p>Knowledge for standardized lesson plans and cultural playlists.</p>
+</li><li>
+<p> VA / Now Assist: “Find a Tamil-speaking yoga teacher for Thursday 10am.”</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>SMS provider (e.g., Twilio) for volunteers without app push.</p>
+</li><li>
+<p>Calendar integrations (Google/Microsoft) for volunteers and homes.</p>
+</li><li>
+<p>Optional ride-share API or simple reimbursement workflow.</p>
+</li><li>
+<p>Basic background-check status field (stored as pass/expiry—no sensitive data).</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 21:27:19</sys_created_on>
+        <sys_id>6f74824fc3143e10e4deb132b40131bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Volunteer Arts &amp; Yoga for Senior Well-Being</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_6f74824fc3143e10e4deb132b40131bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 21:27:20</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>People could lose things that have a high emotional value to them, such as a photo album. Getting their things back could help them heal after the war is over.</p>]]></potential_impact>
+        <problem_statement>During war time, people will have to leave their homes, which might be subject to bombing and warfare. This could cause things to get lost, that are valuable to the people who had to flee. Their belongings might be scattered throughout the city. This solution makes it possible to report lost property, as well as report things that are missing. The system will tie the two together, and help people find their belongings again.</problem_statement>
+        <project_name>Lost Property Locator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Service portal: The users should be able to add things they are missing to the portal. It should contain a description, and ideally a picture of the item and a location of where the item was last seen. The portal should also be able to take submissions from people who find things. They can add a subscription, a photo of the item and a location.</p>
+<p>Now assist: AI will help match descriptions of lost property with the description of the items that are added.</p>
+<p>IntegrationHub: An integration to an AI service that can describe what is in a picture will help enrich descriptions of the found items.</p>
+<p>Workspace: Agents will have a workspace to monitor items, as well as the items that the AI has flagged as a potential match. They will verify the information, and if they match, they will mark the item as matched.</p>
+<p>Notifications: When a match is found, the one who reported an item as missing will get a notification with the details about where to find their item.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>A ServiceNow instance with NowAssist.</p>
+<p>An integration to a 3rd party service that can make a description of a picture.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Descriptions might not be good, and people might be too affected by the war to provide good descriptions. AI will be able to help make better descriptions, both from descriptions that are not well made, as well as add details that might be missing in the description if a picture is added.</p>
+<p>Matching the descriptions might take some fine tuning of the setup. If too many matches are made, agents might be overwhelmed by the amount of items to mark as matched, and too few means that families are not getting back their lost property.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-17 23:20:01</sys_created_on>
+        <sys_id>d8c2ed1f53e47210030191e0a0490e4b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lost Property Locator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d8c2ed1f53e47210030191e0a0490e4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-17 23:20:03</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

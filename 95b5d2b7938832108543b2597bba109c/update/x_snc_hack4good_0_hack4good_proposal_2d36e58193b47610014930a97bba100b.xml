@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A unified technology platform would allow NGOs to capture, classify, and process beneficiary requests efficiently, ensuring faster aid delivery. It would:</p>
+<ol><li>
+<p>Reduce response and resolution time through automated workflows and intelligent routing.</p>
+</li><li>
+<p>Increase transparency and accountability for every case handled.</p>
+</li><li>
+<p>Provide real‑time reporting dashboards for donors, management, and stakeholders.</p>
+</li><li>
+<p>Enable predictive insights into request patterns (e.g., disaster‑specific or seasonal spikes).</p>
+</li></ol>
+<p>Measurable outcomes could include <strong>50–60% faster case closures</strong>, <strong>improved beneficiary satisfaction</strong>, and <strong>enhanced reporting accuracy</strong> for grant compliance.</p>]]></potential_impact>
+        <problem_statement>Non‑profit organizations (NGOs) often deal with hundreds of beneficiary requests daily—ranging from medical assistance and food relief to educational support. These requests are commonly managed via spreadsheets, emails, or phone logs, leading to inefficiencies, lack of transparency, and slow turnaround times. Manual tracking causes delays in providing essential help and leads to difficulties in accountability, data analysis, and progress reporting. Many NGOs also lack an integrated system to ensure seamless coordination between field staff, volunteers, and administrative teams.</problem_statement>
+        <project_name>Beneficiary request and case management</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution is a centralized <strong>ServiceNow Case Management Application</strong> built specifically for nonprofits, linking all support areas—beneficiary intake, request triage, case escalation, and closure.<br />Core functionalities include:</p>
+<ol><li>
+<p>A public‑facing Service Portal for beneficiaries to submit and track requests.</p>
+</li><li>
+<p>AI‑powered classification and auto‑assignment based on location, urgency, and category.</p>
+</li><li>
+<p>Integration with Slack, Teams, or SMS for communication with field workers.</p>
+</li><li>
+<p>Dashboards for progress analytics, response metrics, and donor transparency reporting.</p>
+</li><li>
+<p>A built‑in Knowledge Base to share self‑help resources and community information.</p>
+</li></ol>
+<p>This solution unifies service delivery for food distribution, healthcare aid, and education support through one easy‑to‑use interface.​</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with third‑party communication tools (email, SMS APIs, WhatsApp, or Teams).</p>
+</li><li>
+<p>Secure database or CRM integration for beneficiary verification.</p>
+</li><li>
+<p>Cloud hosting infrastructure for scalability across multiple NGO branches.</p>
+</li><li>
+<p>Optional use of AI models (Now Assist or Predictive Intelligence) for automatic case classification.​</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Data quality and validation from multiple field offices.</p>
+</li><li>
+<p>Training volunteers and caseworkers unfamiliar with digital tools.</p>
+</li><li>
+<p>Ensuring multilingual accessibility for diverse beneficiary groups.</p>
+</li><li>
+<p>Maintaining data privacy compliance when storing personal beneficiary records.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 09:50:02</sys_created_on>
+        <sys_id>2d36e58193b47610014930a97bba100b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Beneficiary request and case management</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_2d36e58193b47610014930a97bba100b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 09:50:03</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

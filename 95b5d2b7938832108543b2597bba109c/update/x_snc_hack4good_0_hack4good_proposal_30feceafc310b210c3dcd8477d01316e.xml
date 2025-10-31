@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p><strong>Time Savings and Productivity</strong> -Employees spend less time searching for parking, managing permits, or handling commuter benefit claims<br /><strong>Utilization &amp; Resource Optimization</strong> -Smarter allocation of parking and commuter benefits leads to higher utilization of available resources.<br /><strong>Compliance &amp; Revenue Protection</strong> - Automated renewals and digital tracking reduce permit expirations, violations, or unauthorized use<br /><strong>Employee Experience &amp; Satisfaction</strong> - Transparent, digital processes and real-time updates minimize hassle and frustration.<br /><strong>Sustainability &amp; Alternative Transit Uptake</strong> -Visibility and incentives for non-driving options increase green commuting behavior</p>]]></potential_impact>
+        <problem_statement>Daily commuting is a major source of stress and logistical complexity for working professionals. Employees face uncertainties about parking availability, transportation options, process for securing permits/benefits&#13;
+&#13;
+Employees unsure how/where to park or if they’re eligible for transit/parking benefits.&#13;
+Forgotten renewals and surprise fines for expired/invalid permits.&#13;
+Difficulty discovering alternative options (bike share, public transport, carpool spots).&#13;
+No easy way to report parking issues or get real-time availability.</problem_statement>
+        <project_name>Integrated Employee Commuter Benefits &amp; Parking Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Unified commuter portal</strong> View parking/transit benefit eligibility, apply for permits and browse alternative commuting options.<br /><strong>Real-time parking</strong> availability updates and notifications for reserved/carpool spots.<br /><strong>Self-service</strong> permit renewals and application tracking, no paper forms or office visits.<br /><strong>Integration</strong> with public transport/bike share: See schedules and incentive status.<br /><strong>Instant issue reporting</strong> blocked spaces, safety concerns or request help.<br /><strong>Personal dashboard/Reports </strong>Track commute costs, benefit usage, environmental impact.</p>
+<p><strong>ServiceNow Components: </strong></p>
+<p><strong>Service Portal/ESC/UI Builder Page:</strong> For friendly access, applications, renewals, status tracking.<br /><strong>Flow Designer:</strong> Automate requests, renewals, approvals, reminders, and issue escalation, Connect to permit databases, parking hardware systems, local transit APIs or city services.<br /><strong>Mobile App:</strong> Access all commuter features from any device.<br /><strong>Platform/Performance Analytics:</strong> Utilization dashboards, waitlist stats, monthly reporting.<br /><strong>Integration </strong>: To Facilities Management (Manage space allocation, maintenance and reporting.)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Facilities &amp; Asset Management: Linking with existing office/parking space and asset management tools.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Integration with Physical Parking Systems: Real-time space monitoring requires IoT sensors, cameras, RFID readers or entry/exit gates, integrated via APIs/Webhooks.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-06 10:57:50</sys_created_on>
+        <sys_id>30feceafc310b210c3dcd8477d01316e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Integrated Employee Commuter Benefits &amp; Parking Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_30feceafc310b210c3dcd8477d01316e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-06 10:57:51</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

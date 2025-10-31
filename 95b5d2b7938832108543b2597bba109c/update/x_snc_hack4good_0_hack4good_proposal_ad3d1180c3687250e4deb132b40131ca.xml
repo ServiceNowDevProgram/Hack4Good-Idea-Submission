@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The platform can dramatically improve maternal and child health outcomes by creating a connected ecosystem:</p>
+<ol><li>
+<p>Enables continuous tracking of vitals, nutrition intake, supplements, and appointments.</p>
+</li><li>
+<p>Provides early alerts for nutritional deficiencies or high-risk symptoms.</p>
+</li><li>
+<p>Facilitates data sharing between hospitals, insurance providers, and government health departments.</p>
+</li><li>
+<p>Helps governments identify high-risk regions and create targeted support policies.</p>
+</li><li>
+<p>Improves insurance planning and hospital resource allocation through real-time analytics.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Pregnant women, especially in rural and underserved areas, often face serious health risks due to poor nutrition awareness, lack of regular health tracking, and delayed medical attention.&#13;
+Existing systems are fragmented — hospitals maintain records separately, insurance providers lack visibility into risk patterns, and government agencies get delayed or incomplete data.&#13;
+This disconnect prevents early intervention, proactive policy-making, and timely nutritional support for expecting mothers.</problem_statement>
+        <project_name>Empowering Pregnant Women through Health &amp; Nutrition Tracking</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow-powered AI platform integrated with mobile access that allows:</p>
+<ol><li>
+<p>Pregnant women to log diet, supplements, and symptoms through a self-service portal or chatbot.</p>
+</li><li>
+<p>Hospitals to update check-up details and upload reports directly into the shared record.</p>
+</li><li>
+<p>Insurance companies to receive early alerts for claims and risk adjustments.</p>
+</li><li>
+<p>Government agencies to access anonymized analytics dashboards for health trend monitoring and policy planning.</p>
+</li></ol>
+<p>The system would leverage automation, AI-driven insights, and secure data sharing to ensure accurate, timely, and privacy-compliant maternal health tracking.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Health &amp; Life Sciences Service Management (HLSM) for hospital integration</p>
+</li><li>
+<p>Service Portal / Mobile App Builder for user-facing interfaces</p>
+</li><li>
+<p>Flow Designer &amp; IntegrationHub for connecting hospital, insurance, and government systems</p>
+</li><li>
+<p>Now Assist (GenAI) for intelligent symptom and nutrition guidance</p>
+</li><li>
+<p>Performance Analytics &amp; Reporting for insights and trend visualization</p>
+</li><li>
+<p>Data Foundation / CSDM for structured health record mapping</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>ntegration with hospital EMR/EHR systems for real-time data updates.</p>
+</li><li>
+<p>API connections with insurance databases and government health APIs.</p>
+</li><li>
+<p>Data privacy compliance (HIPAA / GDPR).</p>
+</li><li>
+<p>Mobile app or chatbot interface for accessibility in low-connectivity regions.</p>
+</li><li>
+<p>Language localization and voice-assist features for inclusivity.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 20:38:21</sys_created_on>
+        <sys_id>ad3d1180c3687250e4deb132b40131ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Empowering Pregnant Women through Health &amp; Nutrition Tracking</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ad3d1180c3687250e4deb132b40131ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 20:38:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

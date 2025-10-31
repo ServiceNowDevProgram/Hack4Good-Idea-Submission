@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Promote ride sharing as a greener alternative</li><li>Raise awareness towards the importance of reducing our carbon footprint and decongesting the city</li><li>Create new connections amongst people who routinely commute around the same times / areas</li></ul>]]></potential_impact>
+        <problem_statement>Cities during rush hours are overloaded with under-used cars, often carrying only one person. Whereas ideally people should opt for a more sustainable mean of transportation (e.g. bike), making the change less drastic could help making people gradually more in favour.</problem_statement>
+        <project_name>NOWride</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>ServiceNow Mobile Builder for app development</li><li>The Service Portal for marketing / visibility</li><li>Integration Hub - to seamlessly connect ServiceNow with 3rd party APIs</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Lack of ServiceNow expertise generally available</li><li>Digital adoption resistance towards installing a new app to be installed in personal phones</li><li>Friction when giving up the convenience of bringing your own car to work</li><li>Safety concerns? </li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 16:47:01</sys_created_on>
+        <sys_id>c953fd10c360321095fc1533e4013116</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NOWride</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c953fd10c360321095fc1533e4013116</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 16:47:03</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

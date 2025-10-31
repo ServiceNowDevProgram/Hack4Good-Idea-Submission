@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><span class="s1"><strong>More meaningful visits, reliably:</strong></span> Smart matching and scheduling turn “maybe” volunteers into <span class="s1"><strong>predictable coverage</strong></span>, reducing loneliness and improving mood during treatment.</li><li><span class="s1"><strong>Equity by design:</strong></span> Skills-, language-, and needs-based matching helps distribute attention fairly across wards and days.</li><li><span class="s1"><strong>Safety &#43; trust:</strong></span> Built-in vetting, consent management, and auditable check-ins make safeguarding <span class="s1"><strong>default</strong></span>, not afterthought.</li><li><span class="s1"><strong>Operational clarity:</strong></span> Real-time dashboards show gaps, cancellations, and coverage forecasts so coordinators fix issues <span class="s1"><strong>before</strong></span> a child goes without a visitor.</li><li><span class="s1"><strong>Scalable playbook:</strong></span> Once live in one hospital, roll-out is repeatable across partner hospitals and NGOs with localized rules and languages.</li></ul>]]></potential_impact>
+        <problem_statement>Too many hospitalized children go long stretches without visitors. Some are orphaned, some are far from home, some have families who can’t be there. Hospitals and NGOs struggle to coordinate vetted volunteers across wards, visiting hours, and infection-control rules. Current “systems” are spreadsheets, phone trees, and vibes. That means missed visits, uneven coverage, and zero visibility into what’s working. The gap isn’t goodwill, but logistics: matching, scheduling, access, and safeguarding at scale.</problem_statement>
+        <project_name>BrightVisit</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><h1><strong>Core</strong></h1>
+<ul><li><strong>App Engine (AES &#43; UI Builder):</strong> Core data model (Volunteer, Visit Request, Session, Hospital Site/Ward), flows, and a simple coordinator and hospital portal.</li><li><strong>Field Service Management (FSM):</strong> Skill-based matching, capacity planning, route/time-window scheduling, dispatcher workspace, and <strong>Mobile Agent</strong> for volunteer check-in/out, wayfinding, and incidentless notes.</li><li><strong>Customer Service Management (CSM) / Public-facing portal:</strong> Intake for hospitals/NGOs, case tracking for site requests and issues; use Digital Customer Service patterns if volunteers are external “consumers.”</li></ul>
+<p> </p>
+<h1>Optional</h1>
+<ul><li><strong>IntegrationHub:</strong> Connect SMS/WhatsApp for reminders, e-signature for waivers, calendar sync (ICS), and mapping APIs for travel time estimates.</li><li><strong style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif;">Now Assist &#43; AI Search (optional but powerful):</strong>
+<ul><li>Suggest volunteer–visit matches (skills, language, timing, distance).</li><li>Surface ward guidelines/content (“What’s appropriate in Oncology today?”) inside the volunteer mobile experience.</li></ul>
+</li><li><strong>IRM / Policy &amp; Compliance (lightweight use):</strong> Track policy attestations (child-safeguarding training, background check validity, hospital access requirements).</li><li><strong style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif;">Platform Encryption / Access Controls:</strong><span style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif;"> Field-level encryption and role-based access to minimize exposure of sensitive details.</span></li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Mostly optional and integration related, but:</p>
+<ul><li><strong>Messaging:</strong> Twilio (SMS/WhatsApp) for reminders and on-the-day updates.</li><li><strong>E-signature:</strong> DocuSign/Adobe Sign for consent, waivers, and hospital access forms.</li><li><strong>ID &amp; background checks:</strong> Onfido/Checkr (region-specific), plus storage of verification metadata only (no raw documents where possible).</li><li><strong>Maps &amp; travel time:</strong> Google Maps/Mapbox for ETA and route hints; optional geofencing for on-site check-ins.</li><li><strong>Identity for volunteers:</strong> Social login or an external IdP (e.g., Auth0/Azure AD B2C) if volunteers aren’t internal users.</li><li><strong>Analytics:</strong> Export to a data warehouse/BI if the NGO wants cross-site reporting beyond Performance Analytics.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p><strong>Safeguarding &amp; privacy:</strong></p>
+<ul><li>Minimize data: no medical history; use child pseudonyms/ward codes; strict RBAC.</li><li>Regional compliance (GDPR, hospital policies) and data retention rules.</li><li>Secure mobile/device posture for volunteers (lost phone scenarios, session timeouts, no local data at rest).</li></ul>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif;">Background checks across jurisdictions:</strong></p>
+<ul><li>Different legal standards and expiry rules. Build a policy engine and expire/attest automatically; don’t hard-code to one provider.</li></ul>
+<p><strong>Hospital integration &amp; access logistics:</strong></p>
+<ul><li>Many hospitals won’t allow direct EHR integration (and we shouldn’t need it). Design process that works <strong>without</strong> PHI and relies on ward liaison approval plus time-windowed access passes.</li></ul>
+<p> </p>
+<p><strong>Last-minute churn:</strong></p>
+<ul><li>Kids get moved, volunteers cancel, wards lock down. The system must re-match automatically, notify parties instantly, and maintain fairness in reassignment.</li></ul>
+<p> </p>
+<p><strong>On-site realities:</strong></p>
+<ul><li>Offline corridors, confusing layouts, infection-control rules that change weekly. Provide cached session briefs, QR/desk check-in fallback, and content nudges (“no plush toys today,” etc.).</li></ul>
+<p> </p>
+<p><strong>Adoption and trust:</strong></p>
+<ul><li>Volunteers need a frictionless mobile flow (two taps to accept, one tap to check in). Ward staff need to see <strong>value on day one</strong> (coverage view, simple approvals, quick block/unblock).</li></ul>
+<p> </p>
+<p><strong>Ethical guardrails:</strong></p>
+<ul><li>No gamifying visits in ways that distort behavior (e.g., chasing badges over needs). Score success by <strong>coverage and consistency</strong>, not raw visit counts.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 17:26:17</sys_created_on>
+        <sys_id>5570f4004728b210eec61525f16d439f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BrightVisit</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_5570f4004728b210eec61525f16d439f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 17:26:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

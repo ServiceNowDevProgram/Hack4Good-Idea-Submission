@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Enhanced Student Safety: Parents receive real-time updates, schools can respond immediately to           incidents</li><li>Faster Incident Response: Alerts are automated, ensuring no delay in escalation</li><li>Auditability and Transparency: All movements and alerts are logged for security and compliance</li><li>Community Trust: Builds confidence among parents, schools, and drivers</li><li>Scalability: Can be adapted for multiple schools or communities, both urban and rural.</li></ul>]]></potential_impact>
+        <problem_statement>In many communities in Nigeria, public student transportation is often informal and lacks proper tracking. Parents rely on verbal updates or assumptions about their children’s safe arrival at school and back home.</problem_statement>
+        <project_name>SmartDrop for Schools </project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>ServiceNow App Engine / ServiceNow Studio</strong></p>
+<p>Build custom data models for Routes and Student and also incident drivers should be able to log incidents</p>
+<p><strong>Service Portal / ESC (Employee Center)</strong></p>
+<p>Parent and driver interface for route updates<br />Students registration and notifications<br />School admin view for monitoring and managing transportation activities</p>
+<p><strong>Flow Designer</strong></p>
+<p>Automates notifications for check-ins and incident escalations<br />Handles approval workflows for route registration and driver verification</p>
+<p><strong>Performance Analytics</strong></p>
+<p>Track transportation KPIs such as on-time arrival rates, incident frequency, route reliability<br />Provide safety and compliance reports to stakeholders</p>
+<p><strong>Mobile App</strong></p>
+<p>Allows drivers to check in/out on the go<br />Provides parents with real-time notifications<br />Supports incident reporting and GPS location capture</p>
+<p><strong>AI Search / Recommendation</strong></p>
+<p>Suggest optimal routes or alert patterns based on past trip data.</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Integration with SMS Gateway (bulk SMS provider) and WhatsApp API to support low-cost notification delivery to parents who may not have smartphones</li><li>GPS Tracking Integration to monitor live routes and detect deviations</li><li>Identity Verification System for authenticating drivers and ensuring child safety</li><li>School Information System Integration to sync student records</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Driver and Vehicle Vetting: Ensuring only trusted and verified drivers are onboarded</li><li>Connectivity Gaps: Reaching parents who rely on basic phones or areas with poor internet</li><li>Change Management: Encouraging schools, drivers, and parents to adopt the platform consistently</li><li>Data Privacy &amp; Security: Handling sensitive student location data securely</li><li>Integration Complexity: Coordinating with external SMS and GPS systems</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-12 11:32:25</sys_created_on>
+        <sys_id>9f2b8da18360321010071f65eeaad3ad</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SmartDrop for Schools </sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9f2b8da18360321010071f65eeaad3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-12 11:32:29</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

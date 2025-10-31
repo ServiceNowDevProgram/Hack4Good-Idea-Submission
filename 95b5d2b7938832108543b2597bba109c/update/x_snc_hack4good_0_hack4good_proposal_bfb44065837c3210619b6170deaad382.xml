@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Technology solution for an orphanage system can have a <strong>transformative impact</strong> across multiple dimensions.</p>
+<ul><li><strong>Centralized Management:</strong> Automates record-keeping for children, staff, donors, and inventory.</li><li><strong>Education Tracking:</strong> Monitors academic progress and attendance for better learning outcomes.</li><li><strong>Sense of Belonging:</strong> Many orphaned children struggle with feelings of abandonment. Celebrating their special day makes them feel valued and loved.</li><li><strong>Community Bonding:</strong> Group celebrations foster friendships among children and staff.</li></ul>]]></potential_impact>
+        <problem_statement>Children around the world who grow up without family care are often only compromise on  shelter, food and education till the age where the step up. Technology can fill this gap by connecting this shelters with people who volunteer for cause and support these organization with love&#13;
+&#13;
+Birthdays, anniversaries, and milestone celebrations will give them sense of belonging and help in emotional well benig</problem_statement>
+        <project_name>Celebrate4Cause-CelebrtatewithOrphanage</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p> An ideal ServiceNow-based solution for an orphanage/welfare home that manages day-to-day operations and thoughtfully handles birthdays, anniversaries, and milestone celebrations</p>
+<p><strong>Flow Designer</strong> &#43; <strong>IntegrationHub</strong></p>
+<p><strong>Field Service Management (FSM) (if there are off-site events/logistics tasks) </strong></p>
+<p><strong>CSM (Donor/Account/Case management, communications, sponsorship journeys) </strong></p>
+<p><strong>Surveys &amp; Assessments</strong> (feedback), <strong>Now Mobile / Mobile Agent</strong> (on-the-go tasks)</p>
+<p><strong>UI Builder / Service Portal</strong> (Donor/Volunteer self-service pages)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Obtaining a license and keeping up to date with technology requires lot of work and sponsorship to support this cause. Connecting and identifying the needy is another challenge that needs to well taken care to reach the right people</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>License and Product walkthrough.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>d.sharma</sys_created_by>
+        <sys_created_on>2025-10-25 10:34:18</sys_created_on>
+        <sys_id>bfb44065837c3210619b6170deaad382</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Celebrate4Cause-CelebrtatewithOrphanage</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_bfb44065837c3210619b6170deaad382</sys_update_name>
+        <sys_updated_by>d.sharma</sys_updated_by>
+        <sys_updated_on>2025-10-25 10:34:20</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

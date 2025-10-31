@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>With good compliance structure and governance, it helps companies to track their progress toward climate-resilient economy.</p>]]></potential_impact>
+        <problem_statement>Allow for carbon credits to be assessed and traded by the notion to reduce or remove greenhouse gas emissions. Businesses under which carbon law are in place can ensure that they are compliance. Those that have an interest in carbon control may also offset their carbon credits to be more carbon efficient in their operations.</problem_statement>
+        <project_name>Carbon Marketplace</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Assessment Matrix to weight the carbon emission reduction by change in activity.<br />Compliance and Policy to list the regulation in place and allowed threshold of emission by industry and scale of business.<br />Workflow or Case Management to allocate carbon credit based on case submission.<br />Assisted Guide or Playbook to illustrate how the carbon credit economy work, and guide user on submission process.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Connect to carbon exchange house for real time valuation on carbon emission<br />Policy as law or Regulation to be obtained from respective countries law resource statutory releases.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Lack of seriousness on carbon emission as a business goal to the company.<br />Carbon emission is vague, no definitive tool to monitor and can be easily frauded.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 17:59:54</sys_created_on>
+        <sys_id>8f89535f83fc72100341ca96feaad312</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Carbon Marketplace</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8f89535f83fc72100341ca96feaad312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 17:59:55</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

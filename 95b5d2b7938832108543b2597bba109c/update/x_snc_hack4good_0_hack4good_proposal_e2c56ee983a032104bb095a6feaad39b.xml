@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduced parent anxiety and stress through real-time updates and transparent communication, improved parent-hospital communication eliminating information gaps, enhanced family bonding despite physical distance from the hospital, earlier identification of postpartum depression and mental health struggles through wellness check-ins, better discharge outcomes through comprehensive preparation and education, creation of peer support networks reducing isolation, improved mental health outcomes for NICU families, reduced hospital readmissions through better parent education and preparation, increased parent confidence in caring for medically complex infants, and measurable improvements in parent satisfaction scores and family-centered care metrics.</p>]]></potential_impact>
+        <problem_statement>As a parent whose daughter spent 46 days in the NICU, I experienced firsthand the extreme stress, anxiety, and isolation that NICU parents face. Even though we had access to MyChart to view medical records, there was no dedicated portal or accessible communication tool designed specifically for the unique needs of NICU families. We couldn't be at the hospital 24/7 due to work, other children, or distance. Communication gaps between medical staff and parents created additional anxiety. We struggled to get timely updates on our baby's condition in real-time, understand complex medical terminology without context, connect with other NICU parents for emotional support, see photos or videos of our baby throughout the day, coordinate visits with family members, and navigate insurance and financial assistance. While MyChart provided clinical data, it lacked the human connection, real-time updates, peer support, and NICU-specific features that families desperately need. This isolation and uncertainty impacts parent mental health and bonding during a critical time. Having lived through this 46-day journey, I understand the desperate need for a comprehensive communication and support platform tailored specifically for NICU families during their most vulnerable moments.</problem_statement>
+        <project_name>NICU Parent Support &amp; Communication Hub</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Having experienced 46 days in the NICU with my daughter, I envision a ServiceNow-based NICU family support portal that bridges communication between hospital staff and families in ways I wish existed during our journey. The solution includes daily photo and video updates from nurses with parent consent so families can see their baby throughout the day, real-time status notifications for feeding times and weight changes and vital milestones, simplified medical terminology explanations with context that MyChart lacks, secure messaging with the NICU care team for quick questions, moderated parent-to-parent support community connecting families going through similar experiences, visit scheduling and family coordination tools, interactive care milestone tracking and digital baby book, comprehensive resource navigator for financial aid and support groups and temporary housing near the hospital, emotional wellness check-ins with automatic mental health resource recommendations, and structured discharge planning with educational resources and follow-up coordination. The platform provides HIPAA-compliant communication while reducing parent anxiety and supporting family bonding during NICU stays. This solution addresses the exact gaps I experienced as a NICU parent where clinical data was available through MyChart but the human connection, real-time updates, emotional support, and NICU-specific guidance were missing.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Service Portal for parent interface, Mobile App for on-the-go access, Notification Engine for real-time alerts via SMS and email and push notifications, Secure Messaging for HIPAA-compliant communication, Case Management for tracking family needs and support requests, Knowledge Base for medical terminology and discharge resources, Flow Designer for automated workflows and milestone tracking, Integration Hub for connecting with hospital EHR systems, Virtual Agent for answering common questions 24/7, Now Mobile for families without computer access, Report Designer for hospital staff to track family engagement</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>HIPAA compliance and strict healthcare data privacy regulations, hospital IT security requirements and approval processes, integration complexity with legacy EHR systems, ensuring accessibility for all parents including non-technical users and non-English speakers, managing sensitive health information and photo sharing with proper consent, obtaining hospital leadership buy-in and budget allocation, NICU staff training and adoption, balancing automation with human touch in sensitive situations, managing parent expectations around response times, addressing digital divide for families without smartphones or internet access, scaling across different hospital systems with varying technical infrastructures</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-12 17:33:19</sys_created_on>
+        <sys_id>e2c56ee983a032104bb095a6feaad39b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NICU Parent Support &amp; Communication Hub</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e2c56ee983a032104bb095a6feaad39b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-12 17:33:21</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

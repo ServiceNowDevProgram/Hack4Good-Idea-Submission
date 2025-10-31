@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>no</participation>
+        <potential_impact><![CDATA[<p>An urban sanitation coordination platform to streamline waste pickup, recycling, and reporting.</p>
+<h4><span style="text-decoration: underline;"><strong>Impact</strong></span></h4>
+<ul><li>Reduce waste overflow and landfill contribution by up to 40%. </li><li>Create green jobs through recycling networks.</li><li>Increase waste recycling in urban areas tremendously</li></ul>]]></potential_impact>
+        <problem_statement>Cities across Africa face poor waste management due to uncoordinated pickups and route inefficiencies. Also there is no adequate means to dispose of waste and this causes pollution in both urban areas and cities in Nigeria and across Africa.</problem_statement>
+        <project_name>CleanCity360 – Waste Collection and Recycling Route Optimizer</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>This solution will use the products listed and not limited to the following;</p>
+<ul><li><strong>Field Service Management</strong> for route optimization.</li><li><strong>Flow Designer</strong> for automated pickup scheduling.</li><li><strong>Performance Analytics</strong> dashboards for city managers.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The use of GPS-enabled devices for waste trucks and optionally using IntegrationHub for IoT bin sensors.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The cost of hardware for tracking equipment and also training city workers on new tech, these can be quite challenging.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-11 21:53:16</sys_created_on>
+        <sys_id>73061ed9c3283210123cb132b4013106</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CleanCity360 – Waste Collection and Recycling Route Optimizer</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_73061ed9c3283210123cb132b4013106</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-11 21:53:18</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,81 @@
+name: Update README with ideas
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without committing changes"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  update:
+    # Only run in the canonical repo; allow PR-closed, push, and manual runs
+    if: >
+      github.repository == 'ServiceNowDevProgram/Hack4Good-Idea-Submission' &&
+      (
+        (github.event_name == 'pull_request' && github.event.pull_request.merged == true) ||
+        (github.event_name == 'push') ||
+        (github.event_name == 'workflow_dispatch')
+      )
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build README section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run update-readme
+
+      - name: Show README diff (preview)
+        run: |
+          if git diff --quiet -- README.md .idea_attribution.json; then
+            echo "No changes detected."
+          else
+            echo "::group::README diff"
+            git --no-pager diff -- README.md
+            echo "::endgroup::"
+          fi
+
+      - name: Upload README preview
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: readme-preview
+          path: README.md
+
+      # ✅ Only push on 'push' (write token) or manual run with dry_run=false.
+      - name: Commit & push if changed
+        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.dry_run != 'true') }}
+        shell: bash
+        run: |
+          if ! git diff --quiet -- README.md .idea_attribution.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md .idea_attribution.json
+            git commit -m "chore: update ideas list [skip ci]" || echo "Nothing to commit"
+            git pull --rebase origin main
+            git push || (sleep 2 && git push)
+          else
+            echo "No changes to commit."
+          fi

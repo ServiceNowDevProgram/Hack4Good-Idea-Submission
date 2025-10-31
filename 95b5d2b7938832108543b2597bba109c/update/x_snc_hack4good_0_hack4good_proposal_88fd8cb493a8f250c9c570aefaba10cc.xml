@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The <em>FootprintChallenge</em> app can encourage employees to adopt healthier and more sustainable habits by turning everyday actions into a fun and measurable challenge. By tracking walking, biking, and eco-friendly commuting, the app can highlight individual and team progress while showing the environmental impact of these choices.</p>]]></potential_impact>
+        <problem_statement>Many organizations want to promote healthier lifestyles and more sustainable habits among employees, but struggle to make these efforts engaging and measurable. People often lack motivation to change daily routines like commuting or walking more, especially when the impact feels abstract. Without a fun and visible way to track progress and celebrate achievements, sustainability initiatives can lose momentum quickly.</problem_statement>
+        <project_name>FootprintChallenge</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>IntegrationHub:</strong><br />Used to connect with external activity tracker platforms (like Fitbit, Apple Health, or Google Fit) via APIs. This allows automatic syncing of step counts, biking data, and other movement metrics without manual input.</p>
+<p><strong>Portals:</strong><br />Creates a fun and engaging web experience where users can view their progress, explore team rankings, and access sustainability tips. It can also host challenge updates, leaderboards, and community stories.</p>
+<p><strong>Gamification Framework (Custom Logic):</strong><br />Implements point systems, badges, levels, and team challenges to motivate participation. This can be built using custom logic within a scoped app.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>It relies on secure and reliable APIs from third-party activity tracker platforms to fetch user data. This data then needs to be kept secure and compliant.</p>
+<p>The data from the different platforms needs to be rationalized to count in a uniform way for the scoring and scoreboards.</p>
+<p>Data needs to be cleaned up in time.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>One concern is privacy, since the app would handle personal activity and location data. It’s important to make sure users know what data is collected and how it’s used.</p>
+<p>Another challenge is getting people to join and keep using the app. Some may not want to share their activity or may lose interest over time.</p>
+<p>There’s also a risk of people entering false data to win prizes, so the app should include ways to prevent misuse.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 22:41:34</sys_created_on>
+        <sys_id>88fd8cb493a8f250c9c570aefaba10cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FootprintChallenge</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_88fd8cb493a8f250c9c570aefaba10cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 22:41:35</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

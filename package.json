@@ -1,0 +1,13 @@
+{
+  "name": "hack4good-readme-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "fast-glob": "^3.3.2",
+    "fast-xml-parser": "^4.4.1"
+  }
+}

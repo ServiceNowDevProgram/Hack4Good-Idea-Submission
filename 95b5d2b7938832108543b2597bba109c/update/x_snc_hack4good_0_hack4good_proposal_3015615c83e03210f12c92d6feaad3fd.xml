@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>70% faster sponsor onboarding and renewal tracking</li><li>2x increase in volunteer retention through personalized engagement</li><li>Real-time dashboards showcasing contributions, hours, and impact stories</li><li>Sponsor-ready reports for visibility, recognition, and future funding</li></ul>]]></potential_impact>
+        <problem_statement>Nonprofits and community-led events often struggle to maintain consistent engagement with sponsors and volunteers. Tracking contributions, follow-ups, and impact stories is manual, scattered across emails and spreadsheets. This leads to missed renewals, low retention, and underreported impact—especially for recurring events or campaigns.</problem_statement>
+        <project_name>ImpactBoard – Sponsor &amp; Volunteer Engagement Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow-powered app where:</p>
+<ul><li>Organizers can log sponsor and volunteer interactions, contributions, and commitments</li><li>Automated nudges remind teams about renewals, thank-you notes, and impact updates</li><li>QR codes link to personalized sponsor pages or volunteer certificates</li><li>Dashboards show cumulative impact: hours volunteered, funds raised, lives touched</li><li>Sponsors can view their brand visibility, event reach, and social media impressions<br /><br /></li><li>App Engine Studio for custom record types (Sponsor, Volunteer, Event)</li><li>Flow Designer for automated follow-ups and reminders</li><li>Document Management for certificates, thank-you letters, and impact reports</li><li>UI Builder for clean, sponsor-friendly dashboards</li><li>Scoped App with ACLs for privacy and role-based access</li><li>IntegrationHub for syncing with Mailchimp, LinkedIn, or Canva for branded assets</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Optional: Mailchimp or Outlook integration for automated emails</li><li>QR code generation and Base64 encoding for certificates and sponsor pages</li><li>Google Sheets or Airtable sync for legacy data import</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Standardizing sponsor and volunteer data formats across events</li><li>Ensuring timely updates and engagement from organizers</li><li>Balancing automation with personalized outreach</li><li>Training small teams to use dashboards and workflows effectivel</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 16:04:50</sys_created_on>
+        <sys_id>3015615c83e03210f12c92d6feaad3fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ImpactBoard – Sponsor &amp; Volunteer Engagement Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_3015615c83e03210f12c92d6feaad3fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 16:04:51</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

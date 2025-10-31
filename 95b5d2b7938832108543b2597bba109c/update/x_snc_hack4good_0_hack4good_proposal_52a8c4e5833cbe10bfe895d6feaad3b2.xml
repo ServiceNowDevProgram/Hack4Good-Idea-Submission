@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ol start="1"><li>
+<p><strong>Empower Beneficiaries:</strong> Give vulnerable individuals visibility and control over their personal data, turning them from passive recipients into informed partners in aid delivery.</p>
+</li><li>
+<p><strong>Ensure Regulatory Compliance:</strong> Help NGOs automatically meet GDPR and other data protection requirements, reducing legal risks and building donor confidence.</p>
+</li><li>
+<p><strong>Build Trust:</strong> Create verifiable transparency in data handling, strengthening community trust in aid organizations and improving program effectiveness.</p>
+</li><li>
+<p><strong>Prevent Data Misuse:</strong> Establish clear audit trails to deter and identify potential misuse of sensitive beneficiary information.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>In humanitarian work, collecting sensitive beneficiary data (health records, family details) is essential but often happens without proper consent tracking. Vulnerable people have no visibility into who accesses their information or why, creating serious privacy risks and violating their fundamental rights. This also exposes NGOs to legal liability under data protection laws.</problem_statement>
+        <project_name>EthicalChain: Beneficiary Consent &amp; Data Rights Manager</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><div>
+<div>
+<div>
+<div>
+<p>The ideal solution is a transparent, user-centric platform built on ServiceNow that manages the entire lifecycle of beneficiary consent and data interactions.</p>
+<p><strong>ServiceNow Capabilities Used:</strong></p>
+<ol start="1"><li>
+<p><strong>App Engine:</strong> The foundation for building the custom application, including the core tables for beneficiaries, consent records, and the data access logs.</p>
+</li><li>
+<p><strong>Service Portal &amp; Mobile App Builder:</strong> To create two crucial interfaces:</p>
+<p>A simple, <strong>public-facing portal</strong> where beneficiaries can view their data access timeline and submit rights requests.</p>
+<p>A <strong>mobile-friendly interface</strong> for field workers to securely record digital consent and manage beneficiary interactions on-site.</p>
+<p> </p>
+</li><li>
+<p><strong>Flow Designer &amp; Workflow Automation:</strong> The &#34;central nervous system&#34; that:</p>
+<p>Automatically logs every access to sensitive data in an immutable audit trail.</p>
+<p>Routes beneficiary requests (e.g., to correct data or revoke consent) to the correct staff member as a tracked task.</p>
+<p> </p>
+</li><li>
+<p><strong>Integration Hub:</strong> To connect with external translation services, ensuring consent forms and the beneficiary portal are available in multiple languages for true informed consent.</p>
+</li></ol>
+<p>In essence, we use ServiceNow not just as a database, but as an ethical framework that bakes transparency and accountability directly into an NGO&#39;s operational DNA.</p>
+</div>
+</div>
+<div> </div>
+<div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+</div>
+<div>
+<div> </div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><div>
+<div>
+<div>
+<div>
+<p>Yes, though they are manageable:</p>
+<ol start="1"><li>
+<p><strong>Mobile Device Access:</strong> Field workers need basic smartphones or tablets with internet connectivity to record consent and access the platform.</p>
+</li><li>
+<p><strong>Stable Internet Connection:</strong> Required for real-time data synchronization, though the system can be designed with offline capabilities that sync when connectivity is available.</p>
+</li><li>
+<p><strong>Digital Signature Tool:</strong> A lightweight integration (via Integration Hub) with a simple e-signature API to capture beneficiary consent digitally, replacing paper forms.</p>
+</li></ol>
+<p>These dependencies are minimal and feasible, even for resource-constrained NGOs.</p>
+</div>
+</div>
+<div> </div>
+<div>
+<div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+<div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+</div>
+<div> </div>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The primary challenges would be:</p>
+<ol start="1"><li>
+<p><strong>Cultural Shift &amp; Trust:</strong> Convincing both NGOs and beneficiaries to transition from informal, paper-based processes to a transparent digital system requires building significant trust in its security and intentions.</p>
+</li><li>
+<p><strong>Digital Literacy &amp; Accessibility:</strong> Ensuring the interfaces are simple enough for people with low digital literacy (both beneficiaries and NGO staff) to understand and use effectively.</p>
+</li><li>
+<p><strong>Language and Connectivity:</strong> Operating in regions with low bandwidth and providing content in numerous local languages to ensure true &#34;informed&#34; consent.</p>
+</li></ol>
+<p>These can be mitigated through intuitive design, offline mobile functionality, and using ServiceNow&#39;s Integration Hub for multi-language support.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 16:29:08</sys_created_on>
+        <sys_id>52a8c4e5833cbe10bfe895d6feaad3b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EthicalChain: Beneficiary Consent &amp; Data Rights Manager</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_52a8c4e5833cbe10bfe895d6feaad3b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 16:29:09</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

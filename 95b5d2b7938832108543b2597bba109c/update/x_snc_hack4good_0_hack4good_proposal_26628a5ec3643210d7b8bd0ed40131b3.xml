@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li style="text-align: left;">Transparency &amp; accountability: public data about enforcement patterns supports oversight, research, and civic advocacy.</li><li style="text-align: left;">Legal preparedness: lets legal aid organizations rapidly mobilize resources where enforcement activity is concentrated.</li><li style="text-align: left;">Community safety &amp; resilience: non-precise alerts and educational resources reduce panic and help people know their rights and where to get help.</li><li style="text-align: left;">Evidence collection: aggregated, timestamped reports can be used for policy work, FOIA requests, or litigation</li><li style="text-align: left;">Data for policy and research: anonymized trends can inform municipal responses, resource allocation, and public debate</li></ul>]]></potential_impact>
+        <problem_statement>Federal agency ICE has been terrorizing immigrant communities by conducting raids in homes, workplaces, and public spaces.</problem_statement>
+        <project_name>ICE Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Portal (record producers): to submit sightings</p>
+<p>Approvals: To validate sightings</p>
+<p>Dashboard and reporting: metrics to measure impact</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>We would have to be careful when it comes to privacy. We cannot allow realtime precise tracking, personal identifies, consent &amp; disclaimers of user submitted media, general misuse</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-14 23:01:28</sys_created_on>
+        <sys_id>26628a5ec3643210d7b8bd0ed40131b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ICE Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_26628a5ec3643210d7b8bd0ed40131b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-14 23:01:29</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

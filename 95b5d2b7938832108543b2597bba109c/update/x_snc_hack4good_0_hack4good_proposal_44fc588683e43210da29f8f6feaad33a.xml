@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A technology-based solution would make veterinary help faster and more accessible for every pet owner.<br />It can save animal lives by connecting owners with nearby vets or emergency services in real time.<br />Over time, it would also raise awareness about pet health, encourage preventive care, and build stronger communities around animal welfare.</p>]]></potential_impact>
+        <problem_statement>Many pet owners struggle to find quick and reliable medical help when their pets fall sick or face emergencies.&#13;
+Limited access to nearby vets and delayed treatment often put animal lives at risk.&#13;
+There’s a need for a connected platform that ensures timely care and easy access to trusted veterinary support.</problem_statement>
+        <project_name>Pet Health and Emergency Support Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow products and capabilities used:</p>
+<p>Service Portal: A web and mobile-friendly interface for owners, vets, and shelters to connect easily.App Engine: To build custom workflows for health records, appointments, and emergency requests.Flow Designer: To automate reminders, alerts, and case routing to the nearest vet.<br />Virtual Agent: A friendly chatbot to guide users through symptom checks and care tips.<br />IntegrationHub: To connect with external APIs like maps, payment systems, or IoT pet health devices.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-13 21:12:23</sys_created_on>
+        <sys_id>44fc588683e43210da29f8f6feaad33a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pet Health and Emergency Support Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_44fc588683e43210da29f8f6feaad33a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-13 21:12:26</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

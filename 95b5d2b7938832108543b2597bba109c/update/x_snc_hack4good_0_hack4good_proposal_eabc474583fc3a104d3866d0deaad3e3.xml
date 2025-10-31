@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduced Response Time (50%): Shelter managers could log an urgent need (e.g., &#34;40 doses of pediatric pain reliever&#34;) and have the request automatically routed to the nearest, pre-approved supplier or volunteer courier.</p>
+<p>Optimized Resource Allocation: Prevents over-supply or critical shortages by providing a clear inventory view across all active shelters, allowing centralized redistribution.</p>
+<p>Increased Volunteer Effectiveness: Certified volunteers are matched precisely to high-priority skills needed at the moment (e.g., &#34;Spanish translator needed at Site B for 2 hours&#34;), minimizing chaos and maximizing impact.</p>]]></potential_impact>
+        <problem_statement>During regional emergencies (e.g., floods, wildfires, or severe weather), community centers and schools are often quickly converted into emergency shelters. These shelters face a rapid, complex challenge: matching real-time needs (cots, blankets, medication, child care services, translation) with available community resources (donations, certified volunteers). Existing systems are often manual (whiteboards, spreadsheets), leading to inefficient deployment, resource waste (too many blankets, no medicine), and burnout among shelter staff.&#13;
+&#13;
+The challenge is creating a single, real-time dashboard that coordinates physical inventory, human resources, and incoming requests across multiple decentralized shelter locations.</problem_statement>
+        <project_name>ShelterConnect - Dynamic Resource Deployment</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>1. Shelter Manager Interface (Demand)</p>
+<p> </p>
+<p>Real-Time Needs Catalog: Shelter managers use a simple Service Portal or Agent Workspace view to submit requests from a defined catalog (e.g., Shelter Supply Request, Volunteer Skill Request).</p>
+<p>Inventory Tracking: Managers maintain a simple, digital count of critical assets (e.g., cots, hygiene kits) received and distributed, ensuring real-time visibility for central command.</p>
+<p>2. Central Command Dashboard (Coordination)</p>
+<p>Single Pane of Glass: A command dashboard visualizes all active shelters, their current capacity, critical needs (flagged red), and available inventory reserves.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Geolocation: Crucial for routing resources and matching volunteers based on distance.</p>
+<p>High Availability/Performance: The system must be designed to handle a rapid, high volume of transactions and simultaneous users during peak crisis hours.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data Discipline: Getting exhausted shelter staff to accurately input inventory and update status during a high-stress crisis environment.</p>
+<p>Integration with External Databases: Integrating with existing Red Cross or local government volunteer registries and resource databases.</p>
+<p>Offline Access: Ensuring core inventory and critical needs data can still be accessed and updated when internet or power is unstable at the shelter location.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-23 17:18:22</sys_created_on>
+        <sys_id>eabc474583fc3a104d3866d0deaad3e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ShelterConnect - Dynamic Resource Deployment</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_eabc474583fc3a104d3866d0deaad3e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-23 17:18:23</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This smart application empowers students to report bullying incidents instantly—with the option to upload images, videos, or voice notes for evidence.</p>
+<ol><li>
+<p>Immediate support: One-tap call or chat connects students with counselors or trusted staff.</p>
+</li><li>
+<p>Anonymous reporting: Students can safely report without fear of retaliation.</p>
+</li><li>
+<p>Faster intervention: School authorities and counselors receive real-time alerts, enabling quick response and investigation.<br />Overall, it fosters safer, more supportive learning environments and promotes emotional well-being among students.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Bullying among school students often goes unreported due to fear, stigma, or lack of immediate help. Many students struggle in silence, leading to stress, depression, and absenteeism. Schools need a discreet, fast, and effective way for students to seek help and for staff to respond promptly.</problem_statement>
+        <project_name>Smart Bullying Prevention App</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>
+<p>Now Mobile: For student reporting and counselor communication.</p>
+</li><li>
+<p>Workspace / CSM: For administrators and counselors to manage cases.</p>
+</li><li>
+<p>Flow Designer: To automate notifications and follow-ups.</p>
+</li><li>
+<p>Performance Analytics: To monitor bullying trends and intervention outcomes.</p>
+</li><li>
+<p>AI Search &amp; NLU: To enable quick, natural-language reporting (“I’m being bullied in class”).</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with school directory or student management system.</p>
+</li><li>
+<p>Secure media storage for uploaded evidence.</p>
+</li><li>
+<p>Optional integration with third-party mental health support lines.</p>
+</li><li>
+<p>Strong privacy and data encryption standards (FERPA/GDPR compliance).</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Ensuring student data confidentiality and trust in the system.</p>
+</li><li>
+<p>Getting schools to adopt and maintain the platform.</p>
+</li><li>
+<p>Managing false or prank reports responsibly.</p>
+</li><li>
+<p>Providing sufficient counselor staffing and timely follow-up.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-08 13:30:19</sys_created_on>
+        <sys_id>9ca88d90c36cb250e4deb132b4013169</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Smart Bullying Prevention App</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9ca88d90c36cb250e4deb132b4013169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-08 13:30:21</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

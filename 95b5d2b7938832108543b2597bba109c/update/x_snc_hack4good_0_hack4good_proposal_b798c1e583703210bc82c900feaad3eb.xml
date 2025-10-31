@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>sustainability</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Cut IT-related carbon emissions by significant percent.</p>
+<p>Track measurable KPIs such as kWh saved, tons of carbon dioxide avoided, and cost savings.</p>
+<p>Promote corporate responsibility and help organizations hit their sustainability targets.</p>
+<p>Foster a sustainability culture through transparency and gamified “green scores.”</p>
+<p> </p>]]></potential_impact>
+        <problem_statement>Enterprises operate thousands of servers and cloud resources that often remain under-utilized, consuming vast amounts of energy and emitting unnecessary carbon dioxide.&#13;
+Most organizations have no unified visibility into their digital carbon footprint or automated way to optimize energy use across multi-cloud environments.</problem_statement>
+        <project_name>GreenOps: Sustainable IT Resource Optimizer</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p class="p1">ITOM - Discovery</p>
+<p class="p1">IntegrationHub (Cloud Spokes)</p>
+<p class="p1">Flow Designer &amp; Predictive Intelligence</p>
+<p class="p1">CMDB</p>
+<p class="p1">Performance Analytics</p>
+<p class="p1">App Engine Studio</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p class="p1">Cloud API credentials (AWS/Azure/GCP), ITOM data feeds, and access to carbon intensity datasets.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p class="p1">Change management and user adoption of automation recommendations.</p>
+<p class="p1">Normalizing metrics across different cloud providers.</p>
+<p class="p1">API throttling and security of credentials.</p>
+<p> </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-24 21:06:42</sys_created_on>
+        <sys_id>b798c1e583703210bc82c900feaad3eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GreenOps: Sustainable IT Resource Optimizer</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b798c1e583703210bc82c900feaad3eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-24 21:06:46</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

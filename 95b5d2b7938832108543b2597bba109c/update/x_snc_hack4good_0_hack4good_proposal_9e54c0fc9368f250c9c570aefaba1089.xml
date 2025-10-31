@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A digital platform built on ServiceNow can quickly and securely connect individuals that need help with volunteers who want to help. By making it easy to offer and receive support, such as temporary housing or a home-cooked meal from one’s own culture. By providing recipes and guidance, the &#34;SharedTable&#34; ServiceNow app enables hosts to prepare traditional dishes that help refugees feel more at home. Sharing a meal becomes a way to build trust, empathy, and create meaningful bonds between people from different backgrounds during times of crisis.</p>]]></potential_impact>
+        <problem_statement>When people are forced to flee their homes due to natural disasters or crises, they often end up in unfamiliar places without shelter, support, or a sense of belonging. One of the most deeply felt losses is the comfort of familiar food: meals that remind them of home and offer emotional relief in difficult times. Although many individuals in neighboring regions are willing to help, there is no simple and trusted way to connect those in need with people who can offer a place to stay or prepare a meal that feels like home.</problem_statement>
+        <project_name>SharedTable</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p><strong>Mobile:</strong><br />In a crisis, people often rely on their phones. With ServiceNow’s mobile capabilities, users can register and request help even when offline. Once they reconnect the app syncs automatically, making it reliable even with unstable internet.</p>
+<p><strong>Scoped Apps:</strong><br />Scoped apps allow you to build quickly using ServiceNow’s platform capabilities like Portals, Flows, and Tasks. You can add custom logic for this specific use case without creating unnecessary complexity. This keeps the app flexible and easy to maintain.</p>
+<p><strong>IntegrationHub:</strong><br />IntegrationHub makes it easy to connect with external systems. You can quickly link the app to volunteer organizations, government services, and aid agencies. This ensures fast coordination and access to verified data when it matters most.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Successful integration with volunteer organizations and government systems will require compatible APIs and data-sharing agreements.<br />It also depends on secure identity management and data protection to ensure trust and safety for users. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Cultural sensitivity and language barriers could affect how well people connect, even with the best technical tools in place. Good intentions and a good home cooked meal can come a long way.</p>
+<p>Technology cannot make people a good chef. Perhaps it can scale up to provide different roles for volunteers; cooks, shelter, language coaches, buddies. Making volunteering flow for all volunteers and refugees.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-09 22:14:09</sys_created_on>
+        <sys_id>9e54c0fc9368f250c9c570aefaba1089</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SharedTable</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9e54c0fc9368f250c9c570aefaba1089</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-09 22:14:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

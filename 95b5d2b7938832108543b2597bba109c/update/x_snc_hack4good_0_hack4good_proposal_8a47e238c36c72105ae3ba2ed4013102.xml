@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li><strong>Improved student satisfaction</strong> by providing a single platform to raise concerns and seek guidance.</li><li><strong>Faster issue resolution</strong> as reports and requests are automatically routed to the right administrators or mentors.</li><li><strong>Increased engagement</strong> with mentorship programs and educational resources.</li><li><strong>Data-driven insights</strong> into common challenges, enabling targeted interventions.</li></ul>]]></potential_impact>
+        <problem_statement>Many schools and colleges struggle with fragmented communication between students, mentors, and administrators. Students often don’t know where to report issues, provide feedback, or seek guidance, and administrators lack a centralized platform to manage student engagement and support efficiently.</problem_statement>
+        <project_name>CampusConnect – Centralized Student Engagement &amp; Issue Reporting</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li><strong>Service Portal</strong> – for the student-facing submission and dashboard interface.</li><li><strong>Flow Designer</strong> – to automate routing, notifications, and escalations.</li><li><strong>Now Assist (AI chatbot)</strong> – to provide guidance and answer FAQs.</li><li><strong>Performance Analytics</strong> – to measure engagement, resolution times, and recurring issues.</li><li><strong>IntegrationHub</strong> – to connect with LMS, email, or messaging platforms.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Student and staff user directories (LDAP/SSO integration) for authentication.</li><li>Access to learning management systems or other educational platforms for integration.</li><li>Existing communication channels (email, Teams, SMS) for notifications.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring proper <strong>data privacy</strong> and compliance with student data regulations.</li><li>Coordinating multiple departments and mentors to adopt the platform.</li><li>Training students and staff to use the portal effectively.</li><li>Integrating with legacy educational platforms that may not have APIs.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-10 09:40:59</sys_created_on>
+        <sys_id>8a47e238c36c72105ae3ba2ed4013102</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CampusConnect – Centralized Student Engagement &amp; Issue Reporting</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8a47e238c36c72105ae3ba2ed4013102</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-10 09:41:00</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

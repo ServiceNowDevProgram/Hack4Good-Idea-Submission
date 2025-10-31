@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A digital surplus food management system could:</p>
+<ol><li>
+<p>Significantly reduce waste — saving upwards of 20-30% of edible food globally.</p>
+</li><li>
+<p>Improve redistribution logistics, ensuring surplus food reaches those in need swiftly.</p>
+</li><li>
+<p>Increase transparency and trust via blockchain and real-time tracking.</p>
+</li><li>
+<p>Enable predictive analytics to identify surplus before overproduction or spoilage occurs.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>The global food system witnesses massive inefficiencies, with about 1.3 billion tons of food wasted annually while 828 million people face hunger. Contributing factors include supply chain losses (30-40%), logistical hurdles, lack of real-time data, and regulatory barriers. Smaller farms and food producers often discard surplus food due to liability concerns, complex regulations, and logistical constraints, which results in environmental damage, economic loss, and increased food insecurity in vulnerable communities.</problem_statement>
+        <project_name>Community Food Security Network &amp; Surplus Tracker</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A platform that:</p>
+<ol><li>
+<p>Integrates IoT sensors for real-time monitoring of food quality and inventory levels.</p>
+</li><li>
+<p>Connects food producers, distributors, and charities via a centralized dashboard.</p>
+</li><li>
+<p>Utilizes AI and route optimization algorithms to streamline logistics.</p>
+</li><li>
+<p>Implements blockchain for transparent tracking from farm to table.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>IoT sensors and integrated supply chain data sources.</p>
+</li><li>
+<p>APIs for external food safety and regulatory platforms.</p>
+</li><li>
+<p>Blockchain infrastructure for secure, transparent records.</p>
+</li><li>
+<p>Secure cloud storage aligned with data privacy standards.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p>Complex regulatory compliance in various jurisdictions.</p>
+</li><li>
+<p>Data privacy and security, especially around sensitive supplier data.</p>
+</li><li>
+<p>Ensuring real-time, accurate IoT data collection.</p>
+</li><li>
+<p>Engaging diverse stakeholders with varying technological capacities</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 14:49:54</sys_created_on>
+        <sys_id>ddad2adb93b0321097a53d6efaba10c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Community Food Security Network &amp; Surplus Tracker</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ddad2adb93b0321097a53d6efaba10c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 14:49:55</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Increased Mentorship Matches: Track the number of successful student-alumni mentorship connections established per semester.</li><li>Higher Internship and Job Placement Rates: Monitor the percentage increase in students securing internships or jobs via alumni referrals.</li><li>Alumni Engagement Growth: Measure active participation and feedback from alumni in mentoring and career events.</li><li>Skill Development: Assess student skill improvements through pre- and post-program surveys or feedback forms.</li><li>Network Expansion: Quantify the growth of the institution’s professional network over time.</li></ul>]]></potential_impact>
+        <problem_statement>Develop a workflow to connect students and alumni for mentoring, internships, and career opportunities. ServiceNow can automate matching based on interests and skills, improving outcomes for graduates and strengthening the education ecosystem.</problem_statement>
+        <project_name>Alumni Engagement and Career Services</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>ServiceNow Flow Designer: Automate the end-to-end workflow for alumni-student matching, event scheduling, and feedback collection.</li><li>ServiceNow IntegrationHub: Connect with external platforms such as LinkedIn, email, or SMS for broader outreach and communication.</li><li>ServiceNow Customer Service Management (CSM): Manage inquiries, support requests, and case tracking for both alumni and students.</li><li>ServiceNow Virtual Agent: Provide 24/7 automated assistance for frequently asked questions and scheduling.</li><li>ServiceNow Performance Analytics: Track KPIs, generate dashboards, and analyze engagement trends.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>Secure access to the institution&#39;s alumni and student databases (with proper consent and data governance).</li><li>Integration with communication tools (e.g., email, SMS, calendar systems).</li><li>APIs or connectors for external professional networking platforms (e.g., LinkedIn).</li><li>Authentication mechanisms (SSO, OAuth) for user identity management.</li><li>Mobile/web application interface for users to update profiles, express interests, and communicate.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Data Privacy and Security: Ensuring compliance with data protection regulations when handling personal information.</li><li>User Engagement: Motivating both students and alumni to participate actively and regularly update their profiles.</li><li>Accurate Matching: Designing robust algorithms to ensure relevant and high-quality matches based on interests, skills, and availability.</li><li>Integration Complexity: Managing integrations with multiple external platforms and maintaining data consistency.</li><li>Scalability: Supporting a growing user base across different campuses or regions as the program expands.</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 12:21:45</sys_created_on>
+        <sys_id>e2a5e5c253747210f0ad17c0a0490efb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Alumni Engagement and Career Services</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_e2a5e5c253747210f0ad17c0a0490efb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 12:21:46</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

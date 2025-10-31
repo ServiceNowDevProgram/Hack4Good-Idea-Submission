@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Citizens can report damaged trees, track city greening projects, and volunteer for reforestation campaigns. Expected measurable outcomes:</p>
+<ol><li>10% increase in urban tree coverage over 3 years</li><li>Better air quality and reduced heat in target areas</li></ol>]]></potential_impact>
+        <problem_statement>Urbanization in Nigeria has led to deforestation and loss of green spaces, worsening air quality and urban heat. City councils lack systems to track or maintain trees and parks effectively.</problem_statement>
+        <project_name>Urban Tree and Park Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li>ServiceNow Public Sector Digital Services (PSDS) for citizen reporting</li><li>Field Service Management for maintenance scheduling</li><li>Performance Analytics &#43; GIS integration for canopy coverage maps</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>Satellite imagery or GIS data integration</li><li>Mobile-friendly citizen reporting interface</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>Data accuracy (citizen-submitted reports)</li><li>Coordinating local environmental agencies</li><li>Sustaining long-term maintenance funding</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-16 15:38:00</sys_created_on>
+        <sys_id>ef327abe83ecb210d37c58a6feaad329</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Urban Tree and Park Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_ef327abe83ecb210d37c58a6feaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-16 15:38:01</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">The Financial Goal Planner is a smart personal finance application designed to help individuals and families set, track, and achieve their financial goals. Whether it is required for a house, a child’s education, a vacation, or retirement, the app provides personalized investment strategies and budgeting guidance based on your income, expenses, and risk tolerance.</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;"> </p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Key features include:-</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;"> </p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Goal Setting-- Define short-term and long-term goals (e.g., buy a home, save for college).</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Budget Planning-- Analyze monthly income and expenses to optimize savings.</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Investment Advice-- Get tailored recommendations on how and where to invest (e.g., mutual funds, stocks, SIPs) to meet your goals.</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Family Planning(Optional)-- Create shared financial goals with spouse or family and track progress collaboratively.</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Progress Tracker-- Visualize the progress toward each goal with charts and timelines.</p>
+<p style="margin: 0cm; font-size: 12pt; font-family: Aptos, sans-serif;">Alerts &amp; Suggestions-- Receive real-time alerts, tips, and financial insights to stay on track.</p>]]></potential_impact>
+        <problem_statement>Many of us find planning our financial goals planning difficult due to having less expertise in financial strategies and lack of sufficient time to research on it.&#13;
+This will require a personal financial planner at our fingertips which will do all the market research and suggest the savings, investments strategies based on the expenses and financial goals of an individual.&#13;
+It will also track timely expenses and suggest accordingly if there is any need to increase the investment plan by modifying the investment strategy.</problem_statement>
+        <project_name>Financial goal planner</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>App engine studio -- To develop a custom application</li><li>Service Catalog Form -- To submit the long term/short term goals and timely expenses</li><li>Tables and scripts -- To hold the data and put validations.</li><li>Service Portal/UI builder -- To have nice UI to see the expense and investment trends/market news/stock market returns providing overall awareness of current situation.</li><li>NASK or an AI Agent -- To take all the long term/short term goals and get the information using AI and suggest/plan the investments accordingly.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>NA</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>NA</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-04 10:56:13</sys_created_on>
+        <sys_id>76a63ffec350b210b541bb4599013122</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Financial goal planner</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_76a63ffec350b210b541bb4599013122</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-04 10:56:15</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
