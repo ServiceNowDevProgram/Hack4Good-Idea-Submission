@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A centralized, automated transparency dashboard would significantly enhance accountability and trust within the organization. Donors and management would have clear visibility into where and how funds are allocated, the progress of funded initiatives, and the outcomes achieved.<br />The impact would include:</p>
+<ol><li>
+<p>Improved <strong>financial accountability</strong> and <strong>auditing accuracy</strong>.</p>
+</li><li>
+<p>Increased <strong>donor confidence</strong> and engagement.</p>
+</li><li>
+<p>Enhanced <strong>data-driven decision-making</strong> for future fund allocation.</p>
+</li><li>
+<p>Reduced <strong>manual workload</strong> for finance and operations teams.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Non-profit organizations often face challenges in tracking, managing, and showcasing how funds are utilized across projects, departments, or causes. Manual reporting processes, scattered data sources, and lack of visibility can lead to inefficiencies, mismanagement risks, and reduced donor confidence. Without real-time insights, stakeholders—including donors, auditors, and administrators—struggle to assess whether funds are being used effectively and ethically.</problem_statement>
+        <project_name>Fund Utilization Transparency Dashboard</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The ideal solution would be a <strong>ServiceNow-based Fund Utilization Transparency Dashboard</strong> that provides real-time visibility into fund allocation, spending, and outcomes.<br />Key features could include:</p>
+<ol><li>
+<p><strong>Centralized fund tracking:</strong> Integrate data from donation records, expense reports, and project budgets.</p>
+</li><li>
+<p><strong>Automated updates:</strong> Reflect live spending data through integrations with finance tools or internal ledgers.</p>
+</li><li>
+<p><strong>Custom dashboards:</strong> Visualize fund utilization per project, category, or time period using charts and KPIs.</p>
+</li><li>
+<p><strong>Approval workflows:</strong> Enable review and approval processes for fund requests and disbursements.</p>
+</li><li>
+<p><strong>Audit trail:</strong> Maintain a complete record of fund movements for transparency and compliance.</p>
+</li><li>
+<p><strong>Role-based access:</strong> Ensure that donors, managers, and auditors see only relevant data.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ol><li>
+<p>Integration with external <strong>financial management or accounting systems</strong> for real-time fund tracking.</p>
+</li><li>
+<p>Availability of accurate <strong>donation and project data</strong> from source systems.</p>
+</li><li>
+<p>Proper <strong>user roles and access management</strong> to ensure secure data visibility.</p>
+</li><li>
+<p>Optional integration with <strong>third-party visualization tools</strong> (like Power BI or Tableau) if advanced analytics are required.</p>
+</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li>
+<p><strong>Data accuracy and completeness:</strong> Ensuring all financial and project data is reliable and updated.</p>
+</li><li>
+<p><strong>Integration complexity:</strong> Connecting ServiceNow with multiple financial systems may require custom connectors.</p>
+</li><li>
+<p><strong>Change management:</strong> Training users to adapt to a new automated, transparent reporting process.</p>
+</li><li>
+<p><strong>Access control:</strong> Maintaining the right balance between transparency and confidentiality for financial data.</p>
+</li><li>
+<p><strong>Scalability:</strong> Ensuring the dashboard performs well as the organization grows and more projects are added.</p>
+</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 18:35:44</sys_created_on>
+        <sys_id>173b68bb83347210befc6830ceaad3c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Fund Utilization Transparency Dashboard</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_173b68bb83347210befc6830ceaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 18:35:45</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
