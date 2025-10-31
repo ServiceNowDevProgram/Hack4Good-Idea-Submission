@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>MindEase provides a safe and anonymous environment where users can access mental health support, connect with trained volunteers or professionals, and find curated resources that promote wellbeing.<br /><br />The system would increase community engagement in mental health programs by 20%, reduce average wait times for counseling by 60%, and offer real-time analytics on wellbeing trends to help NGOs target support efficiently.</p>]]></potential_impact>
+        <problem_statement>Underserved communities face increasing mental health challenges but have limited access to affordable, confidential, and structured support systems. Social stigma, shortage of qualified professionals, and absence of centralized digital platforms make it difficult for individuals to seek timely help, connect with counselors, or access peer support, worsening mental health outcomes and community well-being.</problem_statement>
+        <project_name>MindEase – Community Mental Health Support Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>An anonymous counseling portal that integrates AI-powered chat support, appointment scheduling, and mental wellness resources accessible via web or mobile.<br /><br />It would use Virtual Agent for AI-driven mental health conversations, Customer Service Management (CSM) to manage user cases, and App Engine Studio to design support workflows and resource directories.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The solution would depend on secure NLP chatbot APIs, encrypted video call systems, and cloud-based storage with strong privacy controls to protect user data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>The main challenges include handling sensitive user information securely, ensuring availability of trained counselors, and maintaining 24/7 system uptime for emergency use.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 16:53:18</sys_created_on>
+        <sys_id>1a631c7fc3b0b210a22db90ed40131ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MindEase – Community Mental Health Support Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_1a631c7fc3b0b210a22db90ed40131ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 16:53:19</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
