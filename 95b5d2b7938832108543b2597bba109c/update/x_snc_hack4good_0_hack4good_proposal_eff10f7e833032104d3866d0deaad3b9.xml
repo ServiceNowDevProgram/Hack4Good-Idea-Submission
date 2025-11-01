@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution would provide direct, measurable improvements to patient outcomes and stress levels:</p>
+<ol start="1"><li>
+<p>Increased Treatment Adherence (15%): Automated reminders and simplified scheduling reduce missed appointments and medication lapses.</p>
+</li><li>
+<p>Reduced Patient Stress (Qualitative): A single pane of glass for all non-clinical tasks significantly reduces the cognitive burden of managing a complex condition.</p>
+</li><li>
+<p>Faster Access to Aid (30%): Automated routing of requests for non-medical aid (e.g., transportation or financial counseling) directly to the correct partner agency, cutting down on lag time.</p>
+</li></ol>]]></potential_impact>
+        <problem_statement>Individuals managing chronic illnesses (like diabetes, multiple sclerosis, or complex autoimmune disorders) often face immense coordination challenges that lead to treatment gaps and stress. They must juggle multiple appointments, medications, financial aid applications, and support group meetings across various providers and agencies. The current system is fragmented—there is no single tool to manage a patient's non-clinical support journey. This lack of unified management leads to missed appointments, lapses in medication refills, and delayed access to critical non-medical resources (e.g., transportation aid, nutritional support).</problem_statement>
+        <project_name>CareBridge - Chronic Illness Support Coordinator</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Mobile</p>
+<p>Portal </p>
+<p>Integration Hub for Accessing Partner Database/Rest API Call</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Security/HIPAA Compliance: Must be built with robust security measures to protect sensitive Personal Health Information (PHI).</p>
+<p>Secure APIs: Reliance on secure APIs for partner communication and data exchange.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Privacy and Security: Navigating the regulatory requirements (like HIPAA in the US) necessary to handle PHI, requiring significant security controls.</p>
+<p>Partner Integration: The difficulty of onboarding and standardizing communication with diverse, resource-constrained non-profit partners (e.g., small local food banks, regional transportation services).</p>
+<p>User Adoption: Ensuring patients, who may be elderly or tech-averse, find the app intuitive and easy to use during a period of poor health.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 03:01:33</sys_created_on>
+        <sys_id>eff10f7e833032104d3866d0deaad3b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CareBridge - Chronic Illness Support Coordinator</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_eff10f7e833032104d3866d0deaad3b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 03:01:34</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<table><thead><tr><th>ServiceNow Capability</th><th>Use Case</th></tr></thead><tbody><tr><td><strong>App Engine</strong></td><td>Create custom tables for Products, Suppliers, Store Locations, Staff, and Inventory Transactions.</td></tr><tr><td><strong>Customer Service Management (CSM)</strong></td><td>Handle supplier issues, product returns, or store-related complaints as Cases with workflows and SLAs.</td></tr><tr><td><strong>Incident Management</strong></td><td>Track operational incidents like power outages, billing system errors, or refrigeration failures.</td></tr><tr><td><strong>Flow Designer</strong></td><td>Automate reorder alerts, supplier follow-ups, and maintenance workflows.</td></tr><tr><td><strong>Service Portal</strong></td><td>Provide a self-service interface for store staff to log stock issues, raise supplier tickets, or view assigned tasks.</td></tr><tr><td><strong>Reports &amp; Dashboards</strong></td><td>Track metrics such as stock levels, restock turnaround time, supplier performance, and store sales trends.</td></tr><tr><td><strong>Notifications &amp; Email</strong></td><td>Send automated low-stock alerts, supplier follow-ups, and task reminders.</td></tr></tbody></table>]]></potential_impact>
+        <problem_statement>Supermarkets and grocery chains often struggle to manage daily operations efficiently — including stock replenishment, supplier coordination, billing discrepancies, maintenance issues, and employee shift management.&#13;
+Most of these tasks are tracked using spreadsheets, emails, or manual registers, leading to stockouts, delayed restocking, and poor visibility into store performance.&#13;
+&#13;
+MarketEase aims to digitize and automate supermarket operations — from inventory tracking and supplier communication to store maintenance and performance insights — through a single ServiceNow platform.</problem_statement>
+        <project_name>MarketEase — ServiceNow Application for Supermarket</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The <strong>MarketEase</strong> solution offers significant operational, financial, and customer experience improvements for supermarkets.</p>
+<h4><strong>1. Operational Efficiency</strong></h4>
+<ul><li>
+<p>75% reduction in manual effort through automated stock monitoring, supplier coordination, and maintenance workflows.</p>
+</li><li>
+<p>Eliminates multiple spreadsheets and WhatsApp-based communication.</p>
+</li></ul>
+<h4><strong>2. Reduced Stockouts</strong></h4>
+<ul><li>
+<p>Automatic reorder triggers when stock drops below threshold — preventing sales loss.</p>
+</li><li>
+<p>SLA-based restocking improves supply reliability by 50%.</p>
+</li></ul>
+<h4><strong>3. Supplier Collaboration</strong></h4>
+<ul><li>
+<p>Real-time case management for supplier issues ensures faster response and delivery.</p>
+</li><li>
+<p>Vendor performance dashboards promote accountability.</p>
+</li></ul>
+<h4><strong>4. Maintenance Tracking</strong></h4>
+<ul><li>
+<p>Facility issues (like cooling or lighting) logged as incidents with auto-assignment and escalation — improving uptime by 60%.</p>
+</li></ul>
+<h4><strong>5. Data-Driven Decisions</strong></h4>
+<ul><li>
+<p>Unified dashboards for sales, stock movement, and performance trends help optimize procurement and pricing.</p>
+</li></ul>
+<h4><strong>6. Scalability &amp; Replicability</strong></h4>
+<ul><li>
+<p>Can be extended to multiple stores, franchise networks, or regional warehouses.</p>
+</li><li>
+<p>Reusable model for any retail business needing centralized operations control.</p>
+</li></ul>
+<h4><strong>7. Sustainability Impact</strong></h4>
+<ul><li>
+<p>Paperless operations for stock requests, receipts, and reports — promoting eco-friendly, digital-first management.</p>
+</li></ul>
+<hr />
+<h3><strong>Overall Measurable Outcomes</strong></h3>
+<div class="_tableContainer_1rjym_1">
+<div class="group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse">
+<table class="w-fit min-w-(--thread-content-width)"><thead><tr><th><strong>Impact Area</strong></th><th><strong>Current Challenges</strong></th><th><strong>Post-Implementation Results</strong></th></tr></thead><tbody><tr><td><strong>Inventory Management</strong></td><td>Manual tracking, stockouts</td><td>75% automation and 50% fewer stockouts</td></tr><tr><td><strong>Supplier Coordination</strong></td><td>Delayed restocks, missed follow-ups</td><td>60% faster resolution via workflows</td></tr><tr><td><strong>Maintenance Handling</strong></td><td>Manual logging, delays</td><td>70% improvement in uptime</td></tr><tr><td><strong>Data Visibility</strong></td><td>Fragmented systems</td><td>100% centralized dashboard</td></tr><tr><td><strong>Staff Productivity</strong></td><td>Manual reporting</td><td>40% improvement via automation</td></tr><tr><td><strong>Customer Satisfaction</strong></td><td>Empty shelves, poor response</td><td>4.6★&#43; satisfaction rating (estimated)</td></tr></tbody></table>
+</div>
+</div>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Yes, implementing <em>MarketEase</em> requires the following:</p>
+<p><strong>ServiceNow CSM and App Engine licenses</strong> for creating custom tables and workflows.</p>
+<p><strong>IntegrationHub</strong> for connecting with:</p>
+<p><strong>POS systems</strong> (Point of Sale) for daily sales data.</p>
+<p><strong>Supplier ERP systems</strong> for automated purchase order updates.</p>
+<p><strong>Email/SMS gateways</strong> for supplier and staff notifications.</p>
+<p><strong>Mobile App configuration</strong> for store managers to monitor real-time issues on the go.</p>
+<p><strong>Access control setup (ACLs)</strong> to ensure only store staff can manage operational data while management accesses consolidated reports.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><table><thead><tr><th>Challenge</th><th>Description</th></tr></thead><tbody><tr><td><strong>Data Migration</strong></td><td>Importing historical stock and supplier data from Excel or POS systems.</td></tr><tr><td><strong>Integration Complexity</strong></td><td>Synchronizing live data between POS and ServiceNow for accurate reporting.</td></tr><tr><td><strong>User Adoption</strong></td><td>Training staff to raise and track requests via Service Portal instead of emails.</td></tr><tr><td><strong>Access Control</strong></td><td>Configuring roles to ensure visibility restrictions between staff, managers, and suppliers.</td></tr><tr><td><strong>Scalability</strong></td><td>Ensuring consistent performance when managing multiple supermarket branches.</td></tr><tr><td><strong>Connectivity</strong></td><td>Dependence on stable network for real-time inventory updates.</td></tr></tbody></table>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-29 17:30:25</sys_created_on>
+        <sys_id>d8570e078338b210edbee5d0deaad36a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MarketEase — ServiceNow Application for Supermarket</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d8570e078338b210edbee5d0deaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-29 17:30:26</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

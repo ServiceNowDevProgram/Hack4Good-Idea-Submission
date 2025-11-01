@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This system could reduce emergency response times, prevent avoidable hospital admissions, and provide peace of mind to families and local councils. It could also save healthcare resources and improve quality of life for vulnerable elderly citizens.</p>]]></potential_impact>
+        <problem_statement>Many elderly people in the UK live alone and face health or safety risks that often go unnoticed until too late. Traditional welfare checks rely on phone calls or in-person visits, which are time-consuming and inconsistent. There’s a need for an automated, proactive way to ensure seniors’ wellbeing and alert caregivers quickly in emergencies.</problem_statement>
+        <project_name>Elder Care – Smart Welfare Check System for Seniors</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Use <strong>ServiceNow Flow Designer</strong> to automate daily welfare check-ins via SMS or mobile app. <strong>Virtual Agent</strong> handles responses from seniors, while <strong>Case Management</strong> routes non-responses or distress signals to caregivers or local social care teams. A <strong>dashboard</strong> provides real-time status tracking for support staff.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with communication APIs like <strong>Twilio</strong> for SMS, and possibly smart home sensors or wearable health devices for passive monitoring.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Data privacy and security (handling sensitive personal data), ensuring seniors are comfortable using the system, and managing alerts effectively without overwhelming support staff.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 22:23:31</sys_created_on>
+        <sys_id>09855cab83703210eb5fa4d0deaad369</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Elder Care – Smart Welfare Check System for Seniors</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_09855cab83703210eb5fa4d0deaad369</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 22:23:32</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

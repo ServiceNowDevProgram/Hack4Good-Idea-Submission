@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Improves placement coordination efficiency by 70%.</p>
+<p>Reduces communication delays between students, TPOs (Training &amp; Placement Officers), and recruiters.</p>
+<p>Helps colleges track student eligibility, application history, and job offers in one place.</p>
+<p>Provides equal opportunities to students through transparent and data-driven placements.</p>]]></potential_impact>
+        <problem_statement>Colleges and universities struggle to efficiently manage campus recruitment drives. Placement officers use spreadsheets and emails to coordinate with companies, resulting in missed communication, poor tracking, and low visibility of student readiness. Students also lack a transparent view of available drives and their application status.</problem_statement>
+        <project_name>“CampusDrivesConnect” — Streamlined Campus Placement and Drive Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow app for managing the entire campus recruitment lifecycle:</p>
+<p>Companies can post job drives through a Service Portal.</p>
+<p>Eligible students automatically receive notifications and can apply online.</p>
+<p>Flow Designer routes applications to placement officers for review.</p>
+<p>Dashboards display placement statistics, offers by department, and eligibility analytics.</p>
+<p>Virtual Agent can answer FAQs like “Am I eligible for this drive?” or “What’s my application status?”.</p>
+<p> </p>
+<p><strong>App Engine Studio</strong> — to build core modules for drives, applications, and eligibility tracking</p>
+<p><strong>Flow Designer</strong> — for automation of approval and notifications</p>
+<p><strong>Service Portal</strong> — for student and recruiter interaction</p>
+<p><strong>Reporting &amp; Dashboards</strong> — for placement metrics and insights</p>
+<p><strong>Virtual Agent</strong> — for student support and quick queries</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with <strong>LinkedIn</strong> or <strong>college ERP systems</strong> to import student details</p>
+<p>Optional integration with <strong>email/SMS gateways</strong> for notifications</p>
+<p><strong>Document upload APIs</strong> for resumes and offer letters</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring accurate eligibility matching (e.g., CGPA, branch, or skill-based criteria)</p>
+<p>Data security for student profiles and offer letters</p>
+<p>Change management to train TPOs and recruiters to use the new system</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 17:49:57</sys_created_on>
+        <sys_id>f1d61fdf83b03610edbee5d0deaad398</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>“CampusDrivesConnect” — Streamlined Campus Placement and Drive Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_f1d61fdf83b03610edbee5d0deaad398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 17:49:58</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

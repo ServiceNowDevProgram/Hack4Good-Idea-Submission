@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Up to 50% faster volunteer assignment through automated scheduling and availability matching.<br />Improved donation utilization by aligning incoming donations directly to verified requests.<br />Increased transparency and donor trust through dashboards showing live impact metrics.<br />Better volunteer retention with engagement tracking and feedback loops.</p>]]></potential_impact>
+        <problem_statement>Non-profit organizations often struggle to efficiently coordinate volunteers and donations during community drives or ongoing social initiatives. Manual tracking of volunteers, mismatched donation requests, and lack of visibility into real-time needs lead to wasted effort and slower community impact.</problem_statement>
+        <project_name>HopeLink – Unified Volunteer &amp; Donation Management Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>HopeLink will act as a centralized ServiceNow platform connecting donors, volunteers, and NGOs.<br />NGOs can post real-time needs (food, clothes, funds, manpower).<br />Volunteers can register, view available opportunities, and track their impact hours.<br />Donors can contribute items or funds and see how their donations are being used.<br />Automation assigns volunteers based on skillset, location, and availability.<br />Dashboards visualize donation impact, volunteer participation, and beneficiary reach.<br /><br />ServiceNow Customer Service Management (CSM): For NGO and donor interaction and case management.<br />ServiceNow App Engine Studio: To build custom volunteer and donation modules.<br />ServiceNow Flow Designer: To automate matching between requests, donations, and volunteers.<br />ServiceNow Performance Analytics: For impact measurement and reporting.<br />ServiceNow Mobile App: For volunteers to check in/out and update task completion on-site.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 17:40:55</sys_created_on>
+        <sys_id>8e049713c3703210f215df0d0501310d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HopeLink – Unified Volunteer &amp; Donation Management Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_8e049713c3703210f215df0d0501310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 17:40:56</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

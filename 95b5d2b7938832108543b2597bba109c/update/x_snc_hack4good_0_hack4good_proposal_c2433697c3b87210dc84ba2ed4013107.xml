@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>It could help students who envision entering the professional field leverage the fact that they do now have experience on the platform.</p>]]></potential_impact>
+        <problem_statement>The issue is the ability to get an entry-level ServiceNow job with no experience on the platform.</problem_statement>
+        <project_name>Student Success</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Ideally, it would be awesome if a college were willing to offer a ServiceNow course where students build their confidence working on the platform. This course could cover 1 or 2 modules at most, but in great detail. The course could be tailored so that the students could learn how agile works as well. They could set up mini sprints where they would build 1 or 2 apps in which students take on the roles of business analysts, developers/engineers, and architects. At the end of the course, they could have the option to take either the ServiceNow CSA exam or CAD exam. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The technical dependency I see is making sure the course is thorough enough so that the students feel confident in taking either of the exams without second-guessing their choice. .</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Making sure that there are enough students wanting to take the course so the workload can be distrubuted fairly. Thankfully ServiceNow offers free instances so the students can use that to create their app on and sometimes they offer the ability to go through the CSA course and get a free voucher to take the exam without having to pay for it out of pocket. If the student does decide to take the CAD it would be cool if ServiceNow could offer a discount of some kind so that group of students are not stuck having to pay for the cost out of pocket.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 15:28:21</sys_created_on>
+        <sys_id>c2433697c3b87210dc84ba2ed4013107</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Student Success</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c2433697c3b87210dc84ba2ed4013107</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 15:28:24</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

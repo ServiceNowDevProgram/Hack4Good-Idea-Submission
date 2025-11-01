@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="text-align: justify;">The Kirana Connect initiative empowers local shopkeepers by providing them with digital visibility and  revenue opportunities through easy-to-use platform. By enabling small Kirana stores to register, showcase their products, and engage directly with wider customers, the solution helps bridge the gap between traditional offline retail and modern digital commerce. It promotes the spirit of Vocal for Local, strengthening small business ecosystems and encouraging communities to buy from available nearby vendors </p>]]></potential_impact>
+        <problem_statement>Many local Kirana stores operate completely offline, relying on word-of-mouth or walk-in customers. Customers, on the other hand, often overpay for small essentials online or spend time visiting multiple shops for availability checks. There is a need for a simple  platform that connects nearby Kirana stores to wider customers enabling inquiries, small orders, and community-based commerce</problem_statement>
+        <project_name>KiranaConnect – Digital Bridge for Local Stores</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li style="text-align: justify;">App Engine Studio (AES) to create custom tables for Shops, Products, Orders, Customers, and Feedback, defining relationships and access controls for each user type</li><li>Flow Designer to automate workflows such as shop registration approvals, order processing, status updates, and feedback collection after order completion</li><li>Portal  for shop owners and customers, featuring product listings, image uploads, and inquiry forms</li><li>Notifications &amp; Email to configure automatic alerts to send order confirmations, approval messages</li><li>Performance Analytics to use dashboards to visualize analyze top-selling products, and measure customer satisfaction trends</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="text-align: justify;">Initial Project implementation purely OOTB ServiceNow capabilities. later in future Integration with maps to track location of delivery or UPI payment link</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Onboarding non-technical owners and training them to use the portal. Keeping product data up to date will be a challenge. Building customer trust and encouraging early adoption</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 02:25:56</sys_created_on>
+        <sys_id>b47a81a7537032105689f7e0a0490e44</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>KiranaConnect – Digital Bridge for Local Stores</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_b47a81a7537032105689f7e0a0490e44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 02:25:57</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

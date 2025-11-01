@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>The solution would enable faster, organized telemedicine support, reducing patient wait times, improving diagnosis accuracy, and helping nonprofits serve more people with limited medical staff.</p>]]></potential_impact>
+        <problem_statement>Many rural and underserved areas lack access to doctors, causing delays in diagnosis and treatment. Nonprofits struggle to manage remote consultations efficiently due to manual case handling and poor data coordination.</problem_statement>
+        <project_name>Automated Medicine Workflow for Remote Communities</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Using ServiceNow’s Case Management, Flow Designer, and Virtual Agent, the system will automate patient intake, triage, doctor assignment, and follow-up tracking. AI chatbots can handle common queries and route urgent cases to doctors via integration with Teams or Zoom.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with video platforms (Zoom/Teams), health record systems (FHIR/HL7), and mobile devices for field data collection.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy and compliance (GDPR/HIPAA), internet connectivity in rural areas, and user adoption among low-tech staff or volunteers.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 01:17:13</sys_created_on>
+        <sys_id>24b37fc783f0fa10eb5fa4d0deaad35f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Automated Medicine Workflow for Remote Communities</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_24b37fc783f0fa10eb5fa4d0deaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 01:17:14</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

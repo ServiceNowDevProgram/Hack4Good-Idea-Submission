@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="text-align: justify;">Project promotes sustainability by enabling students to reuse and exchange hostel items instead of discarding them. It helps new students access essential resources at minimal or no cost, making college life more affordable and inclusive. The platform fosters a sense of community and collaboration between pass-outs and freshers while encouraging social responsibility and engagement</p>]]></potential_impact>
+        <problem_statement>Every year, college students who pass-out  leave behind or struggle to sell reusable items such as books, mattresses, bicycles, and many study accessories. These often end up discarded or wasted, while fresher students spend additional money purchasing the same essentials. There is a  need for platform that allows students to donate or sell items easily while helping freshers access affordable, second-hand essentials.</problem_statement>
+        <project_name>CollegeCycle: Reuse, Share , Sell Essentials</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li style="text-align: justify;">App Engine Studio (AES) to design the application, create custom tables for listings, users, and transactions, and define application data models and access controls.</li><li style="text-align: justify;">Custom Portal: Builds ta student-friendly, interface for posting, browsing, and claiming hostel items with image upload support.</li><li style="text-align: justify;">Flow Designer to automates workflows such as item approval, notifications when someone shows interest, and confirmation messages after successful exchanges.</li><li style="text-align: justify;">Notifications &amp; Email to sends automated emails or in-platform notifications to item owners and interested students for updates, approvals, and reminders.</li><li style="text-align: justify;">Performance Analytics to provides dashboards to track total listings, completed exchanges metrics</li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p style="text-align: justify;">Currently project will have no technical dependencies as aim is to build OOTB application. In future maybe get SSO and verification for college students through college Id card</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ol><li style="text-align: justify;">Encouraging active participation and project awareness</li><li style="text-align: justify;">Ensuring authenticity and quality of items listed</li><li style="text-align: justify;">Moderation of listings to avoid spam or duplicates</li></ol>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 00:25:15</sys_created_on>
+        <sys_id>d541e7cb537c72105689f7e0a0490e33</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CollegeCycle: Reuse, Share , Sell Essentials</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_d541e7cb537c72105689f7e0a0490e33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 00:25:17</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

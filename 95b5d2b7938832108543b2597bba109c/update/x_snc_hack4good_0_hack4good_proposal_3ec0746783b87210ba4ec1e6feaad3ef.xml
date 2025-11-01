@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Real-time safety intervention: Victims can discreetly signal for help, allowing responders to locate and assist them quickly.</p>
+<p>Increased awareness: The app can include educational resources, survivor stories, and campus-specific support contacts to raise awareness.</p>
+<p>Expanded coverage: Integration with campus networks ensures broader access to support services, especially for students who may not know where to turn.</p>
+<p>Data-driven prevention decision making: Aggregated, anonymized data can help identify abuse hotspots and inform campus safety policies.</p>]]></potential_impact>
+        <problem_statement>Abuse of persons within college campuses and communities are common place. Campus Safe Haven seeks to provide a tool for educating, empowering, responding and removing these victims providing support and comfort by placing them in safe house.</problem_statement>
+        <project_name>Campus Safe Haven</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Field Service Management application FSM: Integrating with Customer Service with Dispatch supporting practitioners to location with up to date information.</p>
+<p>ServiceNow Customer Service Management (CSM): Tracks victim support cases, connects users with advocates, and manages follow-ups.</p>
+<p>ServiceNow Security Operations: Handles incident response securely and integrates with law enforcement or campus security systems.</p>
+<p>ServiceNow IntegrationHub: Connects with third-party APIs (e.g., shelter databases, SMS gateways, GPS services).</p>
+<p> </p>
+<p>Secure messaging: Encrypted chat with counselors, campus advocates, or emergency responders.</p>
+<p>Incident logging: Victims can record events securely for future legal or medical use.</p>
+<p>Safe house locator: Displays nearby shelters or safe spaces with real-time availability.</p>
+<p>Operation center locator and SOS emergency button and  dedicated short dialing code, provide ease and convenience of use. </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>GPS and mapping APIs: Integration with Google Maps, Apple Maps, or OpenStreetMap for location tracking and safe house discovery.</p>
+<p>Secure cloud storage: For encrypted logs, messages, and user data.</p>
+<p>Authentication protocols: Multi-factor authentication and biometric options to prevent unauthorized access.</p>
+<p>Campus network integration and security: APIs or data feeds from campus security systems and student services.</p>
+<p>Real-time messaging infrastructure: Possibly using Twilio or Firebase for secure, low-latency communication.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Privacy and safety risks: Ensuring data is protected as any leak could endanger survivors and responders lives.</p>
+<p>User trust and adoption: Victims may fear using the app or not trust its security. Building confidence through advocacy partnerships is key.</p>
+<p>False alerts or misuse: Systems must distinguish between real emergencies and accidental triggers.</p>
+<p>Safe house coordination: Real-time availability and capacity data from shelters may be hard to standardize or access.</p>
+<p>Legal and ethical compliance: Must comply with HIPAA, FERPA, and other privacy laws, especially on campuses.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 01:09:03</sys_created_on>
+        <sys_id>3ec0746783b87210ba4ec1e6feaad3ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Campus Safe Haven</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_3ec0746783b87210ba4ec1e6feaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 01:09:05</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

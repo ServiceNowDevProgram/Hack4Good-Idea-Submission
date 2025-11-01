@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<ul><li>Help students explore <strong>legal career paths</strong> through guided modules and mentor sessions</li><li>Enable law schools and NGOs to <strong>track engagement, host events, and issue badges</strong></li><li>Provide <strong>sponsor dashboards</strong> showing regional impact, topic trends, and success stories</li><li>Foster <strong>peer learning</strong> through QR-linked challenges, career maps, and storytelling walls</li><li>Build a <strong>pipeline of confident, informed legal professionals</strong></li></ul>]]></potential_impact>
+        <problem_statement>Students interested in law often struggle to find mentors, understand career paths, or access real-world exposure. Legal education is theory-heavy, and many youth don’t know how to explore fields like cyber law, IP law, human rights, or corporate law. NGOs and law schools want to guide them, but lack scalable, trackable tools. Sponsors want to support legal talent but lack visibility into engagement.&#13;
+This leads to missed opportunities, low confidence, and underrepresentation in legal careers.</problem_statement>
+        <project_name>LawLaunch: Legal Mentorship &amp; Career Discovery Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ul><li>App Engine Studio for student profiles, mentor logs, and career modules</li><li>Flow Designer for challenge routing, badge generation, and sponsor updates</li><li>UI Builder for dashboards and mobile-friendly views</li><li>IntegrationHub for syncing with school portals, email/SMS platforms, or legal databases</li><li>Attachment API for uploading guides, certificates, and session materials</li><li>QR Code Generation &amp; Base64 Encoding for career maps and mentor invites</li><li>Scoped App with ACLs for privacy, role-based access, and educator permissions</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>Ensuring <strong>accuracy and diversity</strong> in legal career content</li><li>Designing a <strong>simple, engaging UX</strong> for students and mentors</li><li>Coordinating <strong>multi-agency access and mentorship workflows</strong></li><li>Encouraging <strong>ongoing engagement</strong> beyond one-time sessions</li><li>Building <strong>trust and visibility</strong> for sponsors and educators</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 09:21:36</sys_created_on>
+        <sys_id>a87c6a2383703210f12c92d6feaad3db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LawLaunch: Legal Mentorship &amp; Career Discovery Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_a87c6a2383703210f12c92d6feaad3db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 09:21:37</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

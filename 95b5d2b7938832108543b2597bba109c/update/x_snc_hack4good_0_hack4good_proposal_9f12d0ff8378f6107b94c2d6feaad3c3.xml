@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>disaster</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A community-driven safety map would help people travel more confidently while guiding city planners to improve lighting, policing, and infrastructure. It turns private fear into shared insight.</p>
+<p><strong>State the Measurable Impacts/Values</strong></p>
+<ul><li>Number of safe routes identified</li><li>Infrastructure issues fixed after reports</li><li>Growth in anonymous community contributions</li><li>Reduction in reported harassment along mapped areas</li></ul>]]></potential_impact>
+        <problem_statement>Women and vulnerable people adjust their daily lives to avoid unsafe streets. Their safety knowledge remains private, leaving city planners unaware of where danger feels highest. This silence keeps gender-based risks invisible.</problem_statement>
+        <project_name>SAFE ROUTES HOME MAP</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>The map shows safe walking routes based on lighting, police presence, and verified safety points. Users contribute anonymously and report route infrastructure faults to local authorities. Focus stays on highlighting safe alternatives, not danger zones.</p>
+<p><strong>ServiceNow Applications and Capabilities Used</strong></p>
+<ul><li>GeoSpatial mapping visualizes routes.</li><li>Performance Analytics produces heat maps. Survey tools collect input anonymously.</li><li>Workflow routes issues to city departments.</li><li>Portal and mobile access enable use on the move.</li><li>Integration Hub connects with city databases.</li><li>Virtual Agent helps users find safe paths quickly.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>ServiceNow GeoSpatial and Performance Analytics</li><li>Integration Hub with city APIs</li><li>Mobile and GPS functionality</li><li>Privacy and anonymization layers</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Balancing privacy with usefulness, ensuring real-time updates, preventing data misuse, integrating with inconsistent city systems, and maintaining participation across varied regions.</p>
+<p> </p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 16:53:12</sys_created_on>
+        <sys_id>9f12d0ff8378f6107b94c2d6feaad3c3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SAFE ROUTES HOME MAP</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_9f12d0ff8378f6107b94c2d6feaad3c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 16:53:13</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<record_update>
+<x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+<project_name>EcoTrack – Smart Sustainability Dashboard</project_name>
+<focus_area>environment</focus_area>
+<problem_statement>
+Urban areas generate massive amounts of waste and carbon emissions daily.
+Citizens lack accessible insights into how their actions impact the environment.
+Local authorities and communities struggle to measure sustainability efforts effectively.
+There’s a need for a transparent, data-driven platform that encourages eco-friendly behavior.
+</problem_statement>
+<proposed_solution>
+EcoTrack is a web-based sustainability dashboard that helps users and communities track their environmental footprint in real time.
+The platform integrates with open environmental APIs and IoT devices to provide live data on air quality, carbon output, waste management, and energy consumption.
+It gamifies sustainability by rewarding eco-friendly actions and sharing community progress.
+</proposed_solution>
+<system_architecture>
+Stack: React.js (Frontend) → Node.js/Express.js (Backend) → MongoDB Atlas (Database)
+APIs: OpenWeatherMap, Carbon Interface API, and SmartCity Data APIs.
+Hosting: Vercel (Frontend) & Render (Backend).
+</system_architecture>
+<key_features>
+Authentication: JWT-based user login and role-based dashboards (citizens, NGOs, city admins).
+Live Data: Real-time air quality, carbon usage, and waste tracking.
+Gamification: Earn badges and points for eco-friendly actions.
+Analytics: Charts and heatmaps to visualize sustainability metrics.
+Community: Leaderboards and collaboration spaces for green initiatives.
+</key_features>
+<tech_stack>
+Frontend: React.js, Tailwind CSS, Chart.js, React Router.
+Backend: Node.js, Express.js, Axios.
+Database: MongoDB Atlas.
+Services: JWT, OpenWeatherMap API, Carbon Interface API.
+Hosting: Vercel & Render.
+</tech_stack>
+<expected_impact>
+- Empowers individuals to understand and reduce their carbon footprint.
+- Promotes collaboration between citizens and local authorities for sustainability.
+- Encourages eco-friendly lifestyles through gamification and public recognition.
+</expected_impact>
+<future_enhancements>
+- Mobile app version with push notifications for environmental alerts.
+- AI-driven personalized eco-tips based on user habits.
+- Integration with IoT devices (smart meters, air sensors).
+</future_enhancements>
+<sys_created_by>adityarana</sys_created_by>
+<sys_created_on>2025-10-31 12:30:00</sys_created_on>
+</x_snc_hack4good_0_hack4good_proposal>
+</record_update>

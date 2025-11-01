@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>A ServiceNow-based wellbeing platform can:</p>
+<ul><li>
+<p>Provide <strong>real-time visibility</strong> into student mental health trends.</p>
+</li><li>
+<p>Enable <strong>early intervention</strong> through digital check-ins and automated alerts.</p>
+</li><li>
+<p>Connect students seamlessly to <strong>counselors, peer supporters, and resources</strong>.</p>
+</li><li>
+<p>Foster a <strong>data-driven well-being culture</strong> across educational institutions.</p>
+</li></ul>
+<p><strong>Measurable Impact:</strong></p>
+<ul><li>
+<p>30% reduction in crisis escalation incidents.</p>
+</li><li>
+<p>50% faster response time for counseling support.</p>
+</li><li>
+<p>Improved student satisfaction and engagement scores.</p>
+</li></ul>]]></potential_impact>
+        <problem_statement>Students in schools and colleges face growing mental health challenges, including stress, anxiety, social isolation, and burnout.&#13;
+Despite increasing awareness, access to mental well-being support remains inconsistent, often reactive rather than proactive.&#13;
+Institutions lack integrated systems to identify at-risk students early, connect them to counsellors or resources, and monitor well-being trends over time.</problem_statement>
+        <project_name>Mind Space : A ServiceNow Powered Student Wellbeing &amp; Support Platform</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Mind Space leverages <strong>ServiceNow’s workflow automation and AI</strong> to support student mental health through a unified platform.</p>
+<ul><li>
+<p><strong>Student Wellbeing Portal:</strong> Mobile-friendly interface for daily mood check-ins, journaling, and easy access to support or counseling appointments.</p>
+</li><li>
+<p><strong>Counsellor Dashboard:</strong> Uses <strong>Performance Analytics</strong> to visualise well-being trends and automate follow-ups or escalations.</p>
+</li><li>
+<p><strong>AI-Assisted Triage (Now Assist):</strong> Employs <strong>NLU</strong> to detect emotional tone in journal entries and trigger counselor review when risk indicators arise.</p>
+</li><li>
+<p><strong>Community Support Module:</strong> Enables secure peer support groups and integrates with <strong>Microsoft Teams or Slack</strong> for wellbeing sessions.</p>
+</li></ul>
+<p><strong>ServiceNow Capabilities are going to be utilised </strong></p>
+<ul><li>
+<p><strong>ServiceNow HR Service Delivery (HRSD):</strong> Case and knowledge management for counseling interactions.</p>
+</li><li>
+<p><strong>Service Portal / Next Experience UI:</strong> Student-facing wellbeing portal.</p>
+</li><li>
+<p><strong>Performance Analytics &amp; Reporting: </strong>Wellbeing metrics and insights for school administrators.</p>
+</li><li>
+<p><strong>Now Assist / NLU:</strong> Sentiment and keyword detection in student input.</p>
+</li><li>
+<p><strong>IntegrationHub:</strong> Integration with external mental health APIs or chat platforms.</p>
+</li><li>
+<p><strong>Flow Designer: </strong>Automated routing and escalation workflows.</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li>
+<p>Secure integration with third-party counseling systems or telehealth APIs.</p>
+</li><li>
+<p>Compliance with student data privacy standards (GDPR).</p>
+</li><li>
+<p>Availability of ServiceNow HRSD or CSM licenses.</p>
+</li><li>
+<p>Optionally, Microsoft Teams or Google Workspace integration.</p>
+</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><ul><li>
+<p>Ensuring <strong>data privacy and confidentiality</strong> of student well-being data.</p>
+</li><li>
+<p>Building <strong>trust and adoption</strong> among students and staff.</p>
+</li><li>
+<p>Integrating with diverse campus systems (email, identity providers).</p>
+</li><li>
+<p>Designing <strong>non-intrusive wellbeing check-ins</strong> that encourage honest participation.</p>
+</li></ul>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-30 20:42:10</sys_created_on>
+        <sys_id>94acf71783f43210b2abf1d6feaad300</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mind Space : A ServiceNow Powered Student Wellbeing &amp; Support Platform</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_94acf71783f43210b2abf1d6feaad300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-30 20:42:12</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
