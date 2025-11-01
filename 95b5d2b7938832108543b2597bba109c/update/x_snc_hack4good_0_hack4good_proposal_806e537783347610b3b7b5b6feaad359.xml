@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>HealthWatch would be an AI enabled workflow automation platform that centralizes all public health reports from citizens, health workers, and local authorities.</p>
+<p>How It Works:<br />Residents or health officers submit issues via web or mobile forms.</p>
+<p>Predictive Intelligence automatically categorizes and prioritizes reports (e.g., “urgent food poisoning,” “moderate pest control”).</p>
+<p>Flow Designer triggers workflows to assign cases to the right department (e.g., sanitation, environmental health, or inspection).</p>
+<p>Dashboards display live data for trend tracking and outbreak mapping.</p>
+<p>Virtual Agent can handle basic public health inquiries 24/7.</p>]]></potential_impact>
+        <problem_statement>Local councils and public health organizations often rely on manual reporting systems (emails, spreadsheets, phone calls) to collect and track community health issues such as food contamination, water pollution, or pest outbreaks.&#13;
+This process is slow, inconsistent, and error-prone, leading to delays in identifying trends or responding to potential health risks.&#13;
+Without automation, early warning signs are missed, and preventable health incidents spread before action can be taken.</problem_statement>
+        <project_name>HealthWatch – Automated Public Health Reporting and Response System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>ServiceNow Products / Capabilities to Use:<br />App Engine Studio(custom app for case submission and tracking)<br />Predictive Intelligence (auto categorization and prioritization)<br />Flow Designer (workflow automation and routing)<br />Performance Analytics (dashboards and insights)<br />Virtual Agent (citizen facing chatbot)</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p>No technical dependencies highlighted for this solution</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p>No particular challenges highlighted for this solution</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-01 07:41:25</sys_created_on>
+        <sys_id>806e537783347610b3b7b5b6feaad359</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HealthWatch – Automated Public Health Reporting and Response System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_806e537783347610b3b7b5b6feaad359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-01 07:41:28</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
