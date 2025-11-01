@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>This project brings life-saving first aid knowledge into native languages using visuals and simple explanations. It empowers local people to act quickly and confidently in emergencies before professional help arrives.</p>
+<p><strong>The Measurable Impacts/Values</strong></p>
+<ul><li>Number of languages and topics covered</li><li>Reach through downloads, posters, and app use</li><li>Documented first aid training sessions supported</li><li>Community health outcomes over time</li></ul>]]></potential_impact>
+        <problem_statement>In emergencies, survival depends on the first few minutes. Yet most first aid guides use English medical terms beyond the reach of many rural or indigenous communities. Without local language materials or nearby clinics, preventable deaths occur every day.</problem_statement>
+        <project_name>FIRST AID IN YOUR LANGUAGE</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A visual, multilingual first-aid library explains how to handle bleeding, burns, choking, childbirth, and other emergencies. Guides use illustrations, local materials, and offline access. Audio helps non-readers and printable posters serve classrooms and clinics.</p>
+<p><strong>ServiceNow Applications and Capabilities Used</strong></p>
+<ul><li>Knowledge Management stores structured guides.</li><li>Multilingual support enables translation.</li><li>Workflow manages creation and review.</li><li>Document Generation produces PDFs.</li><li>Integration Hub connects with health agencies.</li><li>Virtual Agent gives quick emergency instructions through voice.</li><li>The mobile app ensures offline access.</li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><ul><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">ServiceNow Knowledge Management, Document Generation, and Mobile App</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Integration with Red Cross or WHO APIs</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Audio, visual, and translation tools</span></li><li><span style="font-size: 11pt; font-family: Arial, sans-serif;">Local language font libraries</span></li></ul>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring medical accuracy, finding qualified translators, managing liability, adapting to cultural beliefs, maintaining updates, and delivering offline access to the most remote areas.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 16:20:01</sys_created_on>
+        <sys_id>2bc784338378f6107b94c2d6feaad3a3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FIRST AID IN YOUR LANGUAGE</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_2bc784338378f6107b94c2d6feaad3a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 16:20:03</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

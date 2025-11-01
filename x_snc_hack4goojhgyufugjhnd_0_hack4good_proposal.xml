@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<record_update>
+  <record table="x_snc_hack4good_0_hack4good_proposal" action="insert" sys_id="1234abcd5678efgh9012ijkl3456mnop">
+    <name>EduFlow – AI-Powered Learning Support & Accessibility Platform</name>
+    <short_description>Personalized AI assistant for learners and educators to enhance accessibility, engagement, and academic performance.</short_description>
+    <description><![CDATA[
+Proposal Title: EduFlow – AI-Powered Learning Support & Accessibility Platform
+
+Summary:
+EduFlow is a ServiceNow-based intelligent education assistant that supports students and teachers by automating routine academic workflows, enhancing accessibility for differently-abled learners, and providing personalized learning insights through AI.
+
+Problem:
+Educational institutions struggle with diverse learning needs, administrative overload, and lack of real-time academic support. Students often face barriers due to disabilities, stress, or limited guidance resources.
+
+Solution:
+EduFlow centralizes academic support with an AI-driven, inclusive learning assistant built on ServiceNow. It helps students learn efficiently, automates educator workflows, and fosters equal learning opportunities.
+
+Key Features:
+1. AI Learning Assistant – Personalized study recommendations and reminders.
+2. Accessibility Tools – Speech-to-text, text-to-speech, and dyslexia-friendly modes.
+3. Academic Workflow Automation – Auto attendance, assignment tracking, and grading alerts.
+4. Student Wellness Monitoring – Early alerts for academic stress or disengagement.
+5. Educator Dashboard – Insights into student progress and engagement trends.
+6. Multilingual Support – Localized experience using ServiceNow AI Search.
+
+Target Users:
+- Universities and Colleges
+- Online Learning Platforms
+- K–12 Institutions
+- Educators and Academic Advisors
+
+Integrations:
+- Microsoft Teams / Google Classroom
+- Zoom / Slack
+- ServiceNow Virtual Agent
+- External EdTech APIs (Coursera, Khan Academy)
+
+Impact:
+- Promotes inclusive learning for all students
+- Reduces educator workload through automation
+- Enhances student engagement and retention
+- Supports mental and academic wellness simultaneously
+
+Tech Stack:
+- ServiceNow App Engine
+- Virtual Agent + AI Search
+- Flow Designer
+- IntegrationHub
+- Predictive Intelligence
+
+Estimated Effort (MVP):
+- 6–9 weeks for core AI assistant, dashboards, and accessibility module
+- +3 weeks for integrations and multilingual support
+
+Author:
+Hacktoberfest Contributor
+Contact: placeholder@example.com
+
+License:
+MIT
+]]></description>
+    <author>Hacktoberfest Contributor</author>
+    <category>Education & Accessibility</category>
+    <impact_statement>Enable inclusive, intelligent, and automated learning support to transform the way students and educators connect through technology.</impact_statement>
+    <features>AI Assistant;Accessibility Tools;Workflow Automation;Wellness Monitoring;Educator Dashboard;Multilingual Support</features>
+    <target_users>Students, educators, institutions, edtech platforms</target_users>
+    <integrations>Teams;Google Classroom;Slack;Zoom;Coursera;Khan Academy</integrations>
+    <estimated_effort>MVP: 6–9 weeks</estimated_effort>
+    <license>MIT</license>
+    <sys_created_on>2025-10-31 00:00:00</sys_created_on>
+  </record>
+</record_update>

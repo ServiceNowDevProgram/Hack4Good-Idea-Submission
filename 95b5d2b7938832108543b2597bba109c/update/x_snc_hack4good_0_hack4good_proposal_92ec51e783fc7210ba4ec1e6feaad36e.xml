@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Reduction in deaths and disability due to drunk driving.</p>
+<p>Increase in advocacy and awareness of drunk driving.</p>]]></potential_impact>
+        <problem_statement>A mobile application to curb the menace of drunk driving on campus</problem_statement>
+        <project_name>Driving Buddy</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Utilizing the ServiceNow customer service management and communities application to provide support and advocate for the drunk driving.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Interconnectedness of the campus database system.</p>
+<p>Privacy and security concerns: Hippa, GDPR..</p>
+<p> </p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Privacy and trust is big</p>
+<p>Customer feedback for improvement</p>
+<p>Less engagement due to stigma</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 03:38:47</sys_created_on>
+        <sys_id>92ec51e783fc7210ba4ec1e6feaad36e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Driving Buddy</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_92ec51e783fc7210ba4ec1e6feaad36e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 03:38:49</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

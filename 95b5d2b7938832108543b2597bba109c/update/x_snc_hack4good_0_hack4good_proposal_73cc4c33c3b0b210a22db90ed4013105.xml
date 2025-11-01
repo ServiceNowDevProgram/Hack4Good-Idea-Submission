@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>other</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>GiveHub unifies donor and volunteer management, helping nonprofits plan campaigns, monitor resource flow, and generate transparent impact reports from one centralized dashboard.<br /><br />The solution would improve volunteer retention by 25%, enhance donation tracking accuracy by 40%, and enable real-time transparency for stakeholders and donors.</p>]]></potential_impact>
+        <problem_statement>Many nonprofits struggle to effectively coordinate volunteers and manage donations because they rely on multiple disconnected tools and manual record-keeping. This fragmentation leads to poor visibility into resource allocation, volunteer performance, and donor engagement, making it difficult to build sustained relationships, optimize fundraising efforts, and measure overall program impact.</problem_statement>
+        <project_name>GiveHub – Nonprofit Volunteer &amp; Donation Management Portal</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>A ServiceNow-based application that integrates volunteer scheduling, donation tracking, and impact visualization through dynamic dashboards and automated reminders.</p>
+<p>The solution would incorporate Customer Service Management (CSM) for user interactions, Flow Designer to automate campaign workflows, and Performance Analytics to visualize donation and volunteer data.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>It would integrate with payment gateways like Paystack or Stripe for secure donations, email/SMS APIs for communication, and data visualization modules for impact reporting.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Key challenges include ensuring system compatibility with existing NGO databases, securing payment transactions, and preventing donor fatigue through personalized engagement strategies.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 16:28:55</sys_created_on>
+        <sys_id>73cc4c33c3b0b210a22db90ed4013105</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GiveHub – Nonprofit Volunteer &amp; Donation Management Portal</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_73cc4c33c3b0b210a22db90ed4013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 16:28:56</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

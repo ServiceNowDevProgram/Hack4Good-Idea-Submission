@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>cure</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p style="text-align: justify;">The ClinicConnect initiative promotes digital inclusion by providing local doctors and small clinics with a  online presence where they can register, share their clinic location, list services, and specify consultation hours for easy discovery. It ensures patient convenience by enabling individuals to quickly find nearby trusted providers, book appointments, and share feedback or ratings. </p>]]></potential_impact>
+        <problem_statement>Many small local clinics across India still operate completely offline, relying solely on walk-in patients or word-of-mouth referrals. Patients struggle to locate nearby clinics, check doctor availability, or unaware of appointments timings. This often forces them to depend on costly hospital visits. Importantly, many of these local clinics are run by experienced and highly skilled doctors who provide quality treatment at much more affordable yet they remain unnoticed and underutilized due to lack of digital presence.&#13;
+There is a need for a simple platform that connects nearby clinics and healthcare practitioners with patients, enabling better visibility and easy appointment booking</problem_statement>
+        <project_name>Clinic Connect: Digitizing Local Healthcare Access</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><ol><li style="text-align: justify;">App Engine Studio (AES) to create custom tables for Clinic, Doctor, Patient, Appointment, and Feedback</li><li style="text-align: justify;">Portal where patients can search clinics by location or specialty, book appointments, upload prescriptions, and receive confirmation messages.</li><li style="text-align: justify;">Notifications &amp; Email for automatic alerts for appointment creation, reminders, or cancellations. Notify clinics about new bookings and updates in real time.</li><li style="text-align: justify;">IntegrationHub (Future Scope) to integrate Google Maps API for nearby-clinic search </li></ol>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>The project implementation will rely on out-of-the-box ServiceNow capabilities. In future phases, the platform can be enhanced through integrations such as Maps API for based clinic search.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p style="text-align: justify;">Implementing the ClinicConnect platform may face challenges such as onboarding and training clinic staff who are not familiar with platform, ensuring that doctor availability and clinic details remain accurate and regularly updated, maintaining patient data privacy in line with healthcare data regulations, and encouraging adoption among small, independent clinics that have limited or no prior digital experience.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 06:49:32</sys_created_on>
+        <sys_id>26e4c2ab53f832105689f7e0a0490ef2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Clinic Connect: Digitizing Local Healthcare Access</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_26e4c2ab53f832105689f7e0a0490ef2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 06:49:33</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>

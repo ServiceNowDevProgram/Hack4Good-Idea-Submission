@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE">
+        <focus_area>education</focus_area>
+        <notes/>
+        <participation>yes</participation>
+        <potential_impact><![CDATA[<p>Automating incident reporting could cut response times by 60%, reduce administrative workload, and provide early insight into safety risks. It would help create safer learning environments and strengthen accountability across schools and councils.</p>]]></potential_impact>
+        <problem_statement>Across the UK, schools report incidents like bullying, accidents, and vandalism using manual forms, spreadsheets, or emails. This leads to delayed responses, inconsistent data, and limited visibility for local education authorities. A lack of real-time tracking makes it hard to identify patterns or intervene early.</problem_statement>
+        <project_name>Safe Schools – Centralised Incident Reporting and Response System</project_name>
+        <solution_proposal><![CDATA[<h2><strong>How do you envision the ideal solution to this  problem?</strong></h2>
+<p> </p>
+<h3>Which ServiceNow products or capabilities would be used?</h3>
+<p></p><p>Use <strong>ServiceNow Case Management</strong> for incident logging and workflow automation. <strong>Flow Designer</strong> and <strong>Integration Hub</strong> can route reports to the correct safeguarding or maintenance teams. <strong>Now Platform dashboards</strong> would visualise trends (e.g., bullying frequency by term). <strong>Virtual Agent</strong> could assist staff in submitting or tracking cases easily.</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>Are there any technical dependencies for the proposed solution?</h3>
+<p></p><p>Integration with existing school management systems (e.g., Arbor, SIMS), email/SMS APIs for alerts, and secure user authentication (SSO via Gov.uk or Education portals).</p>
+<p> </p>
+<hr style="border-top: 3px solid #bbb;" />
+<h3>What challenges would you foresee in implementing this idea?</h3>
+<p></p><p>Ensuring data privacy under GDPR, gaining adoption across multiple schools with varied systems, and training staff for consistent digital reporting practices.</p>]]></solution_proposal>
+        <state>submitted</state>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-31 21:36:05</sys_created_on>
+        <sys_id>c3247cbb83f0b210eb5fa4d0deaad31f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Safe Schools – Centralised Incident Reporting and Response System</sys_name>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_c3247cbb83f0b210eb5fa4d0deaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-31 21:36:06</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+</record_update>
