@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal">
+    <x_snc_hack4good_0_hack4good_proposal action="DELETE">
+        <focus_area/>
+        <notes/>
+        <participation/>
+        <potential_impact/>
+        <problem_statement/>
+        <project_name/>
+        <solution_proposal/>
+        <state/>
+        <sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name>
+        <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
+        <sys_created_on>2025-11-06 16:35:22</sys_created_on>
+        <sys_id>7e89cf2147cdb610e52659db416d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7e89cf2147cdb610e52659db416d4376</sys_update_name>
+        <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
+        <sys_updated_on>2025-11-06 16:35:22</sys_updated_on>
+    </x_snc_hack4good_0_hack4good_proposal>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</application>
+        <file_path/>
+        <instance_id>0fd162efdb3a919891232f17d49619c9</instance_id>
+        <instance_name>devprogramresourcesdev</instance_name>
+        <name>x_snc_hack4good_0_hack4good_proposal_7e89cf2147cdb610e52659db416d4376</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_hack4good_0_hack4good_proposal"><x_snc_hack4good_0_hack4good_proposal action="INSERT_OR_UPDATE"><focus_area/><notes/><participation/><potential_impact/><problem_statement/><project_name/><solution_proposal/><state/><sys_class_name>x_snc_hack4good_0_hack4good_proposal</sys_class_name><sys_created_by>laszlo.balla@servicenow.com</sys_created_by><sys_created_on>2025-11-06 16:35:22</sys_created_on><sys_id>7e89cf2147cdb610e52659db416d4376</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package><sys_policy/><sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope><sys_update_name>x_snc_hack4good_0_hack4good_proposal_7e89cf2147cdb610e52659db416d4376</sys_update_name><sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by><sys_updated_on>2025-11-06 16:35:22</sys_updated_on></x_snc_hack4good_0_hack4good_proposal></record_update>]]></payload>
+        <payload_hash>-325048598</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d46b180347013210e52659db416d435b</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-11-10 19:45:20</sys_created_on>
+        <sys_id>a4304c0447557610e52659db416d4361</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19a6f4d2c800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Hack4Good Proposal</type>
+        <update_guid>64304c04d05576104ac93fc99629e161</update_guid>
+        <update_guid_history>64304c04d05576104ac93fc99629e161:-325048598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">20304c0447557610e52659db416d4394</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>laszlo.balla@servicenow.com</sys_created_by>
+        <sys_created_on>2025-11-13 20:20:30</sys_created_on>
+        <sys_db_object display_value="" name="x_snc_hack4good_0_hack4good_proposal">x_snc_hack4good_0_hack4good_proposal</sys_db_object>
+        <sys_id>91283556d2494536a621466fc57e08a9</sys_id>
+        <sys_metadata>7e89cf2147cdb610e52659db416d4376</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hack4Good Idea Submission" source="x_snc_hack4good_0">95b5d2b7938832108543b2597bba109c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hack4Good Idea Submission">95b5d2b7938832108543b2597bba109c</sys_scope>
+        <sys_scope_delete display_value="">334a287b8ea544f8b449128c5698f440</sys_scope_delete>
+        <sys_update_name>x_snc_hack4good_0_hack4good_proposal_7e89cf2147cdb610e52659db416d4376</sys_update_name>
+        <sys_update_version display_value="x_snc_hack4good_0_hack4good_proposal_7e89cf2147cdb610e52659db416d4376">a4304c0447557610e52659db416d4361</sys_update_version>
+        <sys_updated_by>laszlo.balla@servicenow.com</sys_updated_by>
+        <sys_updated_on>2025-11-13 20:20:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
